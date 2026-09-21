@@ -1,0 +1,62 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/bestiary/beast/brontosaurus-mpmm/","tags":["ttrpg-cli/compendium/src/5e/mpmm","ttrpg-cli/monster/cr/5","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/size/gargantuan","ttrpg-cli/monster/type/beast/dinosaur"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-monster"],"tags":["ttrpg-cli/compendium/src/5e/mpmm","ttrpg-cli/monster/cr/5","ttrpg-cli/monster/environment/forest","ttrpg-cli/monster/environment/grassland","ttrpg-cli/monster/size/gargantuan","ttrpg-cli/monster/type/beast/dinosaur"],"statblock":"inline","statblock-link":"#^statblock","aliases":["Brontosaurus"]}}
+---
+
+# [Brontosaurus](Rules\Source\bestiary\beast/brontosaurus-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 95*  
+
+This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
+
+This larger cousin of the velociraptor kills by gripping its target with its claws and feeding.
+
+This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
+
+A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
+
+This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
+
+This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
+
+This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
+
+```statblock
+"name": "Brontosaurus (MPMM)"
+"size": "Gargantuan"
+"type": "beast"
+"subtype": "dinosaur"
+"alignment": "Unaligned"
+"ac": !!int "15"
+"ac_class": "natural armor"
+"hp": !!int "121"
+"hit_dice": "9d20 + 27"
+"modifier": !!int "-1"
+"stats":
+  - !!int "21"
+  - !!int "9"
+  - !!int "17"
+  - !!int "2"
+  - !!int "10"
+  - !!int "7"
+"speed": "30 ft."
+"saves":
+  - "constitution": !!int "6"
+"senses": "passive Perception 10"
+"languages": ""
+"cr": "5"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 27\
+      \ (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength\
+      \ saving throw or be knocked [prone](/Rules/Source/conditions.md#Prone)."
+    "name": "Stomp"
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 32\
+      \ (6d8 + 5) bludgeoning damage."
+    "name": "Tail"
+"source":
+  - "MPMM"
+"image": "/Rules/Source/bestiary/beast/token/brontosaurus-mpmm.webp"
+```{ #statblock}
+
+
+## Environment
+
+forest, grassland
