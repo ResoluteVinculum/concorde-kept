@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/my-first-social-encounter/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/encounters/my-first-social-encounter/","noteIcon":"","dg-note-properties":{}}
 ---
 
 | Options          | Social Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

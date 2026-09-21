@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/story/setting/layell-citadel/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/story/setting/layell-citadel/","noteIcon":"","dg-note-properties":{}}
 ---
 

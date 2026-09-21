@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/summary/sessions/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/session/summary/sessions/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # Misbegotten Manager

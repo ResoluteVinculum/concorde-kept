@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/bastions/sanctuary/","tags":["ttrpg-cli/bastion","ttrpg-cli/compendium/src/5e/xdmg"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-bastion"],"tags":["ttrpg-cli/bastion","ttrpg-cli/compendium/src/5e/xdmg"],"aliases":["Sanctuary"]}}
+---
+
+# Sanctuary
+*Level 5 Bastion facility*  
+
+- **Prerequisites**: Ability to use a [[Rules/Source/items/holy-symbol-xphb\|Holy Symbol]] or [[Rules/Source/items/druidic-focus-xphb\|Druidic Focus]] as a [[Rules/Source/variant-rules/spellcasting-focus-xphb\|Spellcasting Focus]]
+- **Space**: Roomy (16 sq)
+- **Hirelings**: 1
+- **Order**: craft
+
+Icons of your religion are displayed in this facility, which includes a quiet place for worship.
+
+## Sanctuary Charm
+
+After spending a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] in your Bastion, you gain a magical [[Rules/Source/rewards/sanctuary-charm-xdmg\|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[Rules/Source/spells/healing-word-xphb\|Healing Word]] once without expending a spell slot. You can't gain this Charm again while you still have it.
+
+## Craft: Sacred Focus
+
+When you issue the "Craft" order to this facility, you commission the facility's hireling to craft a [[Rules/Source/items/druidic-focus-xphb\|Druidic Focus]] ([[Rules/Source/items/wooden-staff-xphb\|wooden staff]]) or a [[Rules/Source/items/holy-symbol-xphb\|Holy Symbol]]. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
+
+*Source: Dungeon Master's Guide (2024) p. 345*

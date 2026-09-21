@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/setting/embren/","dg-note-properties":{"aliases":["Duchy"]}}
+{"dg-publish":true,"permalink":"/story/setting/embren/","noteIcon":"","dg-note-properties":{"aliases":["Duchy"]}}
 ---
 
 

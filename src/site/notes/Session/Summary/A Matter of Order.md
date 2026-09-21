@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/summary/a-matter-of-order/","tags":["story/act-1/chapter-1"],"dg-note-properties":{"tags":["story/act-1/chapter-1"]}}
+{"dg-publish":true,"permalink":"/session/summary/a-matter-of-order/","tags":["story/act-1/chapter-1"],"noteIcon":"","dg-note-properties":{"tags":["story/act-1/chapter-1"]}}
 ---
 
 # Contract

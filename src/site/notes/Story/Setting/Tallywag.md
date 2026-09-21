@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/setting/tallywag/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/story/setting/tallywag/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # Harbor Town

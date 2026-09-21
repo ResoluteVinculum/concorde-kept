@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resource/blocks/thomas-verve-s-letter-after-matter-of-order/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resource/blocks/thomas-verve-s-letter-after-matter-of-order/","noteIcon":"","dg-note-properties":{}}
 ---
 
 > [!kith|antagonist] New Contractors,

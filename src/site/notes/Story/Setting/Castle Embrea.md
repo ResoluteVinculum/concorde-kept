@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/story/setting/castle-embrea/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/story/setting/castle-embrea/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # Seat of the Duchy

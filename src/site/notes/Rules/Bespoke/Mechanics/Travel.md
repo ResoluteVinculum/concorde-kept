@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rules/bespoke/mechanics/travel/","tags":["#mechanics"],"dg-note-properties":{"tags":["#mechanics"]}}
+{"dg-publish":true,"permalink":"/rules/bespoke/mechanics/travel/","tags":["#mechanics"],"noteIcon":"","dg-note-properties":{"tags":["#mechanics"]}}
 ---
 
 *Inspiration: Not Another DnD Podcast C2E16*

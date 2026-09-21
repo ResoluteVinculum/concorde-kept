@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/summary/misbegotten-manager-session-2/","tags":["story/act-1/chapter-2","story/summary"],"dg-note-properties":{"tags":["story/act-1/chapter-2","story/summary"]}}
+{"dg-publish":true,"permalink":"/session/summary/misbegotten-manager-session-2/","tags":["story/act-1/chapter-2","story/summary"],"noteIcon":"","dg-note-properties":{"tags":["story/act-1/chapter-2","story/summary"]}}
 ---
 
 # Late Arrival

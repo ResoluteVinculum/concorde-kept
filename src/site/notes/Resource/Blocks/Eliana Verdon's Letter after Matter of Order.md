@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resource/blocks/eliana-verdon-s-letter-after-matter-of-order/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/resource/blocks/eliana-verdon-s-letter-after-matter-of-order/","noteIcon":"","dg-note-properties":{}}
 ---
 
 > [!kith|friend] My New Favorite Contractors,

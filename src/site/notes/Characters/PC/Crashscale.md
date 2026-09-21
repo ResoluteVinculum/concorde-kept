@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pc/crashscale/","dg-note-properties":{"aliases":["Crash"],"level":"5","modifier":"4","hp":"33","ac":"16","class":"[[Rules/Source/classes/monk-xphb|Monk]]","subclass":"[[Rules/Source/classes/monk-xphb-way-of-the-drunken-master-xge|Way of the Drunken Master]]","background":"[[Rules/Source/backgrounds/guide-xphb|Guide]]","species":"[[Rules/Source/races/dragonborn-xphb|Dragonborn]]","Player":null,"player-image":"[[Characters/assets/Crashscale.png]]"}}
+{"dg-publish":true,"permalink":"/characters/pc/crashscale/","noteIcon":"","dg-note-properties":{"aliases":["Crash"],"level":"5","modifier":"4","hp":"33","ac":"16","class":"[[Rules/Source/classes/monk-xphb|Monk]]","subclass":"[[Rules/Source/classes/monk-xphb-way-of-the-drunken-master-xge|Way of the Drunken Master]]","background":"[[Rules/Source/backgrounds/guide-xphb|Guide]]","species":"[[Rules/Source/races/dragonborn-xphb|Dragonborn]]","Player":null,"player-image":"[[Characters/assets/Crashscale.png]]"}}
 ---
 
 ![Crashscale.png\|left lp\|200x200](/img/user/Characters/assets/Crashscale.png)

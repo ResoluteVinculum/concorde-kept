@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/my-first-combat/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/encounters/my-first-combat/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pc/cal-cium/","dg-note-properties":{"aliases":["Cal","Cal Cium"],"level":"5","modifier":"2","hp":"28","ac":"13","class":"[[Rules/Source/classes/bard-xphb|Bard]]","subclass":"[[Rules/Source/classes/bard-xphb-college-of-whispers-xge|College of Whispers]]","background":"[[Rules/Source/backgrounds/entertainer-xphb|Entertainer]]","species":"[[Rules/Source/races/human-xphb|Human]]","Player":null,"player-image":"[[Characters/assets/Cal Cium.png]]"}}
+{"dg-publish":true,"permalink":"/characters/pc/cal-cium/","noteIcon":"","dg-note-properties":{"aliases":["Cal","Cal Cium"],"level":"5","modifier":"2","hp":"28","ac":"13","class":"[[Rules/Source/classes/bard-xphb|Bard]]","subclass":"[[Rules/Source/classes/bard-xphb-college-of-whispers-xge|College of Whispers]]","background":"[[Rules/Source/backgrounds/entertainer-xphb|Entertainer]]","species":"[[Rules/Source/races/human-xphb|Human]]","Player":null,"player-image":"[[Characters/assets/Cal Cium.png]]"}}
 ---
 
 ![Cal Cium.png](/img/user/Characters/assets/Cal%20Cium.png)

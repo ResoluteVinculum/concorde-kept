@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/summary/misbegotten-manager-session-1/","tags":["story/act-1/chapter-2"],"dg-note-properties":{"tags":["story/act-1/chapter-2"]}}
+{"dg-publish":true,"permalink":"/session/summary/misbegotten-manager-session-1/","tags":["story/act-1/chapter-2"],"noteIcon":"","dg-note-properties":{"tags":["story/act-1/chapter-2"]}}
 ---
 
 # On the Road
