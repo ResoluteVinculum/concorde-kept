@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-concorde-kept/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-concorde-kept/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # Wiki Notes
