@@ -16,7 +16,7 @@ Performing a job requires one workweek of effort.
 To determine how much money a character earns, the character makes an ability check: Strength ([[Rules/Source/skills#Athletics\|Athletics]]), Dexterity ([[Rules/Source/skills#Acrobatics\|Acrobatics]]), Intelligence using a set of tools, Charisma ([[Rules/Source/skills#Performance\|Performance]]), or Charisma using a [[Rules/Source/items/musical-instrument-xphb\|musical instrument]]. Consult the Wages table to see how much money is generated according to the total of the check.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/work-wages-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -47,7 +47,7 @@ To determine how much money a character earns, the character makes an ability ch
 Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10 percent chance that a character encounters a complication.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/work-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

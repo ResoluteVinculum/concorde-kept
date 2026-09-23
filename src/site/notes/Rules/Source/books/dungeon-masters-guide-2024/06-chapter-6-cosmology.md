@@ -67,7 +67,7 @@ When discussing anything to do with deities and their realms, the language used 
 The planes with an element of good in their nature are called the Upper Planes, while those with an element of evil are the Lower Planes. A plane's alignment (as shown in the Outer Planes table) is its essence, and a creature whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels uncomfortable.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/outer-planes-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -224,7 +224,7 @@ Natives of the Upper Planes also have roles to play in the Blood War. While most
 You can use the Planar Adventure Situations table instead of the tables in the "Adventure Situations by Level" section in chapter 4 to inspire adventures that draw characters into the planes of existence. These adventure ideas are most appropriate for characters of level 11+.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/planar-adventure-situations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -271,7 +271,7 @@ Each layer of the Abyss boasts a horrific environment that is harsh and inhospit
 The layers of the Abyss are numbered based on the sequence of their discovery and cataloging by explorers from Sigil. Thus, the Plain of Infinite Portals is identified as the first layer, Azzagrat encompasses the 45th, 46th, and 47th layers; the Demonweb is the 66th layer; and so on. The Layers of the Abyss table presents several infamous layers; detailed descriptions of these layers follow the table.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-the-abyss-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -368,7 +368,7 @@ Acheron has four layers, with the largest blocks gravitating to the top layer. S
 The nature of Acheron instills [[Rules/Source/traps-hazards/planar-effects-xdmg\|bloodlust]] in those who visit the plane (see "Environmental Effects" in chapter 3).
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-acheron-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -409,7 +409,7 @@ Arborea is a plane of extremes: stupendously craggy mountains; unbelievably deep
 The air of Arborea seems charged with excitement. Sudden squalls brew up out of nowhere, beating the tree-lined paths with heavy winds. The storms pass within minutes and leave behind warm arcs of sunlight filtering through the forest canopy. Music always seems to be playing in the distance; sometimes it originates from groups of elf musicians, but just as often the faint tune is merely the wind curling through the boles of the great trees.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-arborea-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -457,7 +457,7 @@ The weather in Arcadia is governed by four allied demigods called the Storm King
 Arcadia is suffused with a vigorous life energy that bestows [[Rules/Source/traps-hazards/planar-effects-xdmg\|great vitality]] on visitors (see "Environmental Effects" in chapter 3).
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-arcadia-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -510,7 +510,7 @@ The Astral Plane is where the petrified remains of dead gods end up—gods who w
 Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, `1d6 × 10` feet in diameter. ("Color," as with everything in the Astral Plane, is a matter of metaphor; since these portals are perceived by the Astral self and not by physical eyes, their colors are understood rather than seen.) Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways can be identified by color, as shown on the Astral Color Pools table.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/astral-color-pools-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -570,7 +570,7 @@ A psychic wind is first sensed as a rapid darkening of the silver-gray sky. Afte
 A group of travelers journeying together is subjected to one location effect, determined by consulting the Psychic Wind Locations Effects table.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/psychic-wind-location-effects-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -599,7 +599,7 @@ A group of travelers journeying together is subjected to one location effect, de
 Each traveler caught in a psychic wind makes a DC 15 Intelligence saving throw. On a failed save, the traveler suffers a random effect from the Psychic Wind Psychic Effects table as well.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/psychic-wind-psychic-effects-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -638,7 +638,7 @@ The Beastlands is a plane of nature unbound, of forests ranging from moss-hung m
 Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a [[Rules/Source/spells/remove-curse-xphb\|Remove Curse]] spell or similar magic.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-the-beastlands-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -674,7 +674,7 @@ Adventures in the Beastlands might explore the ways that good philosophies, whil
 The surfaces of Bytopia's two layers face each other like the covers of a closed book. Looking up from Dothion, the "top" layer of the plane, a traveler can see Shurrock, its other layer, about a mile overhead. Both layers are idealized worlds that reflect the plane's philosophy of personal achievement alongside social interdependence.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-bytopia-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -709,7 +709,7 @@ The two layers of Bytopia are often referred to as the "Twin Paradises," and it'
 The grim inspiration for all other prisons in existence, Carceri is a plane of desolation and despair. Its six layers hold vast bogs, fetid jungles, windswept deserts, jagged mountains, frigid oceans, and black ice. All form a miserable home for the traitors and backstabbers trapped on this prison plane.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-carceri-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -900,7 +900,7 @@ Elysium is home to creatures of unfettered kindness and a refuge for planar trav
 The River Oceanus originates in the lowest layer of Elysium, Thalasia, and flows through the plane's layers before cascading onward to the Beastlands. Though illustrations of the plane's layers seem to show the river flowing "up" from each layer to the one "above" it, the experience of passing from one layer to another on the river is no more dramatic than weathering rapids on any ordinary river. Along its course, the great river splits into myriad smaller flows, recombines, and splits again.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-elysium-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -953,7 +953,7 @@ To reach the Deep Ethereal, one typically needs a [[Rules/Source/spells/plane-sh
 ![/Rules/Source/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp)
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/deep-ethereal-ethereal-curtains-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -993,7 +993,7 @@ Traveling through the Deep Ethereal is unlike physical travel. Distance is meani
 An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [[Rules/Source/variant-rules/passive-perception-xphb\|Passive Perception]] score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `1d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ether-cyclones-ether-cyclone-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1103,7 +1103,7 @@ While time seems to pass normally in the Feywild, characters might spend a day t
 Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[Rules/Source/spells/wish-xphb\|Wish]] spell can be used to remove the effect on up to ten creatures. Some powerful Fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[Rules/Source/spells/geas-xphb\|Geas]] spell and complete a quest after the *Wish* spell is cast.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/feywild-time-warp-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1144,7 +1144,7 @@ A volcanic mountain dominates each of the four layers of Gehenna, and lesser vol
 Gehenna is the birthplace of yugoloths, greedy and selfish Fiends that dwell here in great numbers.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-gehenna-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1183,7 +1183,7 @@ Or characters could try to infiltrate the Tower Arcane in search of some great s
 The layers of Hades are called the Three Glooms—places without joy, hope, or passion. A gray land with an ashen sky, Hades is the destination of many souls that are unclaimed by gods or Fiends. These souls become larvae and spend eternity in this place, which lacks a sun, a moon, stars, or seasons. Leaching away color and emotion, the gloom on this plane is more than most visitors can stand.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-hades-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1303,7 +1303,7 @@ The pervasive goodness of Mount Celestia [[Rules/Source/traps-hazards/planar-eff
 ![/Rules/Source/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp)
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-mount-celestia-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1363,7 +1363,7 @@ The Nine Hells has nine layers. The first eight are ruled by archdevils who answ
 The Layers of the Nine Hells table summarizes each layer; detailed descriptions of these layers follow the table.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-the-nine-hells-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1512,7 +1512,7 @@ The Outlands is a great disk. In fact, those who envision the Outer Planes as a 
 Evenly spaced around the outside edge of the circle are the gate-towns: sixteen settlements, each built around a portal leading to one of the Outer Planes. The Gate-Towns of the Outlands table lists all sixteen gate-towns and the Outer Planes they connect to. Each gate-town shares many of the characteristics of the plane where its gate leads. Planar emissaries often meet in these gate-towns, so it isn't unusual to see strange interactions, such as a Celestial and a Fiend arguing in a tavern while sharing a fine bottle of wine.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gate-towns-of-the-outlands-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1567,7 +1567,7 @@ Pandemonium is a plane of overwhelming chaos, a great mass of rock riddled with 
 Most of the plane's inhabitants are creatures that were banished to the plane with no hope of escape. The incessant winds force them to take shelter in places where the howls of the winds sound like distant cries of torment.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-pandemonium-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1700,7 +1700,7 @@ A melancholic atmosphere pervades the Shadowfell, and extended forays to this pl
 When you deem it appropriate, though usually not more than once per day, you can require a character not from the Shadowfell to make a DC 10 Wisdom saving throw. On a failed save, the character is affected by despair. Roll on the Shadowfell Despair table to determine the effects. You can substitute different despair effects of your own creation.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/shadowfell-despair-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1746,7 +1746,7 @@ Ysgard is a rugged realm of soaring mountains, deep fjords, and windswept battle
 Ysgard is the home of slain heroes who wage eternal battle on fields of glory. Any creature, other than a Construct or Undead, that is killed in combat while in Ysgard is restored to life at dawn the next day. The creature has all its Hit Points restored, and all conditions that affected it before its death are removed.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-ysgard-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

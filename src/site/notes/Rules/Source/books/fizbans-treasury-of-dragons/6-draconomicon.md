@@ -96,7 +96,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to inspire your portrayal of distinctive amethyst dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -127,7 +127,7 @@ Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-amethyst-dragon-amethyst-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -160,7 +160,7 @@ Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to 
 The Amethyst Dragon Adventure Hooks table offers suggestions for stories and adventures involving amethyst dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/amethyst-dragon-adventures-amethyst-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -195,7 +195,7 @@ The Amethyst Dragon Adventure Hooks table offers suggestions for stories and adv
 Amethyst dragons are generally aloof creatures, dwelling in isolation for long periods of time and rarely cultivating connections with other creatures. When they do connect with others, it is most often for intellectual and philosophical pursuits or to fulfill some arcane purpose involving the dragons' echoes across the worlds.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-amethyst-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -224,7 +224,7 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-amethyst-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -253,7 +253,7 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-amethyst-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -284,7 +284,7 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-amethyst-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -345,7 +345,7 @@ Amethyst dragons often collect crystals and gems, particularly their namesake st
 Amethyst dragons favor treasures with particular scholarly or philosophical value as a part of their hoard, including fine books, scrolls, or carved tablets; tapestries or woven "tomes" of embroidered cloth; complex scientific instruments; and religious icons or objects. They are fond of unique and unusual art objects, especially those connected to far-off or long-lost cultures, other planes of existence, or other worlds—and of magic items that allow movement between those planes or worlds. The odd spatial nature of an amethyst dragon's lair can sometimes cause items to transpose between one dragon's hoard and the hoards of the dragon's echoes, allowing for treasures with a surprising range of origins.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -388,7 +388,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Black Dragon Personality Traits and Black Dragon Ideals tables to inspire your portrayal of distinctive black dragon characters, and use the Black Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-black-dragon-black-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -419,7 +419,7 @@ Use the Black Dragon Personality Traits and Black Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-black-dragon-black-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -448,7 +448,7 @@ Use the Black Dragon Personality Traits and Black Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-black-dragon-black-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -478,7 +478,7 @@ Use the Black Dragon Personality Traits and Black Dragon Ideals tables to inspir
 The Black Dragon Adventure Hooks table offers suggestions for stories and adventures involving black dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/black-dragon-adventures-black-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -513,7 +513,7 @@ The Black Dragon Adventure Hooks table offers suggestions for stories and advent
 Black dragons prefer the company of creatures that are easy to control and present little threat of betrayal. Mindless Undead, shambling mounds, carnivorous flora, Oozes, and Constructs make appealing servants, especially working in concert with a black dragon's fiendishly clever traps. A black dragon's intelligent followers tend to worship draconic majesty and typically include kobolds, troglodytes, lizard folk, and (more rarely) yuan-ti.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-black-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -542,7 +542,7 @@ Black dragons prefer the company of creatures that are easy to control and prese
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-black-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -571,7 +571,7 @@ Black dragons prefer the company of creatures that are easy to control and prese
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-black-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -602,7 +602,7 @@ Black dragons prefer the company of creatures that are easy to control and prese
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-black-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -683,7 +683,7 @@ Most black dragons keep their treasure well hidden and have a private viewing ro
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/044-05-002.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/044-05-002.webp)
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/black-dragon-treasures-black-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -728,7 +728,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Blue Dragon Personality Traits and Blue Dragon Ideals tables to inspire your portrayal of distinctive blue dragon characters, and use the Blue Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-blue-dragon-blue-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -759,7 +759,7 @@ Use the Blue Dragon Personality Traits and Blue Dragon Ideals tables to inspire 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-blue-dragon-blue-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -788,7 +788,7 @@ Use the Blue Dragon Personality Traits and Blue Dragon Ideals tables to inspire 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-blue-dragon-blue-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -818,7 +818,7 @@ Use the Blue Dragon Personality Traits and Blue Dragon Ideals tables to inspire 
 The Blue Dragon Adventure Hooks table offers suggestions for stories and adventures involving blue dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/blue-dragon-adventures-blue-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -853,7 +853,7 @@ The Blue Dragon Adventure Hooks table offers suggestions for stories and adventu
 In contrast to most chromatic dragons, blue dragons see value in relationships with other creatures, even if the power balance in those relationships is always weighted in the dragon's favor. Though territorial, they are willing to allow creatures they consider their servants to live peacefully within their domains. Blue dragons are also more family oriented than many other dragons, and it's not unusual to find a multigenerational extended family of blue dragons sharing a territory. Other creatures need to tread carefully in such a place, for any injury or insult to one of the dragons is considered a strike against the whole family.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-blue-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -882,7 +882,7 @@ In contrast to most chromatic dragons, blue dragons see value in relationships w
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-blue-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -911,7 +911,7 @@ In contrast to most chromatic dragons, blue dragons see value in relationships w
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-blue-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -942,7 +942,7 @@ In contrast to most chromatic dragons, blue dragons see value in relationships w
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-blue-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1026,7 +1026,7 @@ Blue dragons have strict standards for what treasures they allow into their hoar
 Blue dragons favor blue, purple, and green gemstones; art depicting oases and fountains; and fine textiles in cool colors. They also love scents that evoke storms and rain, and magic items that produce weather effects.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/blue-dragon-treasures-blue-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1069,7 +1069,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Brass Dragon Personality Traits and Brass Dragon Ideals tables to inspire your portrayal of distinctive brass dragon characters, and use the Brass Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-brass-dragon-brass-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1100,7 +1100,7 @@ Use the Brass Dragon Personality Traits and Brass Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-brass-dragon-brass-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1129,7 +1129,7 @@ Use the Brass Dragon Personality Traits and Brass Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-brass-dragon-brass-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1159,7 +1159,7 @@ Use the Brass Dragon Personality Traits and Brass Dragon Ideals tables to inspir
 The Brass Dragon Adventure Hooks table offers suggestions for stories and adventures involving brass dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/brass-dragon-adventures-brass-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1194,7 +1194,7 @@ The Brass Dragon Adventure Hooks table offers suggestions for stories and advent
 Brass dragons seek out the company of other creatures that can carry on an intelligent conversation. They favor the company of such creatures over all others, often to the point of not bothering to gather minions to do their bidding and ignoring worshipers who fawn over them.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-brass-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1223,7 +1223,7 @@ Brass dragons seek out the company of other creatures that can carry on an intel
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-brass-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1252,7 +1252,7 @@ Brass dragons seek out the company of other creatures that can carry on an intel
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-brass-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1283,7 +1283,7 @@ Brass dragons seek out the company of other creatures that can carry on an intel
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-brass-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1360,7 +1360,7 @@ Brass dragons prefer yellow, orange, and brown gemstones that coordinate with th
 Brass dragons often invest items in their hoards with imagined personality. A wyrmling might have a favorite marble bust or onyx cameo to converse with, while an ancient dragon might have lively dialogues with an entire gallery of paintings, statues, and tapestries. A brass dragon who divides a hoard into separate caches often imagines those caches as individuals (or even groups of people) with independent personalities, and the dragon might spend time in different lairs to socialize with different "friends."
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/brass-dragon-treasures-brass-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1405,7 +1405,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Bronze Dragon Personality Traits and Bronze Dragon Ideals tables to inspire your portrayal of distinctive bronze dragon characters, and use the Bronze Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-bronze-dragon-bronze-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1436,7 +1436,7 @@ Use the Bronze Dragon Personality Traits and Bronze Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-bronze-dragon-bronze-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1465,7 +1465,7 @@ Use the Bronze Dragon Personality Traits and Bronze Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-bronze-dragon-bronze-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1495,7 +1495,7 @@ Use the Bronze Dragon Personality Traits and Bronze Dragon Ideals tables to insp
 The Bronze Dragon Adventure Hooks table offers suggestions for stories and adventures involving bronze dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1530,7 +1530,7 @@ The Bronze Dragon Adventure Hooks table offers suggestions for stories and adven
 Bronze dragons admire high-minded ambition and military prowess, seeking out those beings willing to risk their lives in the fight for justice. Though they are as proud as any dragons, bronze dragons would rather serve alongside heroes than rule over cowards and quislings.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-bronze-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1559,7 +1559,7 @@ Bronze dragons admire high-minded ambition and military prowess, seeking out tho
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-bronze-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1588,7 +1588,7 @@ Bronze dragons admire high-minded ambition and military prowess, seeking out tho
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-bronze-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1619,7 +1619,7 @@ Bronze dragons admire high-minded ambition and military prowess, seeking out tho
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-bronze-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1696,7 +1696,7 @@ A bronze dragon's hoard is a history of the dragon's deeds, with trophies from f
 Bronze dragons have a romantic view of their role as guardians of justice and prefer treasures that tie into their heroic narrative. Their hoards teem with weapons, armor, and magic items built for the battlefield—the more unique, the better. Stories matter to a bronze dragon, who would rather have the humble spear that felled a tyrant than a jeweled blade that's never seen combat. They love collecting and studying histories that can give them tactical insight or inspiration, as well as safeguarding artifacts they deem too dangerous to entrust to anyone else.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/bronze-dragon-treasures-bronze-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1741,7 +1741,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Copper Dragon Personality Traits and Copper Dragon Ideals tables to inspire your portrayal of distinctive copper dragon characters, and use the Copper Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-copper-dragon-copper-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1772,7 +1772,7 @@ Use the Copper Dragon Personality Traits and Copper Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-copper-dragon-copper-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1801,7 +1801,7 @@ Use the Copper Dragon Personality Traits and Copper Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-copper-dragon-copper-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1831,7 +1831,7 @@ Use the Copper Dragon Personality Traits and Copper Dragon Ideals tables to insp
 The Copper Dragon Adventure Hooks table offers suggestions for stories and adventures involving copper dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/copper-dragon-adventures-copper-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1866,7 +1866,7 @@ The Copper Dragon Adventure Hooks table offers suggestions for stories and adven
 Copper dragons are most interested in creatures they find entertaining or amusing, whether for their artistic abilities or because they are fun to trick and tease.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-copper-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1895,7 +1895,7 @@ Copper dragons are most interested in creatures they find entertaining or amusin
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-copper-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1924,7 +1924,7 @@ Copper dragons are most interested in creatures they find entertaining or amusin
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-copper-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1955,7 +1955,7 @@ Copper dragons are most interested in creatures they find entertaining or amusin
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-copper-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2030,7 +2030,7 @@ Copper dragons love burnished metals, particularly those with red and yellow ton
 Copper dragons also collect trophies and keepsakes of their best tricks and triumphs. These range from the crowns, armor, and weapons of long-dead foes to portraits, personal items, and oddities such as a single ancient coin or an arcane clockwork.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/copper-dragon-treasures-copper-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2073,7 +2073,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to inspire your portrayal of distinctive crystal dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2104,7 +2104,7 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-crystal-dragon-crystal-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2137,7 +2137,7 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 The Crystal Dragon Adventure Hooks table offers suggestions for stories and adventures involving crystal dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crystal-dragon-adventures-crystal-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2180,7 +2180,7 @@ The Crystal Dragon Adventure Hooks table offers suggestions for stories and adve
 Crystal dragons are among the most social and hospitable of dragons. They are equal parts mysterious, contemplative, and mischievous, making it difficult to know what to expect of them.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-crystal-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2209,7 +2209,7 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-crystal-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2238,7 +2238,7 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-crystal-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2269,7 +2269,7 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-crystal-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2325,7 +2325,7 @@ Crystal dragons covet bright, opulent objects; baubles and trinkets that remind 
 Crystal dragons enhance the natural beauty of their lairs with the treasures they collect, always trying to display those items they consider most precious in a tasteful and interesting way and recounting their elaborate histories to visitors whenever possible. Indeed, crystal dragons also see amassing such wonderful hoards as a way to attract new friends to the remote locations they inhabit.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crystal-dragon-treasures-crystal-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2372,7 +2372,7 @@ Use the tables and other information in this section to craft unique encounters 
 Use the Deep Dragon Personality Traits and Deep Dragon Ideals tables to inspire your portrayal of distinctive deep dragon characters, and use the Deep Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-deep-dragon-deep-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2403,7 +2403,7 @@ Use the Deep Dragon Personality Traits and Deep Dragon Ideals tables to inspire 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-deep-dragon-deep-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2432,7 +2432,7 @@ Use the Deep Dragon Personality Traits and Deep Dragon Ideals tables to inspire 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-deep-dragon-deep-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2462,7 +2462,7 @@ Use the Deep Dragon Personality Traits and Deep Dragon Ideals tables to inspire 
 The Deep Dragon Adventure Hooks table offers suggestions for stories and adventures involving deep dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/deep-dragon-adventures-deep-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2497,7 +2497,7 @@ The Deep Dragon Adventure Hooks table offers suggestions for stories and adventu
 Deep dragons appreciate the company of other dragons. Although they view most other species as inferior to dragonkind, having worth only as servants or tools, the rare individuals who impress them can sometimes earn respect as partners—albeit junior ones.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-deep-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2526,7 +2526,7 @@ Deep dragons appreciate the company of other dragons. Although they view most ot
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-deep-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2555,7 +2555,7 @@ Deep dragons appreciate the company of other dragons. Although they view most ot
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-deep-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2586,7 +2586,7 @@ Deep dragons appreciate the company of other dragons. Although they view most ot
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-deep-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2635,7 +2635,7 @@ Deep dragons adore goods from distant lands, especially if those goods are uniqu
 It is rare to find a deep dragon hoard that is simply a pile of gems and treasures, for these creatures take great pride in organizing and displaying their possessions. They can easily spend multiple days guiding visitors from prize to prize, telling stories about favorite keepsakes—and when deep dragons visit each other, these tours can stretch out for days.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/deep-dragon-treasures-deep-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2682,7 +2682,7 @@ Use the tables and other information in this section to craft unique encounters 
 Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to inspire your portrayal of distinctive dragon turtle characters, and use the Dragon Turtle Spellcasting table to help select spells for a spellcasting dragon. (Though the "Monster Manual" doesn't explicitly include dragon turtles in the variant rules for making a dragon a spellcaster, you can apply those rules to these aquatic dragons.)
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2713,7 +2713,7 @@ Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-dragon-turtle-dragon-turtle-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2742,7 +2742,7 @@ Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-dragon-turtle-dragon-turtle-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2772,7 +2772,7 @@ Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to insp
 The Dragon Turtle Adventure Hooks table offers suggestions for stories and adventures involving dragon turtles.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2807,7 +2807,7 @@ The Dragon Turtle Adventure Hooks table offers suggestions for stories and adven
 Dragon turtles are stolid and slow to anger. This temperament, combined with their disinterest in moral quandaries, allows them to get along with—or at least abide—most creatures they encounter. They frequently enter symbiotic relationships with other sea creatures that can bring them food or treasure, and they sometimes agree to work for creatures who ply them with generous sums of wealth.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-dragon-turtle-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2836,7 +2836,7 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-dragon-turtle-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2865,7 +2865,7 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-dragon-turtle-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2896,7 +2896,7 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-dragon-turtle-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2974,7 +2974,7 @@ Dragon turtle hoards frequently contain quantities of coral and pearls received 
 More so than for most dragons, a dragon turtle's hoard is likely to contain a motley assortment of treasures from disparate locales. Although many dragon turtles simply lump the elements of their hoard together into a nest, more inquisitive individuals take an interest in specific treasures, sometimes seeking out surface-world folk to inquire about an object's function or provenance.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-turtle-treasures-dragon-turtle-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3019,7 +3019,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to inspire your portrayal of distinctive emerald dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-emerald-dragon-emerald-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3050,7 +3050,7 @@ Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-emerald-dragon-emerald-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3083,7 +3083,7 @@ Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to in
 The Emerald Dragon Adventure Hooks table offers suggestions for stories and adventures involving emerald dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/emerald-dragon-adventures-emerald-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3118,7 +3118,7 @@ The Emerald Dragon Adventure Hooks table offers suggestions for stories and adve
 Emerald dragons generally go out of their way to avoid interacting with other intelligent creatures. However, their interest in history and culture occasionally gets the better of them, prompting them to seek some engagement with the folk of the world.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-emerald-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3147,7 +3147,7 @@ Emerald dragons generally go out of their way to avoid interacting with other in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-emerald-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3176,7 +3176,7 @@ Emerald dragons generally go out of their way to avoid interacting with other in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-emerald-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3207,7 +3207,7 @@ Emerald dragons generally go out of their way to avoid interacting with other in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-emerald-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3272,7 +3272,7 @@ Emerald dragons are unusual among gem dragons in their preference for coinage ov
 Emerald dragons also prize cultural artifacts, especially relics with historical significance. They place great importance on an item's provenance, which can make it difficult to gauge how they might value any particular object. Despite remaining unmoved by the loss of a gold scepter deemed to be a replica, an emerald dragon might become enraged at the theft of a clay mug known to have been used by a legendary dwarf warlord while on campaign.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/emerald-dragon-treasures-emerald-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3317,7 +3317,7 @@ Use the tables and other information in this section to craft unique encounters 
 Use the Faerie Dragon Personality Traits and Faerie Dragon Ideals tables to inspire your portrayal of distinctive faerie dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3348,7 +3348,7 @@ Use the Faerie Dragon Personality Traits and Faerie Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-faerie-dragon-faerie-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3381,7 +3381,7 @@ Use the Faerie Dragon Personality Traits and Faerie Dragon Ideals tables to insp
 The Faerie Dragon Adventure Hooks table offers suggestions for stories and adventures involving faerie dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3416,7 +3416,7 @@ The Faerie Dragon Adventure Hooks table offers suggestions for stories and adven
 As is suggested by their name and nature, faerie dragons tend to prefer the company of Fey, as well as wild animals and any chaotic creatures who can appreciate faerie dragons' madcap sense of humor. At the same time, faerie dragons' limited attention spans often leave them starved for novelty, and nearly any creature can attract their interest—at least temporarily.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-faerie-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3488,7 +3488,7 @@ If the faerie dragon dies, these effects fade over the course of `1d10` days.
 Faerie dragons covet treasure as much as their larger draconic kin, but they are significantly less discerning. Faerie dragons' hoards are thus often a mix of genuine wealth and intriguing trash, with the dragons paying more attention to the wild stories they concoct around each item than the items' actual monetary value. These tiny egomaniacs can often be bribed with cheap but sufficiently respectful tributes of food and shiny trinkets, though their tendency to "borrow" any random object that catches their eye means a faerie dragon nest might also contain items of surprising value—often without the dragon realizing it.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/faerie-dragon-treasures-faerie-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3537,7 +3537,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Gold Dragon Personality Traits and Gold Dragon Ideals tables to inspire your portrayal of distinctive gold dragon characters, and use the Gold Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-gold-dragon-gold-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3568,7 +3568,7 @@ Use the Gold Dragon Personality Traits and Gold Dragon Ideals tables to inspire 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-gold-dragon-gold-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3597,7 +3597,7 @@ Use the Gold Dragon Personality Traits and Gold Dragon Ideals tables to inspire 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-gold-dragon-gold-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3627,7 +3627,7 @@ Use the Gold Dragon Personality Traits and Gold Dragon Ideals tables to inspire 
 The Gold Dragon Adventure Hooks table offers suggestions for stories and adventures involving gold dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gold-dragon-adventures-gold-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3662,7 +3662,7 @@ The Gold Dragon Adventure Hooks table offers suggestions for stories and adventu
 Gold dragons tend to hold themselves apart from the worlds they watch over, favoring isolation and trusting only a few close allies and guardians. When they do walk among other creatures, they prefer to do so in disguise, relishing the opportunity to see the world through different eyes.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-gold-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3691,7 +3691,7 @@ Gold dragons tend to hold themselves apart from the worlds they watch over, favo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-gold-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3720,7 +3720,7 @@ Gold dragons tend to hold themselves apart from the worlds they watch over, favo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-gold-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3751,7 +3751,7 @@ Gold dragons tend to hold themselves apart from the worlds they watch over, favo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-gold-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3834,7 +3834,7 @@ Gold dragons consider gems and pearls culinary delicacies, and they often have a
 Gold dragons also collect trophies marking important events and successes in their lives. But unlike many other dragons, they are just as likely to prize mementos of their defeats and mistakes, believing that such reminders are inherently instructive. Like bronze dragons, gold dragons often guard particularly dangerous artifacts as a form of public service, and thus prize clever magical or mundane defenses to keep their lairs safe and hidden.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gold-dragon-treasures-gold-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3879,7 +3879,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Green Dragon Personality Traits and Green Dragon Ideals tables to inspire your portrayal of distinctive green dragon characters, and use the Green Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-green-dragon-green-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3910,7 +3910,7 @@ Use the Green Dragon Personality Traits and Green Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-green-dragon-green-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3939,7 +3939,7 @@ Use the Green Dragon Personality Traits and Green Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-green-dragon-green-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3969,7 +3969,7 @@ Use the Green Dragon Personality Traits and Green Dragon Ideals tables to inspir
 The Green Dragon Adventure Hooks table offers suggestions for stories and adventures involving green dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/green-dragon-adventures-green-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4004,7 +4004,7 @@ The Green Dragon Adventure Hooks table offers suggestions for stories and advent
 Green dragons see other living beings as objects to subjugate, torment, or eat. Solitary by nature, they seldom tolerate the presence of other creatures unless their presence serves a purpose.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-green-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4033,7 +4033,7 @@ Green dragons see other living beings as objects to subjugate, torment, or eat. 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-green-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4062,7 +4062,7 @@ Green dragons see other living beings as objects to subjugate, torment, or eat. 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-green-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4093,7 +4093,7 @@ Green dragons see other living beings as objects to subjugate, torment, or eat. 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-green-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4162,7 +4162,7 @@ Green dragons relish gems and jewelry whose palettes reflect their chosen forest
 Unlike many of their kin, green dragons use the transformative power of nature to turn those valuables into truly unique treasures. By wrapping and threading treasures with rare vegetation and carefully applying their own skill as gardeners, green dragons meld nature and artifice into new masterpieces. This can lead to complications for would-be treasure hunters, as green dragons take enormous pride in their handiwork—so much so that intruders damaging the delicate arrangements of flower and vine that surround a treasure cache might come under attack before even touching any of the hoard's contents.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/green-dragon-treasures-green-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4215,7 +4215,7 @@ Use the tables and other information in this section to craft unique encounters 
 Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables to inspire your portrayal of distinctive moonstone dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4246,7 +4246,7 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-moonstone-dragon-moonstone-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4279,7 +4279,7 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 The Moonstone Dragon Adventure Hooks table offers suggestions for stories and adventures involving moonstone dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4314,7 +4314,7 @@ The Moonstone Dragon Adventure Hooks table offers suggestions for stories and ad
 In the Feywild, moonstone dragons interact mostly with [[Rules/Source/bestiary/fey/pixie-xmm\|pixies]], [[Rules/Source/bestiary/fey/sprite-xmm\|sprites]], and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-moonstone-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4343,7 +4343,7 @@ In the Feywild, moonstone dragons interact mostly with [[Rules/Source/bestiary/f
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-moonstone-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4372,7 +4372,7 @@ In the Feywild, moonstone dragons interact mostly with [[Rules/Source/bestiary/f
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-moonstone-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4403,7 +4403,7 @@ In the Feywild, moonstone dragons interact mostly with [[Rules/Source/bestiary/f
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-moonstone-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4446,7 +4446,7 @@ Moonstone dragons prefer silver, platinum, and mithral to copper and gold, and w
 In addition to their strong preference for certain metals, many moonstone dragons seek out artworks and relics with unique, whimsical, or absurd designs. The more fanciful an item's form is, the better.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4491,7 +4491,7 @@ Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire yo
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/074-05-008.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/074-05-008.webp)
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-red-dragon-red-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4522,7 +4522,7 @@ Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire yo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-red-dragon-red-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4551,7 +4551,7 @@ Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire yo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-red-dragon-red-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4581,7 +4581,7 @@ Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire yo
 The Red Dragon Adventure Hooks table offers suggestions for stories and adventures involving red dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/red-dragon-adventures-red-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4616,7 +4616,7 @@ The Red Dragon Adventure Hooks table offers suggestions for stories and adventur
 Red dragons treat other creatures as potential servants or pawns, valuable only as long as they fulfill the dragon's needs. Many red dragons terrorize creatures into serving them—and sometimes into worshiping them as well. Others build up shadowy networks of manipulation and control, so many of their servants have no idea who the true ruler is.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-red-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4645,7 +4645,7 @@ Red dragons treat other creatures as potential servants or pawns, valuable only 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-red-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4674,7 +4674,7 @@ Red dragons treat other creatures as potential servants or pawns, valuable only 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-red-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4705,7 +4705,7 @@ Red dragons treat other creatures as potential servants or pawns, valuable only 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-red-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4773,7 +4773,7 @@ Red dragons love gold above all other precious metals and are entranced by its g
 For a red dragon, every treasure is a mark of pride and a personal trophy. Like a proud hunter, a red dragon relishes telling the tale of acquiring each individual relic or coin, glorifying the dragon's own deeds.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/red-dragon-treasures-red-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4826,7 +4826,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to inspire your portrayal of distinctive sapphire dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-sapphire-dragon-sapphire-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4857,7 +4857,7 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4890,7 +4890,7 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sapphire-dragon-adventures-sapphire-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4925,7 +4925,7 @@ The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adv
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-sapphire-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4954,7 +4954,7 @@ Sapphire dragons are generally solitary creatures. On the rare occasion that one
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-sapphire-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4983,7 +4983,7 @@ Sapphire dragons are generally solitary creatures. On the rare occasion that one
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-sapphire-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5014,7 +5014,7 @@ Sapphire dragons are generally solitary creatures. On the rare occasion that one
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-sapphire-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5076,7 +5076,7 @@ Sapphire dragons covet items of martial significance above other treasure. Weapo
 Sapphire dragons meticulously catalogue their hoards. Each dragon has a unique organizational system; some are straightforward, but some only the dragon can fully comprehend (weapons categorized by which armies they were used against, armor ordered by the ancestry of its last wearer, and so forth). Regardless of the system, a sapphire dragon takes pride in knowing exactly where any given item is and can recite a detailed history of that item while guiding curious guests to (or away from) it.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sapphire-dragon-treasures-sapphire-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5119,7 +5119,7 @@ Use the Shadow Dragon Personality Traits and Shadow Dragon Ideals tables to insp
 If you use the variant rule in the "Monster Manual" for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as [[Rules/Source/spells/darkness-xphb\|darkness]], [[Rules/Source/spells/fog-cloud-xphb\|fog cloud]], [[Rules/Source/spells/misty-step-xphb\|misty step]], or [[Rules/Source/spells/nondetection-xphb\|nondetection]].
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5150,7 +5150,7 @@ If you use the variant rule in the "Monster Manual" for making a dragon a spellc
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-shadow-dragon-shadow-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5183,7 +5183,7 @@ If you use the variant rule in the "Monster Manual" for making a dragon a spellc
 The Shadow Dragon Adventure Hooks table offers suggestions for stories and adventures involving shadow dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/shadow-dragon-adventures-shadow-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5218,7 +5218,7 @@ The Shadow Dragon Adventure Hooks table offers suggestions for stories and adven
 Shadow dragons often attempt to blunt their despair by dragging others into their gloomy lives with them. These are generally short-lived relationships, though, as most shadow dragons can scarcely bear the bleakness of their own existence.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-shadow-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5247,7 +5247,7 @@ Shadow dragons often attempt to blunt their despair by dragging others into thei
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-shadow-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5276,7 +5276,7 @@ Shadow dragons often attempt to blunt their despair by dragging others into thei
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-shadow-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5307,7 +5307,7 @@ Shadow dragons often attempt to blunt their despair by dragging others into thei
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-shadow-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5364,7 +5364,7 @@ Shadow dragons retain the preferences of their original form when it comes to tr
 Beauty fills shadow dragons with contempt, and that is true of the treasures they collect as well. Though they cannot abandon their hoards, shadow dragons hide them away even from their own sight. The most resplendent items are always the best hidden, and a shadow dragon's lair contains a great many secret caches. An ancient shadow dragon might have a hundred or more such repositories secreted about their territory, making stealing from a shadow dragon both difficult and dangerous.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/shadow-dragon-treasures-shadow-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5409,7 +5409,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Silver Dragon Personality Traits and Silver Dragon Ideals tables to inspire your portrayal of distinctive silver dragon characters, and use the Silver Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-silver-dragon-silver-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5440,7 +5440,7 @@ Use the Silver Dragon Personality Traits and Silver Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-silver-dragon-silver-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5469,7 +5469,7 @@ Use the Silver Dragon Personality Traits and Silver Dragon Ideals tables to insp
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-silver-dragon-silver-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5499,7 +5499,7 @@ Use the Silver Dragon Personality Traits and Silver Dragon Ideals tables to insp
 The Silver Dragon Adventure Hooks table offers suggestions for stories and adventures involving silver dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/silver-dragon-adventures-silver-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5534,7 +5534,7 @@ The Silver Dragon Adventure Hooks table offers suggestions for stories and adven
 Silver dragons enjoy the companionship of intelligent people, particularly when those folk have no idea as to the dragon's true identity. Silver dragons associate with just about any creatures, though, as long as they're confident those creatures have good intentions—or could be convinced to change their ways.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-silver-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5563,7 +5563,7 @@ Silver dragons enjoy the companionship of intelligent people, particularly when 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-silver-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5592,7 +5592,7 @@ Silver dragons enjoy the companionship of intelligent people, particularly when 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-silver-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5623,7 +5623,7 @@ Silver dragons enjoy the companionship of intelligent people, particularly when 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-silver-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5693,7 +5693,7 @@ More than anything else, silver dragons covet mementos from the people they inte
 Beyond such keepsakes, silver dragons prefer treasures that complement their natural coloration. Diamonds are much coveted, but also turquoise, malachite, and sapphires, all of pelagic hues like something plucked from the deep ocean. Some silver dragons also collect ornamental weapons or ingenious examples of technology.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/silver-dragon-treasures-silver-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5738,7 +5738,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspire your portrayal of distinctive topaz dragon characters.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5769,7 +5769,7 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-topaz-dragon-topaz-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5802,7 +5802,7 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/topaz-dragon-adventures-topaz-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5837,7 +5837,7 @@ The Topaz Dragon Adventure Hooks table offers suggestions for stories and advent
 Topaz dragons rarely tolerate any company but their own, and they are usually indifferent at best even toward their own kind. Moreover, their unpredictability means that even if a creature proves itself useful to a topaz dragon, it shouldn't count on being safe from the dragon the next time they meet. Topaz dragons rarely go out of their way to fight other creatures, however, with the exception of bronze dragons, for whom they bear an inexplicably intense hatred.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-topaz-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5866,7 +5866,7 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-topaz-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5895,7 +5895,7 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-topaz-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5926,7 +5926,7 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-topaz-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5986,7 +5986,7 @@ Topaz dragons despise anything made of bronze but love to hoard gold, as well as
 Topaz dragons like to keep their lairs well lit and can spend endless hours watching the play of light upon their treasures. They sometimes obsessively arrange their hoards by minute gradations in color and set up mirrors around a hoard chamber to make the mass of treasure appear bigger. But whatever pride topaz dragons take in their hoard, they have little desire to show it off, so even those rare creatures who maintain cordial relationships with a topaz dragon are unlikely to ever see the dragon's treasures.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/topaz-dragon-treasures-topaz-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6029,7 +6029,7 @@ Use the tables, map, and other information in this section to craft unique encou
 Use the White Dragon Personality Traits and White Dragon Ideals tables to inspire your portrayal of distinctive white dragon characters, and use the White Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-white-dragon-white-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6060,7 +6060,7 @@ Use the White Dragon Personality Traits and White Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-white-dragon-white-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6089,7 +6089,7 @@ Use the White Dragon Personality Traits and White Dragon Ideals tables to inspir
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-white-dragon-white-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6119,7 +6119,7 @@ Use the White Dragon Personality Traits and White Dragon Ideals tables to inspir
 The White Dragon Adventure Hooks table offers suggestions for stories and adventures involving white dragons.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/white-dragon-adventures-white-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6154,7 +6154,7 @@ The White Dragon Adventure Hooks table offers suggestions for stories and advent
 Savage and territorial by nature, white dragons seldom set out to make alliances, though some come to understand the utility of doing so as they age. More often, white dragons encountered in the company of other creatures have been forced into an uneasy accommodation or a resentful servitude because they lack the power to dominate those companions outright.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-white-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6183,7 +6183,7 @@ Savage and territorial by nature, white dragons seldom set out to make alliances
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-white-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6212,7 +6212,7 @@ Savage and territorial by nature, white dragons seldom set out to make alliances
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-white-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6243,7 +6243,7 @@ Savage and territorial by nature, white dragons seldom set out to make alliances
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-white-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6323,7 +6323,7 @@ White dragons favor gems and precious metals that mirror the cold sparkle of ice
 The greater part of a white dragon's hoard consists of trophies taken from defeated foes. Although these trophies include items such as mighty weapons or ornate regalia that are valuable treasures in their own right, they can just as easily be worthless junk. A white dragon hoards trophies not for their material value, but as testaments to the dragon's dominance. An [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon's]] lair is a literal memory palace and a maze of rime-encrusted treasures that recount the story of the dragon's many victories.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/white-dragon-treasures-white-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

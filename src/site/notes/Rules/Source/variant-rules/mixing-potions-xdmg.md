@@ -1,0 +1,40 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/variant-rules/mixing-potions-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xdmg"],"aliases":["Mixing Potions"]}}
+---
+
+# Mixing Potions
+*Source: Dungeon Master's Guide (2024) p. 216* 
+
+A character might drink one potion while still under the effects of another or pour several potions into a single container. The strange ingredients used in creating potions can result in unpredictable interactions.
+
+When a character mixes two potions together, roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Mixing Potions; Potion Miscibility
+
+</div>
+
+
+
+# Mixing Potions; Potion Miscibility
+*Source: Dungeon Master's Guide (2024) p. 216* 
+
+**Potion Miscibility**
+
+| dice: 1d100 | Result |
+|-------------|--------|
+| 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [[Rules/Source/variant-rules/sphere-area-of-effect-xphb\|Sphere]] centered on itself. Each creature in that area takes `4d10` Force damage. |
+| 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see "Poison" in chapter 3). |
+| 09–15 | Both potions lose their effects. |
+| 16–25 | One potion loses its effect. |
+| 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
+| 36–90 | Both potions work normally. |
+| 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
+| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [[Rules/Source/items/potion-of-healing-xdmg\|Potion of Healing]] might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [[Rules/Source/items/potion-of-invisibility-xdmg\|Potion of Invisibility]] might give the drinker the [[Rules/Source/conditions#Invisible\|Invisible]] condition indefinitely. At your discretion, a [[Rules/Source/spells/dispel-magic-xphb\|Dispel Magic]] spell or similar magic might end this lasting effect. |
+^potion-miscibility
+
+</div></div>

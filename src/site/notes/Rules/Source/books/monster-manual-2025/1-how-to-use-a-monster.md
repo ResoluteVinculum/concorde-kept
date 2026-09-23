@@ -136,7 +136,7 @@ A monster's [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] are prese
 A monster's size typically determines the die used to calculate its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]], as shown in the Hit Dice by [[Rules/Source/variant-rules/size-xphb\|Size]] table.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/parts-of-a-stat-block-hit-dice-by-size-xmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -239,7 +239,7 @@ The number of [[Rules/Source/variant-rules/experience-points-xphb\|Experience Po
 Unless a rule says otherwise, a monster summoned by a spell or another magical ability is worth the XP noted in its stat block.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/experience-points-by-challenge-rating-xmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -300,7 +300,7 @@ Unless a rule says otherwise, a monster summoned by a spell or another magical a
 A monster's [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]] (PB) is determined by its CR, as shown in the [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]] by [[Rules/Source/variant-rules/challenge-rating-xphb\|Challenge Rating]] table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/proficiency-bonus-by-challenge-rating-xmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

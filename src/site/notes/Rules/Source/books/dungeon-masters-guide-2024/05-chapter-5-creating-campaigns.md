@@ -285,7 +285,7 @@ One advantage of using a published campaign setting is that much of the world-bu
 The D&D Settings table describes several established campaign settings.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/using-a-published-setting-d-d-settings-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -441,7 +441,7 @@ A serialized campaign is one continuous story broken up into smaller parts that 
 In a serialized campaign, make connections between the end of one adventure and the start of the next to help it feel like a connected story. Sometimes you can simply continue the current storyline with new locations to explore and new threats to overcome. Alternatively, you can use the Adventure Connections table to inspire a link from one adventure to the next. The table suggests things you can do near the end of one adventure to lead characters into the next one.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/linking-adventures-adventure-connections-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -692,7 +692,7 @@ The sun takes 360 days to travel once around Oerth. Luna waxes and wanes in fixe
 The standard year is 360 days long and consists of twelve twenty-eight-day months (each month divided into four seven-day weeks) and four six-day lunar festivals (Needfest, Growfest, Richfest, and Brewfest). The midwinter festival of Needfest is considered the start of the year. The diagram here shows the months and festivals that make up a year.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/months-and-festivals-days-of-the-week-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -797,7 +797,7 @@ The Gods of Greyhawk table shows many of the most popular deities worshiped in t
 The greater gods of Greyhawk rarely get directly involved with happenings on Oerth. Lesser gods are more likely to manifest in some form on the Material Plane and interact with their worshipers. Cuthbert, for example, is well known for appearing in mortal guise, appearing as a dirt-covered farmer, a wanderer robed in brown and green, or an elderly tinker. And of the many quasi-deities that appear on Oerth, most prominent among them is Iuz, a demigod who rules his own nation in the Flanaess.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gods-of-greyhawk-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1272,7 +1272,7 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 The rich soil and pleasant climate of the region between the Nyr Dyv and the Yatil Mountains—combined with healthy trade relations between these realms and their neighbors to the east, south, and west—make this a strong and prosperous region.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/central-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1356,7 +1356,7 @@ Once a powerful force for order and good, the Great Kingdom of Aerdy has decline
 Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great Kingdom. The Sea Baronies are vassal states that provide most of the kingdom's navy.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/eastern-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1444,7 +1444,7 @@ The chilly mists of the Troll Fens, located against the shoulders of the Griff M
 The northern region of the Flanaess includes three distinct areas populated by different peoples: the Baklunish horse riders of the Chakyik and the Wegwiur, the Suloise people of the North Kingdoms, and the Flan nomads of the Hunting Lands.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/northern-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1526,7 +1526,7 @@ The cold north is an ideal location for a campaign featuring themes of sword-and
 United by their shared history as part of the ancient Kingdom of Keoland, the marches and fiefdoms between the Lortmil Mountains and the higher mountains to the west gather diverse populations of many different species in relative peace with each other. Even the long-standing feud between Keoland and the Hold of the Sea Princes might be drawing to an end under the leadership of Keoland's current ruler, King Kimbertos Skotti. The region enjoys a warm, mild climate but faces many threats from monstrous foes.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/old-keoland-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1609,7 +1609,7 @@ The nations of Ekbir, Tusmit, and Zeif represent the heart of the region, and tw
 Sultan Naxas Murad of Zeif is a reclusive man, a great philosopher, and a stern father figure to the rulers of Ekbir and Tusmit. Over the years, advisers and family members have urged Naxas to expand Zeif's borders through military conquest, but he refuses to do so, citing failed land grabs by kingdoms through history as proof that imperial expansion across the Flanaess rarely ends well.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/western-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
