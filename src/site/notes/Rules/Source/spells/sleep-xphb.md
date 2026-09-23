@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/sleep-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/archfey-patron","ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/oath-of-redemption","ttrpg-cli/spell/subclass/twilight-domain"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/archfey-patron","ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/oath-of-redemption","ttrpg-cli/spell/subclass/twilight-domain"],"classes":["Bard","Bard (College of Lore)","Cleric (Twilight Domain)","Druid (Circle of the Land, Temperate Land)","Fighter (Eldritch Knight)","Paladin (Oath of Redemption)","Rogue (Arcane Trickster)","Sorcerer","Warlock (Archfey Patron)","Wizard"],"aliases":["Sleep"]}}
+---
+
+# Sleep
+*1st-level, Enchantment*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a pinch of sand or rose petals)
+- **Duration:** Concentration, up to 1 minute
+
+Each creature of your choice in a 5-foot-radius [[Rules/Source/variant-rules/sphere-area-of-effect-xphb\|Sphere]] centered on a point within range must succeed on a Wisdom saving throw or have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the [[Rules/Source/conditions#Unconscious\|Unconscious]] condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
+
+Creatures that don't sleep, such as elves, or that have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Exhaustion\|Exhaustion]] condition automatically succeed on saves against this spell.
+
+**Classes**: [Bard (College of Lore)](/Rules/Source/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-bard\|Bard]]; [Cleric (Twilight Domain)](/Rules/Source/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Druid (Circle of the Land, Temperate Land)](/Rules/Source/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/Rules/Source/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Redemption)](/Rules/Source/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Rogue (Arcane Trickster)](/Rules/Source/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-sorcerer\|Sorcerer]]; [Warlock (Archfey Patron)](/Rules/Source/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
