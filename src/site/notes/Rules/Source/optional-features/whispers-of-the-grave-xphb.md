@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/optional-features/whispers-of-the-grave-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-feat"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"aliases":["Whispers of the Grave"]}}
+---
+
+# Whispers of the Grave
+*Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+**Prerequisite**: Level 7
+
+You can cast [[Rules/Source/spells/speak-with-dead-xphb\|Speak with Dead]] without expending a spell slot.
