@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/message-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/artificer-initiate","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/race/elf/high-elf","ttrpg-cli/spell/race/kobold","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/artificer","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/artificer-initiate","ttrpg-cli/spell/feat/druidic-warrior","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/feat/wood-elf-magic","ttrpg-cli/spell/level/cantrip","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/race/elf/high-elf","ttrpg-cli/spell/race/kobold","ttrpg-cli/spell/school/transmutation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"classes":["Artificer","Bard","Bard (College of Lore)","Druid","Fighter (Eldritch Knight)","Rogue (Arcane Trickster)","Sorcerer","Wizard"],"aliases":["Message"]}}
+---
+
+# Message
+*cantrip, Transmutation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 120 feet
+- **Components:** S, M (a copper wire)
+- **Duration:** 1 round
+
+You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
+
+**Classes**: [[Rules/Source/lists/list-spells-classes-artificer\|Artificer]]; [Bard (College of Lore)](/Rules/Source/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-bard\|Bard]]; [[Rules/Source/lists/list-spells-classes-druid\|Druid]]; [Fighter (Eldritch Knight)](/Rules/Source/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Rules/Source/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-sorcerer\|Sorcerer]]; [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

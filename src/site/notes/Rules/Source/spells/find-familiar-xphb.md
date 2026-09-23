@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/find-familiar-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/feat/ritual-caster","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/pact-of-the-chain","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/reward/draconic-familiar","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/feat/ritual-caster","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/optfeature/pact-of-the-chain","ttrpg-cli/spell/optfeature/pact-of-the-tome","ttrpg-cli/spell/reward/draconic-familiar","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/conjuration","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight"],"classes":["Bard","Bard (College of Lore)","Druid","Fighter (Eldritch Knight)","Rogue (Arcane Trickster)","Wizard"],"aliases":["Find Familiar"]}}
+---
+
+# Find Familiar
+*1st-level, Conjuration (ritual)*  
+![/Rules/Source/spells/img/find-familiar.webp\|right wmed](/img/user/Rules/Source/spells/img/find-familiar.webp)
+
+- **Casting time:** 1 hour unless cast as a ritual
+- **Range:** 10 feet
+- **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
+- **Duration:** Instantaneous
+
+You gain the service of a familiar, a spirit that takes an animal form you choose: [[Rules/Source/bestiary/beast/bat-xmm\|Bat]], [[Rules/Source/bestiary/beast/cat-xmm\|Cat]], [[Rules/Source/bestiary/beast/frog-xmm\|Frog]], [[Rules/Source/bestiary/beast/hawk-xmm\|Hawk]], [[Rules/Source/bestiary/beast/lizard-xmm\|Lizard]], [[Rules/Source/bestiary/beast/octopus-xmm\|Octopus]], [[Rules/Source/bestiary/beast/owl-xmm\|Owl]], [[Rules/Source/bestiary/beast/rat-xmm\|Rat]], [[Rules/Source/bestiary/beast/raven-xmm\|Raven]], [[Rules/Source/bestiary/beast/spider-xmm\|Spider]], [[Rules/Source/bestiary/beast/weasel-xmm\|Weasel]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
+
+## Telepathic Connection
+
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+
+Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a [[Rules/Source/variant-rules/reaction-xphb\|Reaction]] to deliver the touch when you cast the spell.
+
+## Combat
+
+The familiar is an ally to you and your allies. It rolls its own [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+
+## Disappearance of the Familiar
+
+When the familiar drops to 0 [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]], it disappears. It reappears after you cast this spell again. As a [[Rules/Source/actions#Magic\|Magic]] action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a [[Rules/Source/actions#Magic\|Magic]] action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+
+## One Familiar Only
+
+You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
+
+## Summary
+
+**Classes**: [[Rules/Source/lists/list-spells-classes-college-of-lore-xphb\|Bard (College of Lore)]]; [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
