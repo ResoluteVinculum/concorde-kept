@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/feats/boon-of-the-night-spirit-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-feat"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"aliases":["Boon of the Night Spirit"]}}
+---
+
+# Boon of the Night Spirit
+*Source: Player's Handbook (2024) p. 211. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+**Prerequisite**: 19th
+
+You gain the following benefits.
+
+**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
+
+**Merge with Shadows.** While within [[Rules/Source/variant-rules/dim-light-xphb\|Dim Light]] or [[Rules/Source/variant-rules/darkness-xphb\|Darkness]], you can give yourself the [[Rules/Source/conditions#Invisible\|Invisible]] condition as a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]]. The condition ends on you immediately after you take an action, a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or a [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**Shadowy Form.** While within [[Rules/Source/variant-rules/dim-light-xphb\|Dim Light]] or [[Rules/Source/variant-rules/darkness-xphb\|Darkness]], you have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage except Psychic and Radiant.

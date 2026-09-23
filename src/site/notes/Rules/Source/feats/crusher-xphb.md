@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/feats/crusher-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-feat"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"aliases":["Crusher"]}}
+---
+
+# Crusher
+*Source: Player's Handbook (2024) p. 203*  
+
+**Prerequisite**: 4th
+
+You gain the following benefits.
+
+**Ability Score Increase.** Increase your Strength or Constitution by 1, to a maximum of 20.
+
+**Push.** Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+
+**Enhanced Critical.** When you score a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] that deals Bludgeoning damage to a creature, attack rolls against that creature have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] until the start of your next turn.

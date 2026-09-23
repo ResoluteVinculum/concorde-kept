@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/feats/healer-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-feat"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/feat"],"aliases":["Healer"]}}
+---
+
+# Healer
+*Source: Player's Handbook (2024) p. 201*  
+
+You gain the following benefits.
+
+**Battle Medic.** If you have a [[Rules/Source/items/healers-kit-xphb\|Healer's Kit]], you can expend one use of it and tend to a creature within 5 feet of yourself as a [[Rules/Source/actions#Utilize\|Utilize]] action. That creature can expend one of its [[Rules/Source/variant-rules/hit-point-dice-xphb\|Hit Point Dice]], and you then roll that die. The creature regains a number of [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] equal to the roll plus your [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]].
+
+**Healing Rerolls.** Whenever you roll a die to determine the number of [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
