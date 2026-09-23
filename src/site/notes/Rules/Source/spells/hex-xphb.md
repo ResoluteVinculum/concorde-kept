@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/hex-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/great-old-one-patron"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/feat/fey-touched","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/enchantment","ttrpg-cli/spell/subclass/great-old-one-patron"],"classes":["Warlock","Warlock (Great Old One Patron)"],"aliases":["Hex"]}}
+---
+
+# Hex
+*1st-level, Enchantment*  
+
+
+- **Casting time:** 1 Bonus Action
+- **Range:** 90 feet
+- **Components:** V, S, M (the petrified eye of a newt)
+- **Duration:** Concentration, up to 1 hour
+
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `1d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks made with the chosen ability.
+
+If the target drops to 0 [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] before this spell ends, you can take a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]] on a later turn to curse a new creature.
+
+**Using a Higher-Level Spell Slot.** Your [[Rules/Source/conditions#Concentration\|Concentration]] can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+
+**Classes**: [Warlock (Great Old One Patron)](/Rules/Source/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-warlock\|Warlock]]
+
+*Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
