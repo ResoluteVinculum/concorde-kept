@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/tables/armaments-uncommon-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xdmg"],"aliases":["Armaments - Uncommon"]}}
+---
+
+# Armaments - Uncommon
+*Source: Dungeon Master's Guide (2024) p. 328* 
+
+**Armaments - Uncommon**
+
+| dice: 1d100 | Item |
+|-------------|------|
+| 01–04 | [[Rules/Source/items/adamantine-armor-xdmg\|Adamantine Armor]] |
+| 05–08 | [[Rules/Source/items/adamantine-weapon-xdmg\|Adamantine Weapon]] |
+| 09–13 | [[Rules/Source/items/1-ammunition-xdmg\|Ammunition, +1]] |
+| 14–18 | [[Rules/Source/items/bracers-of-archery-xdmg\|Bracers of Archery]] |
+| 19–23 | [[Rules/Source/items/enspelled-armor-xdmg\|Enspelled Armor]] ([[Rules/Source/items/enspelled-armor-cantrip-xdmg\|cantrip]] or [[Rules/Source/items/enspelled-armor-level-1-xdmg\|level 1]] spell) |
+| 24–28 | [[Rules/Source/items/enspelled-weapon-xdmg\|Enspelled Weapon]] ([[Rules/Source/items/enspelled-weapon-cantrip-xdmg\|cantrip]] or [[Rules/Source/items/enspelled-weapon-level-1-xdmg\|level 1]] spell) |
+| 29–33 | [[Rules/Source/items/gauntlets-of-ogre-power-xdmg\|Gauntlets of Ogre Power]] |
+| 34–38 | [[Rules/Source/items/javelin-of-lightning-xdmg\|Javelin of Lightning]] |
+| 39–43 | [[Rules/Source/items/mariners-armor-xdmg\|Mariner's Armor]] |
+| 44–48 | [[Rules/Source/items/mithral-armor-xdmg\|Mithral Armor]] |
+| 49–53 | [[Rules/Source/items/potion-of-hill-giant-strength-xdmg\|Potion of Giant Strength (hill)]] |
+| 54–58 | [[Rules/Source/items/potion-of-pugilism-xdmg\|Potion of Pugilism]] |
+| 59–62 | [[Rules/Source/items/quiver-of-ehlonna-xdmg\|Quiver of Ehlonna]] |
+| 63–66 | [[Rules/Source/items/saddle-of-the-cavalier-xdmg\|Saddle of the Cavalier]] |
+| 67–71 | [[Rules/Source/items/sentinel-shield-xdmg\|Sentinel Shield]] |
+| 72–76 | [[Rules/Source/items/1-shield-xdmg\|Shield, +1]] |
+| 77–81 | [[Rules/Source/items/sword-of-vengeance-xdmg\|Sword of Vengeance]] |
+| 82–85 | [[Rules/Source/items/trident-of-fish-command-xdmg\|Trident of Fish Command]] |
+| 86–90 | [[Rules/Source/items/1-weapon-xdmg\|Weapon, +1]] |
+| 91–95 | [[Rules/Source/items/weapon-of-warning-xdmg\|Weapon of Warning]] |
+| 96–00 | [[Rules/Source/items/1-wraps-of-unarmed-power-xdmg\|Wraps of Unarmed Power, +1]] |
+^armaments-uncommon
