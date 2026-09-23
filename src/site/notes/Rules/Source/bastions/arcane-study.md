@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/bastions/arcane-study/","tags":["ttrpg-cli/bastion","ttrpg-cli/compendium/src/5e/xdmg"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-bastion"],"tags":["ttrpg-cli/bastion","ttrpg-cli/compendium/src/5e/xdmg"],"aliases":["Arcane Study"]}}
+---
+
+# Arcane Study
+*Level 5 Bastion facility*  
+
+- **Prerequisites**: Ability to use an [[Rules/Source/items/arcane-focus-xphb\|Arcane Focus]] or tool as a [[Rules/Source/variant-rules/spellcasting-focus-xphb\|Spellcasting Focus]]
+- **Space**: Roomy (16 sq)
+- **Hirelings**: 1
+- **Order**: craft
+
+An Arcane Study is a place of quiet research that contains one or more desks and bookshelves.
+
+## Arcane Study Charm
+
+After spending a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] in your Bastion, you gain a magical [[Rules/Source/rewards/arcane-study-charm-xdmg\|Charm]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[Rules/Source/spells/identify-xphb\|Identify]] without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+
+## Craft Options
+
+When you issue the "Craft" order to this facility, choose one of the following options:
+
+- **Craft.** Arcane Focus. You commission the facility's hireling to craft an [[Rules/Source/items/arcane-focus-xphb\|Arcane Focus]]. The work takes 7 days and costs no money. The Arcane Focus remains in your Bastion until you claim it.  
+- **Craft.** Book. You commission the facility's hireling to craft a blank book. The work takes 7 days and costs you 10 GP. The book remains in your Bastion until you claim it.  
+- **Craft.** Magic Item (Arcana). If you are level 9+, you can commission the facility's hireling to craft a Common or an Uncommon magic item chosen by you from the "Arcana tables" in "chapter 7". The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the [[Rules/Source/skills#Arcana\|Arcana]] skill. See the ""Crafting Magic Items"" section in "chapter 7" for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility's hireling can assist), and you must have all those spells prepared every day you spend crafting the item.  
+
+*Source: Dungeon Master's Guide (2024) p. 336*

@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/backgrounds/guard-xphb/","tags":["ttrpg-cli/background","ttrpg-cli/compendium/src/5e/xphb"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-background"],"tags":["ttrpg-cli/background","ttrpg-cli/compendium/src/5e/xphb"],"aliases":["Guard"]}}
+---
+
+# Guard
+*Source: Player's Handbook (2024) p. 181*  
+![/Rules/Source/backgrounds/img/guard.webp\|right wmed](/img/user/Rules/Source/backgrounds/img/guard.webp)
+
+- **Ability Scores.** Strength, Intelligence, Wisdom  
+- **Feat.** [[Rules/Source/feats/alert-xphb\|Alert]]  
+- **Skill Proficiencies.** [[Rules/Source/skills#Athletics\|Athletics]], [[Rules/Source/skills#Perception\|Perception]]  
+- **Tool Proficiency.** Choose one kind of [[Rules/Source/items/gaming-set-xphb\|Gaming Set]]  
+- **Equipment.** Choose A or B: (A) [[Rules/Source/items/spear-xphb\|Spear]], [[Rules/Source/items/light-crossbow-xphb\|Light Crossbow]], 20 [[Rules/Source/items/bolt-xphb\|Bolts]], [[Rules/Source/items/gaming-set-xphb\|Gaming Set]] (same as above), [[Rules/Source/items/hooded-lantern-xphb\|Hooded Lantern]], [[Rules/Source/items/manacles-xphb\|Manacles]], [[Rules/Source/items/quiver-xphb\|Quiver]], [[Rules/Source/items/travelers-clothes-xphb\|Traveler's Clothes]], 12 GP; or (B) 50 GP  
+
+Your feet ache when you remember the countless hours you spent at your post in the tower. You were trained to keep one eye looking outside the wall, watching for marauders sweeping from the nearby forest, and your other eye looking inside the wall, searching for cutpurses and troublemakers.
