@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/vitriolic-sphere-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"classes":["Bard","Fighter (Eldritch Knight)","Rogue (Arcane Trickster)","Sorcerer","Wizard","Wizard (Evoker)"],"aliases":["Vitriolic Sphere"]}}
+---
+
+# Vitriolic Sphere
+*4th-level, Evocation*  
+![/Rules/Source/spells/img/vitriolic-sphere.webp\|right wmed](/img/user/Rules/Source/spells/img/vitriolic-sphere.webp)
+
+- **Casting time:** 1 Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a drop of bile)
+- **Duration:** Instantaneous
+
+You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius [[Rules/Source/variant-rules/sphere-area-of-effect-xphb\|Sphere]]. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes `10d4` Acid damage and another `5d4` Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
+
+**Using a Higher-Level Spell Slot.** The initial damage increases by `2d4` for each spell slot level above 4.
+
+**Classes**: [[Rules/Source/lists/list-spells-classes-bard\|Bard]]; [[Rules/Source/lists/list-spells-classes-eldritch-knight-xphb\|Fighter (Eldritch Knight)]]; [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
