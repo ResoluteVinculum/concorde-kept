@@ -34,7 +34,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -62,7 +62,36 @@ The magical energy roiling inside you sometimes erupts from you. When you enter 
 
 If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
-![Wild Magic](/Rules/Source/tables/wild-magic-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/wild-magic-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Wild Magic
+
+</div>
+
+
+
+# Wild Magic
+*Source: Tasha's Cauldron of Everything p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Wild Magic**
+
+| dice: d8 | Magical Effect |
+|----------|----------------|
+| 1 | Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take `1d12` necrotic damage. You also gain `1d12` temporary hit points. |
+| 2 | You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
+| 3 | An intangible spirit, which looks like a [[Rules/Source/bestiary/aberration/flumph-xmm\|flumph]] or a [[Rules/Source/bestiary/fey/pixie-xmm\|pixie]] (your choice), appears within 5 feet of one creature of your choice that you can see within 30 feet of you. At the end of the current turn, the spirit explodes, and each creature within 5 feet of it must succeed on a Dexterity saving throw or take `1d6` force damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a bonus action. |
+| 4 | Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's damage type changes to force, and it gains the light and thrown properties, with a normal range of 20 feet and a long range of 60 feet. If the weapon leaves your hand, the weapon reappears in your hand at the end of the current turn. |
+| 5 | Whenever a creature hits you with an attack roll before your rage ends, that creature takes `1d6` force damage, as magic lashes out in retribution. |
+| 6 | Until your rage ends, you are surrounded by multi colored, protective lights; you gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus. |
+| 7 | Flowers and vines temporarily grow around you. Until your rage ends, the ground within 15 feet of you is difficult terrain for your enemies. |
+| 8 | A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take `1d6` radiant damage and be [[Rules/Source/conditions#Blinded\|blinded]] until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
+^wild-magic
+
+</div></div>
+
 
 ### Bolstering Magic (Level 6)
 

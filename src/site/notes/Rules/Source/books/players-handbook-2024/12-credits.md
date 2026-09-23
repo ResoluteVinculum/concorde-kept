@@ -30,5 +30,5 @@
 ![/Rules/Source/books/players-handbook-2024/img/credits.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/credits.webp)
 
 > [!gallery]
-> ![On the Cover: Guided by a ...](/Rules/Source/books/players-handbook-2024/img/credits2.webp#gallery "On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.")
-> ![On the Alt-Cover: Nothing'...](/Rules/Source/books/players-handbook-2024/img/credits3.webp#gallery "On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.")
+> ![/Rules/Source/books/players-handbook-2024/img/credits2.webp\|gallery wmed](/img/user/Rules/Source/books/players-handbook-2024/img/credits2.webp)
+> ![/Rules/Source/books/players-handbook-2024/img/credits3.webp\|gallery wmed](/img/user/Rules/Source/books/players-handbook-2024/img/credits3.webp)

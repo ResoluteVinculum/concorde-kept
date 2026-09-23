@@ -11,7 +11,7 @@ This appendix provides brief descriptions for many of the D&D game's most famous
 
 Acererak *(ah-SAIR-er-rack)* is a powerful lich who travels between worlds and takes pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons to suffer horrible deaths. The most famous of such dungeons is the Tomb of Horrors, hidden in the Vast Swamp in the Greyhawk setting (see "Greyhawk Gazetteer" in chapter 5); another lies under the lost city of Omu in the jungles of Chult in the Forgotten Realms setting (described in the adventure Tomb of Annihilation).
 
-![Acererak](/Rules/Source/books/dungeon-masters-guide-2024/img/204-11-001-acererak.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/204-11-001-acererak.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/204-11-001-acererak.webp)
 
 ## Adamantine
 
@@ -113,7 +113,7 @@ In the Dragonlance setting, Bahamut—who is known there as Paladine—dwelled a
 
 When the gears of the plane of Mechanus (see chapter 6) complete seventeen cycles—once every 289 years—the modron *(MOE-dron)* leader, Primus, sends a vast army of modrons across the Outer Planes. The purpose of this march is unclear. Most believe it to be a data-gathering mission meant to ascertain the current state of the cosmos, but some see it as reconnaissance aimed at some future act of conquest. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-![The Great Modron March](/Rules/Source/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/205-11-002-modron-march.webp)
 
 ## Gruumsh
 
@@ -121,7 +121,7 @@ Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or pa
 
 ## Hadar
 
-Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the Far Realm (see chapter 6). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[Rules/Source/spells/arms-of-hadar-xphb\|Arms of Hadar]] and [[Rules/Source/spells/hunger-of-hadar-xphb\|Hunger of Hadar]] spells in the "Player's Handbook"), and a few Warlocks claim this Elder Evil as their Great Old One patron.
+Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the Far Realm (see chapter 6). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[Rules/Source/spells/arms-of-hadar-xphb\|Arms of Hadar]] and [[Rules/Source/spells/hunger-of-hadar-xphb\|Hunger of Hadar]] spells in the), and a few Warlocks claim this Elder Evil as their Great Old One patron.
 
 ## Harpers, The
 
@@ -145,7 +145,7 @@ Icewind Dale is the northernmost settled region of the Forgotten Realms setting.
 
 ## Iggwilv
 
-![The Wizard Tasha, before s...](/Rules/Source/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp#center "The Wizard Tasha, before she became Iggwilv the Witch Queen")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp)
 
 Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see Zagyg). Later, as an adventurer, she created several new spells, including [[Rules/Source/spells/tashas-hideous-laughter-xphb\|Tasha's Hideous Laughter]] and [[Rules/Source/spells/tashas-bubbling-cauldron-xphb\|Tasha's Bubbling Cauldron]], leaning on the teachings of her adoptive mother, the arch-hag Baba Yaga. As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[Rules/Source/items/demonomicon-of-iggwilv-xdmg\|Demonomicon of Iggwilv]]. She also bound and trapped the demon lord Graz'zt (see chapter 6).
 
@@ -171,7 +171,7 @@ According to legend, Keraptis *(kuh-RAP-tiss)* was an evil archmage who long ago
 
 Variously identified as an Elder Evil, as a demigod, or as a mortal priest of the demon lord Orcus (see chapter 6), Kyuss *(KYE-uss)* is a mysterious figure best known as the Worm That Walks. Kyuss manifests on the Material Plane as a colossal mass of maggots and worms animated by a single evil will.
 
-![Kyuss](/Rules/Source/books/dungeon-masters-guide-2024/img/207-11-004-kyuss.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/207-11-004-kyuss.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/207-11-004-kyuss.webp)
 
 ## Laeral Silverhand
 
@@ -203,7 +203,7 @@ Myths told on many worlds describe Moradin *(MORE-ah-din)* crafting all the peop
 
 ## Mordenkainen
 
-Mordenkainen *(mor-den-KIGH-nen or mor-den-KAY-nen)* is a human archmage who maintains a residence in the Free City of Greyhawk and another hidden somewhere in the Yatil Mountains between Perrenland and Ket (see chapter 5). He is the founder and leader of the Circle of Eight, which he created to implement his philosophy of balance in the world. Among Mordenkainen's celebrated accomplishments are several name-branded spells, including ones that create extradimensional mansions, swords of spectral force, and phantom watchdogs (detailed in the "Player's Handbook").
+Mordenkainen *(mor-den-KIGH-nen or mor-den-KAY-nen)* is a human archmage who maintains a residence in the Free City of Greyhawk and another hidden somewhere in the Yatil Mountains between Perrenland and Ket (see chapter 5). He is the founder and leader of the Circle of Eight, which he created to implement his philosophy of balance in the world. Among Mordenkainen's celebrated accomplishments are several name-branded spells, including ones that create extradimensional mansions, swords of spectral force, and phantom watchdogs (detailed in the).
 
 Mordenkainen has visited numerous worlds and planes of existence, making friends and fomenting rivalries on many of them. He maintains a close friendship with his former apprentice Bigby and the famous archmage Elminster of Shadowdale. Mordenkainen's greatest rival is Iggwilv, a former adventuring companion.
 
@@ -215,7 +215,7 @@ Dagult Neverember is the Lord Protector of Neverwinter, ruling in the absence of
 
 ## Otiluke
 
-Otiluke *(AW-teh-luke)* is an impulsive, aggressive Wizard who is the main agent of the Circle of Eight in the Free City of Greyhawk (see chapter 5). He holds a position of political power and keeps his membership in the Circle of Eight secret. He is best known for his spells that create magical spheres (detailed in the "Player's Handbook").
+Otiluke *(AW-teh-luke)* is an impulsive, aggressive Wizard who is the main agent of the Circle of Eight in the Free City of Greyhawk (see chapter 5). He holds a position of political power and keeps his membership in the Circle of Eight secret. He is best known for his spells that create magical spheres (detailed in the).
 
 ## Otto
 
@@ -231,7 +231,7 @@ In the past few years, hardy folk from the cities of Neverwinter and Waterdeep h
 
 The Prince of Frost is a son of Titania, the Summer Queen. He was once known as the Sun Prince, but his heart grew cold when he was spurned by the fey noble he loved. He is now a creature of wrath and winter, ruling from his Fortress of Frozen Tears in the Vale of Long Night in the Feywild (see chapter 6). He detests mortals of the Material Plane and dreams of covering their many worlds with perpetual winter.
 
-![The Prince of Frost](/Rules/Source/books/dungeon-masters-guide-2024/img/208-11-005-the-prince-of-frost.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/208-11-005-the-prince-of-frost.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/208-11-005-the-prince-of-frost.webp)
 
 ## Queen of Air and Darkness, The
 
@@ -243,7 +243,7 @@ The Raven Queen is a being of mystery. Those who claim to have encountered her h
 
 Despite all attempts to demystify her, the Raven Queen has remained enigmatic and aloof. She rules from her Raven Throne within the Fortress of Memories, a mazelike castle deep within the bleakness of the Shadowfell (see chapter 6). From there she sends out her raven servants to find interesting souls she can pluck from the planes of existence. Once these souls are in the Shadowfell, she watches as they attempt to unravel the mystery of their being.
 
-![The Raven Queen](/Rules/Source/books/dungeon-masters-guide-2024/img/209-11-006-the-raven-queen.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/209-11-006-the-raven-queen.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/209-11-006-the-raven-queen.webp)
 
 ## Rock of Bral, The
 
@@ -275,7 +275,7 @@ In the centuries since his transformation, Strahd's lust for life has grown. He 
 
 Titania, the Summer Queen, is the regal and charismatic ruler of the Summer Court in the Feywild (see chapter 6). Perhaps the mightiest of the archfey, she can ripen a crop with a smile and summon wildfires with the merest crinkling of her brow.
 
-![The Summer Queen](/Rules/Source/books/dungeon-masters-guide-2024/img/210-11-007-the-summer-queen.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/210-11-007-the-summer-queen.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/210-11-007-the-summer-queen.webp)
 
 ## Sword Coast, The
 
@@ -325,7 +325,7 @@ Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order
 
 Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
 
-![Vecna](/Rules/Source/books/dungeon-masters-guide-2024/img/211-11-008-vecna.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/211-11-008-vecna.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/211-11-008-vecna.webp)
 
 ## Venger
 
@@ -347,7 +347,7 @@ Waterdeep is the most famous and cosmopolitan city in the Forgotten Realms setti
 
 Xanathar *(ZAN-a-thar)* is an eccentric beholder crime lord dwelling beneath Waterdeep. Desiring to know all there is to know, Xanathar collects knowledge from across the multiverse, but its most prized possession is its goldfish, Sylgar.
 
-![Xanathar is a tyrannical c...](/Rules/Source/books/dungeon-masters-guide-2024/img/212-11-009-xanathar.webp#center "Xanathar is a tyrannical crime lord as well as a beholder")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/212-11-009-xanathar.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/212-11-009-xanathar.webp)
 
 ## Yawning Portal, The
 
@@ -355,7 +355,7 @@ The Yawning Portal is a tavern in Waterdeep, built around an entrance to the inf
 
 ## Yolande
 
-Yolande *(yoh-LAWND*), known as the Faerie Queen, is the benevolent and beloved elf monarch of Celene (see "chapter 5"). Raised in the court of the Summer Queen, Yolande had no wish to rule. She preferred the life of an adventuring magic-user. She built her reputation on triumphs, such as her capture of the fomorian brigand Solgna and the theft of the Prince of Frost's sentient sword, *Winterflash*. Yolande was among the first elves to migrate from the Feywild to the Greyhawk setting.
+Yolande *(yoh-LAWND*), known as the Faerie Queen, is the benevolent and beloved elf monarch of Celene (see). Raised in the court of the Summer Queen, Yolande had no wish to rule. She preferred the life of an adventuring magic-user. She built her reputation on triumphs, such as her capture of the fomorian brigand Solgna and the theft of the Prince of Frost's sentient sword, *Winterflash*. Yolande was among the first elves to migrate from the Feywild to the Greyhawk setting.
 
 ## Zagyg
 

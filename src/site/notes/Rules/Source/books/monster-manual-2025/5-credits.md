@@ -28,5 +28,5 @@
 ![/Rules/Source/books/monster-manual-2025/img/028-29-001-title-splash.webp\|center wmed](/img/user/Rules/Source/books/monster-manual-2025/img/028-29-001-title-splash.webp)
 
 > [!gallery]
-> ![On the Cover: On this cove...](/Rules/Source/books/monster-manual-2025/img/029-29-002-traditional-cover.webp#gallery "On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?")
-> ![On the Alt-Cover: Got some...](/Rules/Source/books/monster-manual-2025/img/030-29-003-alt-cover.webp#gallery "On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards.")
+> ![/Rules/Source/books/monster-manual-2025/img/029-29-002-traditional-cover.webp\|gallery wmed](/img/user/Rules/Source/books/monster-manual-2025/img/029-29-002-traditional-cover.webp)
+> ![/Rules/Source/books/monster-manual-2025/img/030-29-003-alt-cover.webp\|gallery wmed](/img/user/Rules/Source/books/monster-manual-2025/img/030-29-003-alt-cover.webp)

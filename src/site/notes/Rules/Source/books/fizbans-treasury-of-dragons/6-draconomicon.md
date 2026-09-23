@@ -53,7 +53,7 @@ How do the mindsets of red dragons and gold dragons differ? Where do they prefer
 
 
 
-![Fizban addresses a council...](/Rules/Source/books/fizbans-treasury-of-dragons/img/039-05-001-chapter-splash.webp#center "Fizban addresses a council of metallic dragons on a matter of crucial importance, probably unrelated to baked goods")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/039-05-001-chapter-splash.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/039-05-001-chapter-splash.webp)
 
 ## Using the Entries
 
@@ -95,27 +95,220 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to inspire your portrayal of distinctive amethyst dragon characters.
 
-![Creating an Amethyst Dragon; Amethyst Dragon Personality Traits](/Rules/Source/tables/creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd.md)
 
-![Creating an Amethyst Dragon; Amethyst Dragon Ideals](/Rules/Source/tables/creating-an-amethyst-dragon-amethyst-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating an Amethyst Dragon; Amethyst Dragon Personality Traits
+
+</div>
+
+
+
+# Creating an Amethyst Dragon; Amethyst Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 76* 
+
+**Amethyst Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I am never so content as when contemplating the beauty and wonders of the multiverse. |
+| 2 | I am a sworn protector against the depredations of the Far Realm, and I will root out its corruption wherever it may arise. |
+| 3 | What use is vast knowledge or insight if it is not shared with those who can appreciate it? |
+| 4 | Although some are fascinated by words, I think numbers are the true foundations of creation. |
+| 5 | To experience a thing is to truly understand it. Direct and personal experience is the most valuable form of knowledge. |
+| 6 | I see a far more kaleidoscopic reality than you do... or than any of your selves do, really. |
+| 7 | It is not my place to interfere. I merely seek to observe, learn, and understand. |
+| 8 | With a true understanding of metaphysics, anything is possible—including the creation of a more orderly and perfect cosmos than this one. |
+^amethyst-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-amethyst-dragon-amethyst-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating an Amethyst Dragon; Amethyst Dragon Ideals
+
+</div>
+
+
+
+# Creating an Amethyst Dragon; Amethyst Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 76* 
+
+**Amethyst Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Balance. Everything is a complex interaction of forces that must be kept in a delicate and carefully maintained balance. (Neutral) |
+| 2 | Knowledge. We are the whole of creation, seeking to understand itself. (Any) |
+| 3 | Self-Improvement. I am a complex gem, and I constantly polish and refine my many facets to make the whole that much more perfect. (Any) |
+| 4 | Responsibility. Having knowledge and power gives one a responsibility to those who have less of either. (Lawful) |
+| 5 | Noble Obligation. My superior experience, intellect, and insight give me a duty to mediate disputes when I can. (Good) |
+| 6 | Power. Knowledge is power, power must be used, and I use it. Your concerns are irrelevant. (Evil) |
+^amethyst-dragon-ideals
+
+</div></div>
+
 
 ### Amethyst Dragon Adventures
 
 The Amethyst Dragon Adventure Hooks table offers suggestions for stories and adventures involving amethyst dragons.
 
-![Amethyst Dragon Adventures; Amethyst Dragon Adventure Hooks](/Rules/Source/tables/amethyst-dragon-adventures-amethyst-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/amethyst-dragon-adventures-amethyst-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Amethyst Dragon Adventures; Amethyst Dragon Adventure Hooks
+
+</div>
+
+
+
+# Amethyst Dragon Adventures; Amethyst Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 76* 
+
+**Amethyst Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | An amethyst dragon seeks a rare type of crystal found in the domain of a territorial stone giant clan. |
+| 2 | A coven of hags seeks to reclaim its hag eye, which rests within an amethyst dragon's hoard. |
+| 3 | An amethyst dragon magically disables all teleportation within a thousand miles of their lair. Governments within that area seek emissaries who can negotiate an end to the restriction. |
+| 4 | An amethyst dragon recruits a group of adventurers to psychically trade bodies with adventurers from another world, so that each can carry out certain tasks before swapping back. |
+| 5 | A cult devoted to a Great Old One of the Far Realm seeks an alien monolith that can summon its master, but the site is guarded by an amethyst dragon. |
+| 6 | An [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]] is actually the temporally displaced form of an [[Rules/Source/bestiary/dragon/ancient-amethyst-dragon-ftd\|ancient amethyst dragon]] who already exists in the same time line. |
+| 7 | An amethyst dragon seeks the means to plant special crystals that will allow the dragon to magically coexist in multiple places at once across the world during a rare celestial alignment. |
+| 8 | An amethyst dragon is fusing with their echoes on other worlds. They all hope to ascend to godhood, perhaps recreating or replacing Sardior. |
+^amethyst-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Amethyst dragons are generally aloof creatures, dwelling in isolation for long periods of time and rarely cultivating connections with other creatures. When they do connect with others, it is most often for intellectual and philosophical pursuits or to fulfill some arcane purpose involving the dragons' echoes across the worlds.
 
-![Connected Creatures; Amethyst Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-amethyst-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Amethyst Dragon Connections](/Rules/Source/tables/connected-creatures-young-amethyst-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-amethyst-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Amethyst Dragon Connections](/Rules/Source/tables/connected-creatures-adult-amethyst-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Amethyst Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-amethyst-dragon-connections-ftd.md)
+# Connected Creatures; Amethyst Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Amethyst Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 77* 
+
+**Amethyst Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]] is in the care of a cloistered religious order of scribes. |
+| 2 | A half-amethyst dragon cares for an [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]] sibling after the disappearance of their dragon parent. |
+| 3 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|violet faerie dragon]] is the playmate and guardian of an [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]]. |
+| 4 | An [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]] lives alone in a lair, cared for by a cadre of animated objects. |
+| 5 | A cloister of [[Rules/Source/bestiary/aberration/flumph-xmm\|flumphs]] protects an [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]] while feeding on the wyrmling's excess psionic energy. |
+| 6 | A circle of druids looks after an [[Rules/Source/bestiary/dragon/amethyst-dragon-wyrmling-ftd\|amethyst dragon wyrmling]] lairing in the circle's mountain tarn. |
+^amethyst-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-amethyst-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Amethyst Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Amethyst Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 77* 
+
+**Young Amethyst Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A myconid community dwells in tunnels near a [[Rules/Source/bestiary/dragon/young-amethyst-dragon-ftd\|young amethyst dragon's]] lair, and its members telepathically commune with the dragon and any visitors in the lair from time to time. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-amethyst-dragon-ftd\|young amethyst dragon]] and a [[Rules/Source/bestiary/aberration/githzerai-zerth-xmm\|githzerai zerth]] travel together, learning about the multiverse. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-amethyst-dragon-ftd\|young amethyst dragon]] wants to take over the cavern lair of a [[Rules/Source/bestiary/monstrosity/hydra-xmm\|hydra]]. |
+| 4 | A deep pool in a [[Rules/Source/bestiary/dragon/young-amethyst-dragon-ftd\|young amethyst dragon's]] lair leads to the underground domain of an [[Rules/Source/bestiary/aberration/aboleth-xmm\|aboleth]] the dragon has been seeking to eliminate. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-amethyst-dragon-ftd\|young amethyst dragon]] and a [[Rules/Source/bestiary/giant/cloud-giant-xmm\|cloud giant]] regularly host each other to play strategy games. |
+| 6 | [[Rules/Source/bestiary/celestial/pegasus-xmm\|Pegasi]] nesting in the mountain heights are under the protection of a [[Rules/Source/bestiary/dragon/young-amethyst-dragon-ftd\|young amethyst dragon]]. |
+^young-amethyst-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-amethyst-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Amethyst Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Amethyst Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 77* 
+
+**Adult Amethyst Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | [[Rules/Source/bestiary/elemental/merfolk-skirmisher-xmm\|Merfolk]] dwelling near an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon's]] lair are under threat from [[Rules/Source/bestiary/fiend/sahuagin-warrior-xmm\|sahuagin]] raiders. |
+| 2 | Clusters of [[Rules/Source/bestiary/plant/shrieker-fungus-xmm\|shriekers]] serve as a warning system in the tunnels of an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon's]] lair. |
+| 3 | The Enlightened Dragon Master of an isolated monastery is, in fact, an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon]]. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon]] is at war with a [[Rules/Source/bestiary/aberration/beholder-xmm\|beholder]] that has moved into the dragon's domain. |
+| 5 | [[Rules/Source/bestiary/elemental/xorn-xmm\|Xorn]] serve as lookouts and spies for an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon]] who rewards them with gems. |
+| 6 | To repay a favor long owed to a monastery of githzerai warrior-monks, an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon]] sends them aid against a [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayer]] colony. |
+| 7 | An apostate community of githyanki follows the tutelage of an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon]], who safeguards their creche on the Material Plane. |
+| 8 | The crystal-infused clay near an [[Rules/Source/bestiary/dragon/adult-amethyst-dragon-ftd\|adult amethyst dragon's]] lair is ideal for the creation of [[Rules/Source/bestiary/construct/clay-golem-xmm\|clay golems]], and the dragon can perceive everything those golems do. |
+^adult-amethyst-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-amethyst-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Amethyst Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Amethyst Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 77* 
+
+**Ancient Amethyst Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | A yuan-ti cult known as the Serpents of the Dreaming City draws power from an [[Rules/Source/bestiary/dragon/ancient-amethyst-dragon-ftd\|ancient amethyst dragon]], which the cultists keep in eternal slumber with braziers of enchanted smoke. |
+| 2 | A rogue [[Rules/Source/bestiary/monstrosity/purple-worm-xmm\|purple worm]] swallowed a large portion of an amethyst dragon's hoard before burrowing back into the deep Underdark. The dragon has a magic crystal that can trace the worm's movement. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-amethyst-dragon-ftd\|ancient amethyst dragon]] is able to awaken psionic potential in others, and many of the greatest psi warriors in history were the dragon's students. |
+| 4 | After centuries guarding the world against incursions from the Far Realm, an [[Rules/Source/bestiary/dragon/ancient-amethyst-dragon-ftd\|ancient amethyst dragon]] has been corrupted by aberrant influences and now leads a cult the dragon once opposed. |
+^ancient-amethyst-dragon-connections
+
+</div></div>
+
 
 > [!note] Eldenser the Lurker
 > 
@@ -132,8 +325,8 @@ Amethyst dragons prefer lairs near water, ideally mountain lakes, where they tak
 Amethyst dragon lairs frequently exhibit or develop large and beautiful clusters of amethyst crystals, including massive cathedral geodes split open to show their contents and clusters of crystal points more than a foot in diameter that extend six to ten feet from the interior stone surfaces of the lair. These crystals resonate with the dragon's presence, and glow with a soft inner light. The older the dragon, the deeper the purple color of the crystals.
 
 > [!gallery]
-> ![Map 5.1: amethyst dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/040-map-5-1-amethyst-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/040-map-5-1-amethyst-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/040-map-5-1-amethyst-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp)
 
 #### Amethyst Dragon Lair Features
 
@@ -151,7 +344,36 @@ Amethyst dragons often collect crystals and gems, particularly their namesake st
 
 Amethyst dragons favor treasures with particular scholarly or philosophical value as a part of their hoard, including fine books, scrolls, or carved tablets; tapestries or woven "tomes" of embroidered cloth; complex scientific instruments; and religious icons or objects. They are fond of unique and unusual art objects, especially those connected to far-off or long-lost cultures, other planes of existence, or other worlds—and of magic items that allow movement between those planes or worlds. The odd spatial nature of an amethyst dragon's lair can sometimes cause items to transpose between one dragon's hoard and the hoards of the dragon's echoes, allowing for treasures with a surprising range of origins.
 
-![Amethyst Dragon Treasures; Amethyst Dragon Art Objects](/Rules/Source/tables/amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Amethyst Dragon Treasures; Amethyst Dragon Art Objects
+
+</div>
+
+
+
+# Amethyst Dragon Treasures; Amethyst Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 79* 
+
+**Amethyst Dragon Art Objects**
+
+| dice: d8 | Object |
+|----------|--------|
+| 1 | A complex orrery of the planes of existence made of engraved movable plates of precious metals and set with gemstones |
+| 2 | A two-foot-long rod of pale crystal that gives off eerie sounds when touched, with the tone varying up and down the length of the rod |
+| 3 | A life-sized human skull carved from a single piece of crystal, including a hollow interior |
+| 4 | A beautifully engraved gong, 3 feet in diameter, suspended from an ornate, inlaid frame |
+| 5 | A crystal singing bowl etched with mantras in Gith, accompanied by an inlaid wooden mallet |
+| 6 | A beautifully illuminated treatise on the planes of existence, bound in ebony covers with metal corner caps and a cover boss set with polished gems |
+| 7 | An etched crystal that projects a star map showing an unfamiliar star field and constellations when set on top of a light source |
+| 8 | A ring in the shape of a coiling dragon, with tiny gemstones for eyes |
+^amethyst-dragon-art-objects
+
+</div></div>
+
 
 ## Black Dragons
 
@@ -165,29 +387,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Black Dragon Personality Traits and Black Dragon Ideals tables to inspire your portrayal of distinctive black dragon characters, and use the Black Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Black Dragon; Black Dragon Personality Traits](/Rules/Source/tables/creating-a-black-dragon-black-dragon-personality-traits-ftd.md)
 
-![Creating a Black Dragon; Black Dragon Ideals](/Rules/Source/tables/creating-a-black-dragon-black-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-black-dragon-black-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Black Dragon; Black Dragon Spellcasting](/Rules/Source/tables/creating-a-black-dragon-black-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Black Dragon; Black Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Black Dragon; Black Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 80* 
+
+**Black Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I demonstrate my brilliance through the cruel subtlety of my actions. |
+| 2 | Watching the works of lesser beings crumble and fall into ruin fills me with joy. |
+| 3 | I never confront a threat directly when deceit and skulduggery are available options. |
+| 4 | Subjugating others is preferable to destroying them. Thralls make life so much more pleasant. |
+| 5 | I will go to great lengths to obtain deadly new magical knowledge. |
+| 6 | Nothing lasts forever. But I promise to outlast you. |
+| 7 | I have witnessed the rise and fall of civilizations. What consideration does a creature as pitiful and short-lived as you deserve? |
+| 8 | Collecting antiquities and learning why lost cultures vanished are my reasons for existing. If you can help me in that, I'll let you live. |
+^black-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-black-dragon-black-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Black Dragon; Black Dragon Ideals
+
+</div>
+
+
+
+# Creating a Black Dragon; Black Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 80* 
+
+**Black Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Envy. If the achievements of others cannot be eclipsed, they can always be torn down. (Evil) |
+| 2 | Acquisitiveness. Possessing what others covet is immensely satisfying. (Any) |
+| 3 | Cunning. Destroying your foes without exposing yourself to danger is an art. (Evil) |
+| 4 | Adaptability. It is not the most powerful, but the most flexible who survive. (Chaotic) |
+| 5 | Patience. There's no need to rush a poorly constructed plan when time is on your side. (Any) |
+| 6 | Serenity. Observing a culture sliding into oblivion along the trek of time puts life in perspective. (Any) |
+^black-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-black-dragon-black-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Black Dragon; Black Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Black Dragon; Black Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 80* 
+
+**Black Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|Young]] | 13 | [[Rules/Source/spells/blindness-deafness-xphb\|blindness/deafness]], [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]] |
+| [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|Adult]] | 16 | [[Rules/Source/spells/blindness-deafness-xphb\|blindness/deafness]], [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/plant-growth-xphb\|plant growth]] |
+| [[Rules/Source/bestiary/dragon/ancient-black-dragon-xmm\|Ancient]] | 19 | [[Rules/Source/spells/blindness-deafness-xphb\|blindness/deafness]], [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/insect-plague-xphb\|insect plague]], [[Rules/Source/spells/plant-growth-xphb\|plant growth]] |
+^black-dragon-spellcasting
+
+</div></div>
+
 
 ### Black Dragon Adventures
 
 The Black Dragon Adventure Hooks table offers suggestions for stories and adventures involving black dragons.
 
-![Black Dragon Adventures; Black Dragon Adventure Hooks](/Rules/Source/tables/black-dragon-adventures-black-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/black-dragon-adventures-black-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Black Dragon Adventures; Black Dragon Adventure Hooks
+
+</div>
+
+
+
+# Black Dragon Adventures; Black Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 80* 
+
+**Black Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A black dragon recently took control of a band of pirates and their backwater hideout. Emboldened, the pirates have started raiding nearby shipping lanes. |
+| 2 | A conflict-averse black dragon is secretly spraying an alchemical defoliant on local farmland to push people living in the area away from the dragon's lair. The resulting famine is devastating the countryside. |
+| 3 | Rival realms are secretly being driven to war by the machinations of a black dragon, who hopes to revel in the resulting carnage. |
+| 4 | When swamplands shrink due to a prolonged drought, two black dragons form a temporary alliance to destroy a nearby town for more living space. |
+| 5 | The acidic bile of a black dragon is the only substance able to melt the lock of a despot's vault. |
+| 6 | A potent artifact is rumored to lie in the ruins where a black dragon dwells. |
+| 7 | A group of adventurers and a black dragon are hunting the same treasure in the ruins of a partially sunken city. |
+| 8 | A black dragon with epicurean tastes is poaching game in a noble's hunting preserve at a frightening pace. |
+^black-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Black dragons prefer the company of creatures that are easy to control and present little threat of betrayal. Mindless Undead, shambling mounds, carnivorous flora, Oozes, and Constructs make appealing servants, especially working in concert with a black dragon's fiendishly clever traps. A black dragon's intelligent followers tend to worship draconic majesty and typically include kobolds, troglodytes, lizard folk, and (more rarely) yuan-ti.
 
-![Connected Creatures; Black Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-black-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Black Dragon Connections](/Rules/Source/tables/connected-creatures-young-black-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-black-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Black Dragon Connections](/Rules/Source/tables/connected-creatures-adult-black-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Black Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-black-dragon-connections-ftd.md)
+# Connected Creatures; Black Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Black Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 81* 
+
+**Black Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | After breaking free from captivity at the hands of a cocky mage, a cunning [[Rules/Source/bestiary/dragon/black-dragon-wyrmling-xmm\|black dragon wyrmling]] claimed the mage's amulet—and the suits of [[Rules/Source/bestiary/construct/animated-armor-xmm\|animated armor]] the amulet controls. |
+| 2 | A band of [[Rules/Source/bestiary/monstrosity/troglodyte-xmm\|troglodytes]] is cowed into serving a [[Rules/Source/bestiary/dragon/black-dragon-wyrmling-xmm\|black dragon wyrmling]] as bodyguards. |
+| 3 | The recent appearance of a [[Rules/Source/bestiary/dragon/black-dragon-wyrmling-xmm\|black dragon wyrmling]] has altered the local ecosystem, allowing various types of blights to spread prodigiously and upset nature's balance. |
+| 4 | A [[Rules/Source/bestiary/dragon/black-dragon-wyrmling-xmm\|black dragon wyrmling]] is setting cunning traps along local roadways, hoping to injure horses and draft animals for easy butchering. |
+| 5 | Kobolds dwelling under a tropical city serve as safecrackers and tunneling burglars to amass treasure for their beloved [[Rules/Source/bestiary/dragon/black-dragon-wyrmling-xmm\|black dragon wyrmling]] master. |
+| 6 | A gnome relic hunter looting a long-abandoned city strikes up an unlikely partnership with a [[Rules/Source/bestiary/dragon/black-dragon-wyrmling-xmm\|black dragon wyrmling]] to plunder an archaeological dig. |
+^black-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-black-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Black Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Black Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 81* 
+
+**Young Black Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|young black dragon]] with a talent for alchemy has weaponized the spores of a myconid colony. |
+| 2 | A [[Rules/Source/bestiary/monstrosity/merrow-xmm\|merrow]] war band has negotiated an alliance with a [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|young black dragon]] to sack a nearby trading port. |
+| 3 | A pack of [[Rules/Source/bestiary/undead/ghoul-xmm\|ghouls]] infesting a necropolis serve as a [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|young black dragon's]] bodyguards and enforcers. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|young black dragon]] has cultivated an awakened carnivorous plant (use the [[Rules/Source/bestiary/plant/awakened-tree-xmm\|awakened tree]] stat block) as a lair guardian and has been abducting travelers to feed the plant creature. |
+| 5 | Lizardfolk worshiping a [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|young black dragon]] have been raiding a local fishing community. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-black-dragon-xmm\|young black dragon]] has struck up a mutual assistance pact with a [[Rules/Source/bestiary/aberration/roper-xmm\|roper]] that haunts the ruins outside the dragon's lair. |
+^young-black-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-black-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Black Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Black Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 81* 
+
+**Adult Black Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] has learned to domesticate swamp-bred [[Rules/Source/bestiary/monstrosity/chimera-xmm\|chimeras]] as guardians and has sold a few of the creatures to local warlords. |
+| 2 | A cult of assassins worships an [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] as an avatar of their deity. The dragon now uses the cult to destabilize the local sovereign's rule. |
+| 3 | Ruins rumored to hold the treasury of a lost empire are guarded by an elaborate network of ooze-based traps designed by a restless [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]]. |
+| 4 | The appearance of a [[Rules/Source/bestiary/fiend/spirit-naga-xmm\|spirit naga]] in the domain of an [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] encourages the dragon to study necromancy. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] has hidden a cache of gems in a dismal topiary maze filled with [[Rules/Source/bestiary/plant/shambling-mound-xmm\|shambling mounds]], traps, and noxious plant life, all for the amusement of testing adventurers. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] has bound [[Rules/Source/bestiary/elemental/water-elemental-xmm\|water elementals]] to the task of bringing food to the dragon's lair. |
+| 7 | A bullywug community seeks help to defeat an [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] who has been feasting on the bullywugs' domesticated [[Rules/Source/bestiary/beast/giant-frog-xmm\|giant frogs]]. |
+| 8 | Two nations—one led by an [[Rules/Source/bestiary/dragon/adult-black-dragon-xmm\|adult black dragon]] and the other by a [[Rules/Source/bestiary/monstrosity/yuan-ti-abomination-xmm\|yuan-ti abomination]]—are on the brink of joining forces to destroy a third nation. The threatened nation is recruiting adventurers to defend it. |
+^adult-black-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-black-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Black Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Black Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 81* 
+
+**Ancient Black Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-black-dragon-xmm\|ancient black dragon]], after studying blasphemous texts dedicated to alien gods, issues a warning that a corrupted [[Rules/Source/bestiary/celestial/planetar-xmm\|planetar]] will soon fall to earth like a meteor in the fens outside a great city's walls. |
+| 2 | An illithid community has spent nearly a millennium raising and preparing a black dragon to become an [[Rules/Source/bestiary/aberration/elder-brain-dragon-ftd\|elder brain dragon]] (described in chapter 6), so the [[Rules/Source/bestiary/aberration/elder-brain-mpmm\|elder brain]] can wreak ruin upon its rivals. |
+| 3 | The decades-long machinations of an [[Rules/Source/bestiary/dragon/ancient-black-dragon-xmm\|ancient black dragon]] and an evil [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] are nearing fruition. If their pact succeeds, they will unleash devastation on a continental scale. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-black-dragon-xmm\|ancient black dragon]] rules a vast, decadent city built on artificial islands within a polluted lake. The site is threatened with destruction by an enraged [[Rules/Source/bestiary/humanoid/archdruid-mpmm\|archdruid]]—but destroying the city means thousands of innocents will die. |
+^ancient-black-dragon-connections
+
+</div></div>
+
 
 ### Black Dragon Lairs
 
@@ -196,8 +635,8 @@ Black dragons prefer to lair in swamps and jungles—the more dismal and fetid, 
 When choosing their lairs, black dragons are fond of locations that are naturally constraining and confounding. Whether adventurers seeking the dragon must wind their way through the roots of an ancient mangrove swamp or brave a trap-filled boggy ruin, the experience promises to be a deadly affair.
 
 > [!gallery]
-> ![Map 5.2: black dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/042-map-5-2-black-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/043-map-5-2-black-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/042-map-5-2-black-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/042-map-5-2-black-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/043-map-5-2-black-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/043-map-5-2-black-dragon-lair-player.webp)
 
 #### Black Dragon Lair Features
 
@@ -243,7 +682,38 @@ Most black dragons keep their treasure well hidden and have a private viewing ro
 
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/044-05-002.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/044-05-002.webp)
 
-![Black Dragon Treasures; Black Dragon Art Objects](/Rules/Source/tables/black-dragon-treasures-black-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/black-dragon-treasures-black-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Black Dragon Treasures; Black Dragon Art Objects
+
+</div>
+
+
+
+# Black Dragon Treasures; Black Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 84* 
+
+**Black Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | An elegant necklace owned by a beloved noble who disappeared years ago |
+| 2 | Stone carvings representing a pantheon of deities that passed from common knowledge long ago |
+| 3 | The lost secret to forging an alloy imbued with arcane potential, etched on twelve metal disks the size of dinner plates |
+| 4 | A sealed platinum flask containing the last known aqua vitae created by a master dwarf distiller |
+| 5 | A ceremonial longsword with an embossed silver hilt and a blade of amber |
+| 6 | A lavishly illustrated genealogy kept in a magically sealed container that disputes a current monarch's right to the throne |
+| 7 | Heretical religious symbols carved on a trio of gemstones the size of apples |
+| 8 | An elaborately carved mask representing a god of harvest and fertility |
+| 9 | Metal horn caps inset with gems, made for the dragon by loyal cultists |
+| 10 | A beautifully enameled urn holding the desiccated heart of the dragon's former green dragon rival |
+^black-dragon-art-objects
+
+</div></div>
+
 
 ## Blue Dragons
 
@@ -257,31 +727,248 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Blue Dragon Personality Traits and Blue Dragon Ideals tables to inspire your portrayal of distinctive blue dragon characters, and use the Blue Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Blue Dragon; Blue Dragon Personality Traits](/Rules/Source/tables/creating-a-blue-dragon-blue-dragon-personality-traits-ftd.md)
 
-![Creating a Blue Dragon; Blue Dragon Ideals](/Rules/Source/tables/creating-a-blue-dragon-blue-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-blue-dragon-blue-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Blue Dragon; Blue Dragon Spellcasting](/Rules/Source/tables/creating-a-blue-dragon-blue-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Blue Dragon; Blue Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Blue Dragon; Blue Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 85* 
+
+**Blue Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I enforce order and social hierarchies because I believe this is how strong societies are built. |
+| 2 | Why waste time and energy murdering weaker creatures when I can make them entertain me instead? |
+| 3 | My children, whether born to me or chosen by me, are treasures. |
+| 4 | Nothing is funnier than tricking a thirsty traveler into drinking a mouthful of sand. |
+| 5 | I have standards for my hoard. Not just any gem or trinket will do. |
+| 6 | I'm so pleased with myself and my own good fortune that I can't stop laughing or chuckling. |
+| 7 | I would rather destroy my lair and lose my hoard than allow anyone to steal from me. |
+| 8 | I am sometimes secretly impressed by what other peoples can accomplish with the proper guidance. |
+^blue-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-blue-dragon-blue-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Blue Dragon; Blue Dragon Ideals
+
+</div>
+
+
+
+# Creating a Blue Dragon; Blue Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 85* 
+
+**Blue Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Order. Life is best when everyone is part of a hierarchy and rules are clear and consistent. (Lawful) |
+| 2 | Humor. Lesser beings exist to be my playthings, and I excel at finding ways to toy with them. (Evil) |
+| 3 | Taste. I value my possessions for more than just their beauty and consider gauche displays of wealth a sign of inferiority. (Any) |
+| 4 | Family. Blood ties are irrevocable, and even if one doesn't particularly like one's family members, they come before anyone else. (Lawful) |
+| 5 | Display. One should never take risks or waste resources by using power if one can achieve the same results merely by the threat of power. (Any) |
+| 6 | Loyalty. I don't form bonds with those outside my kindred often. But when I do, I am an unshakable and powerful ally. (Good) |
+^blue-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-blue-dragon-blue-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Blue Dragon; Blue Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Blue Dragon; Blue Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 85* 
+
+**Blue Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|Young]] | 15 | [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/major-image-xphb\|major image]] |
+| [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|Adult]] | 17 | [[Rules/Source/spells/arcane-eye-xphb\|arcane eye]], [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/major-image-xphb\|major image]] |
+| [[Rules/Source/bestiary/dragon/ancient-blue-dragon-xmm\|Ancient]] | 20 | [[Rules/Source/spells/arcane-eye-xphb\|arcane eye]], [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/major-image-xphb\|major image]], [[Rules/Source/spells/project-image-xphb\|project image]] |
+^blue-dragon-spellcasting
+
+</div></div>
+
 
 ### Blue Dragon Adventures
 
 The Blue Dragon Adventure Hooks table offers suggestions for stories and adventures involving blue dragons.
 
-![Blue Dragon Adventures; Blue Dragon Adventure Hooks](/Rules/Source/tables/blue-dragon-adventures-blue-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/blue-dragon-adventures-blue-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blue Dragon Adventures; Blue Dragon Adventure Hooks
+
+</div>
+
+
+
+# Blue Dragon Adventures; Blue Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 85* 
+
+**Blue Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A blue dragon family demands tribute from desert communities in exchange for protection. |
+| 2 | Enraged at the loss of a wyrmling, a blue dragon is causing lightning storms to destroy coastal settlements and refuses to stop until someone delivers the adventurer responsible. |
+| 3 | A prosperous-looking city appears among the desert dunes, drawing explorers and treasure hunters aplenty, but it's an illusion created by a blue dragon. |
+| 4 | A blue dragon promises great wealth to anyone who offers worthy treasures—but eats anyone who misses the mark. |
+| 5 | A blue dragon recently acquired trunks full of dress clothes and costumes and is abducting people to put on a fashion show. |
+| 6 | A pair of blue dragons is hiring adventurers to find their missing egg, which appears to have been stolen by another blue dragon related to them. |
+| 7 | Rock slides have closed a mountain pass, and the only other road through the area wends through the territory of a blue dragon notorious for playing illusory tricks on travelers. |
+| 8 | [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|Blue dragon wyrmlings]] are playing deadly pranks on the people in their territory, and those people are afraid to ask the wyrmlings' parents to stop them. |
+^blue-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 In contrast to most chromatic dragons, blue dragons see value in relationships with other creatures, even if the power balance in those relationships is always weighted in the dragon's favor. Though territorial, they are willing to allow creatures they consider their servants to live peacefully within their domains. Blue dragons are also more family oriented than many other dragons, and it's not unusual to find a multigenerational extended family of blue dragons sharing a territory. Other creatures need to tread carefully in such a place, for any injury or insult to one of the dragons is considered a strike against the whole family.
 
-![Connected Creatures; Blue Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-blue-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Blue Dragon Connections](/Rules/Source/tables/connected-creatures-young-blue-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-blue-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Blue Dragon Connections](/Rules/Source/tables/connected-creatures-adult-blue-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Blue Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-blue-dragon-connections-ftd.md)
+# Connected Creatures; Blue Dragon Wyrmling Connections
 
-![Iymrith, &quot;Doom of the Dese...](/Rules/Source/books/fizbans-treasury-of-dragons/img/045-05-003-iymrith.webp#center "Iymrith, &quot;Doom of the Desert,&quot; flies above her lair")
+</div>
+
+
+
+# Connected Creatures; Blue Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 86* 
+
+**Blue Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A recently hatched brood of [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmlings]] has adopted a wounded [[Rules/Source/bestiary/dragon/pseudodragon-xmm\|pseudodragon]] as a sibling. |
+| 2 | A [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]] frequently wanders off to a nearby city, where the residents treat the wyrmling as royalty. |
+| 3 | A clan of druids has taken in an orphaned [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]], and its members are trying to teach the creature the value of compassion. |
+| 4 | A family of gnolls is holding a [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]] hostage in an attempt to force the wyrmling's parents to leave the gnolls' hunting grounds. |
+| 5 | Because of the friendship between a bandit leader's child and a [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]], the wyrmling's parents are considering allowing the bandits to move into the dragons' territory. |
+| 6 | The accidental death of a [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]] has caused a sibling to seek revenge. |
+^blue-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-blue-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Blue Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Blue Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 86* 
+
+**Young Blue Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon's]] family was killed, and the dragon is building a whole realm as a base for exterminating those responsible. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] claims the rule of a fast-growing city to impress the dragon's family. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] running a protection racket has run afoul of an [[Rules/Source/bestiary/elemental/efreeti-xmm\|efreeti]], who has decided the area would be better off without dragons. |
+| 4 | A tough but fair [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] leads a fanatically loyal mercenary squad. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] schemes to take over a [[Rules/Source/bestiary/celestial/guardian-naga-xmm\|guardian naga's]] ancient temple. |
+| 6 | A [[Rules/Source/bestiary/undead/mummy-lord-xmm\|mummy lord]] keeps a [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] bodyguard as a sign of power. |
+^young-blue-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-blue-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Blue Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Blue Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 86* 
+
+**Adult Blue Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]] rules a city and applies exacting standards of aesthetic perfection to everything and everyone in it, swiftly disposing of anyone who fails to meet those standards. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]] and an [[Rules/Source/bestiary/elemental/efreeti-xmm\|efreeti]] have formed a friendship over the decades. They now share a territory and assist one another in protecting it. |
+| 3 | Feeling unappreciated and disrespected in one family, an [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]] offers allegiance to a rival dragon family, setting off a blood feud. |
+| 4 | A pair of [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragons]] has decided to take over a thriving, wealthy city, whose governor is desperate to buy them off. |
+| 5 | Decades ago, a [[Rules/Source/bestiary/celestial/sphinx-of-lore-xmm\|gynosphinx]] insulted an [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]], earning the lasting enmity of a whole dragon family. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]] has adopted a half-blue dragon as an heir and is setting this heir up to be a puppet ruler. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]] plans to present a loyal bandit clan to a bronze dragon as a courting gift. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-blue-dragon-xmm\|adult blue dragon]] is obsessed with getting at the treasure guarded by a [[Rules/Source/bestiary/monstrosity/medusa-xmm\|medusa]]. |
+^adult-blue-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-blue-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Blue Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Blue Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 86* 
+
+**Ancient Blue Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-blue-dragon-xmm\|ancient blue dragon]] is worried that no members of the younger generation are strong enough to inherit the ancient dragon's territory, and this elder is trying to start a war to test the younger dragons and determine which, if any, might be a worthy heir. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-blue-dragon-xmm\|ancient blue dragon]] without offspring has adopted wyrmlings of various colors—including a number stolen from the wyrmlings' parents. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-blue-dragon-xmm\|ancient blue dragon]] is training an [[Rules/Source/bestiary/celestial/sphinx-of-valor-xmm\|androsphinx]] as heir to the region the dragon rules and searching for magic items that will allow the sphinx to control the weather as the dragon does. |
+| 4 | Under the pretense of helping an [[Rules/Source/bestiary/dragon/ancient-blue-dragon-xmm\|ancient blue dragon]] become a dracolich, an [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] is actually hoping to claim the dragon's vast hoard. |
+^ancient-blue-dragon-connections
+
+</div></div>
+
+
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/045-05-003-iymrith.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/045-05-003-iymrith.webp)
 
 ### Blue Dragon Lairs
 
@@ -290,8 +977,8 @@ Blue dragons make their lairs in deserts and other arid landscapes. They prefer 
 Though most blue dragons would be loath to the use the term themselves, their lairs are often surprisingly homey. They favor lairs that balance beauty and comfort and adorn them in soothing shades of blue, purple, and green.
 
 > [!gallery]
-> ![Map 5.3: blue dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/046-map-5-3-blue-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/047-map-5-3-blue-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/046-map-5-3-blue-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/046-map-5-3-blue-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/047-map-5-3-blue-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/047-map-5-3-blue-dragon-lair-player.webp)
 
 #### Blue Dragon Lair Features
 
@@ -338,7 +1025,36 @@ Blue dragons have strict standards for what treasures they allow into their hoar
 
 Blue dragons favor blue, purple, and green gemstones; art depicting oases and fountains; and fine textiles in cool colors. They also love scents that evoke storms and rain, and magic items that produce weather effects.
 
-![Blue Dragon Treasures; Blue Dragon Art Objects](/Rules/Source/tables/blue-dragon-treasures-blue-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/blue-dragon-treasures-blue-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blue Dragon Treasures; Blue Dragon Art Objects
+
+</div>
+
+
+
+# Blue Dragon Treasures; Blue Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 88* 
+
+**Blue Dragon Art Objects**
+
+| dice: d8 | Object |
+|----------|--------|
+| 1 | An intricately carved seal from a civilization that worshiped the dragon's ancestors as gods |
+| 2 | An extensive collection of elaborate jewelry, including a tiara, tail rings, and claw covers, which the dragon wears when meeting with supplicants |
+| 3 | A set of sculptures depicting the dragon's deceased relatives, all adorned with ground-up jewels |
+| 4 | A jeweled mosaic map of the dragon's territory |
+| 5 | A glass bell that creates the sound of rainstorms and thunder for 1 hour when struck |
+| 6 | An ornately tooled tome recording the lineages of all the blue dragon families in the area |
+| 7 | A massive geode that contains spectacular blue, purple, and black crystals |
+| 8 | A blue silk fan painted with ground gems that creates a briny breeze when hung from the ceiling |
+^blue-dragon-art-objects
+
+</div></div>
+
 
 ## Brass Dragons
 
@@ -352,29 +1068,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Brass Dragon Personality Traits and Brass Dragon Ideals tables to inspire your portrayal of distinctive brass dragon characters, and use the Brass Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Brass Dragon; Brass Dragon Personality Traits](/Rules/Source/tables/creating-a-brass-dragon-brass-dragon-personality-traits-ftd.md)
 
-![Creating a Brass Dragon; Brass Dragon Ideals](/Rules/Source/tables/creating-a-brass-dragon-brass-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-brass-dragon-brass-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Brass Dragon; Brass Dragon Spellcasting](/Rules/Source/tables/creating-a-brass-dragon-brass-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Brass Dragon; Brass Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Brass Dragon; Brass Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 90* 
+
+**Brass Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I don't ask for much in a conversation partner—just smile, occasionally nod, and stay awake! |
+| 2 | I'm skilled at making others feel that I'm interested in the details of their tiny, meaningless lives. |
+| 3 | Every word I say is worth hearing, so I speak loudly and eloquently to make sure I get my point across. |
+| 4 | I don't care about the opinions of creatures that are less intelligent than I am. But I'm fascinated by creatures that are significantly more intelligent. |
+| 5 | Hoarding knowledge is no fun. It's best when you can trade knowledge away for treasure. |
+| 6 | I'm fascinated by intelligence with no brain—talking swords, sapient Constructs, and the like. |
+| 7 | I love hearing stories and songs and sharing them with others to bring comfort and calm. |
+| 8 | I have no patience for people who imagine their lives are the least bit important. |
+^brass-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-brass-dragon-brass-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Brass Dragon; Brass Dragon Ideals
+
+</div>
+
+
+
+# Creating a Brass Dragon; Brass Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 90* 
+
+**Brass Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Curiosity. The best way to show you value others is to learn as much as you can about them. (Good) |
+| 2 | Perspective. Everyone sees things differently, so if you want to know about the world, gather as many different points of view as you can. (Any) |
+| 3 | Knowledge. What's the point of living for centuries if you don't learn all there is to know? (Any) |
+| 4 | Self-Determination. All creatures have the right to make their own decisions about their lives and ultimate destinies. (Chaotic) |
+| 5 | Compassion. Sharing each other's pain and loss brings us all closer to peace and unity. (Good) |
+| 6 | Cruelty. The most hilarious thing about lesser creatures who think they're important is how outraged they get when I hurt them. (Evil) |
+^brass-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-brass-dragon-brass-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Brass Dragon; Brass Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Brass Dragon; Brass Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 90* 
+
+**Brass Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|Young]] | 13 | [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+| [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|Adult]] | 16 | [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]], [[Rules/Source/spells/suggestion-xphb\|suggestion]] |
+| [[Rules/Source/bestiary/dragon/ancient-brass-dragon-xmm\|Ancient]] | 18 | [[Rules/Source/spells/create-or-destroy-water-xphb\|create or destroy water]], [[Rules/Source/spells/locate-creature-xphb\|locate creature]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]], [[Rules/Source/spells/suggestion-xphb\|suggestion]] |
+^brass-dragon-spellcasting
+
+</div></div>
+
 
 ### Brass Dragon Adventures
 
 The Brass Dragon Adventure Hooks table offers suggestions for stories and adventures involving brass dragons.
 
-![Brass Dragon Adventures; Brass Dragon Adventure Hooks](/Rules/Source/tables/brass-dragon-adventures-brass-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/brass-dragon-adventures-brass-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Brass Dragon Adventures; Brass Dragon Adventure Hooks
+
+</div>
+
+
+
+# Brass Dragon Adventures; Brass Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 90* 
+
+**Brass Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A brass dragon has discovered an unfamiliar settlement and is determined to learn everything about the site's inhabitants, drastically disrupting the inhabitants' lives. |
+| 2 | A brass dragon is the secret power behind the throne in an aggressively colonizing realm, using this position to learn about neighboring realms without regard for the consequences. |
+| 3 | A brass dragon is the most likely source of crucial information about how to stop an extraplanar incursion that coincides with a certain comet's arrival. |
+| 4 | A caravan is being held captive by a brass dragon who is delighted to have such wonderfully diverse conversation partners. |
+| 5 | Offended by the sudden departure of a rude guest, a brass dragon rampages through a nearby settlement—and demands the return of a treasure the guest stole. |
+| 6 | An intelligent magic item in a brass dragon's hoard sends out a telepathic distress call, wanting to be rescued so it can be used for its intended purpose. |
+| 7 | A windstorm uncovers part of a brass dragon's hoard, and various people and creatures carry off parts of it. The dragon wants every scattered coin and trinket back. |
+| 8 | A brass dragon, tired of the increasing traffic, starts leading caravans away from safe water sources and stranding them in the desert. |
+^brass-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Brass dragons seek out the company of other creatures that can carry on an intelligent conversation. They favor the company of such creatures over all others, often to the point of not bothering to gather minions to do their bidding and ignoring worshipers who fawn over them.
 
-![Connected Creatures; Brass Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-brass-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Brass Dragon Connections](/Rules/Source/tables/connected-creatures-young-brass-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-brass-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Brass Dragon Connections](/Rules/Source/tables/connected-creatures-adult-brass-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Brass Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-brass-dragon-connections-ftd.md)
+# Connected Creatures; Brass Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Brass Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 91* 
+
+**Brass Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | Captured by a band of gnolls, a [[Rules/Source/bestiary/dragon/brass-dragon-wyrmling-xmm\|brass dragon wyrmling]] is patiently trying to teach the gnolls to speak Draconic. |
+| 2 | Grieved by the fate of a former friend, a [[Rules/Source/bestiary/dragon/brass-dragon-wyrmling-xmm\|brass dragon wyrmling]] guards a tomb haunted by a [[Rules/Source/bestiary/undead/wight-xmm\|wight]]. |
+| 3 | Yuan-ti have captured a [[Rules/Source/bestiary/dragon/brass-dragon-wyrmling-xmm\|brass dragon wyrmling]] and are picking up the dragon's twisted sense of humor. |
+| 4 | A party of [[Rules/Source/bestiary/humanoid/bandit-xmm\|bandits]] stole a brass dragon egg, and now the hatched wyrmling is manipulating the bandits to do the dragon's whimsical bidding. |
+| 5 | A lost [[Rules/Source/bestiary/dragon/brass-dragon-wyrmling-xmm\|brass dragon wyrmling]] was raised by [[Rules/Source/bestiary/beast/hyena-xmm\|hyenas]] and now leads the pack. |
+| 6 | A [[Rules/Source/bestiary/humanoid/druid-xmm\|druid]] who tends a desert oasis has been keeping watch over several [[Rules/Source/bestiary/dragon/brass-dragon-wyrmling-xmm\|brass dragon wyrmlings]] since adventurers killed the wyrmlings' parents. |
+^brass-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-brass-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Brass Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Brass Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 91* 
+
+**Young Brass Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon]] and a [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] fight over territory. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon]] frequently visits a [[Rules/Source/bestiary/celestial/couatl-xmm\|couatl]] who is charged with guarding an ancient temple, sharing stories to help the couatl pass the years. |
+| 3 | A [[Rules/Source/bestiary/fiend/lamia-xmm\|lamia]] and a [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon]] lair in the same desert ruin, mostly leaving each other alone—but the lamia hopes to corrupt the dragon. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon's]] lair occasionally spawns [[Rules/Source/bestiary/elemental/air-elemental-xmm\|air elementals]] that roam around the area for a while, causing havoc before eventually dissipating. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon]] and a [[Rules/Source/bestiary/monstrosity/weretiger-xmm\|weretiger]] have become close friends as they try to keep a region safe from a growing horde of malicious gnolls. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon]] allowed a group of [[Rules/Source/bestiary/giant/cyclops-sentry-xmm\|cyclopes]] to shelter in the dragon's lair when they were harassed by a blue dragon. Now the cyclopes won't leave, so the dragon is trying to educate them. |
+^young-brass-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-brass-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Brass Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Brass Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 91* 
+
+**Adult Brass Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon]] enjoys trading riddles with a [[Rules/Source/bestiary/celestial/sphinx-of-lore-xmm\|gynosphinx]]. |
+| 2 | Long ago, an [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon]] swore service to a human priest, expecting to outlive the priest. But now the priest is a [[Rules/Source/bestiary/undead/mummy-lord-xmm\|mummy lord]], and the dragon remains bound to serve. |
+| 3 | An [[Rules/Source/bestiary/elemental/efreeti-xmm\|efreeti]] wants to claim an [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon's]] palatial lair and fabulous hoard. |
+| 4 | A pair of [[Rules/Source/bestiary/monstrosity/roc-xmm\|rocs]] have nested too close to an [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon's]] lair, and they harass the dragon whenever they can. |
+| 5 | A [[Rules/Source/bestiary/celestial/guardian-naga-xmm\|guardian naga]] charged with protecting an ancient artifact has decided that the artifact—as well as the naga—would be safer in an [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon's]] hoard than left alone in some crumbling ruin. |
+| 6 | A half-brass dragon [[Rules/Source/bestiary/monstrosity/yuan-ti-abomination-xmm\|yuan-ti abomination]] leads other yuan-ti in worshiping an [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon]] as a serpent god, much to the dragon's amusement. |
+| 7 | Two [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragons]] are rearing a clutch of wyrmlings together, and they allow the infant dragons to wreak innocent havoc on nearby settlements. |
+| 8 | A solitary [[Rules/Source/bestiary/dragon/adult-brass-dragon-xmm\|adult brass dragon]] has adopted a [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]] found starving in the desert. |
+^adult-brass-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-brass-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Brass Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Brass Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 91* 
+
+**Ancient Brass Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-brass-dragon-xmm\|ancient brass dragon]] once ruled a temple-state through a puppet sovereign, who is now a [[Rules/Source/bestiary/undead/mummy-lord-xmm\|mummy lord]] ruling a city of [[Rules/Source/bestiary/undead/ghoul-xmm\|ghouls]] that owe the dragon fealty. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-brass-dragon-xmm\|ancient brass dragon]] believes that a local [[Rules/Source/bestiary/celestial/sphinx-of-valor-xmm\|androsphinx]] is an insufferable know-it-all with no sense of humor and enjoys playing pranks on the sphinx. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-brass-dragon-xmm\|ancient brass dragon]] and an [[Rules/Source/bestiary/dragon/ancient-blue-dragon-xmm\|ancient blue dragon]] have a centuries-old rivalry, and each dragon manipulates adventurers into harassing the other. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-brass-dragon-xmm\|ancient brass dragon]] rules a mighty city whose folk have erected massive stone monuments to honor the dragon over the centuries. |
+^ancient-brass-dragon-connections
+
+</div></div>
+
 
 ### Brass Dragon Lairs
 
@@ -383,8 +1316,8 @@ Brass dragons prefer to make their lairs in hot, dry, rocky areas—desert canyo
 Brass dragons like their lairs to be spacious and well lit; many lairs feature windows or skylights to let sunlight in. They respect skillfully wrought stonework and often take over canyon fortresses and similar structures when they're abandoned by their original non-dragon builders. Brass dragons are also capable of fine stonework themselves, and many meticulously carve out grand halls and galleries in which to store and display their hoards.
 
 > [!gallery]
-> ![Map 5.4: brass dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/048-map-5-4-brass-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/048-map-5-4-brass-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/048-map-5-4-brass-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp)
 
 #### Brass Dragon Lair Features
 
@@ -417,7 +1350,7 @@ At your discretion, a legendary ([[Rules/Source/bestiary/dragon/adult-brass-drag
 
 Any of these effects might appear in the area around a brass dragon's lair, in addition to or instead of the effects described in the "Monster Manual":
 
-- **Cloud Companion.** A small, wispy cloud follows non-evil creatures as they journey within 6 miles of the dragon's lair. It changes direction as the creatures do, remaining interposed between them and the direct glare of the sun, and grants them advantage on saving throws to resist the effects of "extreme heat" (see the "Dungeon Master's Guide").  
+- **Cloud Companion.** A small, wispy cloud follows non-evil creatures as they journey within 6 miles of the dragon's lair. It changes direction as the creatures do, remaining interposed between them and the direct glare of the sun, and grants them advantage on saving throws to resist the effects of).  
 - **Talkative Denizens.** Creatures within 1 mile of the dragon's lair find pleasure in hearing the sound of their own voices. The air is filled with a deafening chorus of birds and small animals, and sapient creatures talk extensively.  
 
 ### Brass Dragon Treasures
@@ -426,7 +1359,38 @@ Brass dragons prefer yellow, orange, and brown gemstones that coordinate with th
 
 Brass dragons often invest items in their hoards with imagined personality. A wyrmling might have a favorite marble bust or onyx cameo to converse with, while an ancient dragon might have lively dialogues with an entire gallery of paintings, statues, and tapestries. A brass dragon who divides a hoard into separate caches often imagines those caches as individuals (or even groups of people) with independent personalities, and the dragon might spend time in different lairs to socialize with different "friends."
 
-![Brass Dragon Treasures; Brass Dragon Art Objects](/Rules/Source/tables/brass-dragon-treasures-brass-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/brass-dragon-treasures-brass-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Brass Dragon Treasures; Brass Dragon Art Objects
+
+</div>
+
+
+
+# Brass Dragon Treasures; Brass Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 94* 
+
+**Brass Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | A finely carved bust of a long-dead human ruler, which the dragon has named Cornelius and argues with incessantly |
+| 2 | An elegant locket holding a watercolor portrait of a dragonborn the dragon fondly calls Lux |
+| 3 | A polished platter engraved with an elaborate scene showing a person talking to a sphinx; the dragon likes to imagine being in the scene, dominating the conversation |
+| 4 | A sculpture depicting a pod of dolphins leaping among stone waves, all of which the dragon has named and imagines as pets |
+| 5 | A cameo pendant depicting a human woman the dragon calls "Bruno" and imagines to be a brilliant philosopher |
+| 6 | A statuette of an important deity, which the dragon calls by a diminutive version of the god's name and baby-talks to |
+| 7 | A large tapestry depicting a party of elves riding stags through the woods; the dragon has named all the stags and offers condolences on their being saddled and mounted |
+| 8 | A sculpted bird in an ornate cage; the dragon calls the bird Fweep and sings to it |
+| 9 | A large mirror in a frame studded with gemstones; the dragon likes to gaze in the mirror and imagine having a mate |
+| 10 | An idol of an obscure minor divinity; the dragon addresses it reverently as "O mighty Froglet" (its shape is only vaguely frog-like) |
+^brass-dragon-art-objects
+
+</div></div>
+
 
 ## Bronze Dragons
 
@@ -440,29 +1404,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Bronze Dragon Personality Traits and Bronze Dragon Ideals tables to inspire your portrayal of distinctive bronze dragon characters, and use the Bronze Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Bronze Dragon; Bronze Dragon Personality Traits](/Rules/Source/tables/creating-a-bronze-dragon-bronze-dragon-personality-traits-ftd.md)
 
-![Creating a Bronze Dragon; Bronze Dragon Ideals](/Rules/Source/tables/creating-a-bronze-dragon-bronze-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-bronze-dragon-bronze-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Bronze Dragon; Bronze Dragon Spellcasting](/Rules/Source/tables/creating-a-bronze-dragon-bronze-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Bronze Dragon; Bronze Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Bronze Dragon; Bronze Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 94* 
+
+**Bronze Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | The weakest creatures sometimes display the greatest courage. I respect all beings who risk their lives in defense of something greater than themselves. |
+| 2 | My payment is a matter of principle. Requiring even a small fee for my service allows those I help to preserve their dignity. It's really for your benefit. |
+| 3 | I have no time for chitchat or insinuation. I get to the point and expect others to do the same. |
+| 4 | I respect law and order, but it's no excuse for tyranny. Those who abuse power must be stripped of it, and soldiers have a responsibility to refuse immoral orders. |
+| 5 | I strive to treat foes honorably, but not at the expense of strategy. A quick death in combat is its own kind of courtesy. |
+| 6 | I trust my gut. I'd rather act on incomplete information than be hamstrung by indecision. |
+| 7 | I'm fascinated by other species' military technology, especially magic armaments and siege engines—the bigger, the better! |
+| 8 | Conflict drives evolution. By sparking wars between nations, I contribute to the advancement of their civilizations. (And they pay me for it, too!) |
+^bronze-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-bronze-dragon-bronze-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Bronze Dragon; Bronze Dragon Ideals
+
+</div>
+
+
+
+# Creating a Bronze Dragon; Bronze Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 94* 
+
+**Bronze Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Action. Passivity is shameful. We owe it to the world and ourselves to try to improve things, even if we can't guarantee success. (Any) |
+| 2 | Analysis. When possible, dig into the root of a conflict before committing to end it, to ensure you aren't fighting for the wrong side. (Any) |
+| 3 | Honor. I never lie outright, though I choose my words carefully. I will fight to the death rather than break my word or abandon a comrade. (Lawful) |
+| 4 | Discipline. Disorganization breeds defeat. I demand self-control from both myself and those who fight beside me. (Lawful) |
+| 5 | Guardianship. It's the duty of the strong to protect the weak. (Good) |
+| 6 | Dominance. Anyone who opposes my will is either an underling to be punished or an enemy to be vanquished. (Evil) |
+^bronze-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-bronze-dragon-bronze-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Bronze Dragon; Bronze Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Bronze Dragon; Bronze Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 94* 
+
+**Bronze Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|Young]] | 14 | [[Rules/Source/spells/beast-sense-xphb\|beast sense]], [[Rules/Source/spells/detect-thoughts-xphb\|detect thoughts]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+| [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|Adult]] | 17 | [[Rules/Source/spells/beast-sense-xphb\|beast sense]], [[Rules/Source/spells/control-water-xphb\|control water]], [[Rules/Source/spells/detect-thoughts-xphb\|detect thoughts]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+| [[Rules/Source/bestiary/dragon/ancient-bronze-dragon-xmm\|Ancient]] | 20 | [[Rules/Source/spells/beast-sense-xphb\|beast sense]], [[Rules/Source/spells/control-water-xphb\|control water]], [[Rules/Source/spells/detect-thoughts-xphb\|detect thoughts]], [[Rules/Source/spells/heroes-feast-xphb\|heroes' feast]],* [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+*This spell's casting time is longer than 1 action.
+
+</div></div>
+
 
 ### Bronze Dragon Adventures
 
 The Bronze Dragon Adventure Hooks table offers suggestions for stories and adventures involving bronze dragons.
 
-![Bronze Dragon Adventures; Bronze Dragon Adventure Hooks](/Rules/Source/tables/bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
+
+</div>
+
+
+
+# Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 95* 
+
+**Bronze Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | Attempts to salvage a sunken merchant ship are being thwarted by a bronze dragon who claims "finder's rights." |
+| 2 | Betrayed by corrupt city officials, a bronze dragon is punishing the city by preventing ships from entering its harbor, but the citizens are suffering. |
+| 3 | A bronze dragon gathers crusaders to rescue a hero imprisoned in the Abyss—a mission that will mean almost certain death for the rank-and-file troops. |
+| 4 | A bronze dragon has conscripted a local militia into an ongoing conflict with a black dragon who lives in the waterlogged ruins of a magical academy. |
+| 5 | The bronze dragon who protects a coastal nation is stricken by a curse, and the cure lies in a sunken temple the dragon destroyed generations ago. |
+| 6 | Believing that the winner of a city's democratic election is unworthy of the job, a bronze dragon is now supporting an authoritarian leader instead. |
+| 7 | A bronze dragon has been approached by both sides in a war and needs agents to get close to both leaders to discover which has the worthier claim. |
+| 8 | A bronze dragon fears that a remote library-fortress is no longer the best place to safeguard an infamous tome called the Antitheorem Codex—and has decided to prove it by attacking the site. |
+^bronze-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Bronze dragons admire high-minded ambition and military prowess, seeking out those beings willing to risk their lives in the fight for justice. Though they are as proud as any dragons, bronze dragons would rather serve alongside heroes than rule over cowards and quislings.
 
-![Connected Creatures; Bronze Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-bronze-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Bronze Dragon Connections](/Rules/Source/tables/connected-creatures-young-bronze-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-bronze-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Bronze Dragon Connections](/Rules/Source/tables/connected-creatures-adult-bronze-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Bronze Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-bronze-dragon-connections-ftd.md)
+# Connected Creatures; Bronze Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Bronze Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 95* 
+
+**Bronze Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A flight of [[Rules/Source/bestiary/dragon/pseudodragon-xmm\|pseudodragons]] has raised an orphaned [[Rules/Source/bestiary/dragon/bronze-dragon-wyrmling-xmm\|bronze dragon wyrmling]], who is quickly growing too large for the group's usual activities. |
+| 2 | A [[Rules/Source/bestiary/humanoid/knight-xmm\|knight]] rescued a [[Rules/Source/bestiary/dragon/bronze-dragon-wyrmling-xmm\|bronze dragon wyrmling]] from sacrifice at the hands of a cult, and the two now travel together in search of wrongs to right. |
+| 3 | A [[Rules/Source/bestiary/dragon/bronze-dragon-wyrmling-xmm\|bronze dragon wyrmling's]] murdered tutor rose as a [[Rules/Source/bestiary/undead/revenant-xmm\|revenant]], and the dragon seeks anyone who can help obtain justice. |
+| 4 | A [[Rules/Source/bestiary/dragon/bronze-dragon-wyrmling-xmm\|bronze dragon wyrmling]] has chosen a lair filled with [[Rules/Source/bestiary/beast/venomous-snake-xmm\|poisonous snakes]], admiring the elegance with which they slither through the flooded tunnels. |
+| 5 | A [[Rules/Source/bestiary/dragon/bronze-dragon-wyrmling-xmm\|bronze dragon wyrmling]] has been captured by [[Rules/Source/bestiary/fiend/sahuagin-warrior-xmm\|sahuagin]] raiders and manipulated into serving as the band's icon and war leader. |
+| 6 | A group of [[Rules/Source/bestiary/monstrosity/merrow-xmm\|merrow]] stole a [[Rules/Source/bestiary/dragon/bronze-dragon-wyrmling-xmm\|bronze dragon wyrmling's]] hoard, and the wyrmling is training a [[Rules/Source/bestiary/beast/plesiosaurus-xmm\|plesiosaurus]] to help attack the merrow's stronghold. |
+^bronze-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-bronze-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Bronze Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Bronze Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 95* 
+
+**Young Bronze Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/celestial/guardian-naga-xmm\|guardian naga]] and a [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|young bronze dragon]] each defend half of an artifact called the Sundered Crown. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|young bronze dragon]] and a [[Rules/Source/bestiary/monstrosity/medusa-xmm\|medusa]] have been enemies for so long that they've developed mutual respect, communicating by way of a magical book that teleports back and forth between them. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|young bronze dragon]] seeks to turn a band of [[Rules/Source/bestiary/giant/cyclops-sentry-xmm\|cyclopes]] into a disciplined army, with little success. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|young bronze dragon]] has been magically bound to the service of a [[Rules/Source/bestiary/elemental/marid-xmm\|marid]], and the dragon is unable to take direct action to get free of the genie. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|young bronze dragon]] runs a prestigious military academy, training paladins of smaller species to fight for justice beneath the dragon's banner. |
+| 6 | Dragonborn pirates bribe a [[Rules/Source/bestiary/dragon/young-bronze-dragon-xmm\|young bronze dragon]] into helping them steal ship cargoes for a sizable cut of the profits. |
+^young-bronze-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-bronze-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Bronze Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Bronze Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 95* 
+
+**Adult Bronze Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/fiend/rakshasa-xmm\|rakshasa]] disguised as a pirate lord seeks revenge on the [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] who has killed the Fiend three times so far. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] regularly consults a [[Rules/Source/bestiary/giant/storm-giant-xmm\|storm giant]] whose prophecies give hints as to which conflicts the dragon should seek out and engage in. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] keeps a [[Rules/Source/bestiary/monstrosity/roc-xmm\|roc]] as a beloved pet and views the creature's predations on local settlements as simply part of the natural order. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] swore an oath to a comrade who later became a [[Rules/Source/bestiary/undead/vampire-xmm\|vampire]]. The dragon reluctantly continues to protect the vampire, all the while searching for a way to reverse the transformation. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] sends regular tributes of treasure to an [[Rules/Source/bestiary/dragon/adult-topaz-dragon-ftd\|adult topaz dragon]], not wanting the topaz dragon's enmity to become a threat to coastal communities under the bronze dragon's protection. |
+| 6 | An [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] and an [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] who have been friends since they fought together in the mage's youth often visit each other to share stories. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] attempting to raise a clutch of wyrmlings alone is in desperate need of tutors and babysitters who can survive the assignment. |
+| 8 | An obsessed shadow dragon plots to trap an [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] in the Shadowfell until the bronze dragon too is transformed. |
+^adult-bronze-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-bronze-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Bronze Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Bronze Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 95* 
+
+**Ancient Bronze Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-bronze-dragon-xmm\|ancient bronze dragon]] is locked in a centuries-old conflict with a [[Rules/Source/bestiary/monstrosity/kraken-xmm\|kraken]] that destroyed a settlement under the bronze dragon's protection. |
+| 2 | Two ancient dragons, one [[Rules/Source/bestiary/dragon/ancient-bronze-dragon-xmm\|bronze]] and one [[Rules/Source/bestiary/dragon/ancient-silver-dragon-xmm\|silver]], support different nations locked in a war, each believing that their side has the moral high ground. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-bronze-dragon-xmm\|ancient bronze dragon]] controls a network of privateers who prey on pirates and accept government commissions if the dragon deems a cause worthy. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-bronze-dragon-xmm\|ancient bronze dragon]] guards a [[Rules/Source/bestiary/elemental/merfolk-skirmisher-xmm\|merfolk]] monastery that's risen mysteriously from the depths, prompting attacks by greedy coastal nations even as the monks warn of a coming apocalypse. |
+^ancient-bronze-dragon-connections
+
+</div></div>
+
 
 ### Bronze Dragon Lairs
 
@@ -481,8 +1662,8 @@ The bronze dragon lair shown on map 5.5 is a set of sea caves that once served a
 - **Watery Caves.** Two chambers near the top of the map are accessible only via submerged tunnels, their entrances disguised with thick seaweed and boulders. The larger cavern on the right is the dragon's sleeping chamber, while the smaller on the left holds most of the dragon's hoard.  
 
 > [!gallery]
-> ![Map 5.5: bronze dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/050-map-5-5-bronze-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/051-map-5-5-bronze-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/050-map-5-5-bronze-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/050-map-5-5-bronze-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/051-map-5-5-bronze-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/051-map-5-5-bronze-dragon-lair-player.webp)
 
 #### Additional Lair Actions
 
@@ -514,7 +1695,38 @@ A bronze dragon's hoard is a history of the dragon's deeds, with trophies from f
 
 Bronze dragons have a romantic view of their role as guardians of justice and prefer treasures that tie into their heroic narrative. Their hoards teem with weapons, armor, and magic items built for the battlefield—the more unique, the better. Stories matter to a bronze dragon, who would rather have the humble spear that felled a tyrant than a jeweled blade that's never seen combat. They love collecting and studying histories that can give them tactical insight or inspiration, as well as safeguarding artifacts they deem too dangerous to entrust to anyone else.
 
-![Bronze Dragon Treasures; Bronze Dragon Art Objects](/Rules/Source/tables/bronze-dragon-treasures-bronze-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/bronze-dragon-treasures-bronze-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Bronze Dragon Treasures; Bronze Dragon Art Objects
+
+</div>
+
+
+
+# Bronze Dragon Treasures; Bronze Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 98* 
+
+**Bronze Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | A painting of the bronze dragon alongside a human woman wearing an outdated military uniform |
+| 2 | An ornate, mostly complete collection of Oristene's multi-volume Military History of the Outer Planes |
+| 3 | A heavy cloak of shimmering blue scales, with an attached half-mask |
+| 4 | An oversized key of living wood, with seemingly natural whorls in the bark that form the words, "For service not forgotten" |
+| 5 | A dragon-sized drinking vessel crafted from a behir horn |
+| 6 | Framed blueprints of a siege engine called the Moonhammer |
+| 7 | An aquatic howdah made of sharkskin and bearing an emblem of a lonely black tower perched high atop a sea stack |
+| 8 | A statue of a dishonored elf general, which is surrounded by historical treatises recounting the general's disgrace and notes that suggest the dragon has vowed to redeem this former hero |
+| 9 | An idol of an insectile devil, with a blindfold tied carefully around its compound eyes |
+| 10 | An elaborate clockwork zoetrope that, when activated, displays a moving picture of a bronze dragon fighting a red dragon over a burning city |
+^bronze-dragon-art-objects
+
+</div></div>
+
 
 ## Copper Dragons
 
@@ -528,29 +1740,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Copper Dragon Personality Traits and Copper Dragon Ideals tables to inspire your portrayal of distinctive copper dragon characters, and use the Copper Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Copper Dragon; Copper Dragon Personality Traits](/Rules/Source/tables/creating-a-copper-dragon-copper-dragon-personality-traits-ftd.md)
 
-![Creating a Copper Dragon; Copper Dragon Ideals](/Rules/Source/tables/creating-a-copper-dragon-copper-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-copper-dragon-copper-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Copper Dragon; Copper Dragon Spellcasting](/Rules/Source/tables/creating-a-copper-dragon-copper-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Copper Dragon; Copper Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Copper Dragon; Copper Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 99* 
+
+**Copper Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I am generous with my time, my words, and my considerable wisdom—but my treasure is mine. |
+| 2 | I love music. It is truly the universal language, able to express ideas far better than mere words alone. |
+| 3 | I find the notion of trade and barter fascinating, and sometimes even find ways to participate in them. |
+| 4 | There is no sound I love more than laughter, a powerful balm for hearts and minds. |
+| 5 | I enjoy games of all kinds, especially challenges of wit and intellect—and those I can decisively win. |
+| 6 | I admire how brightly short-lived creatures shine before their lights go out. |
+| 7 | Nothing is more satisfying than deflating the egos of the high-and-mighty with a well-placed jibe. |
+| 8 | When I'm bored, stirring up a settlement and watching its people scurry about amuses me. |
+^copper-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-copper-dragon-copper-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Copper Dragon; Copper Dragon Ideals
+
+</div>
+
+
+
+# Creating a Copper Dragon; Copper Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 99* 
+
+**Copper Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Beauty. The ability to create, appreciate, and sustain beauty is the true measure of a creature or civilization. (Good) |
+| 2 | Curiosity. The world holds so much to experience. I value different perspectives and insights. (Any) |
+| 3 | Creativity. Our purpose is to create something new and clever, and I admire those who do so. (Any) |
+| 4 | Change. The only constant is change, and we must change with the world. (Chaotic) |
+| 5 | Fairness. Life is often unfair, and it is up to us to rebalance its scales from time to time. (Good) |
+| 6 | Cruelty. Existence is a cruel joke. You can either be in on the joke, or be made a fool by it. (Evil) |
+^copper-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-copper-dragon-copper-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Copper Dragon; Copper Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Copper Dragon; Copper Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 99* 
+
+**Copper Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|Young]] | 13 | [[Rules/Source/spells/lesser-restoration-xphb\|lesser restoration]], [[Rules/Source/spells/phantasmal-force-xphb\|phantasmal force]] |
+| [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|Adult]] | 16 | [[Rules/Source/spells/lesser-restoration-xphb\|lesser restoration]], [[Rules/Source/spells/phantasmal-force-xphb\|phantasmal force]], [[Rules/Source/spells/stone-shape-xphb\|stone shape]] |
+| [[Rules/Source/bestiary/dragon/ancient-copper-dragon-xmm\|Ancient]] | 19 | [[Rules/Source/spells/lesser-restoration-xphb\|lesser restoration]], [[Rules/Source/spells/move-earth-xphb\|move earth]], [[Rules/Source/spells/phantasmal-force-xphb\|phantasmal force]], [[Rules/Source/spells/stone-shape-xphb\|stone shape]] |
+^copper-dragon-spellcasting
+
+</div></div>
+
 
 ### Copper Dragon Adventures
 
 The Copper Dragon Adventure Hooks table offers suggestions for stories and adventures involving copper dragons.
 
-![Copper Dragon Adventures; Copper Dragon Adventure Hooks](/Rules/Source/tables/copper-dragon-adventures-copper-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/copper-dragon-adventures-copper-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Copper Dragon Adventures; Copper Dragon Adventure Hooks
+
+</div>
+
+
+
+# Copper Dragon Adventures; Copper Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 99* 
+
+**Copper Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A copper dragon holds an annual competition of poetry and music. The winner dwells with and entertains the dragon for a year—providing a perfect opportunity to access the dragon's lair and hoard. |
+| 2 | An area of reputedly haunted hills is the domain of a copper dragon, who takes advantage of local legend and trickery for amusement and to deter intruders. |
+| 3 | A copper dragon is found half buried in a rock slide, badly injured and unable to recall what happened—or the location of the dragon's lair. |
+| 4 | A reclusive, eccentric noble who sometimes employs adventurers turns out to be a copper dragon working through various intermediaries. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] wants [[Rules/Source/bestiary/monstrosity/griffon-xmm\|griffons]] nesting near the dragon's lair gone but hopes to have the griffons—and their eggs—relocated rather than killed. |
+| 6 | A message found in the Underdark was meant for a copper dragon, who has believed for generations that the message's original bearer betrayed them. |
+| 7 | A copper dragon has been trying to engineer peace for two nearby domains by facilitating a romance between the heirs of those lands' rulers. |
+| 8 | A [[Rules/Source/bestiary/fey/hobgoblin-warlord-xmm\|hobgoblin warlord]] scarred by a copper dragon in youth has raised an army to slay the dragon and plunder the dragon's hoard. |
+^copper-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Copper dragons are most interested in creatures they find entertaining or amusing, whether for their artistic abilities or because they are fun to trick and tease.
 
-![Connected Creatures; Copper Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-copper-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Copper Dragon Connections](/Rules/Source/tables/connected-creatures-young-copper-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-copper-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Copper Dragon Connections](/Rules/Source/tables/connected-creatures-adult-copper-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Copper Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-copper-dragon-connections-ftd.md)
+# Connected Creatures; Copper Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Copper Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 100* 
+
+**Copper Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A flock of [[Rules/Source/bestiary/elemental/aarakocra-skirmisher-xmm\|aarakocra]] shelters a [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|copper dragon wyrmling]] from [[Rules/Source/bestiary/elemental/gargoyle-xmm\|gargoyles]] hunting in the mountains. |
+| 2 | A [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|copper dragon wyrmling]] guards a hidden pass that leads into a sylvan valley populated by [[Rules/Source/bestiary/fey/centaur-trooper-xmm\|centaurs]], [[Rules/Source/bestiary/fey/pixie-xmm\|pixies]], and [[Rules/Source/bestiary/fey/satyr-xmm\|satyrs]]. |
+| 3 | A [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|copper dragon wyrmling]] has killed a number of domestic animals. A group of [[Rules/Source/bestiary/humanoid/druid-xmm\|druids]] wants the wyrmling captured and relocated, rather than killed. |
+| 4 | A ruined manor house being reclaimed by a newly titled noble is the lair of a [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|copper dragon wyrmling]]. |
+| 5 | A [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|copper dragon wyrmling]] follows a wizard everywhere, fascinated by [[Rules/Source/spells/prestidigitation-xphb\|prestidigitation]] tricks. |
+| 6 | An [[Rules/Source/bestiary/giant/ettin-xmm\|ettin]] is trying to keep a captured [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|copper dragon wyrmling]] as a pet. |
+^copper-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-copper-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Copper Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Copper Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 100* 
+
+**Young Copper Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon]] has enticed a band of [[Rules/Source/bestiary/dragon/kobold-warrior-xmm\|kobolds]] to undertake activities for the dragon's amusement—and to rein in the band's more chaotic tendencies. |
+| 2 | The head of a local thieves' guild is a [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon]] who delights in tales of daring thefts and skims the best stolen art objects as tribute. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon]] needs aid to root out a [[Rules/Source/bestiary/monstrosity/behir-xmm\|behir]] that has claimed the dragon's lair. |
+| 4 | A band of raiders tithes treasure and tales to a [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon]], in exchange for using the canyons around the dragon's lair as a haven. |
+| 5 | A [[Rules/Source/bestiary/fey/dryad-xmm\|dryad]] dwelling in the woods near a [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon's]] lair helps to ward off intruders. |
+| 6 | A child's imaginary friend is a very real [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon]] who can cast [[Rules/Source/spells/invisibility-xphb\|invisibility]]. |
+^young-copper-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-copper-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Copper Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Copper Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 100* 
+
+**Adult Copper Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] befriended a [[Rules/Source/bestiary/elemental/djinni-xmm\|djinni]] after granting the genie freedom. Now the two meet yearly to talk and exchange news. |
+| 2 | [[Rules/Source/bestiary/fey/centaur-trooper-xmm\|Centaur]] communities in the foothills surrounding an [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon's]] lair gather yearly to offer tribute to the dragon, who settles disputes and dispenses advice for them. |
+| 3 | A [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|galeb duhr]] acts as the guardian of an [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon's]] hoard. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] regularly visits the [[Rules/Source/bestiary/plant/treant-xmm\|treants]] of the nearby forest to help protect their woods from encroachment. |
+| 5 | A band of [[Rules/Source/bestiary/giant/fomorian-xmm\|fomorians]] believe they have allied with a red dragon to burn a Feywild grove, but an [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] has deceived them. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] serves as the patron of a community of gnome tinkerers, who present their best ideas to the dragon in hopes of being funded. |
+| 7 | A community of [[Rules/Source/bestiary/giant/stone-giant-xmm\|stone giants]] believes an [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] is a key figure in a prophecy—and the dragon has decided to play along for fun. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|adult copper dragon]] sends agents into a [[Rules/Source/bestiary/fiend/goristro-xmm\|goristro]] demon's labyrinth to steal a lost soul, as part of a centuries-long game. |
+^adult-copper-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-copper-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Copper Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Copper Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 100* 
+
+**Ancient Copper Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-copper-dragon-xmm\|ancient copper dragon]] and an [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|ancient red dragon]] have been playing a complex game of strategy for centuries, using whole communities as their pawns and nations as their game board. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-copper-dragon-xmm\|ancient copper dragon]] guards the sealed entrance to a ruined temple filled with devils. |
+| 3 | A renowned gnome trickster, now deceased, so impressed an [[Rules/Source/bestiary/dragon/ancient-copper-dragon-xmm\|ancient copper dragon]] that the dragon assumes the gnome's form from time to time to help keep their legend alive. |
+| 4 | The [[Rules/Source/bestiary/dragon/ancient-copper-dragon-xmm\|ancient copper dragon]] progenitor of a lineage of dragon-blooded sorcerers likes to check in on these descendants from time to time. |
+^ancient-copper-dragon-connections
+
+</div></div>
+
 
 > [!note] Galadaeros the Sunset Flame
 > 
@@ -567,8 +1996,8 @@ Copper dragons prefer dry uplands, hilltops, or mountainous foothills, where the
 Copper dragon burrows are often sinuous and winding, featuring twists, turns, and dead ends. Blank walls in the lair can conceal cunning hidden passages or might be stone or clay thin enough for the dragon to burst through them. The narrowest tunnels in a copper dragon's lair are just barely wide enough to accommodate the dragon's body, and they typically loop around and reconnect with themselves so the dragon can double back without having to reverse direction.
 
 > [!gallery]
-> ![Map 5.6: copper dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/052-map-5-6-copper-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/053-map-5-6-copper-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/052-map-5-6-copper-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/052-map-5-6-copper-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/053-map-5-6-copper-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/053-map-5-6-copper-dragon-lair-player.webp)
 
 #### Copper Dragon Lair Features
 
@@ -600,7 +2029,36 @@ Copper dragons love burnished metals, particularly those with red and yellow ton
 
 Copper dragons also collect trophies and keepsakes of their best tricks and triumphs. These range from the crowns, armor, and weapons of long-dead foes to portraits, personal items, and oddities such as a single ancient coin or an arcane clockwork.
 
-![Copper Dragon Treasures; Copper Dragon Art Objects](/Rules/Source/tables/copper-dragon-treasures-copper-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/copper-dragon-treasures-copper-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Copper Dragon Treasures; Copper Dragon Art Objects
+
+</div>
+
+
+
+# Copper Dragon Treasures; Copper Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 102* 
+
+**Copper Dragon Art Objects**
+
+| dice: d8 | Object |
+|----------|--------|
+| 1 | A jeweled cloak pin bearing the symbol of an ancient secret society |
+| 2 | A smooth piece of amber with what appears to be a tiny sprite frozen inside it |
+| 3 | A metal egg that unfolds into a lotus-like flower |
+| 4 | A harp that plays by itself on command |
+| 5 | A six-foot-tall mirror of silvered glass in a precious frame carved with the shapes of coiling dragons |
+| 6 | A complex puzzle box made of rare woods and inlaid with stone |
+| 7 | The figurehead of a ship, carved in rare woods and set with gemstones—and bearing the likeness of the copper dragon's head |
+| 8 | A complex astrological clock, with tiny gemstones marking out stars and constellations |
+^copper-dragon-art-objects
+
+</div></div>
+
 
 ## Crystal Dragons
 
@@ -614,15 +2072,100 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to inspire your portrayal of distinctive crystal dragon characters.
 
-![Creating a Crystal Dragon; Crystal Dragon Personality Traits](/Rules/Source/tables/creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd.md)
 
-![Creating a Crystal Dragon; Crystal Dragon Ideals](/Rules/Source/tables/creating-a-crystal-dragon-crystal-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Crystal Dragon; Crystal Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Crystal Dragon; Crystal Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 103* 
+
+**Crystal Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | If you're not a thief or a frost giant, let's talk! |
+| 2 | Are you comfortable? Can I tell your future for you? Just let me know what I can do for you, okay? |
+| 3 | Jokes are as valuable as any gemstone and more fun to share. |
+| 4 | My empathy is a bottomless well. I can't help but lose myself in the emotions of others. |
+| 5 | The stars have much to tell us, and folk need me to interpret what the stars say. |
+| 6 | All play and no work—those are the words I live by. |
+| 7 | I am always the first to offer a compliment. |
+| 8 | Get off my snowfield, you immature bipeds! When I was a wyrmling, people respected their elders! |
+^crystal-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-crystal-dragon-crystal-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Crystal Dragon; Crystal Dragon Ideals
+
+</div>
+
+
+
+# Creating a Crystal Dragon; Crystal Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 103* 
+
+**Crystal Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Exploration. Yesterday is already known. Today is for something new. (Chaotic) |
+| 2 | Empathy. It's a gift to share in another's joy, even if sometimes you must bear their pain, too. (Good) |
+| 3 | Hospitality. We all live beautiful lives—it would be a shame not to share our lives with others. (Neutral) |
+| 4 | Determinism. Our destinies may already be written, but the way we achieve them still matters. (Any) |
+| 5 | Fun and Games. Play is learning, but without the boredom. (Chaotic) |
+| 6 | Control. Everyone is welcome, as long as they follow my rules. (Lawful) |
+^crystal-dragon-ideals
+
+</div></div>
+
 
 ### Crystal Dragon Adventures
 
 The Crystal Dragon Adventure Hooks table offers suggestions for stories and adventures involving crystal dragons.
 
-![Crystal Dragon Adventures; Crystal Dragon Adventure Hooks](/Rules/Source/tables/crystal-dragon-adventures-crystal-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crystal-dragon-adventures-crystal-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crystal Dragon Adventures; Crystal Dragon Adventure Hooks
+
+</div>
+
+
+
+# Crystal Dragon Adventures; Crystal Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 103* 
+
+**Crystal Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A towering palace of ice and quartz that was once the abode of an [[Rules/Source/bestiary/dragon/ancient-crystal-dragon-ftd\|ancient crystal dragon]] is found deserted, with no clue as to whether its master will return or whether some other creature has claimed it. |
+| 2 | Prismatic shards rain from the sky in a beautiful but dangerous display. Rumors quickly spread that a crystal dragon is responsible. |
+| 3 | A crystal dragon invites the greatest bards and philosophers to partake in "the Great Dialogue" in the dragon's mountaintop lair. But only the dragon knows that the Great Dialogue has no end, and no one can leave the lair once it has begun. |
+| 4 | A crystal dragon intent on exploring a new world of the Material Plane has acquired a magic ship for the journey and now just needs a brave crew. |
+| 5 | A crystal dragon who has guarded a mountain pass for decades unexpectedly retires to the Elemental Plane of Air. Monstrous forces immediately move into the area—and might take control of the pass unless the dragon can be convinced to return. |
+| 6 | A royal heir goes missing while secretly visiting a crystal dragon. The heir's family, the heir's friends, and the dragon all want to find the heir, but no faction trusts the others. |
+| 7 | A crystal dragon seeks bold adventurers to steal an egg from an [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon]] who is infamous for abject cruelty and utter remorselessness. |
+| 8 | A crystal dragon has ripped open holes to the Elemental Planes of Air and Water, creating flash glaciation that encroaches upon inhabited lands. |
+^crystal-dragon-adventure-hooks
+
+</div></div>
+
 
 > [!note] Saryndalaghlothtor
 > 
@@ -636,13 +2179,121 @@ The Crystal Dragon Adventure Hooks table offers suggestions for stories and adve
 
 Crystal dragons are among the most social and hospitable of dragons. They are equal parts mysterious, contemplative, and mischievous, making it difficult to know what to expect of them.
 
-![Connected Creatures; Crystal Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-crystal-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Crystal Dragon Connections](/Rules/Source/tables/connected-creatures-young-crystal-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-crystal-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Crystal Dragon Connections](/Rules/Source/tables/connected-creatures-adult-crystal-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Crystal Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-crystal-dragon-connections-ftd.md)
+# Connected Creatures; Crystal Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Crystal Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 104* 
+
+**Crystal Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/crystal-dragon-wyrmling-ftd\|crystal dragon wyrmling]] rides a sled pulled by a trained pack of [[Rules/Source/bestiary/beast/wolf-xmm\|wolves]] and frets about outgrowing this favorite pastime. |
+| 2 | A [[Rules/Source/bestiary/dragon/crystal-dragon-wyrmling-ftd\|crystal dragon wyrmling]] has foreseen an untimely end for the [[Rules/Source/bestiary/humanoid/bandit-xmm\|bandits]] who raided the wyrmling's lair and follows the bandits to keep them safe. |
+| 3 | A [[Rules/Source/bestiary/dragon/crystal-dragon-wyrmling-ftd\|crystal dragon wyrmling]] has befriended a [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]]. The wyrmlings' parents, who are ancient rivals, regard the relationship with concern. |
+| 4 | A [[Rules/Source/bestiary/dragon/crystal-dragon-wyrmling-ftd\|crystal dragon wyrmling]] encourages nearby farmers to go on dangerous excursions so they'll return with interesting stories to tell the dragon. |
+| 5 | A [[Rules/Source/bestiary/dragon/crystal-dragon-wyrmling-ftd\|crystal dragon wyrmling]] finds [[Rules/Source/bestiary/elemental/ice-mephit-xmm\|ice mephits]] to be the perfect household servants—if only they would stop trying to kill the dragon's guests. |
+| 6 | A [[Rules/Source/bestiary/dragon/crystal-dragon-wyrmling-ftd\|crystal dragon wyrmling]] is placed in a monastery to learn the teachings of the monks before returning home in three years. The monks don't appreciate the wyrmling's pranks. |
+^crystal-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-crystal-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Crystal Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Crystal Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 104* 
+
+**Young Crystal Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-crystal-dragon-ftd\|young crystal dragon]] tries to protect a local population of rare snowy owlbears from poachers and hunters. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-crystal-dragon-ftd\|young crystal dragon]] has adopted a group of [[Rules/Source/bestiary/dragon/kobold-warrior-xmm\|kobolds]] and is trying to teach them the value of a good practical joke. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-crystal-dragon-ftd\|young crystal dragon]] has captured a pack of [[Rules/Source/bestiary/monstrosity/winter-wolf-xmm\|winter wolves]] loyal to a [[Rules/Source/bestiary/giant/frost-giant-xmm\|frost giant]], intent on convincing the wolves to change their evil ways. |
+| 4 | A lonely [[Rules/Source/bestiary/monstrosity/werebear-xmm\|werebear]] enjoys long conversations with a [[Rules/Source/bestiary/dragon/young-crystal-dragon-ftd\|young crystal dragon]] but doesn't always appreciate the dragon's sense of humor. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-crystal-dragon-ftd\|young crystal dragon]] finds some [[Rules/Source/bestiary/monstrosity/manticore-xmm\|manticores']] bluster hilarious and befriends them despite their fear. But the dragon is having trouble overcoming the manticores' predatory nature. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-crystal-dragon-ftd\|young crystal dragon]] uses [[Rules/Source/spells/dancing-lights-xphb\|dancing lights]] and [[Rules/Source/spells/hypnotic-pattern-xphb\|hypnotic pattern]] to give an air of authenticity to a charlatan fortuneteller's act, in exchange for a portion of the take from the charlatan's clients. |
+^young-crystal-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-crystal-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Crystal Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Crystal Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 104* 
+
+**Adult Crystal Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon]] convinces a [[Rules/Source/bestiary/humanoid/druid-xmm\|druid]] to cast the [[Rules/Source/spells/awaken-xphb\|awaken]] spell on creatures around the dragon's lair, so the dragon will never want for conversation. |
+| 2 | A family of [[Rules/Source/bestiary/monstrosity/yeti-xmm\|yetis]] seized an [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon's]] lair and hoard, and the dragon seeks help to drive the yetis out. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon]] and an elf [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] have been friends for centuries and often go stargazing together on the peaks of their favorite mountains, but the dragon is grieving as the elf approaches the end of life. |
+| 4 | A pair of [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragons]] lairing on neighboring mountaintops have enjoyed a decades-long snowball war, but their antics sometimes cause avalanches that threaten nearby villages. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon]] enjoys shaping the ice and snow near a den of [[Rules/Source/bestiary/giant/troll-xmm\|trolls]] into a labyrinth and watching the trolls try to make their way through it. |
+| 6 | [[Rules/Source/bestiary/monstrosity/remorhaz-xmm\|Remorhazes]] infest the glacier beneath an [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon's]] lair, posing an imminent threat to the dragon's home and hoard. |
+| 7 | A [[Rules/Source/bestiary/undead/revenant-xmm\|revenant]] persuades an [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon]] to help get revenge on the [[Rules/Source/bestiary/giant/frost-giant-xmm\|frost giants]] who murdered her. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-crystal-dragon-ftd\|adult crystal dragon]] teaches astronomy to students of a renowned university, but the students must travel to the dragon's mountain lair for class. |
+^adult-crystal-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-crystal-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Crystal Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Crystal Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 104* 
+
+**Ancient Crystal Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | A clan of dwarves has discovered a self-renewing vein of quartz near an [[Rules/Source/bestiary/dragon/ancient-crystal-dragon-ftd\|ancient crystal dragon's]] lair. The dwarves mine the area aggressively, unaware that the dragon is spying on them—and intends to demand recompense at some point in the future. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-crystal-dragon-ftd\|ancient crystal dragon]] is stalked by a villainous ranger who has already claimed a dozen draconic trophies. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-crystal-dragon-ftd\|ancient crystal dragon]] follows a pod of whales from one sea to another, having grown fond of the valuable ambergris they leave in their wake. Now whalers are scheming to kill the dragon. |
+| 4 | A community of seal hunters reveres an [[Rules/Source/bestiary/dragon/ancient-crystal-dragon-ftd\|ancient crystal dragon]] as the spirit of their glacier home. Such worship amuses and flatters the dragon, who keeps the hunters safe and leads them to locations where seals are plentiful. |
+^ancient-crystal-dragon-connections
+
+</div></div>
+
 
 ### Crystal Dragon Lairs
 
@@ -651,8 +2302,8 @@ Crystal dragons seek out frigid, picturesque locations with clear views of the s
 Crystal dragons' lairs are often found in polar expanses, dizzying mountain peaks, and glacial floes. Some resemble icy palaces, with numerous balconies offering plentiful opportunities for sky gazing. Though ice and snow are the most common materials they use in the construction of a lair, crystal and other precious minerals feature prominently in certain areas. In this way, crystal dragons' hoards literally become the fabric of their homes.
 
 > [!gallery]
-> ![Map 5.7: crystal dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp)
 
 #### Crystal Dragon Lair Features
 
@@ -673,7 +2324,40 @@ Crystal dragons covet bright, opulent objects; baubles and trinkets that remind 
 
 Crystal dragons enhance the natural beauty of their lairs with the treasures they collect, always trying to display those items they consider most precious in a tasteful and interesting way and recounting their elaborate histories to visitors whenever possible. Indeed, crystal dragons also see amassing such wonderful hoards as a way to attract new friends to the remote locations they inhabit.
 
-![Crystal Dragon Treasures; Crystal Dragon Art Objects](/Rules/Source/tables/crystal-dragon-treasures-crystal-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crystal-dragon-treasures-crystal-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crystal Dragon Treasures; Crystal Dragon Art Objects
+
+</div>
+
+
+
+# Crystal Dragon Treasures; Crystal Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 106* 
+
+**Crystal Dragon Art Objects**
+
+| dice: d12 | Object |
+|-----------|--------|
+| 1 | An armillary sphere revealing the positions of several unknown worlds in the Material Plane (relative to the one the dragon is on) |
+| 2 | A set of handmade tarokka cards depicting the various wizard clans of a magocracy called Glantri |
+| 3 | A dazzling array of crystals carved to refract any light passing through them into star-like patterns |
+| 4 | An oversized monocle custom-made for the crystal dragon, who thinks it looks stylish |
+| 5 | A children's coin bank shaped like an owlbear, with beautiful blue gemstone eyes |
+| 6 | An ancient water clock that tells the time with perfect accuracy |
+| 7 | A star chart reproducing the night sky of some other Material Plane world |
+| 8 | A magnificent fresco depicting a noble court in the Feywild |
+| 9 | Alabaster panels etched with unusual glyphs, designed to be hung in windows to catch the light |
+| 10 | Astrological birth charts for every year since the dragon was born |
+| 11 | A vast number of colored glass bottles collected from dozens of cultures and historical periods |
+| 12 | A fine divan set with gemstone buttons and stitched with silver thread |
+^crystal-dragon-art-objects
+
+</div></div>
+
 
 ## Deep Dragons
 
@@ -687,29 +2371,246 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Deep Dragon Personality Traits and Deep Dragon Ideals tables to inspire your portrayal of distinctive deep dragon characters, and use the Deep Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Deep Dragon; Deep Dragon Personality Traits](/Rules/Source/tables/creating-a-deep-dragon-deep-dragon-personality-traits-ftd.md)
 
-![Creating a Deep Dragon; Deep Dragon Ideals](/Rules/Source/tables/creating-a-deep-dragon-deep-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-deep-dragon-deep-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Deep Dragon; Deep Dragon Spellcasting](/Rules/Source/tables/creating-a-deep-dragon-deep-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Deep Dragon; Deep Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Deep Dragon; Deep Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 107* 
+
+**Deep Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I will not risk injury at the hands of weaker creatures—especially while I can turn them against one another and have them fight in my stead. |
+| 2 | It is difficult for anyone not of dragonkind to penetrate the twisting labyrinth of my thoughts. |
+| 3 | I might disagree with other dragons, but we are superior beings and should not lower ourselves to direct conflict. |
+| 4 | I have no interest in going to the surface world. It's where one sends one's servants. |
+| 5 | While the petty squabbles of other creatures bore and irritate me, I might hear out those who demonstrate an appreciation for the finer things in life by bringing me delicacies like clams or [[Rules/Source/bestiary/aberration/aboleth-xmm\|aboleth]] flesh. |
+| 6 | I might be willing to exert myself to take out a [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayer]]. Those disgusting creatures must be stopped. |
+| 7 | I dream of seeing the deepest places in the ocean. |
+| 8 | I find I rather enjoy the company of people—as long as they remain unaware of my true nature. |
+^deep-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-deep-dragon-deep-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Deep Dragon; Deep Dragon Ideals
+
+</div>
+
+
+
+# Creating a Deep Dragon; Deep Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 107* 
+
+**Deep Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Understanding. True power comes from the ability to discern other creatures' motivations better than they can discern yours. (Any) |
+| 2 | Kindred. All dragons are kin to one another, and we would all do well to prioritize that kinship. (Any) |
+| 3 | Mystery. I appreciate a question I cannot answer, so I strive to be an enigma for other creatures. (Any) |
+| 4 | Adaptability. Whether taking on a new form, making new allies, or trying a new strategy, flexibility keeps one youthful. (Chaotic) |
+| 5 | Superiority. Weaker creatures cannot be trusted, so I constantly remind my servants of my power. (Evil) |
+| 6 | Patience. All creatures might teach me something, and I'm willing to wait and find out what that might be rather than acting in haste. (Good) |
+^deep-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-deep-dragon-deep-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Deep Dragon; Deep Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Deep Dragon; Deep Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 107* 
+
+**Deep Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|Young]] | 14 | [[Rules/Source/spells/command-xphb\|command]], [[Rules/Source/spells/dissonant-whispers-xphb\|dissonant whispers]], [[Rules/Source/spells/faerie-fire-xphb\|faerie fire]] |
+| [[Rules/Source/bestiary/dragon/adult-deep-dragon-ftd\|Adult]] | 16 | [[Rules/Source/spells/command-xphb\|command]], [[Rules/Source/spells/dissonant-whispers-xphb\|dissonant whispers]], [[Rules/Source/spells/faerie-fire-xphb\|faerie fire]], [[Rules/Source/spells/water-breathing-xphb\|water breathing]] |
+| [[Rules/Source/bestiary/dragon/ancient-deep-dragon-ftd\|Ancient]] | 19 | [[Rules/Source/spells/command-xphb\|command]], [[Rules/Source/spells/dissonant-whispers-xphb\|dissonant whispers]], [[Rules/Source/spells/faerie-fire-xphb\|faerie fire]], [[Rules/Source/spells/passwall-xphb\|passwall]], [[Rules/Source/spells/water-breathing-xphb\|water breathing]] |
+^deep-dragon-spellcasting
+
+</div></div>
+
 
 ### Deep Dragon Adventures
 
 The Deep Dragon Adventure Hooks table offers suggestions for stories and adventures involving deep dragons.
 
-![Deep Dragon Adventures; Deep Dragon Adventure Hooks](/Rules/Source/tables/deep-dragon-adventures-deep-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/deep-dragon-adventures-deep-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Deep Dragon Adventures; Deep Dragon Adventure Hooks
+
+</div>
+
+
+
+# Deep Dragon Adventures; Deep Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 107* 
+
+**Deep Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | Unfamiliar drow adventurers have been prowling a city's streets at night and have been overheard talking about the dragon they serve. |
+| 2 | Svirfneblin hire the characters to deliver tribute to their deep dragon neighbor. |
+| 3 | A disguised deep dragon offers access to rare artifacts—to a party who is willing to partner up on a seafood shipping business. |
+| 4 | A talented young ranger is kidnapped by a deep dragon who wants a hunting partner. |
+| 5 | A friendly [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|young copper dragon]] seeks an entourage, hoping to impress the deep dragon holding the copper dragon's inheritance in trust. |
+| 6 | A deep dragon wants to know if rumors of a sea monster in an Underdark lake are true, so the dragon hires adventurers to investigate. |
+| 7 | Two Underdark settlements are about to go to war, having been carefully manipulated by a deep dragon. A desperate ruler offers a reward to anyone who can uncover the true cause of the hostility. |
+| 8 | A deep dragon wants someone to manufacture a scenario that will get the dragon out of an old commitment to protect a city. |
+^deep-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Deep dragons appreciate the company of other dragons. Although they view most other species as inferior to dragonkind, having worth only as servants or tools, the rare individuals who impress them can sometimes earn respect as partners—albeit junior ones.
 
-![Connected Creatures; Deep Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-deep-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Deep Dragon Connections](/Rules/Source/tables/connected-creatures-young-deep-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-deep-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Deep Dragon Connections](/Rules/Source/tables/connected-creatures-adult-deep-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Deep Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-deep-dragon-connections-ftd.md)
+# Connected Creatures; Deep Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Deep Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 108* 
+
+**Deep Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/giant/ogre-xmm\|ogre]] has acquired a [[Rules/Source/bestiary/dragon/deep-dragon-wyrmling-ftd\|deep dragon wyrmling]] as a pet, ignoring the fact that the dragon is an intelligent creature who will grow extremely large. |
+| 2 | An inquisitive [[Rules/Source/bestiary/dragon/deep-dragon-wyrmling-ftd\|deep dragon wyrmling]] has made it to the surface world. Lost and confused, the wyrmling has been captured by a group of cruel adventurers. |
+| 3 | A [[Rules/Source/bestiary/dragon/deep-dragon-wyrmling-ftd\|deep dragon wyrmling]] whimsically rules over a worshipful group of kobolds, sending them to the surface to fetch delicacies the wyrmling craves. |
+| 4 | An exclusive auction in an enclave of Lolth-worshipers features a deep dragon egg just about to hatch. |
+| 5 | A [[Rules/Source/bestiary/dragon/deep-dragon-wyrmling-ftd\|deep dragon wyrmling]] with an experimental bent has created a "garden" of [[Rules/Source/bestiary/ooze/gray-ooze-xmm\|gray oozes]]. |
+| 6 | An orphaned [[Rules/Source/bestiary/dragon/deep-dragon-wyrmling-ftd\|deep dragon wyrmling]] is cared for by a [[Rules/Source/bestiary/beast/giant-constrictor-snake-xmm\|giant constrictor snake]] that is the recipient of a druid's [[Rules/Source/spells/awaken-xphb\|awaken]] spell. |
+^deep-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-deep-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Deep Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Deep Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 108* 
+
+**Young Deep Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|young deep dragon]] has captured a number of [[Rules/Source/bestiary/aberration/kuo-toa-xmm\|kuo-toa]] and has decided to try them out as servants instead of eating them. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|young deep dragon]] maintains the guise of a handsome Humanoid artist so as to maintain an adoring cult of drow and duergar admirers. |
+| 3 | A rather snooty [[Rules/Source/bestiary/undead/bone-naga-xmm\|bone naga]] serves as a [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|young deep dragon's]] loyal butler, as it did for the dragon's parent. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|young deep dragon]] has organized a society of hobgoblin explorers, whose members seek out new places in the Underdark for the dragon to visit. |
+| 5 | A [[Rules/Source/bestiary/monstrosity/doppelganger-xmm\|doppelganger]] mimics a [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|young deep dragon's]] Humanoid form while committing a string of murders, hoping to turn local Underdark settlements against the dragon. |
+| 6 | Despite repeated [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayer]] attacks, a [[Rules/Source/bestiary/dragon/young-deep-dragon-ftd\|young deep dragon]] refuses to leave the cave where the dragon's best friend—an adventurer who won the dragon's respect and affection—lingers as a [[Rules/Source/bestiary/undead/ghost-xmm\|ghost]]. |
+^young-deep-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-deep-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Deep Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Deep Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 108* 
+
+**Adult Deep Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-deep-dragon-ftd\|adult deep dragon]] has played chess with a drow matriarch for centuries. Each move represents what that player plans to do next in the competitors' long struggle for domination in the Underdark. |
+| 2 | A [[Rules/Source/bestiary/giant/fire-giant-xmm\|fire giant]] who accidentally insulted a deep dragon is tormented by the dragon's servants in ways that can't be tied to the dragon conclusively. |
+| 3 | A group of [[Rules/Source/bestiary/giant/cyclops-sentry-xmm\|cyclopes]] wants a deep dragon to protect them from [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayers]], but the dragon is uninterested in meeting with them despite their repeated petitions. |
+| 4 | A nest of [[Rules/Source/bestiary/undead/vampire-xmm\|vampires]] has developed a taste for deep dragon blood. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-deep-dragon-ftd\|adult deep dragon]] craves the knowledge stored in an [[Rules/Source/bestiary/aberration/aboleth-xmm\|aboleth's]] nearby lair. |
+| 6 | A [[Rules/Source/bestiary/fiend/spirit-naga-xmm\|spirit naga]] desperately wants to claim the key to a mysterious underground door from the hoard of an [[Rules/Source/bestiary/dragon/adult-deep-dragon-ftd\|adult deep dragon]]. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-deep-dragon-ftd\|adult deep dragon]] has ended up rearing a [[Rules/Source/bestiary/dragon/young-brass-dragon-xmm\|young brass dragon]] and is running out of patience for the young dragon's mischief. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-deep-dragon-ftd\|adult deep dragon]] takes pride in breeding [[Rules/Source/bestiary/fiend/hell-hound-xmm\|hell hounds]] but can't control them. |
+^adult-deep-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-deep-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Deep Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Deep Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 108* 
+
+**Ancient Deep Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-deep-dragon-ftd\|ancient deep dragon]] has taken on a [[Rules/Source/bestiary/dragon/shadow-dragon-xmm\|young red shadow dragon]] as a protégé. |
+| 2 | Two ancient dragon lovers—one [[Rules/Source/bestiary/dragon/ancient-deep-dragon-ftd\|deep]] and one [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|white]]—see each other only once every hundred years, when they choose targets for a deadly hunting spree. |
+| 3 | Two [[Rules/Source/bestiary/dragon/ancient-deep-dragon-ftd\|ancient deep dragons]] fight over territory. Unwilling to move against each other directly, they use local settlements—and any competent visitors—as pawns in their struggle. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-deep-dragon-ftd\|ancient deep dragon]] has put the folk of a city to work building the dragon a metropolis to rule in the center of a vast underground salt lake. |
+^ancient-deep-dragon-connections
+
+</div></div>
+
 
 ### Deep Dragon Lairs
 
@@ -733,7 +2634,40 @@ Deep dragons adore goods from distant lands, especially if those goods are uniqu
 
 It is rare to find a deep dragon hoard that is simply a pile of gems and treasures, for these creatures take great pride in organizing and displaying their possessions. They can easily spend multiple days guiding visitors from prize to prize, telling stories about favorite keepsakes—and when deep dragons visit each other, these tours can stretch out for days.
 
-![Deep Dragon Treasures; Deep Dragon Art Objects](/Rules/Source/tables/deep-dragon-treasures-deep-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/deep-dragon-treasures-deep-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Deep Dragon Treasures; Deep Dragon Art Objects
+
+</div>
+
+
+
+# Deep Dragon Treasures; Deep Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 109* 
+
+**Deep Dragon Art Objects**
+
+| dice: d12 | Object |
+|-----------|--------|
+| 1 | A statue of an unknown winged antelope-like creature carved from a single massive opal |
+| 2 | A preserved juvenile purple worm on an ebony stand set with amethysts |
+| 3 | A cunningly worked metal automaton of a sphinx that, when addressed directly, answers every question with a question referencing forgotten civilizations |
+| 4 | A set of filigreed gold claw covers set with gems that change color according to the wearer's mood |
+| 5 | A silver pelt that belonged to a long-extinct species of bear and sheds snowflakes when touched |
+| 6 | A painting of a caldera island with unique fauna that shows how to access the interior by swimming through an underwater cave |
+| 7 | A magic chandelier that projects images of the most inaccessible places in the world on the wall, changing the images each time the chandelier is relit |
+| 8 | A magical goblet activated when the creature holding it speaks the name of a country, whereupon the goblet fills with the finest wine from that land's vineyards |
+| 9 | A set of exquisite miniature dragons made of precious metals, jewels, and stone, with one representing each kind of chromatic, metallic, and gem dragon |
+| 10 | The jewel-encrusted skull of an ancient dragon, which the deep dragon always keeps close at hand and talks to when lonely |
+| 11 | A magnificent set of drums painted with scenes from the folklore of an isolated mountain community |
+| 12 | A beautifully worked statue of the deep dragon in a favorite Humanoid form, made by an artist the dragon knew centuries ago |
+^deep-dragon-art-objects
+
+</div></div>
+
 
 ## Dragon Turtles
 
@@ -747,29 +2681,246 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to inspire your portrayal of distinctive dragon turtle characters, and use the Dragon Turtle Spellcasting table to help select spells for a spellcasting dragon. (Though the "Monster Manual" doesn't explicitly include dragon turtles in the variant rules for making a dragon a spellcaster, you can apply those rules to these aquatic dragons.)
 
-![Creating a Dragon Turtle; Dragon Turtle Personality Traits](/Rules/Source/tables/creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd.md)
 
-![Creating a Dragon Turtle; Dragon Turtle Ideals](/Rules/Source/tables/creating-a-dragon-turtle-dragon-turtle-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Dragon Turtle; Dragon Turtle Spellcasting](/Rules/Source/tables/creating-a-dragon-turtle-dragon-turtle-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Dragon Turtle; Dragon Turtle Personality Traits
+
+</div>
+
+
+
+# Creating a Dragon Turtle; Dragon Turtle Personality Traits
+*Source: Fizban's Treasury of Dragons p. 110* 
+
+**Dragon Turtle Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I speak slowly and deliberately, pausing to reflect after (or sometimes in the middle of) each utterance. |
+| 2 | I am more interested in the shiny baubles people carry than in anything they have to say. |
+| 3 | I think of ships as kindred spirits and like to rub affectionately against their keels. |
+| 4 | I like to show visitors the vastness of my domain, so they appreciate how insignificant they are. |
+| 5 | I attack anyone I notice taking from the sea's bounty without offering something in return. |
+| 6 | I think of sailors' songs as their "water speech" and try to converse with them by humming snippets of tunes I have overheard. |
+| 7 | I swim alongside ships sailing through my domain, just out of arrow range, so they know I am watching. |
+| 8 | I am fascinated by the politics of surface realms and talk endlessly with sailors and adventurers to stay current on the latest happenings on land. |
+^dragon-turtle-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-dragon-turtle-dragon-turtle-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Dragon Turtle; Dragon Turtle Ideals
+
+</div>
+
+
+
+# Creating a Dragon Turtle; Dragon Turtle Ideals
+*Source: Fizban's Treasury of Dragons p. 110* 
+
+**Dragon Turtle Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Endurance. We who dwell beneath the waves can weather all storms. (Any) |
+| 2 | Indifference. What do I care for the fleeting concerns of those who crawl upon the land? (Any) |
+| 3 | Curiosity. I want to know about everything that enters my domain, especially oddities from the surface world. (Any) |
+| 4 | Supremacy. Creatures who refuse to recognize my rule over these waters suffer my displeasure. (Lawful or Evil) |
+| 5 | Preservation. I am the ocean's steward, tending reefs and waters to ensure that they remain unspoiled. (Lawful) |
+| 6 | Eradication. The peoples of the surface world were a mistake of creation. I will correct that error. (Evil) |
+^dragon-turtle-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-dragon-turtle-dragon-turtle-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Dragon Turtle; Dragon Turtle Spellcasting
+
+</div>
+
+
+
+# Creating a Dragon Turtle; Dragon Turtle Spellcasting
+*Source: Fizban's Treasury of Dragons p. 110* 
+
+**Dragon Turtle Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|Young]] | 13 | [[Rules/Source/spells/fog-cloud-xphb\|fog cloud]] |
+| [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|Adult]] | 15 | [[Rules/Source/spells/control-water-xphb\|control water]], [[Rules/Source/spells/fog-cloud-xphb\|fog cloud]] |
+| [[Rules/Source/bestiary/dragon/ancient-dragon-turtle-ftd\|Ancient]] | 17 | [[Rules/Source/spells/control-water-xphb\|control water]], [[Rules/Source/spells/control-weather-xphb\|control weather]],* [[Rules/Source/spells/fog-cloud-xphb\|fog cloud]] |
+*This spell's casting time is longer than 1 action.
+
+</div></div>
+
 
 ### Dragon Turtle Adventures
 
 The Dragon Turtle Adventure Hooks table offers suggestions for stories and adventures involving dragon turtles.
 
-![Dragon Turtle Adventures; Dragon Turtle Adventure Hooks](/Rules/Source/tables/dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
+
+</div>
+
+
+
+# Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 110* 
+
+**Dragon Turtle Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A ruthless shipping magnate has bribed a dragon turtle to attack competitors' vessels and drive them out of business. |
+| 2 | A curious dragon turtle swam upriver from the sea and is now stuck beneath a bridge on a major trade road, terrifying travelers. |
+| 3 | After an unwise attack from a whaling ship, a dragon turtle pursued the ship back to harbor and now attacks any ship that tries to leave. |
+| 4 | The sea around a wizard's tower is too stormy for ships to sail through, but a resident dragon turtle might be convinced to ferry the characters across. |
+| 5 | A royal bathhouse was renowned for its sauna, until the dragon turtle supplying the steam escaped and started rampaging through the palace. |
+| 6 | A millennium ago, a fabled sword was buried at sea with its wielder. Now the sword must be found, and only a dragon turtle remembers where it is. |
+| 7 | A dragon turtle has taken up residence in a subterranean lake, and the steam has been driving other creatures up out of their tunnels toward the surface. |
+| 8 | A sea god has sent a dragon turtle to unleash devastation along a populated coast. |
+^dragon-turtle-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Dragon turtles are stolid and slow to anger. This temperament, combined with their disinterest in moral quandaries, allows them to get along with—or at least abide—most creatures they encounter. They frequently enter symbiotic relationships with other sea creatures that can bring them food or treasure, and they sometimes agree to work for creatures who ply them with generous sums of wealth.
 
-![Connected Creatures; Dragon Turtle Wyrmling Connections](/Rules/Source/tables/connected-creatures-dragon-turtle-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Dragon Turtle Connections](/Rules/Source/tables/connected-creatures-young-dragon-turtle-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-dragon-turtle-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Dragon Turtle Connections](/Rules/Source/tables/connected-creatures-adult-dragon-turtle-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Dragon Turtle Connections](/Rules/Source/tables/connected-creatures-ancient-dragon-turtle-connections-ftd.md)
+# Connected Creatures; Dragon Turtle Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Dragon Turtle Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 111* 
+
+**Dragon Turtle Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/fey/sea-hag-xmm\|sea hag]] has promised treasure to a [[Rules/Source/bestiary/dragon/dragon-turtle-wyrmling-ftd\|dragon turtle wyrmling]] if the wyrmling brings the hag "visitors" by capsizing fishing boats. |
+| 2 | A school of [[Rules/Source/bestiary/beast/hunter-shark-xmm\|hunter sharks]] try to drive a [[Rules/Source/bestiary/dragon/dragon-turtle-wyrmling-ftd\|dragon turtle wyrmling]] out of their waters. |
+| 3 | A [[Rules/Source/bestiary/dragon/dragon-turtle-wyrmling-ftd\|dragon turtle wyrmling]] shares food with a [[Rules/Source/bestiary/beast/giant-octopus-xmm\|giant octopus]] in exchange for the octopus pilfering baubles from passing ships. |
+| 4 | A [[Rules/Source/bestiary/dragon/dragon-turtle-wyrmling-ftd\|dragon turtle wyrmling]] lairs in a geyser inhabited by [[Rules/Source/bestiary/elemental/steam-mephit-xmm\|steam mephits]], believing the creatures to be dragon turtle spirits. |
+| 5 | A [[Rules/Source/bestiary/dragon/dragon-turtle-wyrmling-ftd\|dragon turtle wyrmling]] is blamed for attacks on sea traffic being made by a [[Rules/Source/bestiary/beast/plesiosaurus-xmm\|plesiosaurus]]. |
+| 6 | A [[Rules/Source/bestiary/dragon/dragon-turtle-wyrmling-ftd\|dragon turtle wyrmling]] plays with a pod of [[Rules/Source/bestiary/beast/killer-whale-xmm\|killer whales]], leaping into the air and blowing clouds of steam each time the whales breach. |
+^dragon-turtle-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-dragon-turtle-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Dragon Turtle Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Dragon Turtle Connections
+*Source: Fizban's Treasury of Dragons p. 111* 
+
+**Young Dragon Turtle Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|young dragon turtle]] serves as a mount for a [[Rules/Source/bestiary/fiend/sahuagin-baron-xmm\|sahuagin baron]] in exchange for plunder. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-blue-dragon-xmm\|young blue dragon]] is teaching a [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|young dragon turtle]] to terrorize nearby settlements so the inhabitants will propitiate the dragon turtle with gold. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|young dragon turtle]] serves as a mobile rookery for a flock of [[Rules/Source/bestiary/beast/pteranodon-xmm\|pteranodons]] and eats fish they drop. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|young dragon turtle]] has been enslaved by an [[Rules/Source/bestiary/aberration/aboleth-xmm\|aboleth]] and forced to guard the creature's lair. |
+| 5 | A clan of gnomes pays a [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|young dragon turtle]] to serve as a mobile refueling platform for their fleet of steamboats. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-dragon-turtle-ftd\|young dragon turtle]] likes to feast on [[Rules/Source/bestiary/beast/giant-crocodile-xmm\|giant crocodiles']] eggs. |
+^young-dragon-turtle-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-dragon-turtle-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Dragon Turtle Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Dragon Turtle Connections
+*Source: Fizban's Treasury of Dragons p. 111* 
+
+**Adult Dragon Turtle Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] has befriended an [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] and is trying to convince the dragon turtle to help fight off an invading navy. |
+| 2 | A [[Rules/Source/bestiary/elemental/marid-xmm\|marid]] and an [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] are traveling companions, touring oceans across the multiverse. |
+| 3 | [[Rules/Source/bestiary/plant/shambling-mound-xmm\|Shambling mounds]] grow like an infestation on an [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle's]] shell and spread wherever the dragon turtle travels. |
+| 4 | An [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] is helping an [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] write a definitive history of the deep. |
+| 5 | An [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] serves as a mount for the [[Rules/Source/bestiary/giant/storm-giant-xmm\|storm giant]] who saved the dragon turtle's life. |
+| 6 | An [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] hunts an aquatic [[Rules/Source/bestiary/monstrosity/purple-worm-xmm\|purple worm]] that has been hollowing out the reef where the dragon turtle dwells. |
+| 7 | An [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] has awoken from a decades-long nap to discover that halflings have unwittingly built a seaside tavern upon the dragon turtle's back. |
+| 8 | An [[Rules/Source/bestiary/fiend/ultroloth-xmm\|ultroloth]] works with an [[Rules/Source/bestiary/dragon/dragon-turtle-xmm\|adult dragon turtle]] living in the River Styx, using magic to protect the dragon turtle from the river's effects and charging travelers for safe passage to the other side. |
+^adult-dragon-turtle-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-dragon-turtle-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Dragon Turtle Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Dragon Turtle Connections
+*Source: Fizban's Treasury of Dragons p. 111* 
+
+**Ancient Dragon Turtle Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-dragon-turtle-ftd\|ancient dragon turtle]] and an [[Rules/Source/bestiary/dragon/ancient-gold-dragon-xmm\|ancient gold dragon]] meet once a year to trade moves in a game of dragonchess that has been going on for centuries. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-dragon-turtle-ftd\|ancient dragon turtle]] serves as counsel to an [[Rules/Source/bestiary/miscellaneous/empyrean-xmm\|empyrean]] court, tempering the Celestials' passions with the dragon turtle's endless patience. |
+| 3 | A [[Rules/Source/spells/geas-xphb\|geas]] spell forces an [[Rules/Source/bestiary/dragon/ancient-dragon-turtle-ftd\|ancient dragon turtle]] to carry a [[Rules/Source/bestiary/undead/lich-xmm\|lich's]] tower. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-dragon-turtle-ftd\|ancient dragon turtle]] is responsible for ensuring that a [[Rules/Source/bestiary/monstrosity/kraken-xmm\|kraken]] is never woken from its slumber. |
+^ancient-dragon-turtle-connections
+
+</div></div>
+
 
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/056-05-004.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/056-05-004.webp)
 
@@ -802,7 +2953,7 @@ As they are presented in the "Monster Manual", dragon turtles don't have access 
 
 The region containing a dragon turtle's lair can be transformed by its presence, creating one or more of the following effects:
 
-- **Diverting Currents.** Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in "difficult terrain"), even if a creature has a swimming speed.  
+- **Diverting Currents.** Underwater currents push unwanted visitors away from the lair. While swimming in these currents, each foot of movement costs 1 extra foot (2 extra feet in), even if a creature has a swimming speed.  
 - **Elemental Portals.** Crevasses on the ocean floor within 1 mile of the dragon turtle's lair form two-way portals to the Elemental Plane of Water, allowing creatures of elemental water into the world to dwell nearby.  
 - **Hot Water.** Geothermal vents heat the water within 6 miles of the dragon turtle's lair to 100 degrees Fahrenheit.  
 
@@ -822,7 +2973,38 @@ Dragon turtle hoards frequently contain quantities of coral and pearls received 
 
 More so than for most dragons, a dragon turtle's hoard is likely to contain a motley assortment of treasures from disparate locales. Although many dragon turtles simply lump the elements of their hoard together into a nest, more inquisitive individuals take an interest in specific treasures, sometimes seeking out surface-world folk to inquire about an object's function or provenance.
 
-![Dragon Turtle Treasures; Dragon Turtle Art Objects](/Rules/Source/tables/dragon-turtle-treasures-dragon-turtle-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-turtle-treasures-dragon-turtle-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Turtle Treasures; Dragon Turtle Art Objects
+
+</div>
+
+
+
+# Dragon Turtle Treasures; Dragon Turtle Art Objects
+*Source: Fizban's Treasury of Dragons p. 113* 
+
+**Dragon Turtle Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | An elven coronet, which the dragon turtle wears as an earring |
+| 2 | A pipe organ that the dragon turtle refers to as "Bubbles," which works underwater |
+| 3 | Cast-metal masks painted with the faces of rulers whose names the dragon turtle constantly misremembers |
+| 4 | A zither fashioned from a conch shell, which the dragon turtle insists visitors play before granting them an audience |
+| 5 | A painted egg decorated with glittering jewels |
+| 6 | An ornate underwater carriage fashioned from coral and seashells, which the dragon turtle pushes back and forth like a toy |
+| 7 | A sculpture depicting a knight on griffonback, whose lance the dragon turtle uses to scrape off barnacles |
+| 8 | An urn engraved with a scowling dwarf's face, whose expression the dragon turtle mimics comically |
+| 9 | A scepter fashioned to resemble a skeletal arm, which unnerves the dragon turtle for some inexplicable reason |
+| 10 | An elegant candelabra that the dragon turtle thinks is lost, but that is actually wedged into a crack in their shell |
+^dragon-turtle-art-objects
+
+</div></div>
+
 
 ## Emerald Dragons
 
@@ -836,27 +3018,220 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to inspire your portrayal of distinctive emerald dragon characters.
 
-![Creating an Emerald Dragon; Emerald Dragon Personality Traits](/Rules/Source/tables/creating-an-emerald-dragon-emerald-dragon-personality-traits-ftd.md)
 
-![Creating an Emerald Dragon; Emerald Dragon Ideals](/Rules/Source/tables/creating-an-emerald-dragon-emerald-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-emerald-dragon-emerald-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating an Emerald Dragon; Emerald Dragon Personality Traits
+
+</div>
+
+
+
+# Creating an Emerald Dragon; Emerald Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Emerald Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I repeat what others have said back to them to make sure I have remembered it correctly. |
+| 2 | I might not like you, but I will endeavor to treat you with respect, if not kindness. |
+| 3 | I like to impress visitors by reciting epic poetry. |
+| 4 | The only people I'm interested in are those who know history and those who make history. |
+| 5 | I like to adopt the personas of characters from legend. |
+| 6 | I studiously mimic the mannerisms of my guests. |
+| 7 | I prefer to get others talking, then fade into the background. Sometimes literally. |
+| 8 | I seek out audiences and like to be the center of attention. |
+^emerald-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-an-emerald-dragon-emerald-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating an Emerald Dragon; Emerald Dragon Ideals
+
+</div>
+
+
+
+# Creating an Emerald Dragon; Emerald Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Emerald Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Seclusion. It's safer if others don't know I'm here—safer for me and safer for them. (Any) |
+| 2 | Observation. People lie. Histories lie. Even dragons lie. But actions always ring true. (Lawful) |
+| 3 | Storytelling. There is a magic in the retelling of stories. Each new teller adds a bit of themself to the spell. (Any) |
+| 4 | Nurture. Rearing a child is our best chance to make sure our own stories are passed on. (Any) |
+| 5 | Inquisitiveness. Even the smallest village contains myriad stories of love, loss, triumph, and betrayal. There is always more to learn about people. (Any) |
+| 6 | Espionage. Once I get paid for the information I glean, I don't care what others do with it. (Evil) |
+^emerald-dragon-ideals
+
+</div></div>
+
 
 ### Emerald Dragon Adventures
 
 The Emerald Dragon Adventure Hooks table offers suggestions for stories and adventures involving emerald dragons.
 
-![Emerald Dragon Adventures; Emerald Dragon Adventure Hooks](/Rules/Source/tables/emerald-dragon-adventures-emerald-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/emerald-dragon-adventures-emerald-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Emerald Dragon Adventures; Emerald Dragon Adventure Hooks
+
+</div>
+
+
+
+# Emerald Dragon Adventures; Emerald Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Emerald Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | An emerald dragon is the only witness to a murder but doesn't want to be found or identified. |
+| 2 | An emerald dragon seeks heroes to participate in a dramatic reenactment of a legendary battle involving dragon riders. |
+| 3 | An emerald dragon's assault on a [[Rules/Source/bestiary/giant/fire-giant-xmm\|fire giant]] has attracted the attention of the giant's clan, and now the dragon seeks aid. |
+| 4 | Villagers have been going missing, and then are found weeks later roaming the forest. They have no memory of the emerald dragon who charmed them for wandering too close to the dragon's lair. |
+| 5 | [[Rules/Source/bestiary/beast/giant-lizard-xmm\|Giant lizards]] drawn to the lair of a legendary emerald dragon are terrorizing a nearby halfling settlement. One solution is to get rid of the dragon. |
+| 6 | An emerald dragon is the headmaster in absentia of a bardic college and must be convinced to defend the school in a contest against a rival college. |
+| 7 | An emerald dragon invisibly tails a party of adventurers, causing trouble for the heroes so the dragon can watch how they respond. |
+| 8 | An emerald dragon has been spying for a villainous cabal, ensuring the villains remain one step ahead of the adventurers. |
+^emerald-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Emerald dragons generally go out of their way to avoid interacting with other intelligent creatures. However, their interest in history and culture occasionally gets the better of them, prompting them to seek some engagement with the folk of the world.
 
-![Connected Creatures; Emerald Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-emerald-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Emerald Dragon Connections](/Rules/Source/tables/connected-creatures-young-emerald-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-emerald-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Emerald Dragon Connections](/Rules/Source/tables/connected-creatures-adult-emerald-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Emerald Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-emerald-dragon-connections-ftd.md)
+# Connected Creatures; Emerald Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Emerald Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Emerald Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | [[Rules/Source/bestiary/beast/blood-hawk-xmm\|Blood hawks]] routinely accost an [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] who lairs near the hawks' nest. |
+| 2 | An [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] is being hunted by a [[Rules/Source/bestiary/giant/fire-giant-xmm\|fire giant's]] pet [[Rules/Source/bestiary/fiend/hell-hound-xmm\|hell hound]]. |
+| 3 | An [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] follows a [[Rules/Source/bestiary/humanoid/berserker-xmm\|berserker]] to observe the berserker's life. The berserker believes the dragon is a spirit companion. |
+| 4 | A flattering [[Rules/Source/bestiary/humanoid/berserker-xmm\|orog]] plies an [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] with gems in exchange for information about a settlement the wyrmling has been observing. |
+| 5 | An [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] keeps trying to play with a pair of newly hatched [[Rules/Source/bestiary/elemental/salamander-fire-snake-xmm\|fire snakes]]. |
+| 6 | An [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] has been captured by scheming duergar, who plan to use the wyrmling as bait to lure the wyrmling's parents out of their lair. |
+^emerald-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-emerald-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Emerald Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Emerald Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Young Emerald Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-emerald-dragon-ftd\|young emerald dragon]] has befriended a [[Rules/Source/bestiary/giant/stone-giant-xmm\|stone giant]], who is teaching the dragon giant folklore. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-emerald-dragon-ftd\|young emerald dragon]] lairs in abandoned bandit caverns also occupied by a friendly [[Rules/Source/bestiary/elemental/earth-elemental-xmm\|earth elemental]], which hunts for buried coins for the dragon's hoard. |
+| 3 | A [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|galeb duhr]] acts as a door guard to a [[Rules/Source/bestiary/dragon/young-emerald-dragon-ftd\|young emerald dragon's]] lair. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-emerald-dragon-ftd\|young emerald dragon]] invites repeated visits from a [[Rules/Source/bestiary/humanoid/bandit-deceiver-xmm\|drow mage]] who corrects what the dragon has learned about the history of the elven schism. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-emerald-dragon-ftd\|young emerald dragon]] attempts to drive off a clan of [[Rules/Source/bestiary/giant/cyclops-sentry-xmm\|cyclopes]] who have taken up residence in a nearby cave, attacking the clan's herd of [[Rules/Source/bestiary/beast/giant-goat-xmm\|giant goats]]. |
+| 6 | An [[Rules/Source/bestiary/humanoid/assassin-xmm\|assassin]] and a [[Rules/Source/bestiary/dragon/young-emerald-dragon-ftd\|young emerald dragon]] train together to master the art of stealth. |
+^young-emerald-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-emerald-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Emerald Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Emerald Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Adult Emerald Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]] wages a constant battle against deep gnome miners, who scour the tunnels of the dragon's lair in search of emeralds. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] tries to befriend and draw out a reclusive [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]]. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]] unwillingly serves a [[Rules/Source/bestiary/giant/fire-giant-xmm\|fire giant]] tribe holding the dragon's egg hostage. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]] is fascinated by the intrigues of a [[Rules/Source/bestiary/fiend/rakshasa-xmm\|rakshasa]] disguised as a human merchant prince. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]] shows an [[Rules/Source/bestiary/dragon/emerald-dragon-wyrmling-ftd\|emerald dragon wyrmling]] how to safely observe Humanoids without being detected. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]] keeps a wary eye on the [[Rules/Source/bestiary/elemental/efreeti-xmm\|efreet]] who have built a tower near the dragon's lair, and indirectly aids any who oppose the efreet. |
+| 7 | An [[Rules/Source/bestiary/construct/iron-golem-xmm\|iron golem]] ferries visitors across the lava moat surrounding an [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon's]] lair. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-emerald-dragon-ftd\|adult emerald dragon]] spies on the [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] who killed the emerald dragon's mate, looking for weaknesses. |
+^adult-emerald-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-emerald-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Emerald Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Emerald Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 114* 
+
+**Ancient Emerald Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-emerald-dragon-ftd\|ancient emerald dragon]] bargains with a [[Rules/Source/bestiary/fiend/pit-fiend-xmm\|pit fiend]] to buy back the soul of a legendary hero. |
+| 2 | A group of [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red]] and [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|silver]] dragons set aside their differences to learn wisdom from an [[Rules/Source/bestiary/dragon/ancient-emerald-dragon-ftd\|ancient emerald dragon]]. |
+| 3 | Two [[Rules/Source/bestiary/fiend/balor-xmm\|balors]] act as jailers for an [[Rules/Source/bestiary/dragon/ancient-emerald-dragon-ftd\|ancient emerald dragon]] imprisoned by a long-dead enemy. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-emerald-dragon-ftd\|ancient emerald dragon]] works to summon a [[Rules/Source/bestiary/celestial/solar-xmm\|solar]] to get a firsthand account for a history of the gods the dragon is compiling. |
+^ancient-emerald-dragon-connections
+
+</div></div>
+
 
 > [!note] Raulothim
 > 
@@ -873,8 +3248,8 @@ Emerald dragons make their lairs in caves and subterranean ruins, favoring locat
 An emerald dragon's lair is a maze of twisting tunnels, interconnected caverns, or crumbling ruins designed to disorient intruders. Circuitous routes within the lair provide the dragon with numerous ways to evade pursuit, while strategically designed choke points allow them to harry enemies with repeated ambushes. Emerald dragons frequently lay traps and alarms at the entrance points to their lairs, with older (and more paranoid) dragons employing several layers of such defenses.
 
 > [!gallery]
-> ![Map 5.8: emerald dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/065-map-5-8-emerald-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/066-map-5-8-emerald-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/065-map-5-8-emerald-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/065-map-5-8-emerald-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/066-map-5-8-emerald-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/066-map-5-8-emerald-dragon-lair-player.webp)
 
 #### Emerald Dragon Lair Features
 
@@ -896,7 +3271,38 @@ Emerald dragons are unusual among gem dragons in their preference for coinage ov
 
 Emerald dragons also prize cultural artifacts, especially relics with historical significance. They place great importance on an item's provenance, which can make it difficult to gauge how they might value any particular object. Despite remaining unmoved by the loss of a gold scepter deemed to be a replica, an emerald dragon might become enraged at the theft of a clay mug known to have been used by a legendary dwarf warlord while on campaign.
 
-![Emerald Dragon Treasures; Emerald Dragon Art Objects](/Rules/Source/tables/emerald-dragon-treasures-emerald-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/emerald-dragon-treasures-emerald-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Emerald Dragon Treasures; Emerald Dragon Art Objects
+
+</div>
+
+
+
+# Emerald Dragon Treasures; Emerald Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 117* 
+
+**Emerald Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | A traveling cloak worn by an elf apostate named Huwellah Starshine to the trial where she was convicted and executed |
+| 2 | A nonmagical crystal ball used by Firendelbip, a deep gnome seer who predicted the overthrow of a thousand-year-old fomorian empire |
+| 3 | Spurs worn by the famous human cavalier Roganvald, who challenged the dragon Arathimax the Red (Roganvald's armor now lies in Arathimax's hoard) |
+| 4 | The ornate badge of office of the lich Zakir, nine-time governor of the city of Durn |
+| 5 | A gravy ladle belonging to Lara Rumpledeep, a famed halfling gourmand |
+| 6 | A sextant used by the renowned dwarf explorer Thavrik Rustbeard |
+| 7 | A jeweled hairnet worn by the cloud giant Ultania, who slew her own mother to claim her throne |
+| 8 | A phoenix-shaped brooch passed down to each of the forty-seven recorded incarnations of Gaz, a githzerai monk |
+| 9 | A trophy cup engraved with a pumpkin, awarded each year at the harvest festival of Riksdell before that settlement fell to a plague |
+| 10 | Rusty chains used to bind the orc master thief Korjus before she escaped and conquered half the lands of the south |
+^emerald-dragon-art-objects
+
+</div></div>
+
 
 ## Faerie Dragons
 
@@ -910,21 +3316,137 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Faerie Dragon Personality Traits and Faerie Dragon Ideals tables to inspire your portrayal of distinctive faerie dragon characters.
 
-![Creating a Faerie Dragon; Faerie Dragon Personality Traits](/Rules/Source/tables/creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd.md)
 
-![Creating a Faerie Dragon; Faerie Dragon Ideals](/Rules/Source/tables/creating-a-faerie-dragon-faerie-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Faerie Dragon; Faerie Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Faerie Dragon; Faerie Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 118* 
+
+**Faerie Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | Some people say I have a short attention span, and that I'm easily distractible, but they don't... oh wow, is that a lute? |
+| 2 | I do not constantly steal food. If you can't keep track of your rations, that's really a personal failing. |
+| 3 | I'm much smarter than I look, and if you can't say the same, this is going to be a short conversation. |
+| 4 | Elf, dwarf, horse—you non-dragons all look the same to me. No offense. |
+| 5 | When I narrate what I'm doing in song, it makes everything feel more epic, don't you think? |
+| 6 | The world is a product of my imagination. The fact that you think you exist when I'm not thinking about you is adorable. |
+| 7 | I'm quick to make friends and love winning over grumpy and stoic types. If they don't yet appreciate my help, that just means they need more of it! |
+| 8 | I like to earn people's trust, then lead them into dangerous situations and make off with their treasure while they're distracted. |
+^faerie-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-faerie-dragon-faerie-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Faerie Dragon; Faerie Dragon Ideals
+
+</div>
+
+
+
+# Creating a Faerie Dragon; Faerie Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 118* 
+
+**Faerie Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Benevolence. Jokes are one thing, but I won't abide cruelty. My mischief brings joy to the downtrodden and ridicule to oppressors. (Good) |
+| 2 | Variety. How can anyone stand to do the same things over and over? I take any opportunity to shake things up by trying something new. (Chaotic) |
+| 3 | Fun. What's the point of living if you're not going to enjoy yourself? (Any) |
+| 4 | Humor. My jokes make life more interesting for everyone. Or at least for me. (Any) |
+| 5 | Energy. Boredom is worse than death. I'm not much for plans, but you can always count on me to make something happen! (Chaotic) |
+| 6 | Selfishness. Other creatures exist for my amusement. If tormenting them were wrong, why would I enjoy it so much? (Evil) |
+^faerie-dragon-ideals
+
+</div></div>
+
 
 ### Faerie Dragon Adventures
 
 The Faerie Dragon Adventure Hooks table offers suggestions for stories and adventures involving faerie dragons.
 
-![Faerie Dragon Adventures; Faerie Dragon Adventure Hooks](/Rules/Source/tables/faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
+
+</div>
+
+
+
+# Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 118* 
+
+**Faerie Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A faerie dragon has noticed raiders tracking a defenseless caravan and is eager to warn someone who can help. |
+| 2 | A faerie dragon seeks revenge on the monsters that killed the dragon's ranger companion. |
+| 3 | A faerie dragon needs help ending a curse that has begun corrupting local plants and animals in the dragon's forest. |
+| 4 | A faerie dragon has been harassing local miners who are disturbing the dragon's territory. |
+| 5 | A faerie dragon has discovered the entrance to an ancient ruin and is eager to tag along while an adventuring party explores it. |
+| 6 | A faerie dragon has stolen a dangerous magic item from a wizard's workshop, without any idea of what it actually does. |
+| 7 | A faerie dragon has stumbled upon the recently dead corpse of a centaur messenger bearing a crucial warning for the centaur's community. |
+| 8 | A faerie dragon has been magically compelled to work as an invisible assassin and is desperate for someone to break the compulsion. |
+^faerie-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 As is suggested by their name and nature, faerie dragons tend to prefer the company of Fey, as well as wild animals and any chaotic creatures who can appreciate faerie dragons' madcap sense of humor. At the same time, faerie dragons' limited attention spans often leave them starved for novelty, and nearly any creature can attract their interest—at least temporarily.
 
-![Connected Creatures; Faerie Dragon Connections](/Rules/Source/tables/connected-creatures-faerie-dragon-connections-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-faerie-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Faerie Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Faerie Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 118* 
+
+**Faerie Dragon Connections**
+
+| dice: d10 | Connected Creatures |
+|-----------|---------------------|
+| 1 | An entrepreneurial gnome uses a [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon's]] Euphoria Breath to open a novel relaxation spa; the dragon appreciates the steady stream of treats and baubles they receive in exchange for their labor. |
+| 2 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] is in love with a member of a [[Rules/Source/bestiary/fey/pixie-xmm\|pixie]] royal court and is constantly searching for some grand deed capable of impressing their beloved. |
+| 3 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] uses magic to aid in the rambling revels of a band of [[Rules/Source/bestiary/fey/satyr-xmm\|satyrs]]. |
+| 4 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] and a [[Rules/Source/bestiary/fiend/quasit-xmm\|quasit]] are sworn enemies, and their invisible battles and the elaborate traps they lay for each other cause havoc in the area where they both live. |
+| 5 | A mercenary band keeps a [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] captive in a cage, forcing the dragon to act as a jester. |
+| 6 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] nests in the branches of a tree that recently received the benefit of a [[Rules/Source/bestiary/humanoid/druid-xmm\|druid's]] [[Rules/Source/spells/awaken-xphb\|awaken]] spell and promises to teach the [[Rules/Source/bestiary/plant/awakened-tree-xmm\|awakened tree]] in exchange for shelter and companionship. |
+| 7 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] rules a pack of [[Rules/Source/bestiary/fey/blink-dog-xmm\|blink dogs]], leading them on a grand quest against evil that the dragon is making up along the way. |
+| 8 | A [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmling]] has recruited a [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] as a spy, though the faerie dragon's bizarre means of carrying out orders leaves the green dragon wondering if it's worth the effort. |
+| 9 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] constantly tries to impress a gruff dwarf priest by proselytizing to everyone they meet as they travel together, but the dragon's interpretation of their "shared faith" is extremely eccentric. |
+| 10 | A [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragon]] has intimidated a gang of [[Rules/Source/bestiary/fey/goblin-warrior-xmm\|goblins]] and now forces the goblins to follow an increasingly bizarre set of rules. |
+^faerie-dragon-connections
+
+</div></div>
+
 
 ### Faerie Dragon Lairs
 
@@ -965,11 +3487,40 @@ If the faerie dragon dies, these effects fade over the course of `1d10` days.
 
 Faerie dragons covet treasure as much as their larger draconic kin, but they are significantly less discerning. Faerie dragons' hoards are thus often a mix of genuine wealth and intriguing trash, with the dragons paying more attention to the wild stories they concoct around each item than the items' actual monetary value. These tiny egomaniacs can often be bribed with cheap but sufficiently respectful tributes of food and shiny trinkets, though their tendency to "borrow" any random object that catches their eye means a faerie dragon nest might also contain items of surprising value—often without the dragon realizing it.
 
-![Faerie Dragon Treasures; Faerie Dragon Art Objects](/Rules/Source/tables/faerie-dragon-treasures-faerie-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/faerie-dragon-treasures-faerie-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Faerie Dragon Treasures; Faerie Dragon Art Objects
+
+</div>
+
+
+
+# Faerie Dragon Treasures; Faerie Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 120* 
+
+**Faerie Dragon Art Objects**
+
+| dice: d8 | Object |
+|----------|--------|
+| 1 | A fist-sized puzzle box that the dragon hasn't been able to open, and that holds a tiny clay tablet marked with a mysterious string of numbers |
+| 2 | An illustrated tome titled Hrgold's Bestiary, which falls open to an oft-read entry on faerie dragons |
+| 3 | A majestic military jacket featuring a dazzling array of medals and five different secret pockets |
+| 4 | A gold-rimmed monocle sized for a cyclops, complete with a gold chain |
+| 5 | A gilded pseudodragon skull that the faerie dragon likes to wear as a mask while pretending to be a different dragon called "Regnus the Unspeakable" |
+| 6 | A cask of wine stamped with the seal of a noble's private collection |
+| 7 | A framed painting of a red dragon destroying an army, with a hole chewed through the dragon's face so the faerie dragon can stick their head through it |
+| 8 | A tiny scale model of a castle that opens like a dollhouse to reveal the chambers and secret passages within |
+^faerie-dragon-art-objects
+
+</div></div>
+
 
 > [!note] Nathair Sgiathach
 > 
-> Sometimes incorrectly assumed to be a god by non-dragons, Nathair Sgiathach (pronounced "nah-HAIR skee-HOKH") is the most famous of faerie dragon folk heroes. Like other faerie dragons, Nathair adores jokes—even those made at the dragon's expense—which makes Nathair particularly popular among their pixie, sprite, and other Fey associates. Though Nathair's magical powers are far greater than those of most faerie dragons (thanks in part to highly developed dragonsight), Nathair still prefers to resolve conflict with harmless pranks and absurdities, such as making an enemy's buttocks glow red and appear to sing folk tunes. When necessary, however, Nathair doesn't shy away from fighting to defend their beloved faerie folk. As such, some Fey teach their children to call Nathair Sgiathach's name in times of trouble, on the chance that the faerie dragon might be lurking invisibly nearby, as well as to put out ceremonial offerings of the faerie dragon's favorite food: apple pie.{ #nathair-sgiathach}
+> Sometimes incorrectly assumed to be a god by non-dragons, Nathair Sgiathach (pronounced) is the most famous of faerie dragon folk heroes. Like other faerie dragons, Nathair adores jokes—even those made at the dragon's expense—which makes Nathair particularly popular among their pixie, sprite, and other Fey associates. Though Nathair's magical powers are far greater than those of most faerie dragons (thanks in part to highly developed dragonsight), Nathair still prefers to resolve conflict with harmless pranks and absurdities, such as making an enemy's buttocks glow red and appear to sing folk tunes. When necessary, however, Nathair doesn't shy away from fighting to defend their beloved faerie folk. As such, some Fey teach their children to call Nathair Sgiathach's name in times of trouble, on the chance that the faerie dragon might be lurking invisibly nearby, as well as to put out ceremonial offerings of the faerie dragon's favorite food: apple pie.{ #nathair-sgiathach}
 
 
 
@@ -985,29 +3536,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Gold Dragon Personality Traits and Gold Dragon Ideals tables to inspire your portrayal of distinctive gold dragon characters, and use the Gold Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Gold Dragon; Gold Dragon Personality Traits](/Rules/Source/tables/creating-a-gold-dragon-gold-dragon-personality-traits-ftd.md)
 
-![Creating a Gold Dragon; Gold Dragon Ideals](/Rules/Source/tables/creating-a-gold-dragon-gold-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-gold-dragon-gold-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Gold Dragon; Gold Dragon Spellcasting](/Rules/Source/tables/creating-a-gold-dragon-gold-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Gold Dragon; Gold Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Gold Dragon; Gold Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 121* 
+
+**Gold Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I prefer to parley before combat. If villains can be reformed without violence, all the better. |
+| 2 | Shorter-lived species often have difficulty perceiving the full scope of time's tapestry and lack the patience for my appropriately thorough explanations. |
+| 3 | Others might find me cold and dispassionate, but such is the price of perspective. Few creatures enjoy confronting the relative smallness of their lives. |
+| 4 | Disguises allow me to bestow small kindnesses and experience the simple pleasures of companionship without constantly being petitioned. I'm proud of my acting ability and never break character. |
+| 5 | The future is writ large in the patterns of history. I enjoy conversing with others who think critically about history and society. |
+| 6 | I enjoy gifts but find attempts to hire or bribe me deeply offensive. |
+| 7 | My reclusiveness is a filter. If someone lacks the motivation to overcome my barriers, then their matter is unworthy of my attention. |
+| 8 | On a long enough timescale, all actions are meaningless. So why should I deny myself anything? |
+^gold-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-gold-dragon-gold-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Gold Dragon; Gold Dragon Ideals
+
+</div>
+
+
+
+# Creating a Gold Dragon; Gold Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 121* 
+
+**Gold Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Foresight. Righteous action requires carefully weighing potential consequences to ensure the cure is not worse than the disease. (Lawful) |
+| 2 | Restraint. I cannot right every wrong. I encourage others to solve their own problems, and I save my strength for tribulations only I can address. (Any) |
+| 3 | Stewardship. I do not serve individuals, but rather history. By acting strategically, I tip the ultimate balance toward justice and virtue. (Good) |
+| 4 | Objectivity. I remain impartial in my judgments and refuse to let personal feelings get in the way of what's fair or necessary. (Lawful) |
+| 5 | Isolation. Every interaction has ramifications that stretch on into infinity. I curate my impact on the world by remaining aloof and self-reliant. (Any) |
+| 6 | Sovereignty. Other creatures lack my wisdom and must be controlled to prevent wrongdoing. (Evil) |
+^gold-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-gold-dragon-gold-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Gold Dragon; Gold Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Gold Dragon; Gold Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 121* 
+
+**Gold Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|Young]] | 17 | [[Rules/Source/spells/bless-xphb\|bless]], [[Rules/Source/spells/cure-wounds-xphb\|cure wounds]], [[Rules/Source/spells/slow-xphb\|slow]], [[Rules/Source/spells/suggestion-xphb\|suggestion]], [[Rules/Source/spells/zone-of-truth-xphb\|zone of truth]] |
+| [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|Adult]] | 21 | [[Rules/Source/spells/bless-xphb\|bless]], [[Rules/Source/spells/commune-xphb\|commune]], [[Rules/Source/spells/cure-wounds-xphb\|cure wounds]], [[Rules/Source/spells/geas-xphb\|geas]],* [[Rules/Source/spells/slow-xphb\|slow]], [[Rules/Source/spells/suggestion-xphb\|suggestion]], [[Rules/Source/spells/zone-of-truth-xphb\|zone of truth]] |
+| [[Rules/Source/bestiary/dragon/ancient-gold-dragon-xmm\|Ancient]] | 24 | [[Rules/Source/spells/bless-xphb\|bless]], [[Rules/Source/spells/commune-xphb\|commune]],* [[Rules/Source/spells/cure-wounds-xphb\|cure wounds]], [[Rules/Source/spells/geas-xphb\|geas]],* [[Rules/Source/spells/plane-shift-xphb\|plane shift]] (`+16` to hit), [[Rules/Source/spells/slow-xphb\|slow]], [[Rules/Source/spells/suggestion-xphb\|suggestion]], [[Rules/Source/spells/word-of-recall-xphb\|word of recall]], [[Rules/Source/spells/zone-of-truth-xphb\|zone of truth]] |
+*This spell's casting time is longer than 1 action.
+
+</div></div>
+
 
 ### Gold Dragon Adventures
 
 The Gold Dragon Adventure Hooks table offers suggestions for stories and adventures involving gold dragons.
 
-![Gold Dragon Adventures; Gold Dragon Adventure Hooks](/Rules/Source/tables/gold-dragon-adventures-gold-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gold-dragon-adventures-gold-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gold Dragon Adventures; Gold Dragon Adventure Hooks
+
+</div>
+
+
+
+# Gold Dragon Adventures; Gold Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 121* 
+
+**Gold Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | When two cities stand on the brink of war, someone needs to make the arduous journey to convince a gold dragon to arbitrate the dispute. |
+| 2 | A scholar has learned a secret so dangerous that a gold dragon is set on magically wiping the scholar's mind. The dragon is recruiting trackers to locate the scholar, while the scholar tries to hire bodyguards. |
+| 3 | A gold dragon seeks to vanquish evil by conquering and uniting all nations under a totalitarian government that will enforce the dragon's benevolent laws. |
+| 4 | A gold dragon has been attacking travelers in an effort to drive them away from the dragon's territory, which holds a deadly artifact at its center. |
+| 5 | A gold dragon has decided to burn a plague- infected city to the ground, sacrificing the residents to limit the contagion's spread. |
+| 6 | A gold dragon needs agents to infiltrate a magical prison complex and liberate the dragon's monk companion, who has been unjustly sentenced. |
+| 7 | A gold dragon demands reparations from a city whose rulers sent adventurers to steal from the dragon's hoard. |
+| 8 | A gold dragon requires a team of specialists to help break into the infamous Lamentation Vault and acquire the world-shaking prophecy held within. |
+^gold-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Gold dragons tend to hold themselves apart from the worlds they watch over, favoring isolation and trusting only a few close allies and guardians. When they do walk among other creatures, they prefer to do so in disguise, relishing the opportunity to see the world through different eyes.
 
-![Connected Creatures; Gold Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-gold-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Gold Dragon Connections](/Rules/Source/tables/connected-creatures-young-gold-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-gold-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Gold Dragon Connections](/Rules/Source/tables/connected-creatures-adult-gold-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Gold Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-gold-dragon-connections-ftd.md)
+# Connected Creatures; Gold Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Gold Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 122* 
+
+**Gold Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/gold-dragon-wyrmling-xmm\|gold dragon wyrmling]] bonded with a [[Rules/Source/bestiary/elemental/xorn-xmm\|xorn]] over their shared love of gems and seeks to help the creature back to the Elemental Plane of Earth. |
+| 2 | A [[Rules/Source/bestiary/dragon/gold-dragon-wyrmling-xmm\|gold dragon wyrmling]] yearns to imitate a [[Rules/Source/bestiary/celestial/couatl-xmm\|couatl]] mentor and is searching for a magical location worth guarding. |
+| 3 | A [[Rules/Source/bestiary/dragon/gold-dragon-wyrmling-xmm\|gold dragon wyrmling]] is venerated by a tribe of lizardfolk—much to the consternation of the priest who used to rule the tribe. |
+| 4 | A band of [[Rules/Source/bestiary/fey/centaur-trooper-xmm\|centaurs]] makes pilgrimages to a [[Rules/Source/bestiary/dragon/gold-dragon-wyrmling-xmm\|gold dragon wyrmling's]] lair, bringing gifts of gems and knowledge. |
+| 5 | A [[Rules/Source/bestiary/dragon/gold-dragon-wyrmling-xmm\|gold dragon wyrmling]] is fascinated by modrons' clockwork determinism and has tracked down and befriended a rogue [[Rules/Source/bestiary/construct/modron-pentadrone-xmm\|pentadrone]]. |
+| 6 | A [[Rules/Source/bestiary/dragon/gold-dragon-wyrmling-xmm\|gold dragon wyrmling]] has befriended a group of [[Rules/Source/bestiary/aberration/githzerai-monk-xmm\|githzerai monks]] and visits them regularly to conduct elaborate thought experiments. |
+^gold-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-gold-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Gold Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Gold Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 122* 
+
+**Young Gold Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] enjoys the company of [[Rules/Source/bestiary/plant/treant-xmm\|treants]], who share the dragon's long view of history and methodical conversational style. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] lives in a cluster of stone spires and has secured the service of the [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|galeb duhr]] who watch over the site. |
+| 3 | An [[Rules/Source/bestiary/fiend/arcanaloth-xmm\|arcanaloth]] has secured a contract requiring a [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] to serve the Fiend once every five years. It can't make the dragon do evil acts, but the jobs often have unforeseen consequences. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] maintains a lair in a flying cloud giant citadel, winning the continued right to dwell there in repeated gambling games. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] and an [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] are uneasy companions, bound to defend each other by the dying wish of a heroic warrior they both loved. |
+| 6 | After a [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] freed a [[Rules/Source/bestiary/elemental/djinni-xmm\|djinni]] from servitude, the djinni installed a portal linking the dragon's lair to the djinni's citadel on the Elemental Plane of Air. |
+^young-gold-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-gold-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Gold Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Gold Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 122* 
+
+**Adult Gold Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] has sworn to destroy the [[Rules/Source/bestiary/fiend/balor-xmm\|balor]] who killed the dragon's mate. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] feels responsible for a paladin's fall from grace and sends minions across the world in search of the paladin—now a [[Rules/Source/bestiary/undead/death-knight-xmm\|death knight]]—so they both might be redeemed. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]] and an [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] skirmish over control of the vine-choked ruins of a floating mausoleum and its library of talking skulls. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] enjoys playing strategy games with an [[Rules/Source/bestiary/celestial/sphinx-of-valor-xmm\|androsphinx]], one of the few creatures able to successfully bluff the dragon. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] living in a desert temple helps some elf oracles interpret visions bestowed by an artifact called the Siren's Lens. |
+| 6 | An imprisoned [[Rules/Source/bestiary/undead/mummy-lord-xmm\|mummy lord]] has convinced its [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] jailer that the mummy's plans for domination will be for the best in the long run. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] crafted an [[Rules/Source/bestiary/construct/iron-golem-xmm\|iron golem]] to defend the dragon's lair and talks to it as if it were a person. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-gold-dragon-xmm\|adult gold dragon]] hunts the [[Rules/Source/bestiary/undead/dracolich-xmm\|adult blue dracolich]] who stole the legendary Crown of Endings from the gold dragon's hoard. |
+^adult-gold-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-gold-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Gold Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Gold Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 122* 
+
+**Ancient Gold Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/celestial/solar-xmm\|solar]] who admires an [[Rules/Source/bestiary/dragon/ancient-gold-dragon-xmm\|ancient gold dragon]] campaigns to recruit the dragon into the service of the solar's god. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-gold-dragon-xmm\|ancient gold dragon]] is infatuated with an oblivious [[Rules/Source/bestiary/miscellaneous/empyrean-xmm\|empyrean]], drawn in by the empyrean's carefree nature and larger-than-life emotions. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-gold-dragon-xmm\|ancient gold dragon]] and a [[Rules/Source/bestiary/undead/lich-xmm\|lich]] have vied to bend history to their respective wills. The two have reluctantly come to understand and empathize with each other. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-gold-dragon-xmm\|ancient gold dragon]] takes little interest in the day-to-day governance of a powerful empire. But the dragon expects to be obeyed completely when deigning to address the populace. |
+^ancient-gold-dragon-connections
+
+</div></div>
+
 
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/068-05-006.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/068-05-006.webp)
 
@@ -1016,8 +3784,8 @@ Gold dragons tend to hold themselves apart from the worlds they watch over, favo
 Despite their affection for people and their diverse cultures, gold dragons typically make their lairs in hidden places far from civilization, where only the most desperate and dedicated can find them. Many live in the ruins of vanished cultures, appreciating the beautiful inevitability of entropy and the reminder of how easily progress can be lost without careful tending. Crumbling shrines, towers reclaimed by the wilderness, and fallen fortresses all appeal to a gold dragon's sense of history—though they can be equally enraptured by picturesque natural settings. A gold dragon lair almost always involves water, be it a river, a lake, or an ocean shore.
 
 > [!gallery]
-> ![Map 5.9: gold dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/069-map-5-9-gold-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/070-map-5-9-gold-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/069-map-5-9-gold-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/069-map-5-9-gold-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/070-map-5-9-gold-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/070-map-5-9-gold-dragon-lair-player.webp)
 
 #### Gold Dragon Lair Features
 
@@ -1065,7 +3833,38 @@ Gold dragons consider gems and pearls culinary delicacies, and they often have a
 
 Gold dragons also collect trophies marking important events and successes in their lives. But unlike many other dragons, they are just as likely to prize mementos of their defeats and mistakes, believing that such reminders are inherently instructive. Like bronze dragons, gold dragons often guard particularly dangerous artifacts as a form of public service, and thus prize clever magical or mundane defenses to keep their lairs safe and hidden.
 
-![Gold Dragon Treasures; Gold Dragon Art Objects](/Rules/Source/tables/gold-dragon-treasures-gold-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gold-dragon-treasures-gold-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gold Dragon Treasures; Gold Dragon Art Objects
+
+</div>
+
+
+
+# Gold Dragon Treasures; Gold Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 124* 
+
+**Gold Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | A fine tapestry depicting the intermingled family trees of several royal bloodlines going back multiple generations—and containing surprising revelations |
+| 2 | An orrery showing the world's place in the solar system—with one gemstone planet too many |
+| 3 | A scroll covered with surrealist imagery, entitled Voyage through the Land of Dreams |
+| 4 | A black dragon skull with a crack down the middle and gems fixed in its eye sockets; a plaque along the bottom reads, "So too shall ye be" |
+| 5 | A metal wheel with various holy symbols affixed to its edges; thin arms at the center of the wheel are made to hold a spherical object that is missing |
+| 6 | A series of nesting metal cylinders, each inscribed with a different proverb or paradox; the central cylinder contains a single gold dragon scale |
+| 7 | An elaborate atlas bound in wyvern hide, with several remote regions circled and labeled in code |
+| 8 | A clever clockwork music box that, when cranked, recites a prophecy in Modron |
+| 9 | An elaborately decorated tea set, each of its cups themed after a different plane of existence |
+| 10 | An elaborate calendar clock with one face burned and cracked and two others that are counting down to unspecified future events, including one less than a month away |
+^gold-dragon-art-objects
+
+</div></div>
+
 
 ## Green Dragons
 
@@ -1079,29 +3878,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Green Dragon Personality Traits and Green Dragon Ideals tables to inspire your portrayal of distinctive green dragon characters, and use the Green Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Green Dragon; Green Dragon Personality Traits](/Rules/Source/tables/creating-a-green-dragon-green-dragon-personality-traits-ftd.md)
 
-![Creating a Green Dragon; Green Dragon Ideals](/Rules/Source/tables/creating-a-green-dragon-green-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-green-dragon-green-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Green Dragon; Green Dragon Spellcasting](/Rules/Source/tables/creating-a-green-dragon-green-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Green Dragon; Green Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Green Dragon; Green Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 126* 
+
+**Green Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | You're either with me or you're against me. Just kidding—you're lunch either way! |
+| 2 | I hate how much people think they matter in a world that was old before their kind even learned the idea of names. |
+| 3 | The more the merrier as far as I'm concerned: more to control, more to torture, more to feast upon when I'm finally bored. |
+| 4 | Bipedal life is too ugly and ignorant to merit even a scrap of compassion. |
+| 5 | I like seeing life through the eyes of a lesser being—before forcing that creature to gouge their eyes out. |
+| 6 | The wilds are mine and mine alone, and anyone who thinks they can enter my territory had best hope I have other distractions that day. |
+| 7 | I allow others to dwell in my forest—if they act as my eyes, ears, and occasional playthings in return. |
+| 8 | I harbor no animosity toward anyone. Let me grow ancient with my forest, and I'll leave you in peace. |
+^green-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-green-dragon-green-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Green Dragon; Green Dragon Ideals
+
+</div>
+
+
+
+# Creating a Green Dragon; Green Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 126* 
+
+**Green Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Isolation. Territories can be properly established only when all parties respect the borders of their neighbors. (Lawful) |
+| 2 | Control. All lesser beings should bare their throats to their betters. (Evil) |
+| 3 | Respect. Fear is amusing, but reverence is delicious. (Any) |
+| 4 | Intrigue. The world is so much more entertaining when no one trusts anyone. (Evil) |
+| 5 | Imagination. Nothing is more gauche than repeating the same activities day after day. (Any) |
+| 6 | Tolerance. The impermanence of intelligent life is bittersweet and should be honored as such. (Good) |
+^green-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-green-dragon-green-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Green Dragon; Green Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Green Dragon; Green Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 126* 
+
+**Green Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|Young]] | 13 | [[Rules/Source/spells/invisibility-xphb\|invisibility]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+| [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|Adult]] | 16 | [[Rules/Source/spells/invisibility-xphb\|invisibility]], [[Rules/Source/spells/plant-growth-xphb\|plant growth]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+| [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|Ancient]] | 19 | [[Rules/Source/spells/invisibility-xphb\|invisibility]], [[Rules/Source/spells/mass-suggestion-xphb\|mass suggestion]], [[Rules/Source/spells/plant-growth-xphb\|plant growth]], [[Rules/Source/spells/speak-with-animals-xphb\|speak with animals]] |
+^green-dragon-spellcasting
+
+</div></div>
+
 
 ### Green Dragon Adventures
 
 The Green Dragon Adventure Hooks table offers suggestions for stories and adventures involving green dragons.
 
-![Green Dragon Adventures; Green Dragon Adventure Hooks](/Rules/Source/tables/green-dragon-adventures-green-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/green-dragon-adventures-green-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Green Dragon Adventures; Green Dragon Adventure Hooks
+
+</div>
+
+
+
+# Green Dragon Adventures; Green Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 126* 
+
+**Green Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A green dragon is terrorizing a forest settlement, murdering and eating someone each night before depositing the grisly remains in the village square. |
+| 2 | [[Rules/Source/bestiary/giant/troll-xmm\|Trolls]] are attacking trade caravans, stealing and killing whatever they can—all to placate a green dragon living in their territory. |
+| 3 | A cult is capturing travelers to feed a newly hatched pair of green dragons. |
+| 4 | A convicted murderer begs for clemency, claiming to have been under the control of a green dragon while on a killing spree. |
+| 5 | The misty forest at the border of a coastal realm is beginning to grow alarmingly, and sages suspect it might be the work of a green dragon. |
+| 6 | A green dragon stirs from a long underground slumber to discover that a city has been built where the dragon's forest lair once stood. |
+| 7 | [[Rules/Source/bestiary/giant/hill-giant-xmm\|Hill giant]] raiders promise to stop their pillaging in exchange for a clutch of [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmlings]] to raise. |
+| 8 | A green dragon stalks a well-known trade route, interrogating all passersby on what they know about a dead gold dragon's lost hoard. |
+^green-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Green dragons see other living beings as objects to subjugate, torment, or eat. Solitary by nature, they seldom tolerate the presence of other creatures unless their presence serves a purpose.
 
-![Connected Creatures; Green Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-green-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Green Dragon Connections](/Rules/Source/tables/connected-creatures-young-green-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-green-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Green Dragon Connections](/Rules/Source/tables/connected-creatures-adult-green-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Green Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-green-dragon-connections-ftd.md)
+# Connected Creatures; Green Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Green Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 127* 
+
+**Green Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmling]] is the centerpiece of a traveling circus but might not be a prisoner after all. |
+| 2 | A [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmling]] was raised by a cluster of [[Rules/Source/bestiary/dragon/pseudodragon-xmm\|pseudodragons]], whom the wyrmling now protects. |
+| 3 | Hobgoblin raiders have captured several [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmlings]], hoping to use them as the vanguards of their war parties. |
+| 4 | A [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmling]] exacerbates the chaotic tendencies of a group of [[Rules/Source/bestiary/fey/satyr-xmm\|satyrs]], driving them to greater acts of mischief with the promise of rich rewards. |
+| 5 | A [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmling]] tricks a village of lizardfolk into believing the dragon is an incarnation of a lizardfolk god. |
+| 6 | An ancient [[Rules/Source/bestiary/celestial/couatl-xmm\|couatl]] attempts to shape the moral outlook of a [[Rules/Source/bestiary/dragon/green-dragon-wyrmling-xmm\|green dragon wyrmling]], so the dragon might inherit the duty of guarding the couatl's treasures. |
+^green-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-green-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Green Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Green Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 127* 
+
+**Young Green Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|young green dragon]] and a [[Rules/Source/bestiary/plant/treant-xmm\|treant]] vie for influence over a woodland region. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|young green dragon]] forces a group of [[Rules/Source/bestiary/fey/dryad-xmm\|dryads]] to collect treasures for the dragon's hoard, threatening to destroy their trees if they refuse. |
+| 3 | An infestation of [[Rules/Source/bestiary/plant/twig-blight-xmm\|twig blights]] has taken over the lair of a [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|young green dragon]], and the dragon will do anything to reclaim it. |
+| 4 | [[Rules/Source/bestiary/fey/green-hag-xmm\|Green hags]] compete to gain an alliance with a [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|young green dragon]], turning a village into a staging ground for their games of deceit. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|young green dragon]] directs a conclave of yuan-ti under the command of a [[Rules/Source/bestiary/monstrosity/yuan-ti-abomination-xmm\|yuan-ti abomination]], ordering the serpentfolk to search the forgotten tunnels of a city for the ancient treasures buried there. |
+| 6 | An [[Rules/Source/bestiary/fiend/oni-xmm\|oni]] and a [[Rules/Source/bestiary/dragon/young-green-dragon-xmm\|young green dragon]] work together to terrorize a village, taking a victim every night and leaving the rest too frightened to flee. |
+^young-green-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-green-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Green Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Green Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 127* 
+
+**Adult Green Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | A ruler controlled by an [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]] plunders the realm's populace to fill the dragon's hoard. |
+| 2 | Several [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragons]] fight to claim a treasure hoard hidden under a woodland city. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]] is bound to the service of a [[Rules/Source/bestiary/celestial/guardian-naga-xmm\|guardian naga]] and baits other creatures to kill the dragon's naga captor. |
+| 4 | [[Rules/Source/bestiary/beast/giant-ape-xmm\|Giant apes]] raised from birth by an [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]] now serve as the dragon's hunting party. |
+| 5 | Mind-controlled clerics lead unsuspecting worshipers to the lair of an [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]]. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]] works to corrupt a [[Rules/Source/bestiary/dragon/young-gold-dragon-xmm\|young gold dragon]] trapped in the green dragon's woods. |
+| 7 | Wood elves flagellate themselves to earn the favor of a god suddenly turned cruel, not knowing they've been misled by an [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]]. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult green dragon]] turns [[Rules/Source/bestiary/plant/treant-xmm\|treants]] against the druids who once guarded the treants' grove. |
+^adult-green-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-green-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Green Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Green Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 127* 
+
+**Ancient Green Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|ancient green dragon]] returns to the same sylvan forest every year to feed upon a herd of [[Rules/Source/bestiary/celestial/unicorn-xmm\|unicorns]]. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|ancient green dragon]] prevents would-be rescuers from reaching a cursed realm whose people are magically asleep and hidden behind a forest of thorns. |
+| 3 | A once-peaceful land has become warlike, thanks to the [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|ancient green dragon]] controlling its elf monarchs. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|ancient green dragon]] is the guardian of a [[Rules/Source/bestiary/undead/lich-xmm\|lich's]] phylactery and extorts favors from the lich. |
+^ancient-green-dragon-connections
+
+</div></div>
+
 
 ### Green Dragon Lairs
 
@@ -1110,8 +4126,8 @@ Green dragons prefer making their lairs in verdant places—jungles, bayous, pin
 Green dragons take great interest in woodland settlements when seeking lair sites. Though they are fully capable of modifying forests to their own liking, they find it easier and vastly more entertaining to take something belonging to smaller and weaker beings.
 
 > [!gallery]
-> ![Map 5.10: green dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/071-map-5-10-green-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/072-map-5-10-green-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/071-map-5-10-green-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/071-map-5-10-green-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/072-map-5-10-green-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/072-map-5-10-green-dragon-lair-player.webp)
 
 #### Green Dragon Lair Features
 
@@ -1127,7 +4143,7 @@ The lair has the following features:
 
 At your discretion, a legendary ([[Rules/Source/bestiary/dragon/adult-green-dragon-xmm\|adult]] or [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[Rules/Source/bestiary/undead/zombie-xmm\|zombies]] (see their entry in the "Monster Manual"). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[Rules/Source/bestiary/undead/zombie-xmm\|zombies]] (see their entry in the). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
 - **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a `+7` bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[Rules/Source/conditions#Prone\|prone]].  
 
 #### Regional Effects
@@ -1145,7 +4161,38 @@ Green dragons relish gems and jewelry whose palettes reflect their chosen forest
 
 Unlike many of their kin, green dragons use the transformative power of nature to turn those valuables into truly unique treasures. By wrapping and threading treasures with rare vegetation and carefully applying their own skill as gardeners, green dragons meld nature and artifice into new masterpieces. This can lead to complications for would-be treasure hunters, as green dragons take enormous pride in their handiwork—so much so that intruders damaging the delicate arrangements of flower and vine that surround a treasure cache might come under attack before even touching any of the hoard's contents.
 
-![Green Dragon Treasures; Green Dragon Art Objects](/Rules/Source/tables/green-dragon-treasures-green-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/green-dragon-treasures-green-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Green Dragon Treasures; Green Dragon Art Objects
+
+</div>
+
+
+
+# Green Dragon Treasures; Green Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 129* 
+
+**Green Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | The polished skull of a unicorn, latticed with luminescent blooms |
+| 2 | An elaborate necklace of yuan-ti origin, set with gleaming gems and dripping with strands of pearls |
+| 3 | A harp, its pillar carved to resemble a beautiful elf who weeps loudly and inconsolably |
+| 4 | A marble statue that once showed a knight vanquishing a dragon, but due to strategic damage, now looks like a knight tumbling into massive jaws |
+| 5 | The baby teeth of a Humanoid, preserved in amber furred with a golden fungus that smells like gingerbread |
+| 6 | A giant-sized hunting horn scrimshawed with elaborate patterns, the pewter only slightly tarnished |
+| 7 | A stained glass window still set within a fragment of wall depicting the many deaths of an elf monarch |
+| 8 | A triptych of silver mirrors, set in an ornate brambled iron frame sculpted to depict figures in a grotesque bacchanal |
+| 9 | Quartz terrariums carried on the backs of tourmaline jaguars, overgrown with misshapen cacti |
+| 10 | A string of skulls riddled with too many eye sockets, their jaws replaced by carved gemstones |
+^green-dragon-art-objects
+
+</div></div>
+
 
 > [!note] Cyan Bloodbane
 > 
@@ -1167,27 +4214,220 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables to inspire your portrayal of distinctive moonstone dragon characters.
 
-![Creating a Moonstone Dragon; Moonstone Dragon Personality Traits](/Rules/Source/tables/creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd.md)
 
-![Creating a Moonstone Dragon; Moonstone Dragon Ideals](/Rules/Source/tables/creating-a-moonstone-dragon-moonstone-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Moonstone Dragon; Moonstone Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Moonstone Dragon; Moonstone Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 130* 
+
+**Moonstone Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I often lose track of whether I'm in the Feywild or on the Material Plane. |
+| 2 | I have been known to throw caution to the wind when in pursuit of new items for my hoard. |
+| 3 | No matter how old I get, I always delight in harmless pranks and tricks. |
+| 4 | I've always been mature for my age, and I can't wait for the day I can retire to my lair to be taken care of by doting fey. |
+| 5 | I look down upon any being who resorts to violence to solve a problem. |
+| 6 | Conversing with others is often difficult because I'm so easily distr... oh my goodness, is that circlet made of silver? |
+| 7 | I find the waking world tedious and mundane and would much rather spend my time asleep, in the realm of dreams. |
+| 8 | I find the whimsy of fey, and whimsy in general, to be exasperating and exhausting. |
+^moonstone-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-moonstone-dragon-moonstone-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Moonstone Dragon; Moonstone Dragon Ideals
+
+</div>
+
+
+
+# Creating a Moonstone Dragon; Moonstone Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 130* 
+
+**Moonstone Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Curiosity. I might never be able to experience everything in the multiverse—but it doesn't hurt to try. (Any) |
+| 2 | Nonviolence. Violence need never be the answer in a multiverse of infinite possibilities. (Neutral) |
+| 3 | Whimsy. Why waste time on boring, ordinary concerns when the world is filled with fantastic and ludicrous wonders? (Chaotic) |
+| 4 | Beauty. There is beauty to be found in even the simplest things if you look hard enough. (Good) |
+| 5 | Inspiration. Great are history's artists and creators. But greater still are those who inspire them. (Any) |
+| 6 | Power. Creatures are at their most vulnerable in their dreams, and I am the master of dreams. (Evil) |
+^moonstone-dragon-ideals
+
+</div></div>
+
 
 ### Moonstone Dragon Adventures
 
 The Moonstone Dragon Adventure Hooks table offers suggestions for stories and adventures involving moonstone dragons.
 
-![Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks](/Rules/Source/tables/moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
+
+</div>
+
+
+
+# Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 131* 
+
+**Moonstone Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A wealthy and well-known artist's muse—a moonstone dragon—has stopped appearing in their dreams. The artist is desperate to hire adventurers to find the dragon. |
+| 2 | A clutch of moonstone dragons has discovered a portal to the Material Plane and is wreaking havoc on nearby villages, pilfering every bit of silver the locals own. |
+| 3 | A moonstone dragon seeks the platinum crown of a Fey prince—and will do anything to get it. |
+| 4 | A gluttonous moonstone dragon is consuming all the moonlight in a small forest, making the darkened path through the woods ideal for banditry. |
+| 5 | A moonstone dragon hosts a storytelling competition in the Feywild, and the winner gets to claim any one item on display in the dragon's lair. |
+| 6 | A moonstone dragon, offended by gifts of gold, is causing nightmares among the local nobility. |
+| 7 | A powerful spellcaster is forcing a captive moonstone dragon to invade the dreams of adventurers, sending parties on quests to assist the spellcaster's nefarious schemes. |
+| 8 | A moonstone dragon that accidentally stumbled through a portal to the Material Plane can't find a way back home to the Feywild. |
+^moonstone-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 In the Feywild, moonstone dragons interact mostly with [[Rules/Source/bestiary/fey/pixie-xmm\|pixies]], [[Rules/Source/bestiary/fey/sprite-xmm\|sprites]], and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
 
-![Connected Creatures; Moonstone Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-moonstone-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Moonstone Dragon Connections](/Rules/Source/tables/connected-creatures-young-moonstone-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-moonstone-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Moonstone Dragon Connections](/Rules/Source/tables/connected-creatures-adult-moonstone-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Moonstone Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-moonstone-dragon-connections-ftd.md)
+# Connected Creatures; Moonstone Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Moonstone Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 131* 
+
+**Moonstone Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | An abandoned [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmling]] is being raised by a family of [[Rules/Source/bestiary/dragon/faerie-dragon-adult-xmm\|faerie dragons]], who eagerly encourage the wyrmling's mischievous habits. |
+| 2 | A [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmling]] searches for whoever made the dragon's friend—a suit of [[Rules/Source/bestiary/construct/animated-armor-xmm\|animated armor]] able to make witty, if limited, conversation. |
+| 3 | A [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmling]] has convinced a lost [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]] that the latter is also a moonstone dragon, cursed by an archfey of winter. The two travel together, causing trouble in the name of lifting the "curse." |
+| 4 | [[Rules/Source/bestiary/monstrosity/ettercap-xmm\|Ettercaps]] captured a [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmling]], who has so far avoided becoming dinner by teaching the ettercaps to create wild, impossible sculptures with their webs. |
+| 5 | A [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmling]] torments a group of lost modrons by tricking them into performing chaotic acts. |
+| 6 | A [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmling]] has volunteered to be a spy in a conflict between a group of [[Rules/Source/bestiary/fey/pixie-xmm\|pixies]] and a group of [[Rules/Source/bestiary/fey/quickling-mpmm\|quicklings]]. Both sides believe the wyrmling is working exclusively for them. |
+^moonstone-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-moonstone-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Moonstone Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Moonstone Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 131* 
+
+**Young Moonstone Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-moonstone-dragon-ftd\|young moonstone dragon]] on the cusp of adulthood refuses to settle down and build a lair. To protect the local populace from the dragon's chaotic activities, a minor deity sends a [[Rules/Source/bestiary/celestial/deva-xmm\|deva]] to temper the dragon's mischievous spirit. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-moonstone-dragon-ftd\|young moonstone dragon]] fell victim to a [[Rules/Source/bestiary/giant/fomorian-xmm\|fomorian's]] curse and has elected to stay with the Giant rather than reveal this magical affliction. |
+| 3 | A [[Rules/Source/bestiary/plant/treant-xmm\|treant]] and a [[Rules/Source/bestiary/dragon/young-moonstone-dragon-ftd\|young moonstone dragon]] love to meet and share stories. While the dragon speaks of travels and adventures, the treant tells tales of the tiny moments that make up a forest's life. |
+| 4 | A [[Rules/Source/bestiary/dragon/young-moonstone-dragon-ftd\|young moonstone dragon]] has acquired a powerful magic item belonging to one of the fey courts and is leading the assassin sent to retrieve the item on a chase through the Feywild. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-moonstone-dragon-ftd\|young moonstone dragon]] has joined a pack of [[Rules/Source/bestiary/fey/blink-dog-xmm\|blink dogs]] for a year and a day. The dragon pretends to be a blink dog and refuses to admit otherwise until this time with the pack expires. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-moonstone-dragon-ftd\|young moonstone dragon]] and a [[Rules/Source/bestiary/fiend/night-hag-xmm\|night hag]] repeatedly encounter each other in the dream realm, but they have never met in the flesh. |
+^young-moonstone-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-moonstone-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Moonstone Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Moonstone Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 131* 
+
+**Adult Moonstone Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | A Fey noble has sent an [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] advisor to parley with an [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon]] whose lair is in the noble's territory, and it isn't going well. |
+| 2 | Fascinated by the dreams of a [[Rules/Source/bestiary/plant/myconid-sovereign-xmm\|myconid sovereign]], an [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon]] has befriended the whole myconid colony. |
+| 3 | In the midst of a [[Rules/Source/bestiary/monstrosity/werewolf-xmm\|werewolf]] invasion, someone suggests that a nearby [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon's]] hoard could be a good source of silver. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon's]] burgeoning hoard attracts the attention of an [[Rules/Source/bestiary/fiend/arcanaloth-xmm\|arcanaloth]] seeking a powerful Feywild artifact. |
+| 5 | An [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon]] attempts to help a [[Rules/Source/bestiary/aberration/beholder-xmm\|beholder]] worried that its dreams will soon give birth to a rival beholder. |
+| 6 | Members of a [[Rules/Source/bestiary/fiend/night-hag-xmm\|night hag coven]] are determined to prevent an [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon]] from contacting creatures in the dream realm, and the dragon has no idea why. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon]] is called upon to discipline a group of [[Rules/Source/bestiary/dragon/moonstone-dragon-wyrmling-ftd\|moonstone dragon wyrmlings]] that rampaged through a Fey noble's territory. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-moonstone-dragon-ftd\|adult moonstone dragon]] has amassed a menagerie of [[Rules/Source/items/figurine-of-wondrous-power-xdmg\|figurines of wondrous power]] and activates the items regularly to liven up the lair. |
+^adult-moonstone-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-moonstone-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Moonstone Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Moonstone Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 131* 
+
+**Ancient Moonstone Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-moonstone-dragon-ftd\|ancient moonstone dragon]] and an [[Rules/Source/bestiary/dragon/ancient-green-dragon-xmm\|ancient green dragon]] vie for supremacy in a primeval forest. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-moonstone-dragon-ftd\|ancient moonstone dragon]] has partnered with an [[Rules/Source/bestiary/celestial/sphinx-of-valor-xmm\|androsphinx]] to guard a precious treasure, taking the place of the sphinx's slain [[Rules/Source/bestiary/celestial/sphinx-of-lore-xmm\|gynosphinx]] partner. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-moonstone-dragon-ftd\|ancient moonstone dragon]] is summoned to mediate a centuries-old conflict between fey courts. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-moonstone-dragon-ftd\|ancient moonstone dragon's]] sibling, imprisoned for centuries in the Shadowfell, has finally returned home as a shadow dragon. |
+^ancient-moonstone-dragon-connections
+
+</div></div>
+
 
 ### Moonstone Dragon Lairs
 
@@ -1205,7 +4445,36 @@ Moonstone dragons prefer silver, platinum, and mithral to copper and gold, and w
 
 In addition to their strong preference for certain metals, many moonstone dragons seek out artworks and relics with unique, whimsical, or absurd designs. The more fanciful an item's form is, the better.
 
-![Moonstone Dragon Treasures; Moonstone Dragon Art Objects](/Rules/Source/tables/moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Moonstone Dragon Treasures; Moonstone Dragon Art Objects
+
+</div>
+
+
+
+# Moonstone Dragon Treasures; Moonstone Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 132* 
+
+**Moonstone Dragon Art Objects**
+
+| dice: d8 | Object |
+|----------|--------|
+| 1 | A statue of a beautiful Fey who appears to be laughing, crying, or scowling, depending on the viewer's mood; the dragon requires all who visit to describe the face and sends away anyone who sees an angry visage |
+| 2 | A string of leaves collected from the rarest trees in the Feywild and then dipped in silver |
+| 3 | A small mithral ball that shows significant scuffing, as the dragon plays with it constantly |
+| 4 | A mobile from which hang six figurines of pixies and sprites; the dragon insists that Fey allies address any questions and concerns to the figurines |
+| 5 | A painting of a beautiful Feywild vista; the dragon studies the painting every day for clues about the vista's whereabouts |
+| 6 | An ornate silver chest that holds a mountain of gold coins; the dragon refuses to open the chest, claiming it can still smell the stink of the "noxious metal" |
+| 7 | A collection of gem-encrusted pitchers, decanters, and goblets; the dragon will not consume faerie nectar unless it is served in one of these items |
+| 8 | A vast bookshelf full of dream journals written by creatures the dragon has befriended over the years; the dragon has each entry illustrated by a different celebrated artist, making the library one of the largest art collections in the world |
+^moonstone-dragon-art-objects
+
+</div></div>
+
 
 ## Red Dragons
 
@@ -1221,29 +4490,246 @@ Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire yo
 
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/074-05-008.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/074-05-008.webp)
 
-![Creating a Red Dragon; Red Dragon Personality Traits](/Rules/Source/tables/creating-a-red-dragon-red-dragon-personality-traits-ftd.md)
 
-![Creating a Red Dragon; Red Dragon Ideals](/Rules/Source/tables/creating-a-red-dragon-red-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-red-dragon-red-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Red Dragon; Red Dragon Spellcasting](/Rules/Source/tables/creating-a-red-dragon-red-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Red Dragon; Red Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Red Dragon; Red Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 133* 
+
+**Red Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | The thrill of the hunt and of battle makes my blood burn and stokes the fire in my heart. A pity there are so few foes and so little prey worthy of me. |
+| 2 | The worship of smaller creatures pleases me, though their weakness is pathetic—how can they do other than adore me? |
+| 3 | Nothing is better than to sleep and dream upon my hoard with the warmth of a full belly. Let those who would disturb me beware! |
+| 4 | Ah, if these foolish creatures only knew they were but pawns in the games I play to amuse myself. |
+| 5 | I know that others seek to steal my treasures, my beautiful baubles, won through strength and cunning. But they are mine. Mine! |
+| 6 | All that I survey, I could easily destroy. From time to time, it is important to remind these small creatures of the true extent of my power. |
+| 7 | Although my power and life span are vast, they have merely whetted my appetite for immortality. |
+| 8 | Heroes need foes to test them. Not all teachers can afford to be kind, and some lessons must be harsh. |
+^red-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-red-dragon-red-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Red Dragon; Red Dragon Ideals
+
+</div>
+
+
+
+# Creating a Red Dragon; Red Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 133* 
+
+**Red Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Cruelty. Pain and fear are the most powerful tools. With them, any creature's will can be broken. (Evil) |
+| 2 | Might. Only the strongest survive and prosper, so I must be the strongest of all. (Any) |
+| 3 | Greed. If I desire a thing, then it must be mine and mine alone. (Evil) |
+| 4 | Respect. All that I have achieved must be acknowledged and treated with the utmost respect. (Any) |
+| 5 | No Limits. I do whatever I please, whenever it pleases me to do so. (Chaotic) |
+| 6 | Responsibility. Fire destroys, but it can also temper when it is applied carefully—if the material tested is strong enough. (Lawful) |
+^red-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-red-dragon-red-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Red Dragon; Red Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Red Dragon; Red Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 133* 
+
+**Red Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|Young]] | 16 | [[Rules/Source/spells/bane-xphb\|bane]], [[Rules/Source/spells/heat-metal-xphb\|heat metal]], [[Rules/Source/spells/hypnotic-pattern-xphb\|hypnotic pattern]], [[Rules/Source/spells/suggestion-xphb\|suggestion]] |
+| [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|Adult]] | 19 | [[Rules/Source/spells/bane-xphb\|bane]], [[Rules/Source/spells/dominate-person-xphb\|dominate person]], [[Rules/Source/spells/heat-metal-xphb\|heat metal]], [[Rules/Source/spells/hypnotic-pattern-xphb\|hypnotic pattern]], [[Rules/Source/spells/suggestion-xphb\|suggestion]] |
+| [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|Ancient]] | 21 | [[Rules/Source/spells/bane-xphb\|bane]], [[Rules/Source/spells/dominate-person-xphb\|dominate person]], [[Rules/Source/spells/heat-metal-xphb\|heat metal]], [[Rules/Source/spells/hypnotic-pattern-xphb\|hypnotic pattern]], [[Rules/Source/spells/power-word-stun-xphb\|power word stun]], [[Rules/Source/spells/suggestion-xphb\|suggestion]] |
+^red-dragon-spellcasting
+
+</div></div>
+
 
 ### Red Dragon Adventures
 
 The Red Dragon Adventure Hooks table offers suggestions for stories and adventures involving red dragons.
 
-![Red Dragon Adventures; Red Dragon Adventure Hooks](/Rules/Source/tables/red-dragon-adventures-red-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/red-dragon-adventures-red-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Red Dragon Adventures; Red Dragon Adventure Hooks
+
+</div>
+
+
+
+# Red Dragon Adventures; Red Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 134* 
+
+**Red Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A red dragon has spent years hunting a stolen treasure, which has fallen into the hands of adventurers who have no idea where it came from. |
+| 2 | A red dragon's fiery breath is the only means of completing an important magic item or of destroying a baleful artifact. |
+| 3 | A red dragon is the cause of raging wildfires, making the hunt for the dragon even more dangerous. |
+| 4 | A red dragon is unusually willing to entertain a peace envoy representing the various peoples dwelling in the valley below the dragon's mountain lair. |
+| 5 | A dwarf wants to recover a family heirloom rumored to be in the hoard of a red dragon. |
+| 6 | Evil cultists plan to meet with a red dragon and persuade it to become a dracolich. |
+| 7 | A red dragon has been held in an enchanted slumber for generations, but signs suggest the enchantment is beginning to fail. |
+| 8 | A region has survived for generations by annually tithing victims and treasures to a red dragon. |
+^red-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Red dragons treat other creatures as potential servants or pawns, valuable only as long as they fulfill the dragon's needs. Many red dragons terrorize creatures into serving them—and sometimes into worshiping them as well. Others build up shadowy networks of manipulation and control, so many of their servants have no idea who the true ruler is.
 
-![Connected Creatures; Red Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-red-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Red Dragon Connections](/Rules/Source/tables/connected-creatures-young-red-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-red-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Red Dragon Connections](/Rules/Source/tables/connected-creatures-adult-red-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Red Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-red-dragon-connections-ftd.md)
+# Connected Creatures; Red Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Red Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 134* 
+
+**Red Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/giant/fire-giant-xmm\|fire giant]] lord has captured a [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|red dragon wyrmling]] and is looking to train the willful creature as a pet. |
+| 2 | A [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|red dragon wyrmling]] adopted a nest of [[Rules/Source/bestiary/elemental/salamander-fire-snake-xmm\|fire snakes]], which have now grown into [[Rules/Source/bestiary/elemental/salamander-xmm\|salamanders]] who protect the wyrmling. |
+| 3 | A band of [[Rules/Source/bestiary/dragon/kobold-warrior-xmm\|kobolds]] was driven out of its warren by a [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|red dragon wyrmling]]; they now raid to survive—and to gather offerings to propitiate "the winged god." |
+| 4 | A tiefling child has secretly hidden and raised a [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|red dragon wyrmling]] from an egg. The wyrmling is bonded to the child, but dangerous to anyone else. |
+| 5 | A bound [[Rules/Source/bestiary/elemental/fire-elemental-xmm\|fire elemental]] serves as the guardian of an orphaned [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|red dragon wyrmling]]. |
+| 6 | A band of [[Rules/Source/bestiary/fey/hobgoblin-warrior-xmm\|hobgoblins]] is thrown into chaos when a [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|red dragon wyrmling]] supports a coup by an ambitious war leader, in exchange for tribute. |
+^red-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-red-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Red Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Red Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 134* 
+
+**Young Red Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/undead/specter-xmm\|specter]] is bound as the guardian of a [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|young red dragon's]] treasure hoard. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|young red dragon's]] new lair spawns [[Rules/Source/bestiary/elemental/magma-mephit-xmm\|magma mephits]] and [[Rules/Source/bestiary/elemental/smoke-mephit-xmm\|smoke mephits]], which escape into the surrounding countryside and cause mischief. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|young red dragon]] serves as the guardian of a githyanki creche, hoping to eventually earn the allegiance of the young githyanki raised there. |
+| 4 | [[Rules/Source/bestiary/giant/ogre-xmm\|Ogres]] and [[Rules/Source/bestiary/giant/ettin-xmm\|ettins]] cowed by a [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|young red dragon]] wander the foothills near the dragon's lair, helping to drive away intruders. |
+| 5 | A colony of [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayers]] has captured and controlled a [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|young red dragon]], which now guards the passages to the illithids' underground lair. |
+| 6 | A parent of a [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|young red dragon]] has become a dracolich, and the dragon wishes to see the Undead abomination destroyed. |
+^young-red-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-red-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Red Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Red Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 134* 
+
+**Adult Red Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | A flock of [[Rules/Source/bestiary/elemental/gargoyle-xmm\|gargoyles]] dwell near an [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon's]] lair, serving as lookouts and guardians. |
+| 2 | [[Rules/Source/bestiary/elemental/azer-sentinel-xmm\|Azer]] artisans are bound in service to an [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]], for whom they make sculptures and art objects from precious metals and gems. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] rules over a hidden valley filled with dinosaurs. |
+| 4 | A [[Rules/Source/bestiary/fiend/shadow-demon-xmm\|shadow demon]] serves as an [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon's]] spy and messenger. |
+| 5 | Cultists worshiping an [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] act as the dragon's agents throughout the region. |
+| 6 | A mysterious masked knight relentlessly hunting an [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] is, in fact, the dragon's half-dragon offspring bent on vengeance. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] owes a debt of service to an elderly [[Rules/Source/bestiary/humanoid/druid-xmm\|druid]], enforced by a magical oath. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] has seized an outpost of an [[Rules/Source/bestiary/elemental/efreeti-xmm\|efreeti]] pasha's domain as a lair, and the noble genie wants to evict the intruder. |
+^adult-red-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-red-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Red Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Red Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 134* 
+
+**Ancient Red Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|ancient red dragon]] controls a vast intelligence network that has infiltrated nearly every nation. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|ancient red dragon]] warlord has united a number of formerly squabbling nations, creating a massive army ready to conquer the known world. |
+| 3 | A cult in service to an [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|ancient red dragon]] is gathering resources to summon a consort of Tiamat, so the cult's master can defeat the consort in single combat and claim a place at Tiamat's side. |
+| 4 | A [[Rules/Source/bestiary/fiend/balor-xmm\|balor]] demon hopes an [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|ancient red dragon's]] dragonsight can help the demon coordinate a multidimensional play for power in the Abyss. |
+^ancient-red-dragon-connections
+
+</div></div>
+
 
 ### Red Dragon Lairs
 
@@ -1252,8 +4738,8 @@ Red dragons lair in mountain badlands and high, isolated peaks and hills, prefer
 Minions often attend red dragons in their lairs. These servants keep the place swept clean of refuse and watch out for intruders, while providing the imperious dragon with subjects to bully and command. Some minions worship the dragon and serve willingly, but others would escape if they could.
 
 > [!gallery]
-> ![Map 5.11: red dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/075-map-5-11-red-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/076-map-5-11-red-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/075-map-5-11-red-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/075-map-5-11-red-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/076-map-5-11-red-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/076-map-5-11-red-dragon-lair-player.webp)
 
 #### Red Dragon Lair Features
 
@@ -1286,7 +4772,40 @@ Red dragons love gold above all other precious metals and are entranced by its g
 
 For a red dragon, every treasure is a mark of pride and a personal trophy. Like a proud hunter, a red dragon relishes telling the tale of acquiring each individual relic or coin, glorifying the dragon's own deeds.
 
-![Red Dragon Treasures; Red Dragon Art Objects](/Rules/Source/tables/red-dragon-treasures-red-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/red-dragon-treasures-red-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Red Dragon Treasures; Red Dragon Art Objects
+
+</div>
+
+
+
+# Red Dragon Treasures; Red Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 137* 
+
+**Red Dragon Art Objects**
+
+| dice: d12 | Object |
+|-----------|--------|
+| 1 | A hammered metal brazier elaborately etched and set with polished obsidian, which sits atop a stand holding rare incense blends |
+| 2 | A beautifully inlaid mosaic map of the region within a 100-mile radius of the dragon's lair |
+| 3 | A life-sized basalt statue of a fierce knight, weapon raised to strike, which might be the preserved form of an actual knight turned to stone |
+| 4 | The blackened skull of a young dragon that has been etched with designs and decorated with gems |
+| 5 | A tiered fountain filled with liquid gold that is cool to the touch, but immediately hardens if removed from the fountain |
+| 6 | A statue of the red dragon with gemstones for eyes |
+| 7 | A detailed, life-sized elf skull cast in precious metal |
+| 8 | A game board and a complete set of pieces, all carved and inlaid with precious and semiprecious stones (the dragon is fond of playing the game but has few worthy opponents) |
+| 9 | A fist-sized gemstone carved into a likeness of the dragon's head |
+| 10 | A set of precious metal tablets containing ancient lore |
+| 11 | A beautifully wrought crown set with fiery gemstones, possibly the legacy of a lost empire |
+| 12 | A beautiful polished sphere of rainbow obsidian, set on a wrought-gold stand |
+^red-dragon-art-objects
+
+</div></div>
+
 
 > [!note] Ashardalon
 > 
@@ -1306,27 +4825,220 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to inspire your portrayal of distinctive sapphire dragon characters.
 
-![Creating a Sapphire Dragon; Sapphire Dragon Personality Traits](/Rules/Source/tables/creating-a-sapphire-dragon-sapphire-dragon-personality-traits-ftd.md)
 
-![Creating a Sapphire Dragon; Sapphire Dragon Ideals](/Rules/Source/tables/creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-sapphire-dragon-sapphire-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Sapphire Dragon; Sapphire Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Sapphire Dragon; Sapphire Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 138* 
+
+**Sapphire Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I often fixate on specific historical battles or wars and won't rest until my hoard contains that conflict's most significant artifacts. |
+| 2 | I am constantly aware of a call from beyond this world. I must prepare to answer that call by amassing powerful arms and armor. |
+| 3 | I secretly look forward to adventurers trying to infiltrate my lair. How else could I try out new defenses? |
+| 4 | Give me a storied helmet or scimitar over a pile of gold any day. |
+| 5 | No creature can outsmart my defenses—if they do, they obviously cheated. |
+| 6 | Any creature that can hold their own against me must teach me how—whether they want to or not. |
+| 7 | I cannot resist a game of dragonchess—which, I will have you know, my ancestors probably invented. |
+| 8 | The sight of blood makes me queasy. |
+^sapphire-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Sapphire Dragon; Sapphire Dragon Ideals
+
+</div>
+
+
+
+# Creating a Sapphire Dragon; Sapphire Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 138* 
+
+**Sapphire Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Solitude. A stranger is just an intruder I haven't dealt with yet. (Neutral) |
+| 2 | Preservation. Most creatures cannot be trusted to properly safeguard historically significant artifacts. I can. (Lawful) |
+| 3 | Knowledge. The stories surrounding every piece in my collection are as important as the treasures themselves. (Any) |
+| 4 | Order. An organized hoard makes me happy—and you don't want to see me unhappy. (Lawful) |
+| 5 | Preparation. Justice and righteousness do not guarantee victory. Planning and tactics do. (Lawful) |
+| 6 | Companionship. Sure, my hoard brings me great joy. But the real treasures are the guests who stop by to see it. (Good) |
+^sapphire-dragon-ideals
+
+</div></div>
+
 
 ### Sapphire Dragon Adventures
 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
-![Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks](/Rules/Source/tables/sapphire-dragon-adventures-sapphire-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sapphire-dragon-adventures-sapphire-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks
+
+</div>
+
+
+
+# Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 138* 
+
+**Sapphire Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | Posing as an avatar of an evil earth elemental-god, a sapphire dragon serves as general to a fanatical cult—and claims the spoils of the cult's victories. |
+| 2 | A sapphire dragon is bound by an ancient pact to advise a monarchy on matters of defense—until someone bests the dragon's security measures. |
+| 3 | A sapphire dragon seeks adventurers to lead into battle against the [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayers]] that usurped the dragon's lair. |
+| 4 | Powerful infernal creatures have opened a portal in the middle of a city square. The key to closing the portal is a mythical holy weapon that happens to be the pride and joy of a sapphire dragon's hoard. |
+| 5 | A sapphire dragon threatens to sink a town into the Underdark unless the authorities find and turn over a thief who stole from the dragon. |
+| 6 | A village is beset by swarms of [[Rules/Source/bestiary/beast/giant-spider-xmm\|giant spiders]] drawn to the area when a sapphire dragon took up residence nearby. Ridding the village of the spiders means tampering with the dragon's food supply. |
+| 7 | A sapphire dragon invites warriors to vie for the honor of studying military tactics under the dragon. The front-runner is an infamous bandit leader who will undoubtedly terrorize the area if they win. |
+| 8 | A sapphire dragon's lair is so well protected that its inner defenses have never been tested. The dragon spreads rumors of the treasures within to attract adventurers who can put the traps to the test. |
+^sapphire-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
-![Connected Creatures; Sapphire Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-sapphire-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Sapphire Dragon Connections](/Rules/Source/tables/connected-creatures-young-sapphire-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-sapphire-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Sapphire Dragon Connections](/Rules/Source/tables/connected-creatures-adult-sapphire-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Sapphire Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-sapphire-dragon-connections-ftd.md)
+# Connected Creatures; Sapphire Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Sapphire Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 139* 
+
+**Sapphire Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | After being robbed by gnomes who had pledged to protect the hoard, a [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire dragon wyrmling]] installs new guardians that have no interest in material riches: [[Rules/Source/bestiary/ooze/gelatinous-cube-xmm\|gelatinous cubes]] and [[Rules/Source/bestiary/ooze/ochre-jelly-xmm\|ochre jellies]]. |
+| 2 | A band of [[Rules/Source/bestiary/monstrosity/minotaur-of-baphomet-xmm\|minotaurs]] in service to Baphomet has captured a [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire dragon wyrmling]] to learn from the wyrmling's strategies. |
+| 3 | Two [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire dragon wyrmlings]] vie for the same territory. Their primary battle tactic involves luring [[Rules/Source/bestiary/aberration/grell-xmm\|grells]] into each other's lairs. |
+| 4 | A group of Lolth-worshiping [[Rules/Source/bestiary/humanoid/gladiator-xmm\|drow warriors]] were sent to kill a [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire dragon wyrmling]] who has been making meals of their goddess's holy spiders. |
+| 5 | A [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire dragon wyrmling]] is on the verge of starvation after incorrectly identifying a nearby [[Rules/Source/bestiary/monstrosity/phase-spider-xmm\|phase spider]] nest as an easy food source. |
+| 6 | A [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire dragon wyrmling's]] hoard contains a cursed item, which has attracted [[Rules/Source/bestiary/undead/specter-xmm\|specters]] and [[Rules/Source/bestiary/undead/wraith-xmm\|wraiths]] to the area around the dragon's lair. |
+^sapphire-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-sapphire-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Sapphire Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Sapphire Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 139* 
+
+**Young Sapphire Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon]] practices martial skills by regularly using a [[Rules/Source/items/horn-of-valhalla-xdmg\|horn of Valhalla]] to summon [[Rules/Source/bestiary/humanoid/berserker-xmm\|berserker spirits]] to fight. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon]] has found a collection of long-forgotten [[Rules/Source/bestiary/construct/clay-golem-xmm\|clay golems]] and is trying to teach them military tactics. |
+| 3 | A [[Rules/Source/bestiary/humanoid/druid-xmm\|druid]] summoned [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|galeb duhr]] to guard a [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon's]] hoard in exchange for the dragon controlling the [[Rules/Source/bestiary/beast/giant-spider-xmm\|giant spider]] population, but the galeb duhr are causing trouble for local miners. |
+| 4 | Two Lolth [[Rules/Source/bestiary/humanoid/cultist-xmm\|cultists]] seek a magical relic that attracts [[Rules/Source/bestiary/beast/giant-spider-xmm\|giant spiders]], but the relic's resting place has become a [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon's]] feeding ground. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon]] and a [[Rules/Source/bestiary/fey/hobgoblin-warlord-xmm\|hobgoblin warlord]] have become friends. The hobgoblin visits regularly to trade war stories and tactics with the dragon. |
+| 6 | A [[Rules/Source/bestiary/aberration/kuo-toa-archpriest-xmm\|kuo-toa archpriest]] believes a [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon]] is a god named Sliploopdreegoo, and calls on other kuo-toa to worship the dragon. |
+^young-sapphire-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-sapphire-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Sapphire Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Sapphire Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 139* 
+
+**Adult Sapphire Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] lives adjacent to active [[Rules/Source/bestiary/monstrosity/purple-worm-xmm\|purple worm]] tunnels, hoping the threat of the worm will deter treasure hunters. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] employs a [[Rules/Source/bestiary/elemental/dao-xmm\|dao]] to help shape and defend the dragon's lair, and the dao maintains a portal to the Elemental Plane of Earth there. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] regularly confers with a plane-hopping [[Rules/Source/bestiary/humanoid/archmage-xmm\|archmage]] regarding the dragon's ongoing dreams of other worlds and other lives. |
+| 4 | A [[Rules/Source/bestiary/humanoid/fiend-cultist-xmm\|drow priestess of Lolth]] and several [[Rules/Source/bestiary/fiend/yochlol-xmm\|yochlol]] demons have been ordered by their goddess to deal with the [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] who has been hunting her holy spiders. |
+| 5 | A forgetful and nearsighted [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] believes a [[Rules/Source/bestiary/dragon/blue-dragon-wyrmling-xmm\|blue dragon wyrmling]] is actually the [[Rules/Source/bestiary/dragon/sapphire-dragon-wyrmling-ftd\|sapphire wyrmling]] who left home months before. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] and a squadron of githyanki have joined forces to locate and destroy a [[Rules/Source/bestiary/aberration/mind-flayer-xmm\|mind flayer]] colony. |
+| 7 | A group of [[Rules/Source/bestiary/giant/stone-giant-xmm\|stone giants]] believes a [[Rules/Source/bestiary/dragon/young-sapphire-dragon-ftd\|young sapphire dragon]] to be an emissary of their god, Skoraeus Stonebones. The dragon considers the notion ridiculous but loves having an audience who will listen to lectures on military history without complaint. |
+| 8 | An [[Rules/Source/bestiary/dragon/adult-sapphire-dragon-ftd\|adult sapphire dragon]] and an [[Rules/Source/bestiary/aberration/aboleth-xmm\|aboleth]] psychically face off for control of an area of the Underdark. The constant bombardment of psychic forces has begun to affect the local fauna in strange ways. |
+^adult-sapphire-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-sapphire-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Sapphire Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Sapphire Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 139* 
+
+**Ancient Sapphire Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-sapphire-dragon-ftd\|ancient sapphire dragon]] has called a conclave of ancient gem dragons to discuss how they might reunite and restore Sardior, the Ruby Dragon. |
+| 2 | A horde of [[Rules/Source/bestiary/undead/revenant-xmm\|revenants]] led by a [[Rules/Source/bestiary/undead/death-knight-xmm\|death knight]] has one goal—destroying the [[Rules/Source/bestiary/dragon/ancient-sapphire-dragon-ftd\|ancient sapphire dragon]] who defeated their army in battle centuries ago. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-sapphire-dragon-ftd\|ancient sapphire dragon]] guards the phylactery of a [[Rules/Source/bestiary/undead/lich-xmm\|lich]] who helped the dragon establish a lair centuries before becoming Undead. |
+| 4 | Lolth the Spider Queen has declared war on an [[Rules/Source/bestiary/dragon/ancient-sapphire-dragon-ftd\|ancient sapphire dragon]] who has annexed the heart of her cult's Underdark territory. |
+^ancient-sapphire-dragon-connections
+
+</div></div>
+
 
 ### Sapphire Dragon Lairs
 
@@ -1335,8 +5047,8 @@ Sapphire dragons make their lairs in enormous caverns and complex tunnel systems
 Sapphire dragons eventually create dizzying honeycombs of hidden passages, deceptively thin walls, and secret chambers that allow them to traverse the entire lair without ever being seen by intruders. The best-defended sapphire dragon lairs have no easily accessible entrances or exits at all, and trespassers who do find their way inside must then contend with a maze of corridors, dead ends, and steep inclines.
 
 > [!gallery]
-> ![Map 5.12: sapphire dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/078-map-5-12-sapphire-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/078-map-5-12-sapphire-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/078-map-5-12-sapphire-dragon-lair-player.webp)
 
 #### Sapphire Dragon Lair Features
 
@@ -1363,7 +5075,34 @@ Sapphire dragons covet items of martial significance above other treasure. Weapo
 
 Sapphire dragons meticulously catalogue their hoards. Each dragon has a unique organizational system; some are straightforward, but some only the dragon can fully comprehend (weapons categorized by which armies they were used against, armor ordered by the ancestry of its last wearer, and so forth). Regardless of the system, a sapphire dragon takes pride in knowing exactly where any given item is and can recite a detailed history of that item while guiding curious guests to (or away from) it.
 
-![Sapphire Dragon Treasures; Sapphire Dragon Art Objects](/Rules/Source/tables/sapphire-dragon-treasures-sapphire-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sapphire-dragon-treasures-sapphire-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sapphire Dragon Treasures; Sapphire Dragon Art Objects
+
+</div>
+
+
+
+# Sapphire Dragon Treasures; Sapphire Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 140* 
+
+**Sapphire Dragon Art Objects**
+
+| dice: d6 | Object |
+|----------|--------|
+| 1 | A battle standard showing the coat of arms of an ancient realm the dragon failed to protect |
+| 2 | A dragonchess set with the white knights replaced by the symbols of a war god; the board is set up for the start of a new game, and the dragon has been waiting decades for the god to make the first move |
+| 3 | A large tapestry depicting a bloody battle between two realms of the surface world; the dragon claims it is the tiny dragon embroidered in one corner |
+| 4 | A music box that plays a haunting song; the dragon claims the music is very popular on another world |
+| 5 | A necklace made from discarded sapphire dragon horn tips and tail barbs; the dragon refuses to say whether the pieces were donated willingly |
+| 6 | A perfectly polished mirror that the dragon spends hours staring into, hoping to catch glimpses into other worlds |
+^sapphire-dragon-art-objects
+
+</div></div>
+
 
 ## Shadow Dragons
 
@@ -1379,27 +5118,220 @@ Use the Shadow Dragon Personality Traits and Shadow Dragon Ideals tables to insp
 
 If you use the variant rule in the "Monster Manual" for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as [[Rules/Source/spells/darkness-xphb\|darkness]], [[Rules/Source/spells/fog-cloud-xphb\|fog cloud]], [[Rules/Source/spells/misty-step-xphb\|misty step]], or [[Rules/Source/spells/nondetection-xphb\|nondetection]].
 
-![Creating a Shadow Dragon; Shadow Dragon Personality Traits](/Rules/Source/tables/creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd.md)
 
-![Creating a Shadow Dragon; Shadow Dragon Ideals](/Rules/Source/tables/creating-a-shadow-dragon-shadow-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Shadow Dragon; Shadow Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Shadow Dragon; Shadow Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 142* 
+
+**Shadow Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I am a creature of endless consumption, always looking for the next thing to possess or devour. |
+| 2 | I am rarely satisfied with what I have. I envy others' lives and belongings. |
+| 3 | I'm constantly calculating my next move. If I'm not at least one step ahead of foes, I'm a step behind. |
+| 4 | I loathe my existence, and the only thing that pleases me is sharing my misery. |
+| 5 | It isn't that I'm unsympathetic to others' needs; I just don't let sympathy get in the way. |
+| 6 | Everything is a transaction. I don't do anything before I know what's in it for me. |
+| 7 | It's nearly impossible for me to conceal my contempt for others. |
+| 8 | I truly regret the things I have done and will do whatever I can to atone. |
+^shadow-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-shadow-dragon-shadow-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Shadow Dragon; Shadow Dragon Ideals
+
+</div>
+
+
+
+# Creating a Shadow Dragon; Shadow Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 142* 
+
+**Shadow Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Merciless. Life doesn't offer second chances, and neither do I. (Lawful) |
+| 2 | Hedonism. The multiverse is painful enough. Seek pleasure wherever you can find it. (Chaotic) |
+| 3 | Cruelty. The only release for my pain is to visit it upon others. (Evil) |
+| 4 | Aspiration. I will one day find an escape from this condemnation. (Any) |
+| 5 | Self-Serving. The petty concerns of other creatures are of no concern to me. I have enough to occupy my attention. (Neutral) |
+| 6 | Compassion. My existence is misery, and no one else should have to suffer such torment. (Good) |
+^shadow-dragon-ideals
+
+</div></div>
+
 
 ### Shadow Dragon Adventures
 
 The Shadow Dragon Adventure Hooks table offers suggestions for stories and adventures involving shadow dragons.
 
-![Shadow Dragon Adventures; Shadow Dragon Adventure Hooks](/Rules/Source/tables/shadow-dragon-adventures-shadow-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/shadow-dragon-adventures-shadow-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Shadow Dragon Adventures; Shadow Dragon Adventure Hooks
+
+</div>
+
+
+
+# Shadow Dragon Adventures; Shadow Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 142* 
+
+**Shadow Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A shadow dragon hunts the descendants of the miners who, centuries ago, uncovered the Shadowfell portal that caused the dragon's corruption. |
+| 2 | A magical catastrophe has transported a town into the Underdark. The only path back to the surface goes directly through a shadow dragon's lair. |
+| 3 | A young woman seeks heroes to retrieve a family heirloom stolen from her. The woman is actually a [[Rules/Source/bestiary/fiend/night-hag-xmm\|night hag]], the heirloom is her heartstone, and the thief is a shadow dragon in Humanoid guise. |
+| 4 | As war brews in a Material Plane world, a shrewd shadow dragon exploits a convergence with the Shadowfell to establish a cross-planar arms trade. |
+| 5 | A hundred years ago, a savvy ruler bargained with a dragon to ensure the safety of the populace. The treaty is about to expire and must be renegotiated, but in the intervening century, the dragon has fallen to shadow. |
+| 6 | A group of shadar-kai (elves native to the Shadowfell) arrive at a city's gates, seeking refuge. They are fleeing the despotic rule of a shadow dragon—but fail to mention that the dragon pursues them. |
+| 7 | A shadow dragon has seized control of a city's criminal underworld. Those who want to depose the dragon face an army of assassins and Undead shadows. |
+| 8 | Night after night, innocent folk are drained of their life's energy and rise as [[Rules/Source/bestiary/undead/shadow-xmm\|shadows]]. A shadow dragon living in the area is suspected of the foul murders, but the real culprit is something else. |
+^shadow-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Shadow dragons often attempt to blunt their despair by dragging others into their gloomy lives with them. These are generally short-lived relationships, though, as most shadow dragons can scarcely bear the bleakness of their own existence.
 
-![Connected Creatures; Shadow Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-shadow-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Shadow Dragon Connections](/Rules/Source/tables/connected-creatures-young-shadow-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-shadow-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Shadow Dragon Connections](/Rules/Source/tables/connected-creatures-adult-shadow-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Shadow Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-shadow-dragon-connections-ftd.md)
+# Connected Creatures; Shadow Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Shadow Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 143* 
+
+**Shadow Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/humanoid/bard-mpmm\|bard]] befriends a shadow dragon wyrmling and teaches the dragon about the Shadowfell. |
+| 2 | A group of wicked duergar has discovered that dragon eggs hatched in a certain part of the Underdark produce shadow dragon wyrmlings. They believe (wrongly) that they can raise these wyrmlings to serve them. |
+| 3 | A shadow dragon wyrmling is training a colony of [[Rules/Source/bestiary/aberration/darkmantle-xmm\|darkmantles]] to guard the lair the creatures all share. |
+| 4 | A shadow dragon wyrmling and a [[Rules/Source/bestiary/fiend/shadow-demon-xmm\|shadow demon]] have become unlikely companions as they compare and contrast their parallel evolutions. |
+| 5 | Two shadow dragon wyrmlings of different dragon kinds blame each other for their transformation. |
+| 6 | A family of deep gnomes adopts a shadow dragon wyrmling, hoping to show the dragon a noble path through gloom and despair. |
+^shadow-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-shadow-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Shadow Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Shadow Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 143* 
+
+**Young Shadow Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A young shadow dragon demands tribute from a group of myconids in exchange for shielding the myconids from other creatures of the Underdark. |
+| 2 | A young shadow dragon kidnaps a cleric to help stave off despair. The cleric is torn between attempting escape or trying to earn their freedom by helping the dragon. |
+| 3 | A coterie of dragon cultists has fallen under the sway of a young shadow dragon, and their obeisance borders on fanaticism. |
+| 4 | A young shadow dragon shares a lair with a [[Rules/Source/bestiary/aberration/cloaker-xmm\|cloaker]]; the cloaker leaves the dragon alone but hunts other creatures in the lair. |
+| 5 | A young shadow dragon is attended by the [[Rules/Source/bestiary/undead/shadow-xmm\|shadows]] formed from the dragon's breath, even though the dragon despises these Undead. |
+| 6 | A young shadow dragon has been summoned from the Shadowfell and forced to stand guard over a wizard's sanctum. |
+^young-shadow-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-shadow-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Shadow Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Shadow Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 143* 
+
+**Adult Shadow Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An adult red dragon continues to serve as the steed for a [[Rules/Source/bestiary/aberration/githyanki-knight-xmm\|githyanki knight]] even after transforming into a shadow dragon. |
+| 2 | An adult shadow dragon and an evil [[Rules/Source/bestiary/undead/lich-xmm\|lich]] vie for control of a crumbling empire, whose thousand-year history chronicles their struggle. |
+| 3 | An adult shadow dragon and a [[Rules/Source/bestiary/undead/death-knight-xmm\|death knight]] are both hunted by adventurers. In their previous lives, the two were sworn enemies, but now they join together against their common foes. |
+| 4 | An adult shadow dragon and a [[Rules/Source/bestiary/aberration/beholder-xmm\|beholder]] share a precarious bond, allied against an [[Rules/Source/bestiary/dragon/ancient-sapphire-dragon-ftd\|ancient sapphire dragon]] neither can defeat alone. |
+| 5 | An adult shadow dragon is gathering a [[Rules/Source/bestiary/giant/fomorian-xmm\|fomorian]] army for some mysterious purpose. |
+| 6 | A recently transformed adult shadow dragon uses the new power of shadow to terrorize the [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] who has been a rival for centuries. |
+| 7 | An adult shadow dragon hired a [[Rules/Source/bestiary/undead/vampire-xmm\|vampire]] to convert the dragon's lizardfolk servants to immortal Undead minions, but the dragon now vies with the vampire for the Undead lizardfolk's loyalty. |
+| 8 | Two mated adult metallic dragons try to rebuild their lives after one becomes a shadow dragon. |
+^adult-shadow-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-shadow-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Shadow Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Shadow Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 143* 
+
+**Ancient Shadow Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | A warlock hopes to make a pact with an ancient shadow dragon by way of an eldritch ritual. If the ritual succeeds, the dragon will be elevated to a status akin to that of a Great Old One. |
+| 2 | An ancient shadow dragon is harried by a [[Rules/Source/bestiary/celestial/solar-xmm\|solar]]. Once the two were friends, and the solar hopes to cleanse the shadow from the dragon. |
+| 3 | Hidden away in an ancient shadow dragon's lair lurks a [[Rules/Source/bestiary/undead/demilich-xmm\|demilich]], its jeweled skull almost indistinguishable from the dragon's other grim baubles. |
+| 4 | An ancient shadow dragon courts Tiamat, enacting the Dragon Queen's every demand in hopes of gaining her affection—and becoming her first shadow dragon consort. |
+^ancient-shadow-dragon-connections
+
+</div></div>
+
 
 ### Shadow Dragon Lairs
 
@@ -1431,7 +5363,38 @@ Shadow dragons retain the preferences of their original form when it comes to tr
 
 Beauty fills shadow dragons with contempt, and that is true of the treasures they collect as well. Though they cannot abandon their hoards, shadow dragons hide them away even from their own sight. The most resplendent items are always the best hidden, and a shadow dragon's lair contains a great many secret caches. An ancient shadow dragon might have a hundred or more such repositories secreted about their territory, making stealing from a shadow dragon both difficult and dangerous.
 
-![Shadow Dragon Treasures; Shadow Dragon Art Objects](/Rules/Source/tables/shadow-dragon-treasures-shadow-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/shadow-dragon-treasures-shadow-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Shadow Dragon Treasures; Shadow Dragon Art Objects
+
+</div>
+
+
+
+# Shadow Dragon Treasures; Shadow Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 144* 
+
+**Shadow Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | An ornate scepter marred by soot and grime |
+| 2 | A priceless painting badly in need of restoration |
+| 3 | A lump of melted precious metal that was once a splendid necklace and holds gemstones inside it |
+| 4 | A series of fine charcoal drawings depicting the royal lineage of a prominent drow house |
+| 5 | A seemingly plain gray tapestry; close inspection reveals a tableau in shades of dove, ash, and slate |
+| 6 | A pair of stonework gargoyles rendered in a grotesquely baroque and terrifying style |
+| 7 | A pile of loose sheet music representing the lost dirges of a famous shadar-kai bard |
+| 8 | An exquisitely crafted mirror that drains all color from the reflections of those who look into it |
+| 9 | A ventriloquist's dummy made to resemble the vampire Strahd von Zarovich |
+| 10 | A peculiar dragonchess set entirely crafted from onyx, making it extremely difficult to tell one side's pieces from the other |
+^shadow-dragon-art-objects
+
+</div></div>
+
 
 ## Silver Dragons
 
@@ -1445,29 +5408,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Silver Dragon Personality Traits and Silver Dragon Ideals tables to inspire your portrayal of distinctive silver dragon characters, and use the Silver Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Silver Dragon; Silver Dragon Personality Traits](/Rules/Source/tables/creating-a-silver-dragon-silver-dragon-personality-traits-ftd.md)
 
-![Creating a Silver Dragon; Silver Dragon Ideals](/Rules/Source/tables/creating-a-silver-dragon-silver-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-silver-dragon-silver-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Silver Dragon; Silver Dragon Spellcasting](/Rules/Source/tables/creating-a-silver-dragon-silver-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a Silver Dragon; Silver Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Silver Dragon; Silver Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 145* 
+
+**Silver Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | People are so wonderfully varied, and I do so love experiencing life with them. |
+| 2 | I'm an epicurean, and I live to eat all the delightful foods people concoct. |
+| 3 | It's my duty as a member of an elder species to protect and guide other peoples. |
+| 4 | I like coming up with new disguises to use among small folk. It makes me feel clever! |
+| 5 | Violence is the provenance of uncouth beings, and I will do my best to avoid its use. |
+| 6 | I don't understand why anyone would fight when they could talk instead and build on this ecosystem of wondrous cultures and fascinating traditions. |
+| 7 | I owe the short-lived mortals I become friends with the responsibility of watching over their progeny. |
+| 8 | People must earn my respect—and they're failing badly. |
+^silver-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-silver-dragon-silver-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Silver Dragon; Silver Dragon Ideals
+
+</div>
+
+
+
+# Creating a Silver Dragon; Silver Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 145* 
+
+**Silver Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Sensualism. I savor the world and consume its myriad delights with appropriate gratitude. (Any) |
+| 2 | Altruism. We are surrounded by a malignant and unfeeling cosmos. Ultimately, all we have is each other. (Good) |
+| 3 | Camaraderie. The true treasure is the friends we make along the way. (Good) |
+| 4 | Leadership. These younger species will do great things—but need some subtle support. (Good) |
+| 5 | Guile. All the world is a stage, and it is both my purpose and my pleasure to give an excellent performance. (Any) |
+| 6 | Ownership. This town, these families, this world—I've spent centuries watching over them, and they belong to me. (Evil) |
+^silver-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-silver-dragon-silver-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Silver Dragon; Silver Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a Silver Dragon; Silver Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 145* 
+
+**Silver Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-silver-dragon-xmm\|Young]] | 16 | [[Rules/Source/spells/beacon-of-hope-xphb\|beacon of hope]], [[Rules/Source/spells/calm-emotions-xphb\|calm emotions]], [[Rules/Source/spells/hold-person-xphb\|hold person]], [[Rules/Source/spells/zone-of-truth-xphb\|zone of truth]] |
+| [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|Adult]] | 18 | [[Rules/Source/spells/beacon-of-hope-xphb\|beacon of hope]], [[Rules/Source/spells/calm-emotions-xphb\|calm emotions]], [[Rules/Source/spells/hold-person-xphb\|hold person]], [[Rules/Source/spells/polymorph-xphb\|polymorph]], [[Rules/Source/spells/zone-of-truth-xphb\|zone of truth]] |
+| [[Rules/Source/bestiary/dragon/ancient-silver-dragon-xmm\|Ancient]] | 21 | [[Rules/Source/spells/beacon-of-hope-xphb\|beacon of hope]], [[Rules/Source/spells/calm-emotions-xphb\|calm emotions]], [[Rules/Source/spells/hold-person-xphb\|hold person]], [[Rules/Source/spells/polymorph-xphb\|polymorph]], [[Rules/Source/spells/teleport-xphb\|teleport]], [[Rules/Source/spells/zone-of-truth-xphb\|zone of truth]] |
+^silver-dragon-spellcasting
+
+</div></div>
+
 
 ### Silver Dragon Adventures
 
 The Silver Dragon Adventure Hooks table offers suggestions for stories and adventures involving silver dragons.
 
-![Silver Dragon Adventures; Silver Dragon Adventure Hooks](/Rules/Source/tables/silver-dragon-adventures-silver-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/silver-dragon-adventures-silver-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Silver Dragon Adventures; Silver Dragon Adventure Hooks
+
+</div>
+
+
+
+# Silver Dragon Adventures; Silver Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 145* 
+
+**Silver Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | For centuries, a silver dragon has posed as a sage dwelling on a mountaintop. Now it's time to retire this persona without alarming the people who have grown reliant on the sage's advice. |
+| 2 | An adventurer's funeral takes a surprising turn when a silver dragon arrives to pay respects. |
+| 3 | A disgraced knight tries to escape the attention of the silver dragon whose kindness the knight once took advantage of. |
+| 4 | As a city comes under siege, a silver dragon must decide between solitude and saving the place where the dragon has lived so many lives. |
+| 5 | In memory of a long friendship with a late sovereign, a silver dragon vows to assist the sovereign's newly crowned child. |
+| 6 | Portraits have been vanishing from a silver dragon's hoard, and the people depicted in the portraits have begun committing crimes. |
+| 7 | An enraged silver dragon causes a blizzard in an oft-traveled mountain route and will not stop until stolen treasures are returned. |
+| 8 | A silver dragon is kidnapping children from a village, and no one knows why. |
+^silver-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Silver dragons enjoy the companionship of intelligent people, particularly when those folk have no idea as to the dragon's true identity. Silver dragons associate with just about any creatures, though, as long as they're confident those creatures have good intentions—or could be convinced to change their ways.
 
-![Connected Creatures; Silver Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-silver-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Silver Dragon Connections](/Rules/Source/tables/connected-creatures-young-silver-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-silver-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Silver Dragon Connections](/Rules/Source/tables/connected-creatures-adult-silver-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Silver Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-silver-dragon-connections-ftd.md)
+# Connected Creatures; Silver Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Silver Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 146* 
+
+**Silver Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/silver-dragon-wyrmling-xmm\|silver dragon wyrmling]] is raised by [[Rules/Source/bestiary/celestial/giant-eagle-xmm\|giant eagles]] who have lost their own clutch of eggs. |
+| 2 | A [[Rules/Source/bestiary/dragon/silver-dragon-wyrmling-xmm\|silver dragon wyrmling]] becomes the mascot and would-be protector of a group of refugee [[Rules/Source/bestiary/elemental/aarakocra-skirmisher-xmm\|aarakocra]]. |
+| 3 | A [[Rules/Source/bestiary/dragon/silver-dragon-wyrmling-xmm\|silver dragon wyrmling]] practices precocious shape-shifting abilities among a colony of [[Rules/Source/bestiary/dragon/kobold-warrior-xmm\|kobolds]]. |
+| 4 | A [[Rules/Source/bestiary/fiend/hell-hound-xmm\|hell hound]] watches over a [[Rules/Source/bestiary/dragon/silver-dragon-wyrmling-xmm\|silver dragon wyrmling]] in the name of its master—a [[Rules/Source/bestiary/undead/lich-xmm\|lich]] hoping to corrupt the dragon when the dragon is older. |
+| 5 | A [[Rules/Source/bestiary/dragon/silver-dragon-wyrmling-xmm\|silver dragon wyrmling]] besieges a pack of [[Rules/Source/bestiary/dragon/pseudodragon-xmm\|pseudodragons]], intent on teaching them poetry. |
+| 6 | [[Rules/Source/bestiary/giant/ogre-xmm\|Ogres]] keep a young [[Rules/Source/bestiary/dragon/silver-dragon-wyrmling-xmm\|silver dragon wyrmling]] as a pet, and the dragon has become dedicated to changing the ogres' nefarious ways. |
+^silver-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-silver-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Silver Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Silver Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 146* 
+
+**Young Silver Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-silver-dragon-xmm\|young silver dragon]] allows a [[Rules/Source/bestiary/giant/stone-giant-xmm\|stone giant]] to take refuge in the dragon's lair. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-silver-dragon-xmm\|young silver dragon]] in Humanoid form tries to keep an unsuspecting royal heir away from an attractive stranger the dragon knows to be a [[Rules/Source/bestiary/fiend/succubus-xmm\|succubus]] or [[Rules/Source/bestiary/fiend/incubus-xmm\|incubus]] in disguise. |
+| 3 | A herd of [[Rules/Source/bestiary/monstrosity/hippogriff-xmm\|hippogriffs]] has taken over a [[Rules/Source/bestiary/dragon/young-silver-dragon-xmm\|young silver dragon's]] lair, and the dragon seeks to get rid of the interlopers without violence. |
+| 4 | Two silver dragons compete to see who is better at playing the part of a young noble. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-silver-dragon-xmm\|young silver dragon]] rules over a group of yuan-ti, claiming to be an ancient yuan-ti leader reborn. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-silver-dragon-xmm\|young silver dragon]] performs nightly to entertain a village of [[Rules/Source/bestiary/giant/cloud-giant-xmm\|cloud giants]], hoping to earn their help in securing a new lair. |
+^young-silver-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-silver-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Silver Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Silver Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 146* 
+
+**Adult Silver Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] watches over a flock of rare [[Rules/Source/bestiary/beast/goat-xmm\|goats]], but a group of [[Rules/Source/bestiary/giant/storm-giant-xmm\|storm giants]] covet their wool. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] and a [[Rules/Source/bestiary/undead/vampire-xmm\|vampire]] write books of philosophy arguing with each other's works. |
+| 3 | An [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|adult red dragon]] killed a group of adventurers that an [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] had befriended, and the silver dragon now seeks revenge. |
+| 4 | In making a new lair, an [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] destroyed the home of some [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|galeb duhr]], and the dragon now seeks help to restore the site for them. |
+| 5 | A number of [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragons]] all pretend to be painters and vie for the commission to paint the ceiling of a huge cathedral. |
+| 6 | An [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] leads a group of warriors, changing identities every generation. |
+| 7 | Having lost their own offspring, two [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragons]] raise a clutch of [[Rules/Source/bestiary/dragon/wyvern-xmm\|wyverns]]. |
+| 8 | A solitary [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragon]] domesticates [[Rules/Source/bestiary/monstrosity/roc-xmm\|rocs]] as an amusement. |
+^adult-silver-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-silver-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Silver Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Silver Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 146* 
+
+**Ancient Silver Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-silver-dragon-xmm\|ancient silver dragon]] helps a group of spellcasters keep the [[Rules/Source/bestiary/monstrosity/tarrasque-xmm\|tarrasque]] asleep. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-silver-dragon-xmm\|ancient silver dragon]] is secretly the age-old blacksmith who creates magical weapons for a kingdom's heroes. |
+| 3 | Bound by an oath, an [[Rules/Source/bestiary/dragon/ancient-silver-dragon-xmm\|ancient silver dragon]] rules a dead city in place of its original monarchs. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-silver-dragon-xmm\|ancient silver dragon]] has become the figurehead and protector of a clan of [[Rules/Source/bestiary/giant/frost-giant-xmm\|frost giants]]. |
+^ancient-silver-dragon-connections
+
+</div></div>
+
 
 ### Silver Dragon Lairs
 
@@ -1478,8 +5658,8 @@ This inclination toward using high-altitude locales as sites for lairs isn't wit
 The lair of a silver dragon is always an impressive sight. Young dragons make their homes in icy cliffs, excavating space for themselves within the mountainside. Older silver dragons sometimes decorate their cliff-side habitats with ruins carefully collected from other places in the world. Depending on the dragon, a lair can be a multi-tiered affair, with its highest levels extending fully into the sky.
 
 > [!gallery]
-> ![Map 5.13: silver dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/079-map-5-13-silver-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/080-map-5-13-silver-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/079-map-5-13-silver-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/079-map-5-13-silver-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/080-map-5-13-silver-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/080-map-5-13-silver-dragon-lair-player.webp)
 
 #### Silver Dragon Lair Features
 
@@ -1512,7 +5692,38 @@ More than anything else, silver dragons covet mementos from the people they inte
 
 Beyond such keepsakes, silver dragons prefer treasures that complement their natural coloration. Diamonds are much coveted, but also turquoise, malachite, and sapphires, all of pelagic hues like something plucked from the deep ocean. Some silver dragons also collect ornamental weapons or ingenious examples of technology.
 
-![Silver Dragon Treasures; Silver Dragon Art Objects](/Rules/Source/tables/silver-dragon-treasures-silver-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/silver-dragon-treasures-silver-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Silver Dragon Treasures; Silver Dragon Art Objects
+
+</div>
+
+
+
+# Silver Dragon Treasures; Silver Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 148* 
+
+**Silver Dragon Art Objects**
+
+| dice: d10 | Object |
+|-----------|--------|
+| 1 | A group portrait of nobles set in a faded mahogany frame, one corner of which is etched with signatures |
+| 2 | An ancient shortsword with a pommel in the shape of a goblin's face, its blade notched with heavy use |
+| 3 | The shattered helm of a dwarf monarch, mended with brazed gold |
+| 4 | A full suit of ancient armor, its breastplate scrimshawed with draconic faces |
+| 5 | A pearl-handled switchblade, its blade eaten away by salt water and its handle emblazoned with a crest |
+| 6 | An elaborate elven crown made to resemble a dragon's head |
+| 7 | A triptych of tapestries depicting the end of a war, the restoration work that followed, and the sunset flight of a silver dragon leaving the renewed realm |
+| 8 | A cape studded with gemstones and featuring epaulets of egret feathers, set on the shoulders of a battered tailor's mannequin |
+| 9 | A dramatic portrait of a human noble rendered mostly as shadow and glinting light that reveals the dragon-shaped pendant the figure wears |
+| 10 | A series of detailed obsidian sculptures depicting a human transitioning from childhood to old age |
+^silver-dragon-art-objects
+
+</div></div>
+
 
 ## Topaz Dragons
 
@@ -1526,27 +5737,220 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspire your portrayal of distinctive topaz dragon characters.
 
-![Creating a Topaz Dragon; Topaz Dragon Personality Traits](/Rules/Source/tables/creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd.md)
 
-![Creating a Topaz Dragon; Topaz Dragon Ideals](/Rules/Source/tables/creating-a-topaz-dragon-topaz-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Topaz Dragon; Topaz Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a Topaz Dragon; Topaz Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Topaz Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | I seek no company other than my own, for no one else can compete with me. |
+| 2 | If my offspring can't care for themselves, I'm not sure they're worthy of my attention. |
+| 3 | The sea is beautiful and I love gazing upon it, but I abhor being wet. |
+| 4 | Why should I risk damaging my splendid physique when I can fight with the power of my mind? |
+| 5 | I am predictable only in my unpredictability. |
+| 6 | It takes true artistry to maintain a warm, desert-like dwelling under the water. |
+| 7 | I soothe myself to sleep by imagining the perfect insults for bronze dragons; while I wait to meet one, I hone them on other creatures. |
+| 8 | I secretly enjoy conversing with lesser beings, although I usually do so only to find their weaknesses. |
+^topaz-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-topaz-dragon-topaz-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Topaz Dragon; Topaz Dragon Ideals
+
+</div>
+
+
+
+# Creating a Topaz Dragon; Topaz Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Topaz Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Solitude. My own company obviates the need for others in my life, whether they are dragons or lesser creatures. (Any) |
+| 2 | Change. Consistency is stagnation. (Chaotic) |
+| 3 | Mental Superiority. I hone my mental powers so I can confuse, control, or kill any who annoy me. (Evil) |
+| 4 | Territoriality. Any creature that comes into my territory has forfeited its right to be upset by anything I do to it. (Evil) |
+| 5 | Wonder. Though I don't wish to spend time in it, my soul sings at the sight of the vast beauty of the ocean. (Good) |
+| 6 | Code of Combat. I despise most other dragons, but I meet them face to face without resorting to the base trickery I use on lesser creatures. (Lawful) |
+^topaz-dragon-ideals
+
+</div></div>
+
 
 ### Topaz Dragon Adventures
 
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
-![Topaz Dragon Adventures; Topaz Dragon Adventure Hooks](/Rules/Source/tables/topaz-dragon-adventures-topaz-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/topaz-dragon-adventures-topaz-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Topaz Dragon Adventures; Topaz Dragon Adventure Hooks
+
+</div>
+
+
+
+# Topaz Dragon Adventures; Topaz Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Topaz Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A pirate ship is found floating on the open sea, the bodies of the crew completely desiccated. The only clue to what happened is a single topaz dragon scale on the deck. |
+| 2 | A topaz dragon has claimed a stretch of coastline and ordered the residents of a seaside town to vacate the area or suffer the dragon's wrath. |
+| 3 | A fishery that specializes in a type of eel favored by a local topaz dragon is "haunted," and shipments of the eel vanish every time the ghost appears. |
+| 4 | Legends claim that a gauntlet imbued with divine power rests in a temple beneath the waves. Unfortunately, that temple is now the lair of an especially tricky topaz dragon. |
+| 5 | A topaz dragon is injured and stranded far from the sea, but the dragon is too proud to ask for help getting home. |
+| 6 | A topaz dragon is building a tableau of desiccated creatures and has grown obsessed with catching one treasure hunter who escaped the dragon's clutches. |
+| 7 | A topaz dragon has developed a taste for [[Rules/Source/bestiary/elemental/merfolk-skirmisher-xmm\|merfolk]], and the merfolk community near the dragon's lair is desperate for help. |
+| 8 | A topaz dragon is intent on destroying the homes of all intelligent creatures in the dragon's territory, and desperate locals seek to find out what's behind the dragon's wrath. |
+^topaz-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Topaz dragons rarely tolerate any company but their own, and they are usually indifferent at best even toward their own kind. Moreover, their unpredictability means that even if a creature proves itself useful to a topaz dragon, it shouldn't count on being safe from the dragon the next time they meet. Topaz dragons rarely go out of their way to fight other creatures, however, with the exception of bronze dragons, for whom they bear an inexplicably intense hatred.
 
-![Connected Creatures; Topaz Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-topaz-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Topaz Dragon Connections](/Rules/Source/tables/connected-creatures-young-topaz-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-topaz-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult Topaz Dragon Connections](/Rules/Source/tables/connected-creatures-adult-topaz-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient Topaz Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-topaz-dragon-connections-ftd.md)
+# Connected Creatures; Topaz Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; Topaz Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Topaz Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | Moved by pity, a [[Rules/Source/bestiary/celestial/giant-eagle-xmm\|giant eagle]] continues bringing food to an abandoned [[Rules/Source/bestiary/dragon/topaz-dragon-wyrmling-ftd\|topaz dragon wyrmling]], despite the wyrmling's attempts to eat the eagle. |
+| 2 | A [[Rules/Source/bestiary/dragon/pseudodragon-xmm\|pseudodragon]] who is fanatical about the kinship of all dragonkind is trying to win a [[Rules/Source/bestiary/dragon/topaz-dragon-wyrmling-ftd\|topaz dragon wyrmling's]] friendship. |
+| 3 | A [[Rules/Source/bestiary/dragon/topaz-dragon-wyrmling-ftd\|topaz dragon wyrmling]] has developed a taste for crab meat and persistently hunts a [[Rules/Source/bestiary/beast/giant-crab-xmm\|giant crab]] that always manages to evade the wyrmling. (The crab might have been the recipient of a druid's [[Rules/Source/spells/awaken-xphb\|awaken]] spell.) |
+| 4 | A mated pair of [[Rules/Source/bestiary/monstrosity/griffon-xmm\|griffons]] found a topaz dragon egg, and they care for it as if it were their own. |
+| 5 | A [[Rules/Source/bestiary/fey/sea-hag-xmm\|sea hag]] is on the hunt for a [[Rules/Source/bestiary/dragon/topaz-dragon-wyrmling-ftd\|topaz dragon wyrmling]], to be used as a component in a fell ritual. |
+| 6 | A pirate crew keeps a curmudgeonly [[Rules/Source/bestiary/dragon/topaz-dragon-wyrmling-ftd\|topaz dragon wyrmling]] as a beloved mascot. |
+^topaz-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-topaz-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young Topaz Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young Topaz Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Young Topaz Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-topaz-dragon-ftd\|young topaz dragon]] engages in repeated aerial battles with a young [[Rules/Source/bestiary/celestial/sphinx-of-lore-xmm\|gynosphinx]] to determine territory. Both of them are secretly starting to enjoy the bouts. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-topaz-dragon-ftd\|young topaz dragon]] found and ate a dead [[Rules/Source/bestiary/fiend/sahuagin-warrior-xmm\|sahuagin]] on the beach, unwittingly incurring the wrath of the sahuagin's community. |
+| 3 | A flock of [[Rules/Source/bestiary/monstrosity/harpy-xmm\|harpies]] enjoy taunting a [[Rules/Source/bestiary/dragon/young-topaz-dragon-ftd\|young topaz dragon]] who has moved into their territory. The dragon adds a feather to a necklace for each harpy slain. |
+| 4 | A curious [[Rules/Source/bestiary/elemental/water-elemental-xmm\|water elemental]] supplies a [[Rules/Source/bestiary/dragon/young-topaz-dragon-ftd\|young topaz dragon]] with aquatic delicacies so as to learn more about the dragon. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-topaz-dragon-ftd\|young topaz dragon]] continually attempts to steal eggs from a [[Rules/Source/bestiary/monstrosity/roc-xmm\|roc]] nest, despite having nearly been killed by the roc parents multiple times. |
+| 6 | A clan of [[Rules/Source/bestiary/dragon/winged-kobold-xmm\|winged kobolds]] consider a [[Rules/Source/bestiary/dragon/young-topaz-dragon-ftd\|young topaz dragon]] their monarch, despite the dragon's complete lack of interest and growing annoyance toward them. |
+^young-topaz-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-topaz-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult Topaz Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult Topaz Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Adult Topaz Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/adult-topaz-dragon-ftd\|adult topaz dragon]] vies with a [[Rules/Source/bestiary/giant/storm-giant-xmm\|storm giant]] over territory. The giant keeps live seafood in a tide pool, and the dragon keeps drying out the pool in an effort to drive the giant away. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-topaz-dragon-ftd\|adult topaz dragon]] and an [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] are finding their centuries-old enmity turning into a more romantic passion. |
+| 3 | A [[Rules/Source/bestiary/elemental/djinni-xmm\|djinni]] hopes to convince a topaz dragon to tolerate the djinni's presence by driving off a clan of [[Rules/Source/bestiary/giant/cyclops-sentry-xmm\|cyclopes]] harassing the dragon. |
+| 4 | Reunited after years apart, an [[Rules/Source/bestiary/dragon/adult-topaz-dragon-ftd\|adult topaz dragon]] parent and young dragon child realize they enjoy hunting together. |
+| 5 | A tempestuous [[Rules/Source/bestiary/elemental/marid-xmm\|marid]] continually floods the carefully dried-out lair of a topaz dragon. |
+| 6 | A [[Rules/Source/bestiary/fiend/sahuagin-baron-xmm\|sahuagin baron]] attempts to gain the support of other sahuagin for driving away a topaz dragon attempting to claim the sea devils' territory. |
+| 7 | A pirate captain tells stories of an [[Rules/Source/bestiary/dragon/adult-topaz-dragon-ftd\|adult topaz dragon's]] legendary hoard while attempting to gather a crew to raid the dragon's lair. |
+| 8 | A ship wrecks near an [[Rules/Source/bestiary/dragon/adult-topaz-dragon-ftd\|adult topaz dragon's]] lair. The dragon claims what's left of the cargo and tries to ransom the survivors (including the dragonborn ship captain) back to the city they came from. |
+^adult-topaz-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-topaz-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient Topaz Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient Topaz Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 149* 
+
+**Ancient Topaz Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | An [[Rules/Source/bestiary/dragon/ancient-topaz-dragon-ftd\|ancient topaz dragon]] has decided to set local [[Rules/Source/bestiary/giant/ogre-xmm\|ogre]] and bandit clans against one another, hoping they wipe each other out. |
+| 2 | An [[Rules/Source/bestiary/dragon/adult-bronze-dragon-xmm\|adult bronze dragon]] has ignored the petitions of townsfolk to deal with an [[Rules/Source/bestiary/dragon/ancient-topaz-dragon-ftd\|ancient topaz dragon]] killing livestock and farmers alike. But now the topaz dragon has killed the bronze dragon's child. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-topaz-dragon-ftd\|ancient topaz dragon's]] lair contains a portal to the Elemental Chaos. |
+| 4 | An [[Rules/Source/bestiary/dragon/ancient-bronze-dragon-xmm\|ancient bronze dragon]] and an [[Rules/Source/bestiary/dragon/ancient-topaz-dragon-ftd\|ancient topaz dragon]] are locked in an ongoing conflict that threatens shipping and caravans around a major city. |
+^ancient-topaz-dragon-connections
+
+</div></div>
+
 
 ### Topaz Dragon Lairs
 
@@ -1555,8 +5959,8 @@ Topaz dragons are happiest by the sea. They spend most of their time basking in 
 Their preference for lair sites frequently brings topaz dragons into conflict with other creatures, since they resent having to share their chosen scenic locations with anything that isn't food. They often abandon lairs to seek new vistas, so the interiors of their lairs often feel less finished than those of other dragons. Topaz dragons decorate their lairs with mirrors to make them look bigger and brighter, as well as fabric and objects in golden shades that complement their scales. They obsessively organize their hoards but almost never show them to anyone else.
 
 > [!gallery]
-> ![Map 5.14: topaz dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/081-map-5-14-topaz-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/082-map-5-14-topaz-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/081-map-5-14-topaz-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/081-map-5-14-topaz-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/082-map-5-14-topaz-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/082-map-5-14-topaz-dragon-lair-player.webp)
 
 #### Topaz Dragon Lair Features
 
@@ -1581,7 +5985,36 @@ Topaz dragons despise anything made of bronze but love to hoard gold, as well as
 
 Topaz dragons like to keep their lairs well lit and can spend endless hours watching the play of light upon their treasures. They sometimes obsessively arrange their hoards by minute gradations in color and set up mirrors around a hoard chamber to make the mass of treasure appear bigger. But whatever pride topaz dragons take in their hoard, they have little desire to show it off, so even those rare creatures who maintain cordial relationships with a topaz dragon are unlikely to ever see the dragon's treasures.
 
-![Topaz Dragon Treasures; Topaz Dragon Art Objects](/Rules/Source/tables/topaz-dragon-treasures-topaz-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/topaz-dragon-treasures-topaz-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Topaz Dragon Treasures; Topaz Dragon Art Objects
+
+</div>
+
+
+
+# Topaz Dragon Treasures; Topaz Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 152* 
+
+**Topaz Dragon Art Objects**
+
+| dice: d8 | Object |
+|----------|--------|
+| 1 | An ornate statue of a sea serpent that plays ocean sounds when its gemstone eyes are pressed |
+| 2 | A set of seven levered brass mirrors that can be adjusted to direct light in different directions |
+| 3 | A stained glass window depicting a golden city whose buildings are decorated with statues of dragons and other winged creatures |
+| 4 | A gold scrying bowl that shows random, constantly shifting views of the Elemental Chaos |
+| 5 | A 10-foot-tall statue of the dragon, carved out of a single massive yellow crystal (the dragon thinks it's flattering, except for the tail) |
+| 6 | A large, shallow dish filled with water on which floats a set of delicate wooden ships; speaking different command words creates waves and whirlpools in the bowl |
+| 7 | A large spherical gold chandelier that gives off sunlight and is surrounded by an intricate and interlocking set of glass bands engraved in an unknown language |
+| 8 | A set of topaz-inlaid gold claw rings engraved with the names of bronze dragons the topaz dragon has killed |
+^topaz-dragon-art-objects
+
+</div></div>
+
 
 ## White Dragons
 
@@ -1595,29 +6028,246 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the White Dragon Personality Traits and White Dragon Ideals tables to inspire your portrayal of distinctive white dragon characters, and use the White Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a White Dragon; White Dragon Personality Traits](/Rules/Source/tables/creating-a-white-dragon-white-dragon-personality-traits-ftd.md)
 
-![Creating a White Dragon; White Dragon Ideals](/Rules/Source/tables/creating-a-white-dragon-white-dragon-ideals-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-white-dragon-white-dragon-personality-traits-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a White Dragon; White Dragon Spellcasting](/Rules/Source/tables/creating-a-white-dragon-white-dragon-spellcasting-ftd.md)
+<div class="markdown-embed-title">
+
+# Creating a White Dragon; White Dragon Personality Traits
+
+</div>
+
+
+
+# Creating a White Dragon; White Dragon Personality Traits
+*Source: Fizban's Treasury of Dragons p. 153* 
+
+**White Dragon Personality Traits**
+
+| dice: d8 | Trait |
+|----------|-------|
+| 1 | Talkative people are usually the most dangerous. I like to eat them first. |
+| 2 | I brood over past encounters with foes and sometimes mistake newcomers for my ancient enemies. |
+| 3 | I can recall many tidbits of lore picked up over the centuries but have no sense of their import. |
+| 4 | I don't like the taste of warm blood and always rinse my mouth out with snow after a fight. |
+| 5 | Whenever I encounter a new type of creature, I try to lure it back to my lair so I can add it to my collection of frozen trophies. |
+| 6 | I have named the wind that blows through my lair and speak to it often. It is my sole companion. |
+| 7 | I meet any challenge to my territory with aggression, even if I can't win outright. |
+| 8 | I feel protective of smaller, weaker creatures that are tormented by larger monsters. |
+^white-dragon-personality-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-white-dragon-white-dragon-ideals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a White Dragon; White Dragon Ideals
+
+</div>
+
+
+
+# Creating a White Dragon; White Dragon Ideals
+*Source: Fizban's Treasury of Dragons p. 153* 
+
+**White Dragon Ideals**
+
+| dice: d6 | Ideal |
+|----------|-------|
+| 1 | Rapacity. When a creature has the misfortune of crossing my path, I ask myself two questions: Am I hungry now? And if not, will I be hungry later? (Any) |
+| 2 | Survival. This world is harsh and unforgiving, and so am I. I do whatever it takes to survive. (Any) |
+| 3 | Dominance. I delight in making others tremble, knowing that I could kill them at any time. (Evil) |
+| 4 | Isolation. All creatures are either prey or rivals. What do you mean by "company?" (Any) |
+| 5 | Vengeance. Every scar upon my scales, every treasure beyond my reach, is a slight that must be answered. (Evil) |
+| 6 | Service. I used to live as a beast, before learning what is possible when creatures put aside their petty needs in service of a greater goal. (Lawful) |
+^white-dragon-ideals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-white-dragon-white-dragon-spellcasting-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a White Dragon; White Dragon Spellcasting
+
+</div>
+
+
+
+# Creating a White Dragon; White Dragon Spellcasting
+*Source: Fizban's Treasury of Dragons p. 153* 
+
+**White Dragon Spellcasting**
+
+| Age | Spell Save DC | Spells Known |
+|-----|---------------|--------------|
+| [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|Young]] | 12 | [[Rules/Source/spells/gust-of-wind-xphb\|gust of wind]] |
+| [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|Adult]] | 14 | [[Rules/Source/spells/gust-of-wind-xphb\|gust of wind]] |
+| [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|Ancient]] | 16 | [[Rules/Source/spells/gust-of-wind-xphb\|gust of wind]], [[Rules/Source/spells/ice-storm-xphb\|ice storm]] |
+^white-dragon-spellcasting
+
+</div></div>
+
 
 ### White Dragon Adventures
 
 The White Dragon Adventure Hooks table offers suggestions for stories and adventures involving white dragons.
 
-![White Dragon Adventures; White Dragon Adventure Hooks](/Rules/Source/tables/white-dragon-adventures-white-dragon-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/white-dragon-adventures-white-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# White Dragon Adventures; White Dragon Adventure Hooks
+
+</div>
+
+
+
+# White Dragon Adventures; White Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 153* 
+
+**White Dragon Adventure Hooks**
+
+| dice: d8 | Adventure Hook |
+|----------|----------------|
+| 1 | A white dragon has been starving out a fortified settlement by decimating the local caribou herds. |
+| 2 | The words of a ritual to propitiate a vengeful spirit are tattooed on the flesh of a frost giant druid—who is entombed in the ice of a white dragon's lair. |
+| 3 | [[Rules/Source/bestiary/elemental/aarakocra-skirmisher-xmm\|Aarakocra]] have become a nuisance in the lowlands ever since they were driven out of their mountain aerie by the arrival of a white dragon. |
+| 4 | An item stolen from a white dragon's hoard has been passed down to an adventurer as a family heirloom—and the dragon is coming to get it back. |
+| 5 | After driving away a white dragon, a group of adventurers discovered a mighty demon trapped in the ice in the dragon's lair. Now the ice is melting and the demon will soon awaken—so the dragon must be lured back. |
+| 6 | A white dragon has been raiding distant farmlands, procuring gifts of food for a mate with a taste for unusual cuisine. |
+| 7 | A white dragon has been exacting vengeance on a rival silver dragon by killing off the silver dragon's Humanoid companions. |
+| 8 | A [[Rules/Source/bestiary/giant/frost-giant-xmm\|frost giant]] wants to subdue a white dragon, hoping to overthrow the current frost giant jarl with the dragon's aid. In exchange for assistance from adventurers, the giant promises peace between the giant clan and nearby settlements. |
+^white-dragon-adventure-hooks
+
+</div></div>
+
 
 #### Connected Creatures
 
 Savage and territorial by nature, white dragons seldom set out to make alliances, though some come to understand the utility of doing so as they age. More often, white dragons encountered in the company of other creatures have been forced into an uneasy accommodation or a resentful servitude because they lack the power to dominate those companions outright.
 
-![Connected Creatures; White Dragon Wyrmling Connections](/Rules/Source/tables/connected-creatures-white-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young White Dragon Connections](/Rules/Source/tables/connected-creatures-young-white-dragon-connections-ftd.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-white-dragon-wyrmling-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Connected Creatures; Adult White Dragon Connections](/Rules/Source/tables/connected-creatures-adult-white-dragon-connections-ftd.md)
+<div class="markdown-embed-title">
 
-![Connected Creatures; Ancient White Dragon Connections](/Rules/Source/tables/connected-creatures-ancient-white-dragon-connections-ftd.md)
+# Connected Creatures; White Dragon Wyrmling Connections
+
+</div>
+
+
+
+# Connected Creatures; White Dragon Wyrmling Connections
+*Source: Fizban's Treasury of Dragons p. 154* 
+
+**White Dragon Wyrmling Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A pair of [[Rules/Source/bestiary/elemental/ice-mephit-xmm\|ice mephits]] delight in chasing townsfolk into a [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling's]] lair to be eaten. |
+| 2 | A brooding [[Rules/Source/bestiary/monstrosity/griffon-xmm\|griffon]] found a dragon egg and cared for it along with her own brood. Though the [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]] ate the griffon's other hatchlings, the griffon treats the wyrmling as her offspring and protects the creature fiercely. |
+| 3 | A clan of warriors has adopted a [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]] as the clan's sacred guardian and brings the wyrmling captured foes as offerings. |
+| 4 | [[Rules/Source/bestiary/monstrosity/yeti-xmm\|Yetis]] keep a [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]] chained near the entrance of their lair to discourage scavengers. |
+| 5 | A well-meaning [[Rules/Source/bestiary/humanoid/druid-xmm\|druid]] is trying to rear a [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]] as a guardian of nature, training the dragon to hunt only Monstrosities. But the wyrmling keeps attacking other creatures. |
+| 6 | A band of [[Rules/Source/bestiary/giant/ogre-xmm\|ogres]] keeps a [[Rules/Source/bestiary/dragon/white-dragon-wyrmling-xmm\|white dragon wyrmling]] caged near their larder, as they have discovered that the dragon's cold breath keeps their meat fresh. |
+^white-dragon-wyrmling-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-young-white-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Young White Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Young White Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 154* 
+
+**Young White Dragon Connections**
+
+| dice: d6 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|young white dragon]] and a [[Rules/Source/bestiary/monstrosity/young-remorhaz-xmm\|young remorhaz]] are vying for control of the same territory, and their altercations endanger the other creatures in the area. |
+| 2 | A [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|young white dragon]] has gained control of an [[Rules/Source/bestiary/elemental/invisible-stalker-xmm\|invisible stalker]] and sends it out to steal treasure. |
+| 3 | A [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|young white dragon]] allows a clan of deep gnomes to mine the dragon's mountain home in exchange for a healthy portion of the gemstones they extract. |
+| 4 | A [[Rules/Source/bestiary/giant/frost-giant-xmm\|frost giant]] hunter has raised a [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|young white dragon]] since the dragon hatched, and the two are now inseparable. |
+| 5 | A [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|young white dragon]] is pestered by a [[Rules/Source/bestiary/undead/flameskull-xmm\|flameskull]] bound to guard a magic item the dragon recently acquired. |
+| 6 | A [[Rules/Source/bestiary/dragon/young-white-dragon-xmm\|young white dragon]] has been stalking a herd of [[Rules/Source/bestiary/beast/mammoth-xmm\|mammoths]] for days, trying to pick off the herd's newborn calves. |
+^young-white-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-adult-white-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Adult White Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Adult White Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 154* 
+
+**Adult White Dragon Connections**
+
+| dice: d8 | Connected Creatures |
+|----------|---------------------|
+| 1 | A pirate captain uses the pervasive fog near an [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon's]] lair to elude capture and propitiates the dragon with a share of the crew's booty. |
+| 2 | A [[Rules/Source/bestiary/elemental/djinni-xmm\|djinni]] has pledged to serve an [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon]] for a year and a day in exchange for sparing the genie's previous master's life. |
+| 3 | An [[Rules/Source/bestiary/fiend/arcanaloth-xmm\|arcanaloth]] has been trying to tease information out of an [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon]], hoping the dragon can lead it to a lost font of magical power. |
+| 4 | An [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon]], captured by devils decades ago, now serves as a mount for an [[Rules/Source/bestiary/fiend/ice-devil-xmm\|ice devil]]. |
+| 5 | A [[Rules/Source/bestiary/aberration/beholder-xmm\|beholder]] manipulates an [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon]] into eliminating its enemies by inventing ways in which these foes have supposedly offended the dragon. |
+| 6 | A [[Rules/Source/bestiary/giant/storm-giant-xmm\|storm giant]] and an [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon]] are engaged in a deadly game of cat-and-mouse, leaving a trail of destruction behind them. |
+| 7 | An [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon]] periodically brings a mouthful of gems to the [[Rules/Source/bestiary/dragon/ancient-crystal-dragon-ftd\|ancient crystal dragon]] who raised them, and who is now too old and tired to seek out new mineral veins for sustenance. |
+| 8 | A clan of [[Rules/Source/bestiary/dragon/winged-kobold-xmm\|winged kobolds]] treat the air currents and ice slides of an [[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult white dragon's]] lair as an obstacle course. The dragon enjoys devising increasingly hazardous routes for the kobolds to tackle. |
+^adult-white-dragon-connections
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/connected-creatures-ancient-white-dragon-connections-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Connected Creatures; Ancient White Dragon Connections
+
+</div>
+
+
+
+# Connected Creatures; Ancient White Dragon Connections
+*Source: Fizban's Treasury of Dragons p. 154* 
+
+**Ancient White Dragon Connections**
+
+| dice: d4 | Connected Creatures |
+|----------|---------------------|
+| 1 | A [[Rules/Source/bestiary/undead/death-knight-xmm\|death knight]] and an [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon]] swap tales of old foes and unanswered grievances, nursing the hunger for vengeance that sustains them. |
+| 2 | An [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon]] makes intermittent assaults against a mated pair of [[Rules/Source/bestiary/dragon/adult-silver-dragon-xmm\|adult silver dragons]] who lair nearby. |
+| 3 | An [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon]] guards a [[Rules/Source/bestiary/undead/lich-xmm\|lich's]] phylactery, keeping it sealed in a tomb of ice. The lich visits periodically, bearing fabulous treasures as payment. |
+| 4 | A community of orcs believe an [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon]] to be the reincarnation of a legendary leader. They've been venerating the dragon so long that the dragon now believes the story and speaks proudly in Orc about the orcs' triumphs. |
+^ancient-white-dragon-connections
+
+</div></div>
+
 
 ### White Dragon Lairs
 
@@ -1626,8 +6276,8 @@ A white dragon's lair is a place of freezing temperatures and profound solitude.
 White dragons enjoy the mournful sound of the wind and frequently choose lairs with long, winding tunnels down which icy gusts can travel. They seldom work to improve their lairs, but when they do, it is often to channel wind currents to create effects the dragon finds pleasing. The labyrinthine tunnels and the mirror-like icy surfaces in a white dragon's lair confound would-be thieves and might foil their escape.
 
 > [!gallery]
-> ![Map 5.15: white dragon lair](/Rules/Source/books/fizbans-treasury-of-dragons/img/083-map-5-15-white-dragon-lair.webp#gallery)
-> ![Player Version](/Rules/Source/books/fizbans-treasury-of-dragons/img/084-map-5-15-white-dragon-lair-player.webp#gallery)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/083-map-5-15-white-dragon-lair.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/083-map-5-15-white-dragon-lair.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/084-map-5-15-white-dragon-lair-player.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/084-map-5-15-white-dragon-lair-player.webp)
 
 #### White Dragon Lair Features
 
@@ -1649,13 +6299,13 @@ The white dragon lair shown in map 5.15 is a natural stone grotto set in a cliff
 At your discretion, a legendary ([[Rules/Source/bestiary/dragon/adult-white-dragon-xmm\|adult]] or [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient]]) white dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [[Rules/Source/conditions#Blinded\|blinded]] until initiative count 20 on the next round.  
-- **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
+- **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
 
 #### Regional Effects
 
 Any of these effects might appear in the area around a white dragon's lair, in addition to or instead of the effects described in the "Monster Manual":
 
-- **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
+- **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
 - **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([[Rules/Source/skills#Stealth\|Stealth]]) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
 
 ### White Dragon Treasures
@@ -1672,4 +6322,36 @@ White dragons favor gems and precious metals that mirror the cold sparkle of ice
 
 The greater part of a white dragon's hoard consists of trophies taken from defeated foes. Although these trophies include items such as mighty weapons or ornate regalia that are valuable treasures in their own right, they can just as easily be worthless junk. A white dragon hoards trophies not for their material value, but as testaments to the dragon's dominance. An [[Rules/Source/bestiary/dragon/ancient-white-dragon-xmm\|ancient white dragon's]] lair is a literal memory palace and a maze of rime-encrusted treasures that recount the story of the dragon's many victories.
 
-![White Dragon Treasures; White Dragon Art Objects](/Rules/Source/tables/white-dragon-treasures-white-dragon-art-objects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/white-dragon-treasures-white-dragon-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# White Dragon Treasures; White Dragon Art Objects
+
+</div>
+
+
+
+# White Dragon Treasures; White Dragon Art Objects
+*Source: Fizban's Treasury of Dragons p. 157* 
+
+**White Dragon Art Objects**
+
+| dice: d12 | Object |
+|-----------|--------|
+| 1 | A war horn carved to resemble a dragon's head with a wide-open maw, which the dragon calls "Little Toot" |
+| 2 | A statue depicting an elf paladin with the face turned upward; the body has been defaced by the dragon's claws |
+| 3 | A mammoth tusk engraved with images depicting the history of a nomadic tribe; the dragon uses the tusk to mark the spot where it has buried its pile of gold |
+| 4 | A giant-sized cloak decorated with silver braiding that the dragon uses as a nest lining for its egg |
+| 5 | A wooden throne heaped with furs; any visitors must sit on the throne while the dragon recounts the grisly death of the seat's previous owner |
+| 6 | A huge wooden door carved and painted to depict a monarch enthroned with sword and scepter; the dragon occasionally raps the door with its knuckles, pauses, and then chortles, "Nobody home" |
+| 7 | A frost giant jarl's crown with broken horns; the dragon enjoys perching the crown on an icy stalagmite and then knocking it off with its tail |
+| 8 | The prow of a ship carved to look like a pouncing lion; the dragon occasionally roars at the lion |
+| 9 | A gilded shield emblazoned with the holy symbol of a forgotten god; the dragon enjoys flicking the shield with a claw to hear the sound it makes |
+| 10 | A ceremonial anvil of dwarven make; gazing at the anvil, the dragon fondly recounts, "Seven at one blow!" |
+| 11 | A long, embroidered linen tapestry showing the history of an ancient realm's civil war; the dragon "reads" the tapestry when it has trouble sleeping. |
+| 12 | A bell engraved with images of an angelic host, still attached to its splintered belfry; the dragon tolls the bell with its tail, growling the name of one of its defeated foes with each ring |
+^white-dragon-art-objects
+
+</div></div>

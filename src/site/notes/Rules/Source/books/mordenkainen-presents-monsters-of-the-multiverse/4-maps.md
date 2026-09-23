@@ -6,9 +6,9 @@
 *Source: Mordenkainen Presents: Monsters of the Multiverse* 
 
 > [!gallery]
-> ![Mind Flayer Colony](/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony.webp#gallery)
-> ![Player Version](/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony-player-version.webp#gallery)
+> ![/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony.webp\|gallery wmed](/img/user/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony.webp)
+> ![/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony-player-version.webp\|gallery wmed](/img/user/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony-player-version.webp)
 
 > [!gallery]
-> ![Yuan-ti Temple](/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple.webp#gallery)
-> ![Player Version](/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple-player-version.webp#gallery)
+> ![/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple.webp\|gallery wmed](/img/user/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple.webp)
+> ![/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple-player-version.webp\|gallery wmed](/img/user/Rules/Source/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple-player-version.webp)

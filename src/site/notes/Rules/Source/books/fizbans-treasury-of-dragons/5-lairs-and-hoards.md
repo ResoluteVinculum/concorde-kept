@@ -13,7 +13,7 @@ Dragons are deeply connected to the worlds in which they dwell. The magic of the
 
 "What's in a Hoard?" provides tables to determine the contents of a dragon's hoard, expanding on the treasure tables in the "Dungeon Master's Guide".
 
-![Fizban argues with a smug ...](/Rules/Source/books/fizbans-treasury-of-dragons/img/033-04-001-chapter-splash.webp#center "Fizban argues with a smug statue in the lair of an amused brass dragon")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/033-04-001-chapter-splash.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/033-04-001-chapter-splash.webp)
 
 ## Dragon Lairs
 
@@ -25,7 +25,38 @@ A lair is not merely a den where a dragon happens to sleep. It's a nexus for all
 
 Consciously or not, young dragons establishing lairs for the first time often seek to establish them in sites of magical resonance. A dragon might look for a place where multiple ley lines of flowing magical energy intersect, a site where a meteorite crashed to earth or a strange mystical crystal lies buried underground, or a place where long-forgotten wizards of an ancient magocratic empire saturated the land with their powerful spells. As a result, a dragon's lair is typically not the only unusual and magically powerful feature in its region. You can use the Lair Location table for inspiration when placing a dragon's lair in or near such a feature.
 
-![Dragon Lairs; Lair Location](/Rules/Source/tables/dragon-lairs-lair-location-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-lairs-lair-location-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Lairs; Lair Location
+
+</div>
+
+
+
+# Dragon Lairs; Lair Location
+*Source: Fizban's Treasury of Dragons p. 63* 
+
+**Lair Location**
+
+| dice: d10 | Unusual Feature |
+|-----------|-----------------|
+| 1 | The area is a climate anomaly—a cool and lush oasis in a hot desert, a balmy spring within a frozen tundra, a drifting iceberg in a warm sea, a barren waste in the midst of a verdant forest, or the like. |
+| 2 | The area is a wild magic zone. Whenever a creature casts a spell of 1st level or higher or activates a magic item, roll a `d10`. On a 1, roll on the [[Rules/Source/tables/wild-magic-surge-xphb\|Wild Magic Surge]] table in the "Player's Handbook". |
+| 3 | Natural rock formations align with celestial phenomena at particular times of the year. Stars and planets might line up with rock spires and windows on solstices and equinoxes, for example. |
+| 4 | A dead god or titan is buried in the area. |
+| 5 | The area is a vast crater, at the center of which is a long-buried meteorite. |
+| 6 | A magical portal to another plane of existence releases dangerous energy—and sometimes creatures—into the area. |
+| 7 | The area was a battlefield in an ancient war where thousands of soldiers were annihilated in a devastating magical assault. |
+| 8 | Gravity does not function as expected in the area, which might manifest as giant floating earth motes or similar terrain. |
+| 9 | An enormous tree—possibly the oldest living organism in the world—grows at the heart of the area. |
+| 10 | A god left a profound impression on the site during an ancient visit to the Material Plane—perhaps a footprint, a pool of tears, or a splash of blood that has permanently infused the ground. |
+^lair-location
+
+</div></div>
+
 
 ### Regional Effects
 
@@ -145,7 +176,7 @@ Wyrmling dragons begin acquiring hoards as soon as they can fly, but their small
 
 As dragons transition from wyrmling to young age, at around five years, they also begin to look for their first permanent lairs and amass more substantial hoards, which grow in value to many thousands of gold pieces. Young dragons keep their hoards safe in the same central location where they sleep. Such dragons typically do not yet impose regional effects, but these effects might begin to manifest as the dragons' connections to their lairs develop. You can add regional effects and even lair actions to young dragons, particularly for dragons who have acquired an unusually large hoard. These dragons might not be old enough to fully step into the power of an adult, but gathering such a hoard makes them more powerful than other dragons of a similar age.
 
-![An ancient dragon's hoard ...](/Rules/Source/books/fizbans-treasury-of-dragons/img/034-04-002-an-ancient-dragons-hoard.webp#center "An ancient dragon's hoard can hold enough wealth to cause the rise and the ruin of dynasties")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/034-04-002-an-ancient-dragons-hoard.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/034-04-002-an-ancient-dragons-hoard.webp)
 
 #### Adult Dragons
 
@@ -165,7 +196,38 @@ A dragon dividing a hoard often apportions one or more pieces from a linked set 
 
 This linking can add the fun goal of having the characters collect a complete set of divided treasure as they try to find all the caches of a dragon's hoard. The Hoard Linking Items table offers suggestions for item sets that a dragon might use in this way. Ideally, players should be able to deduce the total number of items in the set after they've found one or two caches, so they know how many more pieces need to be collected. Sometimes the correct number is obvious (the number of pieces in a chess set or cards in a deck, for example), but consider having an item found early on be stored in a decorative box whose empty spaces indicate the number of pieces missing.
 
-![Linking Hoards; Hoard Linking Items](/Rules/Source/tables/linking-hoards-hoard-linking-items-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/linking-hoards-hoard-linking-items-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Linking Hoards; Hoard Linking Items
+
+</div>
+
+
+
+# Linking Hoards; Hoard Linking Items
+*Source: Fizban's Treasury of Dragons p. 67* 
+
+**Hoard Linking Items**
+
+| dice: d10 | Linking Items |
+|-----------|---------------|
+| 1 | The broken pieces of an artifact (such as the Rod of Seven Parts) |
+| 2 | A set of large gemstones, each engraved with the seal of a particular nation or the symbol of a deity |
+| 3 | Numbered volumes of an encyclopedia or comprehensive history |
+| 4 | Statuettes depicting different kinds of dragons |
+| 5 | Portraits of the members of a well-known historical family |
+| 6 | Ornate nesting dolls that feature a large gemstone egg at the heart of the set |
+| 7 | Regalia—an orb, a crown, a scepter, and so forth—belonging to a recently deposed monarch |
+| 8 | Pieces of a full suit of armor that once belonged to an ancient hero |
+| 9 | A set of teeth from a rival dragon, a prophet, or a rare creature |
+| 10 | Pieces of a chess set or another board game, or cards from a deck of playing cards, a tarokka deck, or a [[Rules/Source/items/deck-of-many-things-xdmg\|deck of many things]] |
+^hoard-linking-items
+
+</div></div>
+
 
 ### Plundering a Hoard
 
@@ -205,7 +267,34 @@ It's not unusual for one or more items in a dragon's hoard to be haunted. Restle
 
 The most certain way to end a haunting is to complete the unfinished business that keeps a spirit bound to the mortal world. In the case of a haunted hoard, you can use the Unfinished Business table to help you decide what that might be.
 
-![Haunted Hoards; Unfinished Business](/Rules/Source/tables/haunted-hoards-unfinished-business-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/haunted-hoards-unfinished-business-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Haunted Hoards; Unfinished Business
+
+</div>
+
+
+
+# Haunted Hoards; Unfinished Business
+*Source: Fizban's Treasury of Dragons p. 68* 
+
+**Unfinished Business**
+
+| dice: d6 | Unfinished Business |
+|----------|---------------------|
+| 1 | Entrust the haunted item to the ghost's heir |
+| 2 | Entomb the haunted item with the ghost's corpse |
+| 3 | Destroy the haunted item |
+| 4 | Use the haunted item for a specific purpose |
+| 5 | Reunite the haunted item with other items forming a set |
+| 6 | Destroy the ghost's killer: a dragon who is an echo of the hoard's owner on another world |
+^unfinished-business
+
+</div></div>
+
 
 #### A Dragon's Curse
 
@@ -213,13 +302,65 @@ A dragon's violent death sometimes causes a hoard to carry a lingering curse. A 
 
 Use the Hoard Curse Effects table to inspire possible effects for a dragon's lingering curse.
 
-![A Dragon's Curse; Hoard Curse Effects](/Rules/Source/tables/a-dragons-curse-hoard-curse-effects-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/a-dragons-curse-hoard-curse-effects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# A Dragon's Curse; Hoard Curse Effects
+
+</div>
+
+
+
+# A Dragon's Curse; Hoard Curse Effects
+*Source: Fizban's Treasury of Dragons p. 68* 
+
+**Hoard Curse Effects**
+
+| dice: d6 | Hoard Curse Effect |
+|----------|--------------------|
+| 1 | Each affected creature gains 1 level of [[Rules/Source/conditions#Exhaustion\|exhaustion]] that can't be removed until the curse is broken. |
+| 2 | Each affected creature automatically fails saving throws against dragons' breath weapons and Frightful Presence. |
+| 3 | Each affected creature gains vulnerability to the damage type of the breath weapon of the dragon who cursed the hoard. |
+| 4 | Each affected creature's speed is reduced by 10 feet. |
+| 5 | Affected creatures can't spend Hit Dice to regain hit points during a short rest. |
+| 6 | When an affected creature dies, its soul becomes imprisoned by the slain dragon's spirit, preventing the creature from being raised from the dead. |
+^hoard-curse-effects
+
+</div></div>
+
 
 In general, ending the curse on a dragon's hoard is not as simple as casting a single spell. Magic can offer temporary respite, though. A [[Rules/Source/spells/remove-curse-xphb\|remove curse]] spell cast on any affected character suppresses the effect of the curse for 1 hour, while a [[Rules/Source/spells/greater-restoration-xphb\|greater restoration]] spell suppresses the curse until the victim finishes a long rest.
 
 Returning the entire hoard to the dragon's lair ends the curse, but removing even a single coin activates it again. Short of the drastic step of abandoning the treasure, gathering the entire hoard together and performing some specific rite can end the curse. Such a rite might involve any or all of the elements suggested on the Breaking a Hoard Curse table.
 
-![A Dragon's Curse; Breaking a Hoard Curse](/Rules/Source/tables/a-dragons-curse-breaking-a-hoard-curse-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/a-dragons-curse-breaking-a-hoard-curse-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# A Dragon's Curse; Breaking a Hoard Curse
+
+</div>
+
+
+
+# A Dragon's Curse; Breaking a Hoard Curse
+*Source: Fizban's Treasury of Dragons p. 68* 
+
+**Breaking a Hoard Curse**
+
+| dice: d4 | Rite Elements |
+|----------|---------------|
+| 1 | Cast the [[Rules/Source/spells/hallow-xphb\|hallow]] spell |
+| 2 | Make an offering of blood from everyone who participated in killing the dragon (or those creatures' nearest kin) |
+| 3 | Bathe or sprinkle the treasure in the dragon's blood |
+| 4 | Make a sacrifice to Bahamut, Tiamat, or both |
+^breaking-a-hoard-curse
+
+</div></div>
+
 
 One other way to bypass a dragon's curse on a hoard is to have the treasure become part of another dragon's hoard, whereupon the previous owner's curse is nullified. Clever adventurers might work out a bargain with a friendlier dragon involving a trade of cursed treasure in exchange for a similar (but probably smaller) amount of treasure freely given.
 
@@ -227,9 +368,36 @@ One other way to bypass a dragon's curse on a hoard is to have the treasure beco
 
 Shadowy cults, reclusive scholars, rival adventurers, and mysterious organizations might seek out a dragon's hoard, either trying to claim it from a dragon or trying to acquire it from characters who have slain a dragon. Aside from greed, such groups can have any number of motivations for seeking a dragon's treasure. Often, such groups seek to draw on the magic of a dragon's hoard to perform some great ritual. The Hoard Magic table suggests some possibilities.
 
-![Competition for a Hoard; Hoard Magic](/Rules/Source/tables/competition-for-a-hoard-hoard-magic-ftd.md)
 
-![While a dragon slumbers, a...](/Rules/Source/books/fizbans-treasury-of-dragons/img/035-04-003-skilled-burglar.webp#center "While a dragon slumbers, a skilled burglar might be able to make off with a treasure or two, but looting the entire hoard is another matter")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/competition-for-a-hoard-hoard-magic-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Competition for a Hoard; Hoard Magic
+
+</div>
+
+
+
+# Competition for a Hoard; Hoard Magic
+*Source: Fizban's Treasury of Dragons p. 69* 
+
+**Hoard Magic**
+
+| dice: d6 | Magical Motivation |
+|----------|--------------------|
+| 1 | Create a permanent protective ward covering a city-state or small kingdom |
+| 2 | Destroy a large magical ward protecting a region |
+| 3 | Create a dead magic zone where spells and magic items won't function |
+| 4 | Repair the fabric of magic in a dead magic zone |
+| 5 | Reassert the dominance of the Material Plane in a region, banishing influence that has been seeping in from another plane of existence |
+| 6 | Open a portal to another plane of existence or another world of the Material Plane |
+^hoard-magic
+
+</div></div>
+
+
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/035-04-003-skilled-burglar.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/035-04-003-skilled-burglar.webp)
 
 ## What's in a Hoard?
 
@@ -247,7 +415,34 @@ Use these guidelines in conjunction with the information in the "Dungeon Master'
 
 The coins in a dragon's hoard might come from all over the world and across uncountable ages of history. To add flavor to the potentially enormous pile of coins in a dragon's lair, you can use the Coin Origins table to determine the origin of any particular group of coins.
 
-![Coins; Coin Origins](/Rules/Source/tables/coins-coin-origins-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/coins-coin-origins-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Coins; Coin Origins
+
+</div>
+
+
+
+# Coins; Coin Origins
+*Source: Fizban's Treasury of Dragons p. 70* 
+
+**Coin Origins**
+
+| dice: d10 | Origin |
+|-----------|--------|
+| 1 | Equivalent value in "trade goods" (see the "Player's Handbook") rather than coins |
+| 2–3 | Coins from an ancient culture local to this region, ancestral to the people who live here now |
+| 4–5 | Coins from an ancient culture in a distant region |
+| 6–7 | Coins from a nearby contemporary culture |
+| 8–9 | Coins from a local contemporary culture |
+| 10 | Coins from another world |
+^coin-origins
+
+</div></div>
+
 
 You might decide that all the coins in a dragon's hoard have the same origin, but it's more likely (particularly in the hoard of an older dragon) that the coins have a variety of origins. If you aren't interested in explaining the details of coinage from a variety of contemporary and historical cultures in your game's setting, it's enough to tell your players that some of the coins are unfamiliar in their size, shape, or inscription—but their value is unchanged.
 
@@ -265,7 +460,7 @@ You can determine the specific magic items found in a dragon's hoard in one of t
 
 As described in "Xanathar's Guide to Everything", the items found on Magic Item Table A through Magic Item Table E in the "Dungeon Master's Guide" are minor items, a category that includes common items, potions and scrolls (which can be used only once), and other items whose impact on the game is minor or utilitarian. The items on Magic Item Table F through Magic Item Table I are major items: permanent items that can have significant long-term impact on the game.
 
-![Green dragons are poison—f...](/Rules/Source/books/fizbans-treasury-of-dragons/img/036-04-004-green-dragons-are-poison.webp#center "Green dragons are poison—from their blood and fangs to the wispy gases of their breath and the sinister insinuations they whisper to the weak-willed")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/036-04-004-green-dragons-are-poison.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/036-04-004-green-dragons-are-poison.webp)
 
 ### Creating a Hoard
 
@@ -343,12 +538,140 @@ A dragon's hoard contains each of the items listed for the dragon's age category
 
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/037-04-005-gold-coins.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/037-04-005-gold-coins.webp)
 
-![Creating a Hoard; Hoard Mundane Items](/Rules/Source/tables/creating-a-hoard-hoard-mundane-items-ftd.md)
 
-![Trying to loot a dragon's ...](/Rules/Source/books/fizbans-treasury-of-dragons/img/038-04-006-trying-to-loot.webp#center "Trying to loot a dragon's hoard without waking its owner is a reckless endeavor")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-hoard-hoard-mundane-items-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Creating a Hoard; Hoard Gems](/Rules/Source/tables/creating-a-hoard-hoard-gems-ftd.md)
+<div class="markdown-embed-title">
 
-![Creating a Hoard; Hoard Art Objects](/Rules/Source/tables/creating-a-hoard-hoard-art-objects-ftd.md)
+# Creating a Hoard; Hoard Mundane Items
 
-![Creating a Hoard; Hoard Magic Items](/Rules/Source/tables/creating-a-hoard-hoard-magic-items-ftd.md)
+</div>
+
+
+
+# Creating a Hoard; Hoard Mundane Items
+*Source: Fizban's Treasury of Dragons p. 72* 
+
+**Hoard Mundane Items**
+
+| dice: d100 | Mundane Items |
+|------------|---------------|
+| 01–04 | A painting by an artist long forgotten by everyone except the dragon |
+| 05–08 | A hogshead (large cask) containing 65 gallons of clean drinking water |
+| 09–12 | Several embroidered throw pillows depicting wyrmling dragons |
+| 13–16 | A funerary urn containing remains the dragon can't identify |
+| 17–20 | A set of seven candlesticks bearing a god's holy symbol |
+| 21–24 | A tarnished brazier with pleasant-smelling ash |
+| 25–28 | A drum for use in religious rites, with a foreboding echo to its beat |
+| 29–32 | A stuffed Monstrosity appropriate to the local terrain |
+| 33–36 | The skull of a Fiend or Celestial |
+| 37–40 | A spinning wheel |
+| 41–44 | An hourglass filled with sparkling sand |
+| 45–48 | A crude flute with a pleasing sound |
+| 49–52 | Hundreds or thousands of fake coins interspersed with the real treasure |
+| 53–56 | A treatise on alchemy etched on steel cylinders |
+| 57–60 | The battle standard of one of the dragon's ancient foes |
+| 61–64 | A sketchbook from another world of the Material Plane, depicting unfamiliar creatures and one very familiar dragon |
+| 65–68 | A set of irregular polyhedral dice (with 9, 13, 25, and 34 sides) |
+| 69–72 | A map showing the dragon's lair in relation to villages and other long-gone landmarks |
+| 73–76 | A kneeling bench, which anyone addressing the dragon is required to use |
+| 77–80 | A scroll containing a long epic poem in praise of the dragon |
+| 81–84 | A star chart showing Bahamut and a one-headed Tiamat as constellations, with "Elegy for the First World" written between the stars |
+| 85–88 | A large, noisy wind chime |
+| 89–92 | A small shrine with a statuette, a brazier, and an altar dedicated to a god worshiped by many of the dragon's minions |
+| 93–96 | A jar with a dead illithid tadpole floating in preserving chemicals |
+| 97–00 | An extensive historical record in the form of carefully knotted strings |
+^hoard-mundane-items
+
+</div></div>
+
+
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/038-04-006-trying-to-loot.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/038-04-006-trying-to-loot.webp)
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-hoard-hoard-gems-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Hoard; Hoard Gems
+
+</div>
+
+
+
+# Creating a Hoard; Hoard Gems
+*Source: Fizban's Treasury of Dragons p. 72* 
+
+**Hoard Gems**
+
+| Wyrmling d100 | Young d100 | Adult d100 | Ancient d100 | Gem Value |
+|---------------|------------|------------|--------------|-----------|
+| 01–43 | 01–51 | 01–18 | 01–14 | 10 gp |
+| 44–99 | 52–75 | 19–36 | 15–28 | 50 gp |
+| 00 | 76–99 | 37–54 | 29–42 | 100 gp |
+| — | 00 | 55–77 | 43–58 | 500 gp |
+| — | — | 78–99 | 59–93 | 1,000 gp |
+| — | — | 00 | 94–00 | 5,000 gp |
+^hoard-gems
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-hoard-hoard-art-objects-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Hoard; Hoard Art Objects
+
+</div>
+
+
+
+# Creating a Hoard; Hoard Art Objects
+*Source: Fizban's Treasury of Dragons p. 72* 
+
+**Hoard Art Objects**
+
+| Wyrmling d100 | Young d100 | Adult d100 | Ancient d100 | Art Object Value |
+|---------------|------------|------------|--------------|------------------|
+| 01–95 | 01–53 | 01–49 | 01–22 | 25 gp |
+| 96–00 | 54–99 | 50–75 | 23–42 | 250 gp |
+| — | 00 | 76–99 | 43–58 | 750 gp |
+| — | — | 00 | 59–93 | 2,500 gp |
+| — | — | — | 94–00 | 7,500 gp |
+^hoard-art-objects
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-hoard-hoard-magic-items-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Hoard; Hoard Magic Items
+
+</div>
+
+
+
+# Creating a Hoard; Hoard Magic Items
+*Source: Fizban's Treasury of Dragons p. 72* 
+
+**Hoard Magic Items**
+
+| Wyrmling d100 | Young d100 | Adult d100 | Ancient d100 | Magic Items |
+|---------------|------------|------------|--------------|-------------|
+| 01–34 | 01–21 | 01–06 | — | Common minor item (Magic Item Table A*) |
+| 35–61 | 22–49 | 07–18 | — | Uncommon minor item (Magic Item Table B*) |
+| 62–77 | 50–64 | 19–41 | 01–12 | Rare minor item (Magic Item Table C*) |
+| — | 65–72 | 42–64 | 13–56 | Very rare minor item (Magic Item Table D*) |
+| — | — | 65–69 | 57–67 | Legendary minor item (Magic Item Table E*) |
+| 78–96 | 73–91 | 70–72 | — | Uncommon major item (Magic Item Table F*) |
+| 97–00 | 92–97 | 73–80 | 68–73 | Rare major item (Magic Item Table G*) |
+| — | 98–00 | 81–91 | 74–82 | Very rare major item (Magic Item Table H*) |
+| — | — | 92–00 | 83–00 | Legendary major item (Magic Item Table I*) |
+*See the "Dungeon Master's Guide".
+
+</div></div>

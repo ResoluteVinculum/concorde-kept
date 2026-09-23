@@ -5,7 +5,7 @@
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 
 
-![In the skies of Eberron, t...](/Rules/Source/books/players-handbook-2024/img/168-07-001-inventor-vi.webp#center "In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!")
+![/Rules/Source/books/players-handbook-2024/img/168-07-001-inventor-vi.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/168-07-001-inventor-vi.webp)
 
 The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it's available at the listed price.
 
@@ -15,7 +15,33 @@ Characters often find coins on their adventures and can spend those coins in sho
 
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
-![Coins; Coin Values](/Rules/Source/tables/coins-coin-values-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/coins-coin-values-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Coins; Coin Values
+
+</div>
+
+
+
+# Coins; Coin Values
+*Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Coin Values**
+
+| Coin | Value in GP |
+|------|-------------|
+| Copper Piece (CP) | 1/100 |
+| Silver Piece (SP) | 1/10 |
+| Electrum Piece (EP) | 1/2 |
+| Gold Piece (GP) | 1 |
+| Platinum Piece (PP) | 10 |
+^coin-values
+
+</div></div>
+
 
 > [!note] Selling Equipment
 > 
@@ -33,15 +59,78 @@ The Weapons table in this section shows the game's main weapons. The table lists
 - **Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the "Properties" section.  
 - **Mastery.** Each weapon has a mastery property, which is defined in the "Mastery Properties" section later in this chapter. To use that property, you must have a feature that lets you use it.  
 
-![Weapons](/Rules/Source/tables/weapons-xphb.md)
 
-![Simple Melee Weapons](/Rules/Source/books/players-handbook-2024/img/169-07-058-simple-melee.webp#center)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/weapons-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Simple Ranged Weapons](/Rules/Source/books/players-handbook-2024/img/170-07-059-simple-range.webp#center)
+<div class="markdown-embed-title">
 
-![Martial Melee Weapons](/Rules/Source/books/players-handbook-2024/img/171-07-061-martial-melee.webp#center)
+# Weapons
 
-![Martial Ranged Weapons](/Rules/Source/books/players-handbook-2024/img/172-07-060-martial-range.webp#center)
+</div>
+
+
+
+# Weapons
+*Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Weapons**
+
+| Name | Damage | Properties | Mastery | Weight | Cost |
+|------|--------|------------|---------|--------|------|
+| *Simple Melee Weapons* |
+| &emsp;[[Rules/Source/items/club-xphb\|Club]] | `1d4` Bludgeoning | [[Rules/Source/item-properties#Light\|Light]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 2 lb. | 1 SP |
+| &emsp;[[Rules/Source/items/dagger-xphb\|Dagger]] | `1d4` Piercing | [[Rules/Source/item-properties#Finesse\|Finesse]], [[Rules/Source/item-properties#Light\|Light]], [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 20/60) | [[Rules/Source/item-mastery#Nick\|Nick]] | 1 lb. | 2 GP |
+| &emsp;[[Rules/Source/items/greatclub-xphb\|Greatclub]] | `1d8` Bludgeoning | [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Push\|Push]] | 10 lb. | 2 SP |
+| &emsp;[[Rules/Source/items/handaxe-xphb\|Handaxe]] | `1d6` Slashing | [[Rules/Source/item-properties#Light\|Light]], [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 20/60) | [[Rules/Source/item-mastery#Vex\|Vex]] | 2 lb. | 5 GP |
+| &emsp;[[Rules/Source/items/javelin-xphb\|Javelin]] | `1d6` Piercing | [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 30/120) | [[Rules/Source/item-mastery#Slow\|Slow]] | 2 lb. | 5 SP |
+| &emsp;[[Rules/Source/items/light-hammer-xphb\|Light Hammer]] | `1d4` Bludgeoning | [[Rules/Source/item-properties#Light\|Light]], [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 20/60) | [[Rules/Source/item-mastery#Nick\|Nick]] | 2 lb. | 2 GP |
+| &emsp;[[Rules/Source/items/mace-xphb\|Mace]] | `1d6` Bludgeoning | — | [[Rules/Source/item-mastery#Sap\|Sap]] | 4 lb. | 5 GP |
+| &emsp;[[Rules/Source/items/quarterstaff-xphb\|Quarterstaff]] | `1d6` Bludgeoning | [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d8`) | [[Rules/Source/item-mastery#Topple\|Topple]] | 4 lb. | 2 SP |
+| &emsp;[[Rules/Source/items/sickle-xphb\|Sickle]] | `1d4` Slashing | [[Rules/Source/item-properties#Light\|Light]] | [[Rules/Source/item-mastery#Nick\|Nick]] | 2 lb. | 1 GP |
+| &emsp;[[Rules/Source/items/spear-xphb\|Spear]] | `1d6` Piercing | [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 20/60), [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d8`) | [[Rules/Source/item-mastery#Sap\|Sap]] | 3 lb. | 1 GP |
+| *Simple Ranged Weapons* |
+| &emsp;[[Rules/Source/items/dart-xphb\|Dart]] | `1d4` Piercing | [[Rules/Source/item-properties#Finesse\|Finesse]], [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 20/60) | [[Rules/Source/item-mastery#Vex\|Vex]] | 1/4 lb. | 5 CP |
+| &emsp;[[Rules/Source/items/light-crossbow-xphb\|Light Crossbow]] | `1d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 80/320; Bolt), [[Rules/Source/item-properties#Loading\|Loading]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 5 lb. | 25 GP |
+| &emsp;[[Rules/Source/items/shortbow-xphb\|Shortbow]] | `1d6` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 80/320; Arrow), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Vex\|Vex]] | 2 lb. | 25 GP |
+| &emsp;[[Rules/Source/items/sling-xphb\|Sling]] | `1d4` Bludgeoning | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 30/120; Bullet) | [[Rules/Source/item-mastery#Slow\|Slow]] | — | 1 SP |
+| *Martial Melee Weapons* |
+| &emsp;[[Rules/Source/items/battleaxe-xphb\|Battleaxe]] | `1d8` Slashing | [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d10`) | [[Rules/Source/item-mastery#Topple\|Topple]] | 4 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/flail-xphb\|Flail]] | `1d8` Bludgeoning | — | [[Rules/Source/item-mastery#Sap\|Sap]] | 2 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/glaive-xphb\|Glaive]] | `1d10` Slashing | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Reach\|Reach]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Graze\|Graze]] | 6 lb. | 20 GP |
+| &emsp;[[Rules/Source/items/greataxe-xphb\|Greataxe]] | `1d12` Slashing | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Cleave\|Cleave]] | 7 lb. | 30 GP |
+| &emsp;[[Rules/Source/items/greatsword-xphb\|Greatsword]] | `2d6` Slashing | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Graze\|Graze]] | 6 lb. | 50 GP |
+| &emsp;[[Rules/Source/items/halberd-xphb\|Halberd]] | `1d10` Slashing | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Reach\|Reach]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Cleave\|Cleave]] | 6 lb. | 20 GP |
+| &emsp;[[Rules/Source/items/lance-xphb\|Lance]] | `1d10` Piercing | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Reach\|Reach]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] (unless mounted) | [[Rules/Source/item-mastery#Topple\|Topple]] | 6 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/longsword-xphb\|Longsword]] | `1d8` Slashing | [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d10`) | [[Rules/Source/item-mastery#Sap\|Sap]] | 3 lb. | 15 GP |
+| &emsp;[[Rules/Source/items/maul-xphb\|Maul]] | `2d6` Bludgeoning | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Topple\|Topple]] | 10 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/morningstar-xphb\|Morningstar]] | `1d8` Piercing | — | [[Rules/Source/item-mastery#Sap\|Sap]] | 4 lb. | 15 GP |
+| &emsp;[[Rules/Source/items/pike-xphb\|Pike]] | `1d10` Piercing | [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Reach\|Reach]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Push\|Push]] | 18 lb. | 5 GP |
+| &emsp;[[Rules/Source/items/rapier-xphb\|Rapier]] | `1d8` Piercing | [[Rules/Source/item-properties#Finesse\|Finesse]] | [[Rules/Source/item-mastery#Vex\|Vex]] | 2 lb. | 25 GP |
+| &emsp;[[Rules/Source/items/scimitar-xphb\|Scimitar]] | `1d6` Slashing | [[Rules/Source/item-properties#Finesse\|Finesse]], [[Rules/Source/item-properties#Light\|Light]] | [[Rules/Source/item-mastery#Nick\|Nick]] | 3 lb. | 25 GP |
+| &emsp;[[Rules/Source/items/shortsword-xphb\|Shortsword]] | `1d6` Piercing | [[Rules/Source/item-properties#Finesse\|Finesse]], [[Rules/Source/item-properties#Light\|Light]] | [[Rules/Source/item-mastery#Vex\|Vex]] | 2 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/trident-xphb\|Trident]] | `1d8` Piercing | [[Rules/Source/item-properties#Thrown\|Thrown]] (Range 20/60), [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d10`) | [[Rules/Source/item-mastery#Topple\|Topple]] | 4 lb. | 5 GP |
+| &emsp;[[Rules/Source/items/warhammer-xphb\|Warhammer]] | `1d8` Bludgeoning | [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d10`) | [[Rules/Source/item-mastery#Push\|Push]] | 5 lb. | 15 GP |
+| &emsp;[[Rules/Source/items/war-pick-xphb\|War Pick]] | `1d8` Piercing | [[Rules/Source/item-properties#Versatile\|Versatile]] (`1d10`) | [[Rules/Source/item-mastery#Sap\|Sap]] | 2 lb. | 5 GP |
+| &emsp;[[Rules/Source/items/whip-xphb\|Whip]] | `1d4` Slashing | [[Rules/Source/item-properties#Finesse\|Finesse]], [[Rules/Source/item-properties#Reach\|Reach]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 3 lb. | 2 GP |
+| *Martial Ranged Weapons* |
+| &emsp;[[Rules/Source/items/blowgun-xphb\|Blowgun]] | 1 Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 25/100; Needle), [[Rules/Source/item-properties#Loading\|Loading]] | [[Rules/Source/item-mastery#Vex\|Vex]] | 1 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/hand-crossbow-xphb\|Hand Crossbow]] | `1d6` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 30/120; Bolt), [[Rules/Source/item-properties#Light\|Light]], [[Rules/Source/item-properties#Loading\|Loading]] | [[Rules/Source/item-mastery#Vex\|Vex]] | 3 lb. | 75 GP |
+| &emsp;[[Rules/Source/items/heavy-crossbow-xphb\|Heavy Crossbow]] | `1d10` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 100/400; Bolt), [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Loading\|Loading]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Push\|Push]] | 18 lb. | 50 GP |
+| &emsp;[[Rules/Source/items/longbow-xphb\|Longbow]] | `1d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 150/600; Arrow), [[Rules/Source/item-properties#Heavy\|Heavy]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 2 lb. | 50 GP |
+| &emsp;[[Rules/Source/items/musket-xphb\|Musket]] | `1d12` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 40/120; Bullet), [[Rules/Source/item-properties#Loading\|Loading]], [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 10 lb. | 500 GP |
+| &emsp;[[Rules/Source/items/pistol-xphb\|Pistol]] | `1d10` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 30/90; Bullet), [[Rules/Source/item-properties#Loading\|Loading]] | [[Rules/Source/item-mastery#Vex\|Vex]] | 3 lb. | 250 GP |
+^weapons
+
+</div></div>
+
+
+![/Rules/Source/books/players-handbook-2024/img/169-07-058-simple-melee.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/169-07-058-simple-melee.webp)
+
+![/Rules/Source/books/players-handbook-2024/img/170-07-059-simple-range.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/170-07-059-simple-range.webp)
+
+![/Rules/Source/books/players-handbook-2024/img/171-07-061-martial-melee.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/171-07-061-martial-melee.webp)
+
+![/Rules/Source/books/players-handbook-2024/img/172-07-060-martial-range.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/172-07-060-martial-range.webp)
 
 ### Weapon Proficiency
 
@@ -144,13 +233,51 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 - **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.  
 - **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity ([[Rules/Source/skills#Stealth\|Stealth]]) checks.  
 
-![Armor](/Rules/Source/tables/armor-xphb.md)
 
-![Light Armor and Shields](/Rules/Source/books/players-handbook-2024/img/173-07-062-light-armor-and-shields.webp#center)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/armor-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Medium Armor](/Rules/Source/books/players-handbook-2024/img/174-07-063-medium-armor.webp#center)
+<div class="markdown-embed-title">
 
-![Heavy Armor](/Rules/Source/books/players-handbook-2024/img/175-07-064-heavy-armor.webp#center)
+# Armor
+
+</div>
+
+
+
+# Armor
+*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Armor**
+
+| Armor | Armor Class (AC) | Strength | Stealth | Weight | Cost |
+|-------|------------------|----------|---------|--------|------|
+| *Light Armor (1 Minute to Don or Doff)* |
+| &emsp;[[Rules/Source/items/padded-armor-xphb\|Padded Armor]] | 11 + Dex modifier | — | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 8 lb. | 5 GP |
+| &emsp;[[Rules/Source/items/leather-armor-xphb\|Leather Armor]] | 11 + Dex modifier | — | — | 10 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/studded-leather-armor-xphb\|Studded Leather Armor]] | 12 + Dex modifier | — | — | 13 lb. | 45 GP |
+| *Medium Armor (5 Minutes to Don and 1 Minute to Doff)* |
+| &emsp;[[Rules/Source/items/hide-armor-xphb\|Hide Armor]] | 12 + Dex modifier (max 2) | — | — | 12 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/chain-shirt-xphb\|Chain Shirt]] | 13 + Dex modifier (max 2) | — | — | 20 lb. | 50 GP |
+| &emsp;[[Rules/Source/items/scale-mail-xphb\|Scale Mail]] | 14 + Dex modifier (max 2) | — | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 45 lb. | 50 GP |
+| &emsp;[[Rules/Source/items/breastplate-xphb\|Breastplate]] | 14 + Dex modifier (max 2) | — | — | 20 lb. | 400 GP |
+| &emsp;[[Rules/Source/items/half-plate-armor-xphb\|Half Plate Armor]] | 15 + Dex modifier (max 2) | — | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 40 lb. | 750 GP |
+| *Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)* |
+| &emsp;[[Rules/Source/items/ring-mail-xphb\|Ring Mail]] | 14 | — | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 40 lb. | 30 GP |
+| &emsp;[[Rules/Source/items/chain-mail-xphb\|Chain Mail]] | 16 | Str 13 | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 55 lb. | 75 GP |
+| &emsp;[[Rules/Source/items/splint-armor-xphb\|Splint Armor]] | 17 | Str 15 | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 60 lb. | 200 GP |
+| &emsp;[[Rules/Source/items/plate-armor-xphb\|Plate Armor]] | 18 | Str 15 | [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] | 65 lb. | 1,500 GP |
+| *Shield ([[Rules/Source/actions#Utilize\|Utilize]] Action to Don or Doff)* |
+| &emsp;[[Rules/Source/items/shield-xphb\|Shield]] | +2 | — | — | 6 lb. | 10 GP |
+^armor
+
+</div></div>
+
+
+![/Rules/Source/books/players-handbook-2024/img/173-07-062-light-armor-and-shields.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/173-07-062-light-armor-and-shields.webp)
+
+![/Rules/Source/books/players-handbook-2024/img/174-07-063-medium-armor.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/174-07-063-medium-armor.webp)
+
+![/Rules/Source/books/players-handbook-2024/img/175-07-064-heavy-armor.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/175-07-064-heavy-armor.webp)
 
 ### Armor Training
 
@@ -377,11 +504,114 @@ These tools support adventure and other pursuits.
 
 ## Adventuring Gear
 
-![A Warlock channels magic through an Arcane Focus](/Rules/Source/books/players-handbook-2024/img/177-07-003-arcane-focus.webp#center)
+![/Rules/Source/books/players-handbook-2024/img/177-07-003-arcane-focus.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/177-07-003-arcane-focus.webp)
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
-![Adventuring Gear](/Rules/Source/tables/adventuring-gear-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/adventuring-gear-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Adventuring Gear
+
+</div>
+
+
+
+# Adventuring Gear
+*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Adventuring Gear**
+
+| Item | Weight | Cost |
+|------|--------|------|
+| [[Rules/Source/items/acid-xphb\|Acid]] | 1 lb. | 25 GP |
+| [[Rules/Source/items/alchemists-fire-xphb\|Alchemist's Fire]] | 1 lb. | 50 GP |
+| Ammunition | Varies | Varies |
+| [[Rules/Source/items/antitoxin-xphb\|Antitoxin]] | — | 50 GP |
+| [[Rules/Source/items/arcane-focus-xphb\|Arcane Focus]] | Varies | Varies |
+| [[Rules/Source/items/backpack-xphb\|Backpack]] | 5 lb. | 2 GP |
+| [[Rules/Source/items/ball-bearings-xphb\|Ball Bearings]] | 2 lb. | 1 GP |
+| [[Rules/Source/items/barrel-xphb\|Barrel]] | 70 lb. | 2 GP |
+| [[Rules/Source/items/basket-xphb\|Basket]] | 2 lb. | 4 SP |
+| [[Rules/Source/items/bedroll-xphb\|Bedroll]] | 7 lb. | 1 GP |
+| [[Rules/Source/items/bell-xphb\|Bell]] | — | 1 GP |
+| [[Rules/Source/items/blanket-xphb\|Blanket]] | 3 lb. | 5 SP |
+| [[Rules/Source/items/block-and-tackle-xphb\|Block and Tackle]] | 5 lb. | 1 GP |
+| [[Rules/Source/items/book-xphb\|Book]] | 5 lb. | 25 GP |
+| [[Rules/Source/items/glass-bottle-xphb\|Bottle, Glass]] | 2 lb. | 2 GP |
+| [[Rules/Source/items/bucket-xphb\|Bucket]] | 2 lb. | 5 CP |
+| [[Rules/Source/items/burglars-pack-xphb\|Burglar's Pack]] | 42 lb. | 16 GP |
+| [[Rules/Source/items/caltrops-xphb\|Caltrops]] | 2 lb. | 1 GP |
+| [[Rules/Source/items/candle-xphb\|Candle]] | — | 1 CP |
+| [[Rules/Source/items/crossbow-bolt-case-xphb\|Case, Crossbow Bolt]] | 1 lb. | 1 GP |
+| [[Rules/Source/items/map-or-scroll-case-xphb\|Case, Map or Scroll]] | 1 lb. | 1 GP |
+| [[Rules/Source/items/chain-xphb\|Chain]] | 10 lb. | 5 GP |
+| [[Rules/Source/items/chest-xphb\|Chest]] | 25 lb. | 5 GP |
+| [[Rules/Source/items/climbers-kit-xphb\|Climber's Kit]] | 12 lb. | 25 GP |
+| [[Rules/Source/items/fine-clothes-xphb\|Clothes, Fine]] | 6 lb. | 15 GP |
+| [[Rules/Source/items/travelers-clothes-xphb\|Clothes, Traveler's]] | 4 lb. | 2 GP |
+| [[Rules/Source/items/component-pouch-xphb\|Component Pouch]] | 2 lb. | 25 GP |
+| [[Rules/Source/items/costume-xphb\|Costume]] | 4 lb. | 5 GP |
+| [[Rules/Source/items/crowbar-xphb\|Crowbar]] | 5 lb. | 2 GP |
+| [[Rules/Source/items/diplomats-pack-xphb\|Diplomat's Pack]] | 39 lb. | 39 GP |
+| [[Rules/Source/items/druidic-focus-xphb\|Druidic Focus]] | Varies | Varies |
+| [[Rules/Source/items/dungeoneers-pack-xphb\|Dungeoneer's Pack]] | 55 lb. | 12 GP |
+| [[Rules/Source/items/entertainers-pack-xphb\|Entertainer's Pack]] | 58½ lb. | 40 GP |
+| [[Rules/Source/items/explorers-pack-xphb\|Explorer's Pack]] | 55 lb. | 10 GP |
+| [[Rules/Source/items/flask-xphb\|Flask]] | 1 lb. | 2 CP |
+| [[Rules/Source/items/grappling-hook-xphb\|Grappling Hook]] | 4 lb. | 2 GP |
+| [[Rules/Source/items/healers-kit-xphb\|Healer's Kit]] | 3 lb. | 5 GP |
+| [[Rules/Source/items/holy-symbol-xphb\|Holy Symbol]] | Varies | Varies |
+| [[Rules/Source/items/holy-water-xphb\|Holy Water]] | 1 lb. | 25 GP |
+| [[Rules/Source/items/hunting-trap-xphb\|Hunting Trap]] | 25 lb. | 5 GP |
+| [[Rules/Source/items/ink-xphb\|Ink]] | — | 10 GP |
+| [[Rules/Source/items/ink-pen-xphb\|Ink Pen]] | — | 2 CP |
+| [[Rules/Source/items/jug-xphb\|Jug]] | 4 lb. | 2 CP |
+| [[Rules/Source/items/ladder-xphb\|Ladder]] | 25 lb. | 1 SP |
+| [[Rules/Source/items/lamp-xphb\|Lamp]] | 1 lb. | 5 SP |
+| [[Rules/Source/items/bullseye-lantern-xphb\|Lantern, Bullseye]] | 2 lb. | 10 GP |
+| [[Rules/Source/items/hooded-lantern-xphb\|Lantern, Hooded]] | 2 lb. | 5 GP |
+| [[Rules/Source/items/lock-xphb\|Lock]] | 1 lb. | 10 GP |
+| [[Rules/Source/items/magnifying-glass-xphb\|Magnifying Glass]] | — | 100 GP |
+| [[Rules/Source/items/manacles-xphb\|Manacles]] | 6 lb. | 2 GP |
+| [[Rules/Source/items/map-xphb\|Map]] | — | 1 GP |
+| [[Rules/Source/items/mirror-xphb\|Mirror]] | 1/2 lb. | 5 GP |
+| [[Rules/Source/items/net-xphb\|Net]] | 3 lb. | 1 GP |
+| [[Rules/Source/items/oil-xphb\|Oil]] | 1 lb. | 1 SP |
+| [[Rules/Source/items/paper-xphb\|Paper]] | — | 2 SP |
+| [[Rules/Source/items/parchment-xphb\|Parchment]] | — | 1 SP |
+| [[Rules/Source/items/perfume-xphb\|Perfume]] | — | 5 GP |
+| [[Rules/Source/items/basic-poison-xphb\|Poison, Basic]] | — | 100 GP |
+| [[Rules/Source/items/pole-xphb\|Pole]] | 7 lb. | 5 CP |
+| [[Rules/Source/items/iron-pot-xphb\|Pot, Iron]] | 10 lb. | 2 GP |
+| [[Rules/Source/items/potion-of-healing-xdmg\|Potion of Healing]] | 1/2 lb. | 50 GP |
+| [[Rules/Source/items/pouch-xphb\|Pouch]] | 1 lb. | 5 SP |
+| [[Rules/Source/items/priests-pack-xphb\|Priest's Pack]] | 29 lb. | 33 GP |
+| [[Rules/Source/items/quiver-xphb\|Quiver]] | 1 lb. | 1 GP |
+| [[Rules/Source/items/portable-ram-xphb\|Ram, Portable]] | 35 lb. | 4 GP |
+| [[Rules/Source/items/rations-xphb\|Rations]] | 2 lb. | 5 SP |
+| [[Rules/Source/items/robe-xphb\|Robe]] | 4 lb. | 1 GP |
+| [[Rules/Source/items/rope-xphb\|Rope]] | 5 lb. | 1 GP |
+| [[Rules/Source/items/sack-xphb\|Sack]] | 1/2 lb. | 1 CP |
+| [[Rules/Source/items/scholars-pack-xphb\|Scholar's Pack]] | 22 lb. | 40 GP |
+| [[Rules/Source/items/shovel-xphb\|Shovel]] | 5 lb. | 2 GP |
+| [[Rules/Source/items/signal-whistle-xphb\|Signal Whistle]] | — | 5 CP |
+| Spell Scroll (Cantrip) | — | 30 GP |
+| Spell Scroll (Level 1) | — | 50 GP |
+| [[Rules/Source/items/iron-spikes-xphb\|Spikes, Iron]] | 5 lb. | 1 GP |
+| [[Rules/Source/items/spyglass-xphb\|Spyglass]] | 1 lb. | 1,000 GP |
+| [[Rules/Source/items/string-xphb\|String]] | — | 1 SP |
+| [[Rules/Source/items/tent-xphb\|Tent]] | 20 lb. | 2 GP |
+| [[Rules/Source/items/tinderbox-xphb\|Tinderbox]] | 1 lb. | 5 SP |
+| [[Rules/Source/items/torch-xphb\|Torch]] | 1 lb. | 1 CP |
+| [[Rules/Source/items/vial-xphb\|Vial]] | — | 1 GP |
+| [[Rules/Source/items/waterskin-xphb\|Waterskin]] | 5 lb. (full) | 2 SP |
+^adventuring-gear
+
+</div></div>
+
 
 ### Acid (25 GP)
 
@@ -395,7 +625,33 @@ When you take the [[Rules/Source/actions#Attack\|Attack]] action, you can replac
 
 Ammunition is required by a weapon that has the [[Rules/Source/item-properties#Ammunition\|Ammunition]] property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
-![Ammunition (Varies); Ammunition](/Rules/Source/tables/ammunition-varies-ammunition-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ammunition-varies-ammunition-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ammunition (Varies); Ammunition
+
+</div>
+
+
+
+# Ammunition (Varies); Ammunition
+*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ammunition**
+
+| Type | Amount | Storage | Weight | Cost |
+|------|--------|---------|--------|------|
+| [[Rules/Source/items/arrows-20-xphb\|Arrows]] | 20 | [[Rules/Source/items/quiver-xphb\|Quiver]] | 1 lb. | 1 GP |
+| [[Rules/Source/items/bolts-20-xphb\|Bolts]] | 20 | [[Rules/Source/items/crossbow-bolt-case-xphb\|Case]] | 1½ lb. | 1 GP |
+| [[Rules/Source/items/firearm-bullets-10-xphb\|Bullets, Firearm]] | 10 | [[Rules/Source/items/pouch-xphb\|Pouch]] | 2 lb. | 3 GP |
+| [[Rules/Source/items/sling-bullet-xphb\|Bullets, Sling]] | 20 | [[Rules/Source/items/pouch-xphb\|Pouch]] | 1½ lb. | 4 CP |
+| [[Rules/Source/items/needles-50-xphb\|Needles]] | 50 | [[Rules/Source/items/pouch-xphb\|Pouch]] | 1 lb. | 1 GP |
+^ammunition
+
+</div></div>
+
 
 ### Antitoxin (50 GP)
 
@@ -405,7 +661,33 @@ As a Bonus Action, you can drink a vial of Antitoxin to gain [[Rules/Source/vari
 
 An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a [[Rules/Source/variant-rules/spellcasting-focus-xphb\|Spellcasting Focus]].
 
-![Arcane Focus (Varies); Arcane Focuses](/Rules/Source/tables/arcane-focus-varies-arcane-focuses-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/arcane-focus-varies-arcane-focuses-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Arcane Focus (Varies); Arcane Focuses
+
+</div>
+
+
+
+# Arcane Focus (Varies); Arcane Focuses
+*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Arcane Focuses**
+
+| Focus | Weight | Cost |
+|-------|--------|------|
+| [[Rules/Source/items/crystal-xphb\|Crystal]] | 1 lb. | 10 GP |
+| [[Rules/Source/items/orb-xphb\|Orb]] | 3 lb. | 20 GP |
+| [[Rules/Source/items/rod-xphb\|Rod]] | 2 lb. | 10 GP |
+| [[Rules/Source/items/staff-xphb\|Staff]] (also a [[Rules/Source/items/quarterstaff-xphb\|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[Rules/Source/items/wand-xphb\|Wand]] | 1 lb. | 10 GP |
+^arcane-focuses
+
+</div></div>
+
 
 ### Backpack (2 GP)
 
@@ -511,7 +793,31 @@ A Diplomat's Pack contains the following items: [[Rules/Source/items/chest-xphb\
 
 A Druidic Focus takes one of the forms in the Druidic Focuses table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a [[Rules/Source/variant-rules/spellcasting-focus-xphb\|Spellcasting Focus]].
 
-![Druidic Focus (Varies); Druidic Focuses](/Rules/Source/tables/druidic-focus-varies-druidic-focuses-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/druidic-focus-varies-druidic-focuses-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Druidic Focus (Varies); Druidic Focuses
+
+</div>
+
+
+
+# Druidic Focus (Varies); Druidic Focuses
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Druidic Focuses**
+
+| Focus | Weight | Cost |
+|-------|--------|------|
+| [[Rules/Source/items/sprig-of-mistletoe-xphb\|Sprig of mistletoe]] | — | 1 GP |
+| [[Rules/Source/items/wooden-staff-xphb\|Wooden staff]] (also a [[Rules/Source/items/quarterstaff-xphb\|Quarterstaff]]) | 4 lb. | 5 GP |
+| [[Rules/Source/items/yew-wand-xphb\|Yew wand]] | 1 lb. | 10 GP |
+^druidic-focuses
+
+</div></div>
+
 
 ### Dungeoneer's Pack (12 GP)
 
@@ -543,7 +849,31 @@ A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled o
 
 The table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.
 
-![Holy Symbol (Varies); Holy Symbols](/Rules/Source/tables/holy-symbol-varies-holy-symbols-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/holy-symbol-varies-holy-symbols-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Holy Symbol (Varies); Holy Symbols
+
+</div>
+
+
+
+# Holy Symbol (Varies); Holy Symbols
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Holy Symbols**
+
+| Symbol | Weight | Cost |
+|--------|--------|------|
+| [[Rules/Source/items/amulet-xphb\|Amulet]] (worn or held) | 1 lb. | 5 GP |
+| [[Rules/Source/items/emblem-xphb\|Emblem]] (borne on fabric or a Shield) | — | 5 GP |
+| [[Rules/Source/items/reliquary-xphb\|Reliquary]] (held) | 2 lb. | 5 GP |
+^holy-symbols
+
+</div></div>
+
 
 ### Holy Water (25 GP)
 
@@ -577,7 +907,7 @@ A Lamp burns [[Rules/Source/items/oil-xphb\|Oil]] as fuel to cast [[Rules/Source
 
 A Bullseye Lantern burns [[Rules/Source/items/oil-xphb\|Oil]] as fuel to cast [[Rules/Source/variant-rules/bright-light-xphb\|Bright Light]] in a 60-foot [[Rules/Source/variant-rules/cone-area-of-effect-xphb\|Cone]] and [[Rules/Source/variant-rules/dim-light-xphb\|Dim Light]] for an additional 60 feet.
 
-![Lamp and Net](/Rules/Source/books/players-handbook-2024/img/178-07-004-lamp-net.webp#center)
+![/Rules/Source/books/players-handbook-2024/img/178-07-004-lamp-net.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/178-07-004-lamp-net.webp)
 
 ### Lantern, Hooded (5 GP)
 
@@ -757,9 +1087,70 @@ Barding is armor designed for a mount. Any type of armor on the Armor table in t
 
 A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
-![Mounts and Vehicles; Mounts and Other Animals](/Rules/Source/tables/mounts-and-vehicles-mounts-and-other-animals-xphb.md)
 
-![Mounts and Vehicles; Tack, Harness, and Drawn Vehicles](/Rules/Source/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/mounts-and-vehicles-mounts-and-other-animals-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Mounts and Vehicles; Mounts and Other Animals
+
+</div>
+
+
+
+# Mounts and Vehicles; Mounts and Other Animals
+*Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Mounts and Other Animals**
+
+| Item | Carrying Capacity | Cost |
+|------|-------------------|------|
+| [[Rules/Source/items/camel-xphb\|Camel]] | 450 lb. | 50 GP |
+| [[Rules/Source/items/elephant-xphb\|Elephant]] | 1,320 lb. | 200 GP |
+| [[Rules/Source/items/draft-horse-xphb\|Horse, Draft]] | 540 lb. | 50 GP |
+| [[Rules/Source/items/riding-horse-xphb\|Horse, Riding]] | 480 lb. | 75 GP |
+| [[Rules/Source/items/mastiff-xphb\|Mastiff]] | 195 lb. | 25 GP |
+| [[Rules/Source/items/mule-xphb\|Mule]] | 420 lb. | 8 GP |
+| [[Rules/Source/items/pony-xphb\|Pony]] | 225 lb. | 30 GP |
+| [[Rules/Source/items/warhorse-xphb\|Warhorse]] | 540 lb. | 400 GP |
+^mounts-and-other-animals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
+
+</div>
+
+
+
+# Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
+*Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Tack, Harness, and Drawn Vehicles**
+
+| Item | Weight | Cost |
+|------|--------|------|
+| &emsp;[[Rules/Source/items/carriage-xphb\|Carriage]] | 600 lb. | 100 GP |
+| &emsp;[[Rules/Source/items/cart-xphb\|Cart]] | 200 lb. | 15 GP |
+| &emsp;[[Rules/Source/items/chariot-xphb\|Chariot]] | 100 lb. | 250 GP |
+| &emsp;[[Rules/Source/items/feed-per-day-xphb\|Feed per day]] | 10 lb. | 5 CP |
+| *Saddle* |
+| &emsp;[[Rules/Source/items/exotic-saddle-xphb\|Exotic]] | 40 lb. | 60 GP |
+| &emsp;[[Rules/Source/items/military-saddle-xphb\|Military]] | 30 lb. | 20 GP |
+| &emsp;[[Rules/Source/items/riding-saddle-xphb\|Riding]] | 25 lb. | 10 GP |
+| &emsp;[[Rules/Source/items/sled-xphb\|Sled]] | 300 lb. | 20 GP |
+| &emsp;Stabling per day | — | 5 SP |
+| &emsp;[[Rules/Source/items/wagon-xphb\|Wagon]] | 400 lb. | 35 GP |
+^tack-harness-and-drawn-vehicles
+
+</div></div>
+
 
 ### Large Vehicles
 
@@ -785,11 +1176,39 @@ If a vehicle has a [[Rules/Source/variant-rules/damage-threshold-xphb\|damage th
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
-![Large Vehicles; Airborne and Waterborne Vehicles](/Rules/Source/tables/large-vehicles-airborne-and-waterborne-vehicles-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/large-vehicles-airborne-and-waterborne-vehicles-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Large Vehicles; Airborne and Waterborne Vehicles
+
+</div>
+
+
+
+# Large Vehicles; Airborne and Waterborne Vehicles
+*Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Airborne and Waterborne Vehicles**
+
+| Ship | Speed | Crew | Passengers | Cargo (Tons) | AC | HP | Damage Threshold | Cost |
+|------|-------|------|------------|--------------|----|----|------------------|------|
+| [[Rules/Source/items/airship-xphb\|Airship]] | 8 mph | 10 | 20 | 1 | 13 | 300 | — | 40,000 GP |
+| [[Rules/Source/items/galley-xphb\|Galley]] | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30,000 GP |
+| [[Rules/Source/items/keelboat-xphb\|Keelboat]] | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3,000 GP |
+| [[Rules/Source/items/longship-xphb\|Longship]] | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10,000 GP |
+| [[Rules/Source/items/rowboat-xphb\|Rowboat]] | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
+| [[Rules/Source/items/sailing-ship-xphb\|Sailing Ship]] | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
+| [[Rules/Source/items/warship-xphb\|Warship]] | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
+^airborne-and-waterborne-vehicles
+
+</div></div>
+
 
 ## Services
 
-![A Wizard and her familiar ...](/Rules/Source/books/players-handbook-2024/img/180-07-006-wizard-familiar-shopping.webp#center "A Wizard and her familiar spend an afternoon shopping")
+![/Rules/Source/books/players-handbook-2024/img/180-07-006-wizard-familiar-shopping.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/180-07-006-wizard-familiar-shopping.webp)
 
 This section outlines services and other expenses that adventurers might spend money on.
 
@@ -833,25 +1252,143 @@ You pay for the best and might have a staff that supports your lifestyle. Others
 
 The Food, Drink, and Lodging table gives prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses.
 
-![Food, Drink, and Lodging](/Rules/Source/tables/food-drink-and-lodging-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/food-drink-and-lodging-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Food, Drink, and Lodging
+
+</div>
+
+
+
+# Food, Drink, and Lodging
+*Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Food, Drink, and Lodging**
+
+| Item | Cost |
+|------|------|
+| &emsp;[[Rules/Source/items/ale-mug-xphb\|Ale (mug)]] | 4 CP |
+| &emsp;[[Rules/Source/items/bread-loaf-xphb\|Bread (loaf)]] | 2 CP |
+| &emsp;[[Rules/Source/items/cheese-wedge-xphb\|Cheese (wedge)]] | 1 SP |
+| *Inn Stay per Day* |
+| &emsp;Squalid | 7 CP |
+| &emsp;Poor | 1 SP |
+| &emsp;Modest | 5 SP |
+| &emsp;Comfortable | 8 SP |
+| &emsp;Wealthy | 2 GP |
+| &emsp;Aristocratic | 4 GP |
+| *Meal* |
+| &emsp;Squalid | 1 CP |
+| &emsp;Poor | 2 CP |
+| &emsp;Modest | 1 SP |
+| &emsp;Comfortable | 2 SP |
+| &emsp;Wealthy | 3 SP |
+| &emsp;Aristocratic | 6 SP |
+| *Wine (bottle)* |
+| &emsp;[[Rules/Source/items/common-wine-bottle-xphb\|Common]] | 2 SP |
+| &emsp;[[Rules/Source/items/fine-wine-bottle-xphb\|Fine]] | 10 GP |
+^food-drink-and-lodging
+
+</div></div>
+
 
 ### Travel
 
 Drivers or crew hired to conduct passengers to their destinations charge the rates on the Travel table, plus any tolls or additional expenses.
 
-![Travel](/Rules/Source/tables/travel-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/travel-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Travel
+
+</div>
+
+
+
+# Travel
+*Source: Player's Handbook (2024) p. 231* 
+
+**Travel**
+
+| Service | Cost |
+|---------|------|
+| Coach ride between towns | 3 CP per mile |
+| Coach ride within a city | 1 CP per mile |
+| Road or gate toll | 1 CP |
+| Ship's passage | 1 SP per mile |
+^travel
+
+</div></div>
+
 
 ### Hirelings
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, an artisan, a scribe, or the like. The pay shown on the Hirelings table is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for work that requires no particular proficiencies; they include laborers and porters.
 
-![Hirelings](/Rules/Source/tables/hirelings-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/hirelings-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Hirelings
+
+</div>
+
+
+
+# Hirelings
+*Source: Player's Handbook (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Hirelings**
+
+| Service | Cost |
+|---------|------|
+| Skilled hireling | 2 GP per day |
+| Untrained hireling | 2 SP per day |
+| Messenger | 2 CP per mile |
+^hirelings
+
+</div></div>
+
 
 ### Spellcasting
 
 Most settlements contain individuals who are willing to cast spells in exchange for payment. If a spell has expensive components, add the cost of those components to the cost listed in the Spellcasting Services table. The higher the level of a desired spell, the harder it is to find someone to cast it.
 
-![Spellcasting Services](/Rules/Source/tables/spellcasting-services-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/spellcasting-services-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Spellcasting Services
+
+</div>
+
+
+
+# Spellcasting Services
+*Source: Player's Handbook (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Spellcasting Services**
+
+| Spell Level | Availability | Cost |
+|-------------|--------------|------|
+| Cantrip | Village, town, or city | 30 GP |
+| 1 | Village, town, or city | 50 GP |
+| 2 | Village, town, or city | 200 GP |
+| 3 | Town or city only | 300 GP |
+| 4–5 | Town or city only | 2,000 GP |
+| 6–8 | City only | 20,000 GP |
+| 9 | City only | 100,000 GP |
+^spellcasting-services
+
+</div></div>
+
 
 ## Magic Items
 
@@ -943,4 +1480,34 @@ To scribe a scroll, you must have proficiency in the [[Rules/Source/skills#Arcan
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
 
-![Scribing Spell Scrolls; Spell Scroll Costs](/Rules/Source/tables/scribing-spell-scrolls-spell-scroll-costs-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/scribing-spell-scrolls-spell-scroll-costs-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Scribing Spell Scrolls; Spell Scroll Costs
+
+</div>
+
+
+
+# Scribing Spell Scrolls; Spell Scroll Costs
+*Source: Player's Handbook (2024) p. 233. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Spell Scroll Costs**
+
+| Spell Level | Time | Cost |
+|-------------|------|------|
+| Cantrip | 1 day | 15 GP |
+| 1 | 1 day | 25 GP |
+| 2 | 3 days | 100 GP |
+| 3 | 5 days | 150 GP |
+| 4 | 10 days | 1,000 GP |
+| 5 | 25 days | 1,500 GP |
+| 6 | 40 days | 10,000 GP |
+| 7 | 50 days | 12,500 GP |
+| 8 | 60 days | 15,000 GP |
+| 9 | 120 days | 50,000 GP |
+^spell-scroll-costs
+
+</div></div>

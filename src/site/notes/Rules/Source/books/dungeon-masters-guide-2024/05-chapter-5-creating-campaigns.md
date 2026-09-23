@@ -5,7 +5,7 @@
 # Chapter 5: Creating Campaigns
 *Source: Dungeon Master's Guide (2024), p. 127* 
 
-![The arrival of a mind flay...](/Rules/Source/books/dungeon-masters-guide-2024/img/060-04-001-nautiloid.webp#center "The arrival of a mind flayer nautiloid means trouble for any world—and adventure for that world's heroes!")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/060-04-001-nautiloid.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/060-04-001-nautiloid.webp)
 
 If encounters are the building blocks of a D&D adventure, then adventures are the building blocks of a D&D campaign, for a campaign is what you get when you string two or more adventures together. A campaign setting is the world in which those adventures take place—both a backdrop for your adventures and a hotbed of conflicts and personalities that can inspire and drive adventures.
 
@@ -34,7 +34,7 @@ A campaign journal documents the progression of your campaign, from the first ga
 
 A sample Campaign Journal page is provided. Make copies of it, or use it as inspiration for your own journal pages.
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/061-04-002-campaign-journal-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/061-04-002-campaign-journal-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/061-04-002-campaign-journal-sheet.webp)
 
 ### Using Your Journal
 
@@ -117,7 +117,7 @@ Use the answers to these questions to develop new character goals and to inspire
 
 Sometimes it can be fun to let the players steer the campaign by having their characters' actions dictate future adventures. For example, if the characters buy a tavern using the treasure they've amassed, you can adjust the campaign so that the tavern has a role in future adventures. One adventure might involve a competitor trying to put the characters' tavern out of business. Another might use the tavern as the setting for a murder mystery.
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/062-04-003-dms-character-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/062-04-003-dms-character-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/062-04-003-dms-character-tracker-sheet.webp)
 
 ### Campaign Conflicts
 
@@ -135,7 +135,7 @@ One helpful way to structure a conflict arc is to use the tiers of play describe
 
 The "Greyhawk" section in this chapter has examples of conflict arcs.
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/063-04-004-campaign-conflicts-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/063-04-004-campaign-conflicts-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/063-04-004-campaign-conflicts-sheet.webp)
 
 ### Flavors of Fantasy
 
@@ -169,7 +169,7 @@ In this flavor of campaign, magic-users often symbolize the decadence and corrup
 
 An epic fantasy campaign emphasizes the conflict between good and evil, with the adventurers on the side of good. These heroic characters are driven by a higher purpose than selfish gain or ambition. Characters might struggle with moral quandaries, fighting the evil tendencies within themselves as well as the evil that threatens the world. And the stories of these campaigns often include an element of romance: tragic affairs between star-crossed lovers, passion that transcends even death, and chaste adoration between knights and nobles.
 
-![Fortresses on the backs of...](/Rules/Source/books/dungeon-masters-guide-2024/img/064-04-005-dragon-turtle-fortress.webp#center "Fortresses on the backs of dragon turtles rise from the depths, heralding the return of a long-lost dynasty")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/064-04-005-dragon-turtle-fortress.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/064-04-005-dragon-turtle-fortress.webp)
 
 ##### Epic Fantasy Conflicts
 
@@ -229,7 +229,7 @@ A mystery might set the stage for the whole campaign. The characters might uncov
 - **Shape-Shifting Assassins.** A secret association of doppelgangers or other shape-shifters slowly assassinates prominent figures one by one.  
 - **To Catch a Thief.** An extraordinary thief steals only the most valuable jewelry and works of art. The characters might become a target of the thief when they acquire a priceless treasure.  
 
-![The bold adventurer Murlyn...](/Rules/Source/books/dungeon-masters-guide-2024/img/065-04-006-murlynd.webp#center "The bold adventurer Murlynd has visited many worlds and has a fondness for six-shooters and talking clocks")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/065-04-006-murlynd.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/065-04-006-murlynd.webp)
 
 #### Swashbuckling
 
@@ -284,7 +284,40 @@ One advantage of using a published campaign setting is that much of the world-bu
 
 The D&D Settings table describes several established campaign settings.
 
-![Using a Published Setting; D&D Settings](/Rules/Source/tables/using-a-published-setting-d-d-settings-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/using-a-published-setting-d-d-settings-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Using a Published Setting; D&D Settings
+
+</div>
+
+
+
+# Using a Published Setting; D&D Settings
+*Source: Dungeon Master's Guide (2024) p. 136* 
+
+**D&D Settings**
+
+| Setting | Description |
+|---------|-------------|
+| Dark Sun | Heroes make their mark on a post-apocalyptic world defiled by magic and forsaken by the gods. |
+| Dragonlance | The forces of good battle the evil queen of dragons and her armies in the world-shaking War of the Lance. |
+| "Eberron" | In the aftermath of a deadly war, magically advanced nations rebuild as a cold war threatens lasting peace. |
+| "Exandria" | Heroes make names for themselves in the world made popular by the streaming show Critical Role. |
+| Forgotten Realms | Larger-than-life heroes and villains struggle to determine the fate of the world as they explore the ruins and dungeons of fallen kingdoms and long-forgotten empires. |
+| Greyhawk | As tensions rise among warring nations, heroes plunder dungeons to gain the magic and might they need to defeat the growing forces of evil. |
+| "Planescape" | Sigil, the City of Doors, is where heroes begin to explore the wonders of the D&D multiverse and its many planes of existence. |
+| "Ravenloft" | Heroes are drawn into the gloomy Domains of Dread—cursed realms ruled by evil lords—and must find a means of escape. |
+| "Ravnica"* | In a world-spanning city, ten disparate factions draw heroes into a web of adventure and danger. |
+| "Spelljammer" | Travel among the stars on a spelljamming ship, and visit worlds floating in the majestic oceans of Wildspace. |
+| "Strixhaven"* | Strixhaven, a school of magic, serves as a hub of learning and adventure. |
+| "Theros"* | Heroic destinies wait to be fulfilled in this setting inspired by the myths of ancient Greece. |
+*This setting is based on a Magic: The Gathering world.
+
+</div></div>
+
 
 #### Creating Your Own Setting
 
@@ -359,7 +392,7 @@ The characters meet in a tavern over mugs of ale and decide to embark on a life 
 
 Session zero is a great time to share basic information about the campaign with your players. Such information typically includes the following:
 
-- **Starting Location Details.** Your players need basic information about the place where the characters are starting, such as the name of the settlement, important locations in and around it, and prominent NPCs they'd know about (see "Starting Location").  
+- **Starting Location Details.** Your players need basic information about the place where the characters are starting, such as the name of the settlement, important locations in and around it, and prominent NPCs they'd know about (see).  
 - **Key Events.** Describe any current or past events that help frame the campaign. For example, the campaign might start on the heels of a great war or on the day of a festival. Describing key events helps set the mood and prepare players for upcoming adventures.  
 - **House Rules.** If you're using any house rules (as discussed in chapter 1), or adopting any of the variant rules presented in this or any other book, let your players know about them.  
 
@@ -369,7 +402,7 @@ Remember, you'll always know more about your campaign world than the players do.
 
 Begin your campaign in a location you can detail, such as a village, a neighborhood in a larger city, an outpost, or a roadside tavern. Be prepared to give players enough information about that location to help them figure out what ties, if any, their characters have to it. Once you have this campaign hub fleshed out, create one or two local attractions that might serve as adventure locations, such as a haunted house on the outskirts of town or a dungeon complex tucked in the nearby hills.
 
-![A time of sorrow can bring...](/Rules/Source/books/dungeon-masters-guide-2024/img/066-04-007-time-of-sorrow.webp#center "A time of sorrow can bring people together and even launch an adventuring party")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/066-04-007-time-of-sorrow.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/066-04-007-time-of-sorrow.webp)
 
 If you're using a published campaign setting, pick any location in that setting and develop it as you like. A published setting or adventure might give you all the details you need. The Free City of Greyhawk, described later in this chapter, is an ideal starting location and illustrates the kinds of things to consider as you detail a starting location.
 
@@ -407,7 +440,34 @@ A serialized campaign is one continuous story broken up into smaller parts that 
 
 In a serialized campaign, make connections between the end of one adventure and the start of the next to help it feel like a connected story. Sometimes you can simply continue the current storyline with new locations to explore and new threats to overcome. Alternatively, you can use the Adventure Connections table to inspire a link from one adventure to the next. The table suggests things you can do near the end of one adventure to lead characters into the next one.
 
-![Linking Adventures; Adventure Connections](/Rules/Source/tables/linking-adventures-adventure-connections-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/linking-adventures-adventure-connections-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Linking Adventures; Adventure Connections
+
+</div>
+
+
+
+# Linking Adventures; Adventure Connections
+*Source: Dungeon Master's Guide (2024) p. 139* 
+
+**Adventure Connections**
+
+| dice: 1d6 | Adventure Connection |
+|-----------|----------------------|
+| 1 | Introduce a person, an object, or information that the characters need to transport safely to a location involved in the new adventure. |
+| 2 | Have a major villain flee to a location that features in the new adventure. The characters might be able to pursue the villain, or they might have to search for clues about where the villain has gone. |
+| 3 | Introduce clues suggesting that a villain or another NPC in this adventure is part of a larger group—a group that features prominently in the new adventure. |
+| 4 | Introduce a villainous group that's featured in the new adventure by having its agents spy on or interfere with the characters' activities. |
+| 5 | Have travelers bring news of events transpiring elsewhere, leading characters toward the new adventure. |
+| 6 | Give the characters a treasure that's wrapped in mystery they'll need to unravel in the new adventure. |
+^adventure-connections
+
+</div></div>
+
 
 ### Getting Players Invested
 
@@ -445,7 +505,7 @@ You can use player input whenever you want to pinpoint something meaningful to t
 
 Questions such as these don't need to draw on warm memories. Having players describe what unsettles or disgusts their characters can make menacing encounters more impactful as well. In any case, take note of interesting character details that your players share, and record them in your campaign journal, as these details might be useful inspiration for later adventures.
 
-![In the Dragonlance setting...](/Rules/Source/books/dungeon-masters-guide-2024/img/067-04-008-dragonlance-inn.webp#center "In the Dragonlance setting, Tanis and Tika call their local inn home: a place to see familiar faces like Fizban the Fabulous")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/067-04-008-dragonlance-inn.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/067-04-008-dragonlance-inn.webp)
 
 #### Acknowledge the Incredible
 
@@ -580,7 +640,7 @@ The conflict between adventurers and chromatic dragons might follow this broad o
 - **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn't normal. The characters might get involved in one dragon's schemes to undermine or overthrow another, or the characters might hear whispers of the dragons' dream of liberating Tiamat.  
 - **Levels 17–20.** The conflict reaches its world-shattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see "Mysteries of Greyhawk" in this chapter) or from the depths of the Nyr Dyv.  
 
-![Tiamat herself brings a ca...](/Rules/Source/books/dungeon-masters-guide-2024/img/068-05-002-tiamat-encounter.webp#center "Tiamat herself brings a campaign to a dramatic close")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/068-05-002-tiamat-encounter.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/068-05-002-tiamat-encounter.webp)
 
 ##### Elemental Evil
 
@@ -631,7 +691,30 @@ The sun takes 360 days to travel once around Oerth. Luna waxes and wanes in fixe
 
 The standard year is 360 days long and consists of twelve twenty-eight-day months (each month divided into four seven-day weeks) and four six-day lunar festivals (Needfest, Growfest, Richfest, and Brewfest). The midwinter festival of Needfest is considered the start of the year. The diagram here shows the months and festivals that make up a year.
 
-![Months and Festivals; Days of the Week](/Rules/Source/tables/months-and-festivals-days-of-the-week-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/months-and-festivals-days-of-the-week-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Months and Festivals; Days of the Week
+
+</div>
+
+
+
+# Months and Festivals; Days of the Week
+*Source: Dungeon Master's Guide (2024) p. 146* 
+
+**Days of the Week**
+
+| Starday | Sunday | Moonday | Godsday | Waterday | Earthday | Freeday |
+|---------|--------|---------|---------|----------|----------|---------|
+| (Saturday) | (Sunday) | (Monday) | (Tuesday) | (Wednesday) | (Thursday) | (Friday) |
+| Day of Worship | Day of Rest |
+^days-of-the-week
+
+</div></div>
+
 
 > [!note] Your World's Calendar
 > 
@@ -713,13 +796,63 @@ The Gods of Greyhawk table shows many of the most popular deities worshiped in t
 
 The greater gods of Greyhawk rarely get directly involved with happenings on Oerth. Lesser gods are more likely to manifest in some form on the Material Plane and interact with their worshipers. Cuthbert, for example, is well known for appearing in mortal guise, appearing as a dirt-covered farmer, a wanderer robed in brown and green, or an elderly tinker. And of the many quasi-deities that appear on Oerth, most prominent among them is Iuz, a demigod who rules his own nation in the Flanaess.
 
-![Gods of Greyhawk](/Rules/Source/tables/gods-of-greyhawk-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gods-of-greyhawk-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gods of Greyhawk
+
+</div>
+
+
+
+# Gods of Greyhawk
+*Source: Dungeon Master's Guide (2024) p. 149* 
+
+**Gods of Greyhawk**
+
+| Name and Epithet | Home Plane | Typical Worshipers | Symbol |
+|------------------|------------|--------------------|--------|
+| [[Rules/Source/deities/greyhawk-beory-xdmg\|Beory]], Heart of Oerth* | Material Plane | Farmers, herders | Green disk |
+| [[Rules/Source/deities/greyhawk-berei-xdmg\|Berei]] of the Hearth | Bytopia | Families, farmers | Sheaf of wheat stalks |
+| [[Rules/Source/deities/greyhawk-boccob-xdmg\|Boccob]] the Uncaring, Archmage of the Gods* | Outlands | Sages, spellcasters, seers | Eye within a pentagram |
+| [[Rules/Source/deities/greyhawk-celestian-xdmg\|Celestian]], the Far Wanderer | Astral Plane | Wanderers, astronomers | Arc of seven stars inside a circle |
+| [[Rules/Source/deities/greyhawk-cuthbert-xdmg\|Cuthbert]] of the Cudgel | Arcadia | Practical, honest folk | Circle at the center of a starburst of lines |
+| [[Rules/Source/deities/greyhawk-ehlonna-xdmg\|Ehlonna]] of the Forests | Beastlands | Hunters, foragers | Unicorn horn |
+| [[Rules/Source/deities/greyhawk-erythnul-xdmg\|Erythnul]], the Many | Pandemonium | Raiders, bandits, berserkers | Blood drop |
+| [[Rules/Source/deities/greyhawk-fharlanghn-xdmg\|Fharlanghn]], the Dweller on the Horizon | Outlands | Travelers | Circle crossed by a curved horizon line |
+| [[Rules/Source/deities/greyhawk-heironeous-xdmg\|Heironeous]] the Invincible | Mount Celestia | Knights, soldiers | Lightning bolt |
+| [[Rules/Source/deities/greyhawk-hextor-xdmg\|Hextor]], Scourge of Battle | Acheron | Soldiers, tyrants | Six down-pointing arrows in a fan |
+| [[Rules/Source/deities/greyhawk-incabulos-xdmg\|Incabulos]], the Black Rider* | Hades | Necromancers, those who seek to ward off illness | Reptilian eye within a horizontal diamond |
+| [[Rules/Source/deities/greyhawk-istus-xdmg\|Istus]], Weaver of Our Fate* | Mechanus | Seers, advisers | Spindle with three strands |
+| [[Rules/Source/deities/greyhawk-iuz-xdmg\|Iuz]] the Evil† | Material Plane | His subjects and allies | Grinning human skull |
+| [[Rules/Source/deities/greyhawk-kord-xdmg\|Kord]], the Brawler | Ysgard | Athletes, berserkers | Spears and maces radiating from a point |
+| [[Rules/Source/deities/greyhawk-nerull-xdmg\|Nerull]], the Reaper* | Carceri | Murderers, necromancers | Skull with a scythe |
+| [[Rules/Source/deities/greyhawk-obad-hai-xdmg\|Obad-Hai]], the Shalm | Outlands | Hunters, gatherers, hermits | Oak leaf and acorn |
+| [[Rules/Source/deities/greyhawk-olidammara-xdmg\|Olidammara]], the Laughing Rogue | Ysgard | Revelers, gamblers, pranksters | Laughing mask |
+| [[Rules/Source/deities/greyhawk-pelor-xdmg\|Pelor]], the Radiant Sun* | Elysium | Healers, the compassionate | Sun |
+| [[Rules/Source/deities/greyhawk-pholtus-xdmg\|Pholtus]] of the Blinding Light | Arcadia | Judges, lawyers, arbiters | Silver sun partially eclipsed by a crescent moon |
+| [[Rules/Source/deities/greyhawk-ralishaz-xdmg\|Ralishaz]], the Unlooked For | Limbo | Gamblers | Three bone fate-casting sticks |
+| [[Rules/Source/deities/greyhawk-rao-xdmg\|Rao]], the Mediator* | Mount Celestia | Mediators, sages, scientists | White heart |
+| [[Rules/Source/deities/greyhawk-syrul-xdmg\|Syrul]] Oathbreaker | Gehenna | Liars, charlatans, traitors | Forked tongue |
+| [[Rules/Source/deities/greyhawk-tharizdun-xdmg\|Tharizdun]], the Eater of Worlds | Imprisoned in a demiplane | Nihilistic cultists | Spiral rune |
+| [[Rules/Source/deities/greyhawk-trithereon-xdmg\|Trithereon]], the Summoner | Arborea | Rebels, individualists | Triskelion |
+| [[Rules/Source/deities/greyhawk-ulaa-xdmg\|Ulaa]], the Bejeweled | Arcadia | Miners, jewelers, quarriers | Ruby-hearted mountain |
+| [[Rules/Source/deities/greyhawk-vecna-xdmg\|Vecna]], the Whispered One | Unknown | Necromancers, undead, those who keep or unearth secrets | An eye in the palm of a left hand |
+| [[Rules/Source/deities/greyhawk-wee-jas-xdmg\|Wee Jas]], the Witch | Acheron | Spellcasters, advisers | Red skull in front of fireball |
+*Greater god
+
+†Demigod
+
+</div></div>
+
 
 ### Free City of Greyhawk
 
 > [!gallery]
-> ![The Free City of Greyhawk](/Rules/Source/books/dungeon-masters-guide-2024/img/070-map-5-01-city-of-greyhawk.webp#gallery)
-> ![Player Version](/Rules/Source/books/dungeon-masters-guide-2024/img/071-map-5-01-city-of-greyhawk-player.webp#gallery)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/070-map-5-01-city-of-greyhawk.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/070-map-5-01-city-of-greyhawk.webp)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/071-map-5-01-city-of-greyhawk-player.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/071-map-5-01-city-of-greyhawk-player.webp)
 
 Would-be heroes are drawn to the Free City of Greyhawk by promises of adventure. The city is rife with opportunities for peril and plunder.
 
@@ -731,7 +864,7 @@ Throughout this section, if a creature's name appears in **bold** type, you'll f
 
 #### Start Here
 
-![White Plume Mountain is a ...](/Rules/Source/books/dungeon-masters-guide-2024/img/072-05-004-white-plume-mountain.webp#center "White Plume Mountain is a natural wonder—and a haunt of evil")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/072-05-004-white-plume-mountain.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/072-05-004-white-plume-mountain.webp)
 
 The City of Greyhawk is a great starting point for a D&D campaign for many reasons, as discussed in the sections that follow.
 
@@ -783,7 +916,7 @@ As a home base for characters, Greyhawk can serve as a place to live, train, and
 
 A city isn't just a place to spend time between adventures—plenty of adventures happen within the city walls. From wererats in the sewers to scheming bureaucrats in the halls of power, dangers lurk around every corner.
 
-![The Free City of Greyhawk ...](/Rules/Source/books/dungeon-masters-guide-2024/img/073-05-005-city-of-greyhawk.webp#center "The Free City of Greyhawk rises up behind the teeming city docks")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/073-05-005-city-of-greyhawk.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/073-05-005-city-of-greyhawk.webp)
 
 #### City Overview
 
@@ -797,7 +930,7 @@ The Free City of Greyhawk is ruled by a council called the Directing Oligarchy, 
 
 The City Watch is a standing garrison of some eight hundred [[Rules/Source/bestiary/humanoid/guard-xmm\|Guards]] and [[Rules/Source/bestiary/humanoid/warrior-veteran-xmm\|Veteran Warriors]]. Bolstering these defenders are [[Rules/Source/bestiary/humanoid/mage-xmm\|Mages]] from the city's Guild of Wizardry, as well as [[Rules/Source/bestiary/humanoid/priest-xmm\|Priests]] from local temples.
 
-The captain-general and constable of the City Watch are stationed at the Grand Citadel (see "City Locations").
+The captain-general and constable of the City Watch are stationed at the Grand Citadel (see).
 
 ##### City Walls
 
@@ -960,7 +1093,7 @@ Adventurers might visit the High Tower for one of the following reasons:
 
 ##### Silver Dragon Inn
 
-![The Silver Dragon Inn is a...](/Rules/Source/books/dungeon-masters-guide-2024/img/074-05-006-silver-dragon-inn.webp#center "The Silver Dragon Inn is a lively hub of activity in Greyhawk's Foreign Quarter")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/074-05-006-silver-dragon-inn.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/074-05-006-silver-dragon-inn.webp)
 
 > [!note] 
 > 
@@ -1064,8 +1197,8 @@ Adventurers might visit Unearthed Arcana for one of the following reasons:
 #### Beyond the City Walls
 
 > [!gallery]
-> ![City of Greyhawk and Environs](/Rules/Source/books/dungeon-masters-guide-2024/img/076-map-5-02-greyhawk-and-environs.webp#gallery)
-> ![Player Version](/Rules/Source/books/dungeon-masters-guide-2024/img/077-map-5-02-greyhawk-and-environs-player.webp#gallery)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/076-map-5-02-greyhawk-and-environs.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/076-map-5-02-greyhawk-and-environs.webp)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/077-map-5-02-greyhawk-and-environs-player.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/077-map-5-02-greyhawk-and-environs-player.webp)
 
 The City of Greyhawk and Environs map shows the lands around the Free City of Greyhawk. Locations on the map are presented below as places where adventures can happen:
 
@@ -1095,12 +1228,12 @@ The City of Greyhawk and Environs map shows the lands around the Free City of Gr
 The poster map in this book shows the entire region of the Flanaess, with the Free City of Greyhawk near the center. As characters venture beyond the confines of the city and its surrounding lands, you can use the map and the information on these pages to inspire your own adventures and world details.
 
 > [!gallery]
-> ![Flanaess](/Rules/Source/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess.webp#gallery)
-> ![Player Version](/Rules/Source/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player.webp#gallery)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess.webp)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player.webp)
 
 > [!gallery]
-> ![Flanaess (Hex Grid)](/Rules/Source/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess-grid.webp#gallery)
-> ![Player Version](/Rules/Source/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player-grid.webp#gallery)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess-grid.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess-grid.webp)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player-grid.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player-grid.webp)
 
 #### The Big Picture
 
@@ -1134,11 +1267,45 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 
 #### Central Flanaess
 
-![The Holy Days of Rao are o...](/Rules/Source/books/dungeon-masters-guide-2024/img/080-05-008-holy-days-of-rao.webp#center "The Holy Days of Rao are occasions for joyful processions and festivals in Veluna")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/080-05-008-holy-days-of-rao.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/080-05-008-holy-days-of-rao.webp)
 
 The rich soil and pleasant climate of the region between the Nyr Dyv and the Yatil Mountains—combined with healthy trade relations between these realms and their neighbors to the east, south, and west—make this a strong and prosperous region.
 
-![Central Flanaess Locations](/Rules/Source/tables/central-flanaess-locations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/central-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Central Flanaess Locations
+
+</div>
+
+
+
+# Central Flanaess Locations
+*Source: Dungeon Master's Guide (2024) p. 162* 
+
+**Central Flanaess Locations**
+
+| Location | Ruler | Description |
+|----------|-------|-------------|
+| Celene | Queen Yolande (elf) | Elven monarchy with large gnome and halfling populations |
+| Dyvers (Free City) | Magister Thymantia Gortoz (aasimar) | Important port and trading center with a powerful navy |
+| Furyondy, the Kingdom of | King Belvor IV (human) | Former province of the Great Kingdom, among the first to claim independence |
+| Highfolk (Free City) | Mayor Talisyr (appears as an elf) | Fortified city with large population of elves; the mayor is a disguised adult silver dragon |
+| Horned Society, the | Nine hierarchs (mostly humans and hobgoblins) | Theocracy ruled by devil worshipers allied with Iuz, supported by mercenaries enforcing their tyrannical rule |
+| Iuz | Iuz (cambion demigod) | The monster-infested domain of the demonic dictator, steeped in wickedness |
+| Nyr Dyv | — | The Lake of Unknown Depths; home to barge dwellers |
+| Perrenland | Voorzitter Yrenda Schwartzen (human) | Fiercely independent confederation of canons |
+| Pomarj, the | — | Lawless peninsula; home to bandits and marauders |
+| Shield Lands, the | Various allied nobles | Independent alliance of nobles protected by the Knights of Holy Shielding, led by Knight Commander Aleshh Kaarth (dragonborn) and fortified by Furyondy and Urnst |
+| Veluna, the Archclericy of | Canon Hazen (human) | Theocracy ruled by priests of Rao, a divine beacon of justice and hope |
+| Verbobonc (Free City and Viscounty) | Viscountess Wilfrick Rejjin (human) | Vassal state of Veluna; site of the Temple of Elemental Evil |
+| Wild Coast, the | Various burgomasters, lord mayors, and others | Free territory with self-governing settlements; haven for outcasts and dissidents |
+^central-flanaess-locations
+
+</div></div>
+
 
 ##### Battle of Emridy Meadows
 
@@ -1188,7 +1355,51 @@ Once a powerful force for order and good, the Great Kingdom of Aerdy has decline
 
 Aerdiaak, Ahlissa, Medegia, and Rel Astra are provinces and fiefs of the Great Kingdom. The Sea Baronies are vassal states that provide most of the kingdom's navy.
 
-![Eastern Flanaess Locations](/Rules/Source/tables/eastern-flanaess-locations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/eastern-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Eastern Flanaess Locations
+
+</div>
+
+
+
+# Eastern Flanaess Locations
+*Source: Dungeon Master's Guide (2024) p. 164* 
+
+**Eastern Flanaess Locations**
+
+| Location | Ruler | Description |
+|----------|-------|-------------|
+| Aerdiaak | Herzog Varz Grenell (human) | North province of the Great Kingdom, ruled by a cousin of the overking; its court is rife with debauchery and intrigue |
+| Ahlissa | Herzogin Seprenna Calyn (human) | South province of the Great Kingdom, ruled by a cousin of the overking; embroiled in war with the Iron League |
+| Almor, the Prelacy of | Prelate Xanther Klimstyn (human) | Theocracy ruled by a priest of Pelor who declared independence when the Great Kingdom descended into evil |
+| Bone March, the | — | Fallen territory of the Great Kingdom, now held by armies from Almor and Nyrond |
+| Celadon Forest | — | Ancient forest protected by druidic circles and fey |
+| Flinty Hills and Gamboge Forest | — | Home to several independent communities with no great love for Nyrond or the Pale |
+| Great Kingdom, the | Overking Ivid V (human) | Unspeakably evil monarchy |
+| Idee | Count Vasiliek Donsten (human) | Independent fiefdom; member of the Iron League |
+| Irongate (Free City) | Mayor Unthera Selvich (appears as a dwarf) | Thriving metropolis; member of the Iron League; the mayor is a disguised adult bronze dragon |
+| Lordship of the Isles, the | Princess Ronthal III (human) | Independent principality; member of the Iron League |
+| Medegia, the See of | Holy Censor Starvik Jerel (human) | Theocratic fiefdom ruled by a priest whose power is rumored to come from pacts with archdevils |
+| Nyrond, the Kingdom of | King Dunstan I (human) | Center of resistance to the Great Kingdom |
+| Onnwal | The Raven of Onnwal, Zyl Grayshadow (dwarf) | Independent state; member of the Iron League |
+| Pale, the Theocracy of the | Supreme Prelate Ogon Tillit (human) | Theocracy ruled by a priest of Pholtus |
+| Rel Astra, City of | Constable Mayor Drax (orc) | Independent fief plotting in secret against the Great Kingdom, hoping to ally with Medegia or the Sea Baronies |
+| Sea Baronies, the | Four sea barons, including High Admiral Kalashe Asperdi (human) | Independent island fiefdoms that serve as the Great Kingdom's navy |
+| Shar, the Hidden Empire of | Father of Obedience Korenth Zan (human?) | Isolated order of Suloise militants whose spies operate across the Flanaess |
+| Spindrift Isles, the | The Council of Five (on the northern islands) and the Council of Seven (on the southern island) | Independent islands that keep watchful eyes on aggressive island neighbors |
+| Sunndi | Steward Valenta (elf) | Independent fiefdom; member of the Iron League |
+| Tenh, the Duchy of | Duchess Ehliyah Raynar III (human) | Independent fiefdom allied with Nyrond for defense against Iuz |
+| Urnst, the County of | Countess Belissica Gellor (human) | Independent fiefdom |
+| Urnst, the Duchy of | Duke Jalken Lorinar (human) | Independent fiefdom |
+| Vast Swamp, the | — | Morass separating the Tilvanot Peninsula and Shar from the rest of the East |
+^eastern-flanaess-locations
+
+</div></div>
+
 
 ##### Shar
 
@@ -1226,13 +1437,45 @@ The Tomb of Horrors is detailed in *Tales from the Yawning Portal*.
 
 The chilly mists of the Troll Fens, located against the shoulders of the Griff Mountains and the Rakers at the head of the Yol River, cloak a place of unnameable horrors. As the name implies, the fens are infested with particularly large and vicious trolls. The Pale carefully hedges the place with watchtowers and keeps, and strong patrols ride the verges of the southern end of the Troll Fens to watch for unwelcome visits from the monsters dwelling within.
 
-![The Tomb of Horrors lies d...](/Rules/Source/books/dungeon-masters-guide-2024/img/081-05-009-tomb-of-horrors.webp#center "The Tomb of Horrors lies deep within the vast swamp")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/081-05-009-tomb-of-horrors.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/081-05-009-tomb-of-horrors.webp)
 
 #### Northern Flanaess
 
 The northern region of the Flanaess includes three distinct areas populated by different peoples: the Baklunish horse riders of the Chakyik and the Wegwiur, the Suloise people of the North Kingdoms, and the Flan nomads of the Hunting Lands.
 
-![Northern Flanaess Locations](/Rules/Source/tables/northern-flanaess-locations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/northern-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Northern Flanaess Locations
+
+</div>
+
+
+
+# Northern Flanaess Locations
+*Source: Dungeon Master's Guide (2024) p. 165* 
+
+**Northern Flanaess Locations**
+
+| Location | Ruler | Description |
+|----------|-------|-------------|
+| Arn, the Archbarony of | Archbaron of Arn (identity unknown) | Remote and little-known region located near a ruined castle with monster-filled dungeons |
+| Bandit Kingdoms, the | Four to six bandit lords | Feuding kingdoms ruled by greedy bandit lords with private armies |
+| Barren Wastes, the | — | Harsh, despoiled land where dragons roam and sometimes go to die |
+| Chakyik | Lord Agul Krusef (human) | Land of the Tiger Nomads—horse riders with scattered trading outposts |
+| Hunting Lands, the | Overlord-Protector Yhareen Sakarr (tiefling) | Home to Flan nomads, known to their neighbors as the Rovers of the Barrens |
+| North Kingdom of the Cruski, the | Queen Tharla of the Cruski (human) | Fierce, seafaring berserkers of the North Kingdoms |
+| North Kingdom of the Fruzti, the | King Hundgred of the Fruzti (human) | Weakest of the three North Kingdoms, having suffered great losses battling in the Bone March |
+| North Kingdom of the Schnai, the | Queen Ingrid of the Schnai (human) | Strongest and most populated of the North Kingdoms |
+| Ratik, the Barony of | Baron Lexnol Haarkof (human) | Former province of the Great Kingdom trying to ally with the North Kingdoms |
+| Stonefist, The Hold of | King Sevvord Redbeard of the Hold (human) | Monarchy founded by a bandit leader who attracted malcontents from many nations |
+| Wegwiur | Wolf-Mother Bargra Yefkos (human) | Land of the Wolf Nomads—horse riders engaged in war against Iuz |
+^northern-flanaess-locations
+
+</div></div>
+
 
 ##### Baklunish Nomads
 
@@ -1244,13 +1487,13 @@ The Baklunish nomads favor bright pastel colors in gowns and robes. When traveli
 
 ##### The North Kingdoms
 
-Three kingdoms of related peoples occupy the Thillonrian Peninsula in the northeast of the Flanaess—a beautiful subarctic landscape of high mountains, coniferous forests, and deep fjords. The kingdoms are named for the three distinct tribal lines that inhabit them: the Cruski (whose name means "ice"), the Fruzti ("frost"), and the Schnai ("snow").
+Three kingdoms of related peoples occupy the Thillonrian Peninsula in the northeast of the Flanaess—a beautiful subarctic landscape of high mountains, coniferous forests, and deep fjords. The kingdoms are named for the three distinct tribal lines that inhabit them: the Cruski (whose name means).
 
 The Schnai are strong and numerous. When Queen Ingrid of the Schnai has a mind to raid the isles of the Sea Baronies or the coasts of Aerdiaak and the Great Kingdom, she calls upon the king of the Fruzti and the queen of the Cruski to join her army. King Hundgred of the Fruzti has no choice but to honor his oath to the Schnai, while Queen Tharla of the Cruski rarely turns down a chance to attack her enemies. At other times, the Cruski raid the Fruzti, the Schnai, or the Hold of Stonefist.
 
 As their distinct kingdoms suggest, the people of the North Kingdoms value their connection to their clan lineage. They preserve a love of learning from their distant ancestors of the Suel Imperium, and they value knowledge of the natural world as highly as they do the skills of hunting, sailing, and warfare. Their clothing includes shirts and pants made of wool, augmented with furs, capes, mittens, and warm boots. They often wear large pins, brooches, or emblems in their cloaks as a sign of wealth or accomplishment.
 
-![Adventurers in the North K...](/Rules/Source/books/dungeon-masters-guide-2024/img/082-05-010-mammoth-north-kingdoms.webp#center "Adventurers in the North Kingdoms help a frost giant's pet mammoth find its way home")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/082-05-010-mammoth-north-kingdoms.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/082-05-010-mammoth-north-kingdoms.webp)
 
 ##### The Hunting Lands
 
@@ -1282,7 +1525,40 @@ The cold north is an ideal location for a campaign featuring themes of sword-and
 
 United by their shared history as part of the ancient Kingdom of Keoland, the marches and fiefdoms between the Lortmil Mountains and the higher mountains to the west gather diverse populations of many different species in relative peace with each other. Even the long-standing feud between Keoland and the Hold of the Sea Princes might be drawing to an end under the leadership of Keoland's current ruler, King Kimbertos Skotti. The region enjoys a warm, mild climate but faces many threats from monstrous foes.
 
-![Old Keoland Locations](/Rules/Source/tables/old-keoland-locations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/old-keoland-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Old Keoland Locations
+
+</div>
+
+
+
+# Old Keoland Locations
+*Source: Dungeon Master's Guide (2024) p. 169* 
+
+**Old Keoland Locations**
+
+| Location | Ruler | Description |
+|----------|-------|-------------|
+| Bissel, the March of | Margrave Imran Rendulkar (human) | Bone of contention between Keoland, Veluna, and Ket |
+| Geoff, the Grand Duchy of | Grand Duchess Owena Blackthorn (human) | Isolated fiefdom with a long history of battling giants in the nearby mountains |
+| Gran March, the | Commandant Magnus Onyxbeard (dwarf) | Nominal vassal of Keoland and ally with Bissel; the commandant is elected from among the March's noble houses |
+| Hold of the Sea Princes, the | Prince Zygmund III of Monmurg (human) | Independent oligarchy of sea traders founded by buccaneers; now a powerful naval force |
+| Keoland, the Kingdom of | King Kimbertos Skotti (human) | Heart of the Old Keoland region, surrounded by friendly neighbors that swear fealty to Keoland's monarch |
+| Lortmil Mountains, the | — | Natural border between the Old Keoland region and the Central Flanaess |
+| Sterich, the March of | Marquise Quercha Emondav (human) | Nominal vassal state of Keoland, but its ruler is more like a sister than a vassal to the king of Keoland |
+| Ulek, the County of | Countess Lewenn Richfield (human) | Former vassal of Keoland |
+| Ulek, the Duchy of | Duke Grenowin (elf) | Former vassal of Keoland with a large population of elves |
+| Ulek, the Principality of | Princess Olynn Corond (dwarf) | Fiefdom with a significant navy; its princess commands the respect of many dwarves beyond Ulek |
+| Valley of the Mage, the | The Mage of the Valley (identity unknown) | Secluded refuge of an ancient archmage; current inhabitants unknown |
+| Yeomanry, the | Freeholder Vyndi Skyspear (goliath) | Independent republic governed by an elected freeholder |
+^old-keoland-locations
+
+</div></div>
+
 
 ##### Old Keoland Culture
 
@@ -1294,7 +1570,7 @@ The clothes worn in Old Keoland tend toward loose-fitting shirts and wide-legged
 
 The long chain of the Lortmil Mountains forms a natural barrier between Old Keoland and the region of the Central Flanaess. The mountains contain some of the richest gem and precious metal deposits in Eastern Oerik. The humans, dragonborn, dwarves, gnomes, halflings, goblinoids, goliaths, and orcs that live in these mountains and their foothills are subjects of the realms that surround the mountain range, but they often band together to deal with greater threats on both sides of the mountains.
 
-![Beneath the beautiful surf...](/Rules/Source/books/dungeon-masters-guide-2024/img/083-05-011-hellfurnaces.webp#center "Beneath the beautiful surface of the Hellfurnaces lie endless hidden evils")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/083-05-011-hellfurnaces.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/083-05-011-hellfurnaces.webp)
 
 ##### Old Keoland Adventures
 
@@ -1332,7 +1608,36 @@ The nations of Ekbir, Tusmit, and Zeif represent the heart of the region, and tw
 
 Sultan Naxas Murad of Zeif is a reclusive man, a great philosopher, and a stern father figure to the rulers of Ekbir and Tusmit. Over the years, advisers and family members have urged Naxas to expand Zeif's borders through military conquest, but he refuses to do so, citing failed land grabs by kingdoms through history as proof that imperial expansion across the Flanaess rarely ends well.
 
-![Western Flanaess Locations](/Rules/Source/tables/western-flanaess-locations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/western-flanaess-locations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Western Flanaess Locations
+
+</div>
+
+
+
+# Western Flanaess Locations
+*Source: Dungeon Master's Guide (2024) p. 170* 
+
+**Western Flanaess Locations**
+
+| Location | Ruler | Description |
+|----------|-------|-------------|
+| Dry Steppes, the | — | Desert where the Baklunish empire once stood |
+| Ekbir, the Sultanate of | Sultan Xargun II (aasimar) | Monarchy in an uneasy peace with its neighbors, bracing for a rumored invasion from Zeif |
+| Ket | Beygraf Zoltana Lhaz (human) | Crossroads region |
+| Plains of the Ulakandar, the | Various Ulakandar clan leaders | Land of the Ulakandar nomads, who roam between the Dry Steppes and the border of Zeif |
+| Sea of Dust, the | — | Wasteland where the Suel Imperium once stood |
+| Tusmit, the Pashalik of | Pasha Qharlan Sylba (human) | Monarchy profiting by playing its neighbors against each other |
+| Ull | Orakhan Drasika Borinok (human) | Independent fiefdom founded by Ulakandar nomads who settled the land |
+| Zeif, the Sultanate of | Sultan Naxas Murad (human) | Monarchy ruled by a reclusive philosopher who resists his advisers' call to imperial expansion |
+^western-flanaess-locations
+
+</div></div>
+
 
 ##### Western Flanaess Culture
 

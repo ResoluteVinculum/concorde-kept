@@ -33,7 +33,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">10</td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5</td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Eldritch Master (Level 20)' class='internal-link'>Eldritch Master</a></td><td class="value">10</td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5</td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -212,5 +212,66 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![Eldritch Invocation](/Rules/Source/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/lists/list-optfeaturetype-ei/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Eldritch Invocation
+
+</div>
+
+
+
+# Eldritch Invocation
+*Source: Player's Handbook, Tasha's Cauldron of Everything, Player's Handbook (2024), Xanathar's Guide to Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+
+- [[Rules/Source/optional-features/agonizing-blast-xphb\|Agonizing Blast]]
+- [[Rules/Source/optional-features/armor-of-shadows-xphb\|Armor of Shadows]]
+- [[Rules/Source/optional-features/ascendant-step-xphb\|Ascendant Step]]
+- [[Rules/Source/optional-features/aspect-of-the-moon-xge\|Aspect of the Moon]]
+- [[Rules/Source/optional-features/bond-of-the-talisman-tce\|Bond of the Talisman]]
+- [[Rules/Source/optional-features/cloak-of-flies-xge\|Cloak of Flies]]
+- [[Rules/Source/optional-features/devils-sight-xphb\|Devil's Sight]]
+- [[Rules/Source/optional-features/devouring-blade-xphb\|Devouring Blade]]
+- [[Rules/Source/optional-features/eldritch-mind-xphb\|Eldritch Mind]]
+- [[Rules/Source/optional-features/eldritch-smite-xphb\|Eldritch Smite]]
+- [[Rules/Source/optional-features/eldritch-spear-xphb\|Eldritch Spear]]
+- [[Rules/Source/optional-features/far-scribe-tce\|Far Scribe]]
+- [[Rules/Source/optional-features/fiendish-vigor-xphb\|Fiendish Vigor]]
+- [[Rules/Source/optional-features/gaze-of-two-minds-xphb\|Gaze of Two Minds]]
+- [[Rules/Source/optional-features/ghostly-gaze-xge\|Ghostly Gaze]]
+- [[Rules/Source/optional-features/gift-of-the-depths-xphb\|Gift of the Depths]]
+- [[Rules/Source/optional-features/gift-of-the-ever-living-ones-xge\|Gift of the Ever-Living Ones]]
+- [[Rules/Source/optional-features/gift-of-the-protectors-xphb\|Gift of the Protectors]]
+- [[Rules/Source/optional-features/grasp-of-hadar-xge\|Grasp of Hadar]]
+- [[Rules/Source/optional-features/improved-pact-weapon-xge\|Improved Pact Weapon]]
+- [[Rules/Source/optional-features/investment-of-the-chain-master-xphb\|Investment of the Chain Master]]
+- [[Rules/Source/optional-features/lance-of-lethargy-xge\|Lance of Lethargy]]
+- [[Rules/Source/optional-features/lessons-of-the-first-ones-xphb\|Lessons of the First Ones]]
+- [[Rules/Source/optional-features/lifedrinker-xphb\|Lifedrinker]]
+- [[Rules/Source/optional-features/maddening-hex-xge\|Maddening Hex]]
+- [[Rules/Source/optional-features/mask-of-many-faces-xphb\|Mask of Many Faces]]
+- [[Rules/Source/optional-features/master-of-myriad-forms-xphb\|Master of Myriad Forms]]
+- [[Rules/Source/optional-features/misty-visions-xphb\|Misty Visions]]
+- [[Rules/Source/optional-features/one-with-shadows-xphb\|One with Shadows]]
+- [[Rules/Source/optional-features/otherworldly-leap-xphb\|Otherworldly Leap]]
+- [[Rules/Source/optional-features/pact-of-the-blade-xphb\|Pact of the Blade]]
+- [[Rules/Source/optional-features/pact-of-the-chain-xphb\|Pact of the Chain]]
+- [[Rules/Source/optional-features/pact-of-the-tome-xphb\|Pact of the Tome]]
+- [[Rules/Source/optional-features/protection-of-the-talisman-tce\|Protection of the Talisman]]
+- [[Rules/Source/optional-features/rebuke-of-the-talisman-tce\|Rebuke of the Talisman]]
+- [[Rules/Source/optional-features/relentless-hex-xge\|Relentless Hex]]
+- [[Rules/Source/optional-features/repelling-blast-xphb\|Repelling Blast]]
+- [[Rules/Source/optional-features/shroud-of-shadow-xge\|Shroud of Shadow]]
+- [[Rules/Source/optional-features/thirsting-blade-xphb\|Thirsting Blade]]
+- [[Rules/Source/optional-features/tomb-of-levistus-xge\|Tomb of Levistus]]
+- [[Rules/Source/optional-features/tricksters-escape-xge\|Trickster's Escape]]
+- [[Rules/Source/optional-features/undying-servitude-tce\|Undying Servitude]]
+- [[Rules/Source/optional-features/visions-of-distant-realms-xphb\|Visions of Distant Realms]]
+- [[Rules/Source/optional-features/whispers-of-the-grave-xphb\|Whispers of the Grave]]
+- [[Rules/Source/optional-features/witch-sight-xphb\|Witch Sight]]
+
+</div></div>
+
 ^list-optfeature-ei

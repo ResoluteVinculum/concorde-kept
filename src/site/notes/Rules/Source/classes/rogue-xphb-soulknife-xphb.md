@@ -34,7 +34,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td><td class="value">`D12`</td><td class="value">12</td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td><td class="value">`D12`</td><td class="value">12</td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -58,7 +58,8 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 | 9 | `D8` | 8 |
 | 11 | `D10` | 8 |
 | 13 | `D10` | 10 |
-| 17 | `D12` | 12 |{ #soulknife-energy-dice}
+| 17 | `D12` | 12 |{ #soulknife-energy-dice}
+
 
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in a power's description, and you can't use a power if it requires you to use a die when your Psionic Energy Dice are all expended.
@@ -80,7 +81,29 @@ The first time you use this power after each [[Rules/Source/variant-rules/long-r
 You can manifest shimmering blades of psychic energy. Whenever you take the [[Rules/Source/actions#Attack\|Attack]] action or make an [[Rules/Source/actions#Opportunity Attack\|Opportunity Attack]], you can manifest a [[Rules/Source/items/psychic-blade-xphb\|Psychic Blade]] in your free hand and make the attack with that blade. The magic blade has the following traits:
 
 > [!embed-item]- Psychic Blade
-> ![Psychic Blade](/Rules/Source/items/psychic-blade-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Psychic Blade
+
+</div>
+
+
+
+# Psychic Blade
+*Weapon*  
+
+
+- **Damage**: 1d6 psychic
+- **Range**: 60/120
+- **Properties**: [[Rules/Source/item-properties#Finesse\|Finesse]], [[Rules/Source/item-properties#Thrown\|Thrown]]
+
+*Source: Player's Handbook (2024) p. 136*
+
+</div></div>
+
 
 The blade vanishes immediately after it hits or misses its target, and it leaves no mark if it deals damage.
 

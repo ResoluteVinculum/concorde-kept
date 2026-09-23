@@ -17,7 +17,7 @@ This chapter is intended for the Dungeon Master. The ideas and tables herein can
 
 "Dragon Campaigns" talks about building worlds and campaign story arcs that put dragons at the forefront of history and at the center of the characters' lives and adventuring ambitions.
 
-![In his guise as Fizban the...](/Rules/Source/books/fizbans-treasury-of-dragons/img/013-03-001-chapter-splash.webp#center "In his guise as Fizban the Fabulous, Bahamut helps two unlikely heroes escape the wrath of the red dragon Pyros")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/013-03-001-chapter-splash.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/013-03-001-chapter-splash.webp)
 
 ## Roleplaying Dragons
 
@@ -33,17 +33,161 @@ The "Dungeon Master's Guide" includes a series of "tables and guidelines" design
 
 In chapter 5 of this book, you'll find additional tables of personality traits and ideals that are customized to various kinds of dragons.
 
-![Dragon Characters; Dragon Appearance](/Rules/Source/tables/dragon-characters-dragon-appearance-ftd.md)
 
-![Dragons of the same kind c...](/Rules/Source/books/fizbans-treasury-of-dragons/img/014-03-002-dragons-of-the-same.webp#center "Dragons of the same kind can vary widely in shape, size, color, and ornamentation")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-characters-dragon-appearance-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Dragon Characters; Dragon Mannerisms](/Rules/Source/tables/dragon-characters-dragon-mannerisms-ftd.md)
+<div class="markdown-embed-title">
 
-![Dragon Characters; Dragon Bonds](/Rules/Source/tables/dragon-characters-dragon-bonds-ftd.md)
+# Dragon Characters; Dragon Appearance
+
+</div>
+
+
+
+# Dragon Characters; Dragon Appearance
+*Source: Fizban's Treasury of Dragons p. 31* 
+
+**Dragon Appearance**
+
+| dice: d20 | Appearance |
+|-----------|------------|
+| 1 | Draconic letters or symbols engraved on prominent scales |
+| 2 | Large scar |
+| 3 | One eye missing or milky |
+| 4 | Crooked teeth |
+| 5 | Notably overweight or underweight |
+| 6 | Elongated, sinuous body |
+| 7 | Shortened, stocky body |
+| 8 | Coins or gems embedded in hide |
+| 9 | Sculpted horns or claws |
+| 10 | Rings piercing crest or wing edges |
+| 11 | Draped in some semblance of clothing, from a stole to a full robe |
+| 12 | Unusual coloration (for example, a red dragon with an orange, brown, or purple cast) |
+| 13 | Crouched, predatory posture like a stalking cat's |
+| 14 | Erect, almost bipedal posture |
+| 15 | Scales covered with painted handprints of minions, admirers, or children |
+| 16 | Necklaces made of bones, horns, claws, or teeth taken from enemies |
+| 17 | Extra horns or spines |
+| 18 | Elongated, fang-like teeth, or extra rows of teeth |
+| 19 | Sharpened or serrated scales |
+| 20 | Elemental energy matching the dragon's breath weapon, seeping out between the scales |
+^dragon-appearance
+
+</div></div>
+
+
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/014-03-002-dragons-of-the-same.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/014-03-002-dragons-of-the-same.webp)
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-characters-dragon-mannerisms-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Characters; Dragon Mannerisms
+
+</div>
+
+
+
+# Dragon Characters; Dragon Mannerisms
+*Source: Fizban's Treasury of Dragons p. 31* 
+
+**Dragon Mannerisms**
+
+| dice: d20 | Mannerism |
+|-----------|-----------|
+| 1 | Rotates head from side to side when listening or speaking |
+| 2 | Tail writhes constantly in a snakelike fashion |
+| 3 | Slowly and constantly fans wings |
+| 4 | Lowers head to speak eye-to-eye to smaller creatures—unless angry |
+| 5 | Uses Draconic words and phrases even when speaking other languages |
+| 6 | Punctuates speech with bestial sounds—growls, roars, croaks, chirps, or whistles |
+| 7 | Fiddles with tip of tail |
+| 8 | Absently chews on or picks at teeth with swords, spears, or lances |
+| 9 | Quickly forgets names and invents random nicknames instead |
+| 10 | Burdens conversation with extensive historical context, whether or not it's relevant |
+| 11 | Constantly twitches tail—and occasionally pounces on it |
+| 12 | Speaks an archaic form of Common (equivalent to Shakespearean English) and doesn't understand contemporary slang and idioms |
+| 13 | Prone to uttering terrifying, guttural sounds, which are actually laughter |
+| 14 | Enjoys mimicking Humanoid voices |
+| 15 | Dismisses modern cultures as historical curiosities sure to collapse imminently |
+| 16 | Has trouble discerning details of anything as small as Humanoids |
+| 17 | Sharpens claws or horns on nearby stone surfaces |
+| 18 | Manifests small signs of the breath weapon, such as exhaling smoke rings, setting arc lightning dancing over teeth, or blowing acid bubbles |
+| 19 | Sighs restlessly, giving an impression of tremendous boredom |
+| 20 | Deeply suspicious, treating all Humanoids encountered as probable agents of a rival dragon |
+^dragon-mannerisms
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-characters-dragon-bonds-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Characters; Dragon Bonds
+
+</div>
+
+
+
+# Dragon Characters; Dragon Bonds
+*Source: Fizban's Treasury of Dragons p. 31* 
+
+**Dragon Bonds**
+
+| dice: d10 | Bond |
+|-----------|------|
+| 1 | I treasure one particular item in my hoard—a gift from a person I loved, who is long since dead. |
+| 2 | I am close to my siblings, whose lairs are nearby. I would go to great lengths to protect them—or avenge them. |
+| 3 | A nearby person intrigues me with fascinating questions and bizarre ideas. |
+| 4 | I collect information about the worlds of the Material Plane, and I would love to visit another world someday. |
+| 5 | I am devoted to Bahamut or Tiamat and put their interests ahead of my own. |
+| 6 | I'm determined to destroy the adventurers who slew my parent—and everyone connected to them. |
+| 7 | I'm obsessed with attracting the attention of another dragon. |
+| 8 | I feel an obligation to protect the creatures that inhabit my territory (except the ones I eat). |
+| 9 | I am trying to collect an extremely rare set of priceless treasures. |
+| 10 | I won't rest until I retrieve an item stolen from my hoard. |
+^dragon-bonds
+
+</div></div>
+
 
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/015-03-003.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/015-03-003.webp)
 
-![Dragon Characters; Dragon Flaws and Secrets](/Rules/Source/tables/dragon-characters-dragon-flaws-and-secrets-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-characters-dragon-flaws-and-secrets-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Characters; Dragon Flaws and Secrets
+
+</div>
+
+
+
+# Dragon Characters; Dragon Flaws and Secrets
+*Source: Fizban's Treasury of Dragons p. 31* 
+
+**Dragon Flaws and Secrets**
+
+| dice: d10 | Flaw or Secret |
+|-----------|----------------|
+| 1 | I find adventurers fearsome, and I'm convinced that I'll meet my doom at their hands one day. |
+| 2 | One item in my possession is worth as much as the rest of my hoard combined, and the fear that it might be stolen consumes me. |
+| 3 | Given the opportunity, I eat to excess and then fall into a long, deep sleep. |
+| 4 | I would rather let my fearsome reputation scare away intruders than fight them off. |
+| 5 | Other dragons would scorn me if they knew how fondly I regard my minions. They're so cute! |
+| 6 | I am terrified of creatures from the Outer Planes—especially modrons. |
+| 7 | Another dragon has sworn to find and destroy me. |
+| 8 | Humanoids are not ready to learn the horrible cosmic truths in the books in my hoard. |
+| 9 | The prospect of living for centuries more exhausts me. |
+| 10 | I'm convinced that a version of me on a different world in the Material Plane is hoping to destroy me and steal my hoard. |
+^dragon-flaws-and-secrets
+
+</div></div>
+
 
 #### How to Name Your Dragon
 
@@ -53,7 +197,7 @@ In chapter 5 of this book, you'll find additional tables of personality traits a
 
 Some dragons' names resonate with power and inspire terror: Ashardalon, Dragotha, Klauth, Khellendros, Malystryx, Vaskar. Others are intricate and obscure, reflecting the grandeur of dragons' ancient language: Ingeloakastimizilian, Imvaernarhro, K'rshinthintl, Claugiyliamatar.
 
-![Commonly known as &quot;Old Gna...](/Rules/Source/books/fizbans-treasury-of-dragons/img/016-03-004-commonly-known-as.webp#center "Commonly known as &quot;Old Gnawbone,&quot; Claugiyliamatar is often seen with a mangled corpse hanging from her mouth")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/016-03-004-commonly-known-as.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/016-03-004-commonly-known-as.webp)
 
 Many dragons are better known by nicknames and epithets. Klauth is commonly called Old Snarl, and Khellendros is remembered as Skie and the Storm over Krynn. Ingeloakastimizilian is Icingdeath, Imvaernarhro is Inferno, and K'rshinthintl and Claugiyliamatar are called Cyan Bloodbane and Old Gnawbones, respectively.
 
@@ -61,7 +205,48 @@ When naming a dragon, take whatever approach appeals to you. But bear in mind th
 
 The Dragon Name Elements table provides Draconic morphemes that appear in dragon names. You can combine these elements to form a dragon name. For each element, roll a `d20`, then choose one of the four possible results from the table, or roll a `d4` to determine which column to choose from. If you like, you can rearrange these elements and add or drop letters to create a smoother flow or a more dramatic sound. For nicknames, look for inspiration in the dragon's abilities, mannerisms, or most famous acts.
 
-![How to Name Your Dragon; Dragon Name Elements](/Rules/Source/tables/how-to-name-your-dragon-dragon-name-elements-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/how-to-name-your-dragon-dragon-name-elements-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# How to Name Your Dragon; Dragon Name Elements
+
+</div>
+
+
+
+# How to Name Your Dragon; Dragon Name Elements
+*Source: Fizban's Treasury of Dragons p. 33* 
+
+**Dragon Name Elements**
+
+| dice: d20 | 1 | 2 | 3 | 4 |
+|-----------|---|---|---|---|
+| 1 | Aeros | Agha | Akkan | Alae |
+| 2 | Andra | Andusk | Angkar | Aradace |
+| 3 | Arauth | Arveia | Aryz | Atar |
+| 4 | Auntyr | Auth | Bahr | Bala |
+| 5 | Calaun | Ciym | Claug | Daerev |
+| 6 | Dalagh | Durg | Eir | Elden |
+| 7 | Endar | Ethar | Fel | Galad |
+| 8 | Gaul | Golos | Guth | Ingeir |
+| 9 | Ix | Iyliam | Jhar | Kerin |
+| 10 | Lham | Lothtor | Malae | Marun |
+| 11 | Mere | Miir | Morn | Nabal |
+| 12 | Nur | Nym | Oloth | Ontor |
+| 13 | Othim | Palar | Raali | Ragoth |
+| 14 | Rith | Rysear | Saryx | Ser |
+| 15 | Skad | Surr | Thal | Thanach |
+| 16 | Thoth | Thrax | Thriin | Tostyn |
+| 17 | Tratain | Treori | Turace | Ualin |
+| 18 | Umer | Uryte | Uxin | Vaer |
+| 19 | Vala | Valos | Vinc | Voar |
+| 20 | Vureem | Waur | Zundae | Zyreph |
+^dragon-name-elements
+
+</div></div>
+
 
 #### Customizing Dragons
 
@@ -101,7 +286,7 @@ Some dragons can live for over a thousand years, outlasting the rise and fall of
 
 The tables in this section suggest possible goals that reflect the priorities of dragons at different ages. Of course, a dragon's goals are shaped by many additional factors, including alignment, ideals, bonds, and flaws. So use these tables as a starting point, but flesh out each dragon's goals as you develop a complete picture of the dragon's personality.
 
-![Blue Wyrmling](/Rules/Source/books/fizbans-treasury-of-dragons/img/017-03-005-blue-wyrmling.webp#center)
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/017-03-005-blue-wyrmling.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/017-03-005-blue-wyrmling.webp)
 
 #### Wyrmlings
 
@@ -109,19 +294,73 @@ Much like adventurers in the first tier of play (levels 1 to 4), dragons in thei
 
 Wyrmlings most often think on a local scale—an area no larger than might be covered by a few farmsteads or villages. If adult dragons are rearing a clutch of wyrmlings, the younger dragons often divide the adults' territory among them. A single wyrmling might thus hunt an area covering only a few square miles, but the presence of one wyrmling indicates that more might be nearby. On the other hand, wyrmlings without adult dragons in their lives might become allies or as captives of other kinds of creatures. Such wyrmlings are more likely to be scattered from their nest mates.
 
-![Wyrmlings; Wyrmling Goals](/Rules/Source/tables/wyrmlings-wyrmling-goals-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/wyrmlings-wyrmling-goals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Wyrmlings; Wyrmling Goals
+
+</div>
+
+
+
+# Wyrmlings; Wyrmling Goals
+*Source: Fizban's Treasury of Dragons p. 35* 
+
+**Wyrmling Goals**
+
+| dice: d6 | Goal |
+|----------|------|
+| 1 | Establish independence from adult dragons (or other powerful creatures) |
+| 2 | Acquire one valuable magic item or art object to build a hoard around |
+| 3 | Acquire minions who will bring food and treasure |
+| 4 | Establish dominance over other wyrmlings in the same brood |
+| 5 | Secure a partnership with a more powerful creature for safety |
+| 6 | Find a good spot for a first independent lair |
+^wyrmling-goals
+
+</div></div>
+
 
 #### Young Dragons
 
 Young dragons in their first century of life are similar in many ways to adventurers in the second tier of play (levels 5 to 10), as they're beginning to come into their own among the most powerful creatures of the Material Plane.
 
-![Young blue dragon](/Rules/Source/books/fizbans-treasury-of-dragons/img/018-03-006-young-blue-dragon.webp#center)
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/018-03-006-young-blue-dragon.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/018-03-006-young-blue-dragon.webp)
 
 This stage is when most dragons first establish their own territory and lair. A young dragon's territory covers an area about 50 miles across. This is also when dragons start to form the magical ties that bind them to both their hoards and the regions around their lairs.
 
 Hunting dragons typically fly on a more-or-less circular path out to one edge of their territory and back in a day, traveling about 75 miles in total. Young dragons also use their hunting flights to keep tabs on happenings within their territory and are keenly aware of other creatures whose territory neighbors or overlaps their own. A young dragon can become a significant threat to a city or kingdom, either through overt violence or subtle manipulation.
 
-![Young Dragons; Young Dragon Goals](/Rules/Source/tables/young-dragons-young-dragon-goals-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/young-dragons-young-dragon-goals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Young Dragons; Young Dragon Goals
+
+</div>
+
+
+
+# Young Dragons; Young Dragon Goals
+*Source: Fizban's Treasury of Dragons p. 36* 
+
+**Young Dragon Goals**
+
+| dice: d6 | Goal |
+|----------|------|
+| 1 | Establish a lair and develop the land around it to maximize safety and good hunting |
+| 2 | Amass as much treasure as possible |
+| 3 | Acquire magical wards to help protect the lair |
+| 4 | Sabotage the efforts of other young dragons to establish lairs in the local area |
+| 5 | Earn the fear and respect of other creatures living near the lair through displays of power |
+| 6 | Secure the allegiance of loyal and powerful minions |
+^young-dragon-goals
+
+</div></div>
+
 
 #### Adult Dragons
 
@@ -129,9 +368,36 @@ After their first century of life, adult dragons are mighty beings, akin to char
 
 Most adult dragons establish additional lairs to expand their territory. These lairs are usually set 50 to 75 miles apart, so the dragon can fly from one to the next in a single day's travel. An adult dragon typically hunts the area around one lair for a month or more, then moves on to another lair. The dragon's magical connection to a lair can transform the surrounding region, as represented by regional effects.
 
-![Adult blue dragon](/Rules/Source/books/fizbans-treasury-of-dragons/img/019-03-007-adult-blue-dragon.webp#center)
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/019-03-007-adult-blue-dragon.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/019-03-007-adult-blue-dragon.webp)
 
-![Adult Dragons; Adult Dragon Goals](/Rules/Source/tables/adult-dragons-adult-dragon-goals-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/adult-dragons-adult-dragon-goals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Adult Dragons; Adult Dragon Goals
+
+</div>
+
+
+
+# Adult Dragons; Adult Dragon Goals
+*Source: Fizban's Treasury of Dragons p. 36* 
+
+**Adult Dragon Goals**
+
+| dice: d6 | Goal |
+|----------|------|
+| 1 | Find a good location for an additional lair |
+| 2 | Acquire an artifact or a powerful magic item for the hoard |
+| 3 | Establish a dynastic bloodline by producing young |
+| 4 | Eliminate younger dragons who could become rivals or threats if they are allowed to grow older |
+| 5 | Transform a large region into an environment suitable for the dragon's preferred sort of lair |
+| 6 | Develop dragonsight to pursue goals across multiple worlds |
+^adult-dragon-goals
+
+</div></div>
+
 
 > [!note] Dragons and Territory
 > 
@@ -145,7 +411,7 @@ Most adult dragons establish additional lairs to expand their territory. These l
 
 
 
-![Ancient blue dragon](/Rules/Source/books/fizbans-treasury-of-dragons/img/020-03-008-ancient-blue-dragon.webp#center)
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/020-03-008-ancient-blue-dragon.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/020-03-008-ancient-blue-dragon.webp)
 
 #### Ancient Dragons
 
@@ -157,7 +423,34 @@ An ancient dragon typically has several lairs, each one suffused with powerful m
 
 The oldest ancient dragons sometimes transform into mythic creatures of godlike power. These greatwyrms, described in chapter 6, are nearly perfect avatars of draconic nature and are so suffused with the magic of the Material Plane that they are all but immortal. Many result from ancient dragons ritually combining multiple echoes of themselves into a single corporeal form, as Ashardalon and Chronepsis are said to have done. Most greatwyrms are at least twelve centuries old and have hoards worth millions of gold pieces, but they are otherwise similar to other ancient dragons in their goals and perspectives.
 
-![Greatwyrms; Ancient Dragon Goals](/Rules/Source/tables/greatwyrms-ancient-dragon-goals-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/greatwyrms-ancient-dragon-goals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Greatwyrms; Ancient Dragon Goals
+
+</div>
+
+
+
+# Greatwyrms; Ancient Dragon Goals
+*Source: Fizban's Treasury of Dragons p. 37* 
+
+**Ancient Dragon Goals**
+
+| dice: d6 | Goal |
+|----------|------|
+| 1 | Avoid decline by becoming Undead or seeking magical alternatives to aging |
+| 2 | Transcend the limits of physical existence on a single world by uniting echoes across multiple worlds or establishing a lair on another plane of existence |
+| 3 | Acquire a particular artifact, perhaps to complete a set (all three parts of the Regalia of Evil, the [[Rules/Source/items/eye-of-vecna-xdmg\|Eye of Vecna]] and [[Rules/Source/items/hand-of-vecna-xdmg\|Hand of Vecna]], and so forth) |
+| 4 | Collect a complete set of artistic treasures, such as all the paintings of a great master, manuscripts for a famed author's entire body of writings, or every piece of jewelry made by a master artisan |
+| 5 | Transform an entire world into an extreme environment suitable as a lair—a volcanic hellscape, a frozen wonderland, an arid wasteland, or the like |
+| 6 | Destroy one or more gods as an act of vengeance or to ascend to godhood |
+^ancient-dragon-goals
+
+</div></div>
+
 
 ### Reproduction
 
@@ -167,11 +460,42 @@ The oldest ancient dragons sometimes transform into mythic creatures of godlike 
 
 Dragon reproduction varies from world to world in the Material Plane and can vary further depending on the family, kind, or individual nature of the dragons involved. Humanoids observing dragons have long assumed that their reproductive cycle resembles that of mundane reptiles—that two dragons of different sexes mate and produce a clutch of eggs. Sometimes, on some worlds, this is true, but dragon reproduction covers a wide range of other possibilities. You can use the Origin of Dragon Eggs table to choose a method of reproduction that holds true for all dragons on your world, to determine the origin of a specific clutch of eggs, or for anything in between.
 
-![Reproduction; Origin of Dragon Eggs](/Rules/Source/tables/reproduction-origin-of-dragon-eggs-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/reproduction-origin-of-dragon-eggs-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Reproduction; Origin of Dragon Eggs
+
+</div>
+
+
+
+# Reproduction; Origin of Dragon Eggs
+*Source: Fizban's Treasury of Dragons p. 38* 
+
+**Origin of Dragon Eggs**
+
+| dice: d10 | Origin |
+|-----------|--------|
+| 1 | **Spontaneous Reincarnation**. When an adult or older dragon dies, one or more eggs form in the dragon's decomposing body. These eggs might grow like fungus as the body rots away, they could appear among the ashes after the body is consumed by fire, or they might need to be mined out from a corpse that has turned to solid stone or metal. |
+| 2 | **Seedlings of the First World**. At the heart of the world (underground, or in a remote area of pristine wilderness) stands a tree on which dragon eggs grow like fruit. Once in a lifetime, each dragon feels an overwhelming urge to seek out this tree. After finding it, the dragon must persuade its guardian to relinquish one or more eggs. |
+| 3 | **Consuming Treasure**. By eating a significant portion of their own hoards, dragons cause themselves to lay clutches of eggs. |
+| 4 | **Magical Crafting**. Mirroring the creative acts of Bahamut and Tiamat, dragons craft their eggs through painstaking labor, then breathe the gift of life into them. |
+| 5 | **Draconic Transformation**. Enlightened non-dragons (most often Humanoids) are transformed into dragon eggs when they die, when they experience profound enlightenment, or when they undergo a ritual that might involve bathing in dragon blood or being devoured by a dragon. Humanoids and dragons alike understand the transformation to be a transition into a higher state of existence. |
+| 6 | **Divine Origin**. Only Bahamut and Tiamat can create dragon eggs—each egg is the result of divine intervention. |
+| 7 | **Spontaneous Formation**. Dragon eggs arise naturally in certain regions, often in underground veins of metal ore or gems for metallic and gem dragons, respectively, or in extreme environments (volcanoes, arctic wastes, deadly swamps, and so forth) for chromatic dragons. The eggs might hatch on their own, or they might have to be unearthed first by another creature, whether that's an adult or older dragon or a hapless miner. |
+| 8 | **Parthenogenesis**. An adult or older dragon can lay a clutch of eggs whenever the dragon feels ready to rear a clutch of wyrmlings—or to impose that responsibility on others. |
+| 9 | **Dragon Conclave**. Five adult or older dragons of different kinds come together to create a clutch of eggs, with each giving up a bit of life energy as part of the process. This clutch of eggs hatches five dragons of different kinds, depending on the dragons making up the conclave. |
+| 10 | **Rejuvenation**. An ancient dragon voluntarily enters a deep trance and eventually dies, leaving behind a single egg. |
+^origin-of-dragon-eggs
+
+</div></div>
+
 
 Once an egg comes into being, it must mature before it is ready to hatch into a wyrmling. Typically, an egg thrives only in an environment appropriate for a dragon of its kind—nestled in a pool of lava for a red or gold dragon, in ice for a white or silver dragon, in rotting vegetation for a black or green dragon, in sun-heated sand for a brass or blue dragon, or in a storm-wracked sea cave or inhospitable moorland for a bronze or copper dragon. Gem dragon eggs generally incubate encased in rock or in small caves. The incubation period for any egg might range from 6 months to several decades or longer.
 
-![Miners discover an amethyst dragon egg](/Rules/Source/books/fizbans-treasury-of-dragons/img/021-03-009-miners-discover.webp#center)
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/021-03-009-miners-discover.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/021-03-009-miners-discover.webp)
 
 #### Half-Dragons
 
@@ -181,7 +505,34 @@ Dragons create half-dragon progeny for a wide range of reasons. Some dragons cre
 
 In some worlds, these same phenomena might explain the origins of dragonborn, kobolds, and perhaps the draconic gifts described in chapter 2.
 
-![Half-Dragons; Half-Dragon Origin](/Rules/Source/tables/half-dragons-half-dragon-origin-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/half-dragons-half-dragon-origin-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Half-Dragons; Half-Dragon Origin
+
+</div>
+
+
+
+# Half-Dragons; Half-Dragon Origin
+*Source: Fizban's Treasury of Dragons p. 39* 
+
+**Half-Dragon Origin**
+
+| dice: d6 | Origin |
+|----------|--------|
+| 1 | **Regional Effects**. The magical influence of a dragon's lair causes half-dragons to spontaneously arise among the area's other creatures. |
+| 2 | **Forbidden Fruit**. A dragon can cause a particular tree to produce magical fruit. When eaten by a creature able to bear children, the fruit causes the creature to bear a half-dragon. |
+| 3 | **True Love's Gift**. Love occasionally blossoms between dragons and creatures of other kinds, and this life bond can result in half-dragon children. Most half-dragons born of love are created as a magical gift. |
+| 4 | **Blood Transformation**. A creature that bathes in or drinks the blood of a dragon can sometimes be transformed into a half-dragon. A dragon might voluntarily offer some blood to bring this about, or it could happen accidentally when a would-be dragonslayer is splashed with dragon blood. |
+| 5 | **Cradle Favor**. A dragon might bestow the gift of draconic power on a newborn baby or an unborn child—as either a blessing or a curse. |
+| 6 | **Hoard Thieves**. The hoard of an older dragon is imbued with that dragon's power. Those who steal from such a hoard might transform into half-dragons as that power leaches into them. |
+^half-dragon-origin
+
+</div></div>
+
 
 ### Death of a Dragon
 
@@ -193,7 +544,34 @@ Dragons are intimately bound up with the fabric of magic that undergirds the Mat
 
 Some sages describe dragons as being akin to knots in the fabric of magic—concentrations of power in material form. When a dragon dies, that knot is undone, sometimes resulting in a surge of magical energy. You can use the Dragon Death Throes table to help you decide what happens when a dragon dies. Characters who slay a dragon are often on their last legs when the dragon finally succumbs, so if an effect is likely to kill a character, roll again or choose a less dangerous result.
 
-![Death of a Dragon; Dragon Death Throes](/Rules/Source/tables/death-of-a-dragon-dragon-death-throes-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/death-of-a-dragon-dragon-death-throes-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Death of a Dragon; Dragon Death Throes
+
+</div>
+
+
+
+# Death of a Dragon; Dragon Death Throes
+*Source: Fizban's Treasury of Dragons p. 40* 
+
+**Dragon Death Throes**
+
+| dice: d6 | Effect |
+|----------|--------|
+| 1 | The dragon immediately uses one of its lair actions, centering the effect on itself. For example, a fallen black dragon and any characters around it might be pulled into a nearby pool of water, and a copper dragon's body might be swallowed suddenly in mud. |
+| 2 | The dragon uses its breath weapon one last time. |
+| 3 | The dragon's body transforms into stone, metal, lava, ice, or mist. Or the body dissipates, leaving behind only a transformed heart or other organ. |
+| 4 | Roll on the [[Rules/Source/tables/wild-magic-surge-xphb\|Wild Magic Surge]] table in the "[[Rules/Source/classes/sorcerer-xphb\|Sorcerer]]" section of the "Player's Handbook", rerolling any inappropriate result. |
+| 5 | A surge of life energy erupts from the dragon, causing each creature within 120 feet of the body to gain the benefit of finishing a long rest. |
+| 6 | The body is drawn through a portal to the lair of one of the dragon's echoes on another world, increasing that echo's power. |
+^dragon-death-throes
+
+</div></div>
+
 
 #### Regional Reversal
 
@@ -240,9 +618,36 @@ Whatever form an Undead dragon takes, the creature's transformation ripples thro
 
 The Undead Dragon Adventure Hooks table translates some of these ideas into inspiration for adventures revolving around Undead dragons.
 
-![Undeath; Undead Dragon Adventure Hooks](/Rules/Source/tables/undeath-undead-dragon-adventure-hooks-ftd.md)
 
-![The black dracolich Ebonde...](/Rules/Source/books/fizbans-treasury-of-dragons/img/022-03-010-the-black-dracolich.webp#center "The black dracolich Ebondeath is venerated by a sect of the Cult of the Dragon")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/undeath-undead-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Undeath; Undead Dragon Adventure Hooks
+
+</div>
+
+
+
+# Undeath; Undead Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 41* 
+
+**Undead Dragon Adventure Hooks**
+
+| dice: d6 | Adventure Hook |
+|----------|----------------|
+| 1 | A dragon seeks help, desperate to prevent a dracolich-worshiping cult from convincing the dragon's sibling, mate, or rival to become a dracolich. |
+| 2 | A dragon suffering from a wasting affliction asks the characters to travel to another world, where they must destroy an echo of that dragon who has become a dracolich. |
+| 3 | A pirate crew under the command of a [[Rules/Source/bestiary/undead/ghost-dragon-ftd\|ghost dragon]] fights to recover the dead dragon's scattered hoard. |
+| 4 | A [[Rules/Source/bestiary/undead/hollow-dragon-ftd\|hollow dragon]] guards an artifact meant to be used in the dire circumstances foretold in an ancient prophecy. Now the prophecy is coming to pass, but the dragon won't let the artifact be used for its intended purpose. |
+| 5 | A gem dragon from another world is searching for the dragon's echo, which has become a [[Rules/Source/bestiary/undead/draconic-shard-ftd\|draconic shard]]. |
+| 6 | A dracolich keeps returning after being destroyed. The dracolich's connection to its echoes on other worlds is keeping its soul intact, like a phylactery, and the connection must be severed before the creature's threat can be ended. |
+^undead-dragon-adventure-hooks
+
+</div></div>
+
+
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/022-03-010-the-black-dracolich.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/022-03-010-the-black-dracolich.webp)
 
 ### Echoes across the Worlds
 
@@ -254,7 +659,36 @@ Dragons' unique connection to the magic of the Material Plane and the history of
 
 You can use the Dragon Echo Characteristics table to help you decide what aspects of a dragon's echo are similar to the dragon you know and which are different. You can then use the other tables in this chapter (including the "Dragon Appearance", "Dragon Mannerisms", "Dragon Bonds", and "Dragon Flaws and Secrets" tables), as well as the tables of personality traits and ideals in chapter 5, to help you elaborate the differences between one dragon and the dragon's echo.
 
-![Echoes across the Worlds; Dragon Echo Characteristics](/Rules/Source/tables/echoes-across-the-worlds-dragon-echo-characteristics-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/echoes-across-the-worlds-dragon-echo-characteristics-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Echoes across the Worlds; Dragon Echo Characteristics
+
+</div>
+
+
+
+# Echoes across the Worlds; Dragon Echo Characteristics
+*Source: Fizban's Treasury of Dragons p. 42* 
+
+**Dragon Echo Characteristics**
+
+| dice: d8 | Echo Characteristics |
+|----------|----------------------|
+| 1 | Same dragon kind and age, differing only in physical appearance |
+| 2 | Same dragon kind and age, differing only in a peculiar mannerism |
+| 3 | Same dragon kind and age, but significantly different in personality, ideals, or alignment |
+| 4 | Same dragon kind and generally alike, but older or younger by one category |
+| 5 | Same age, different kind within the same family (chromatic, gem, or metallic), and similar in appearance and personality |
+| 6 | Same age, different kind in a different family (with a similar breath weapon or habitat), with similar appearance but very different ideals or alignment |
+| 7 | Radically different in almost every way imaginable but still bound by fate across the worlds |
+| 8 | Roll again, and in addition the echo is Undead (a dracolich, [[Rules/Source/bestiary/undead/hollow-dragon-ftd\|hollow dragon]], [[Rules/Source/bestiary/undead/ghost-dragon-ftd\|ghost dragon]], or [[Rules/Source/bestiary/undead/draconic-shard-ftd\|draconic shard]]) or a shadow dragon. |
+^dragon-echo-characteristics
+
+</div></div>
+
 
 ### Gods and Religion
 
@@ -268,7 +702,7 @@ On many worlds, Humanoids worship Bahamut and Tiamat as gods. On Krynn, they are
 
 Dragons view the primordial dragons differently. To metallic dragons, Bahamut is more like a king than a god. Individual dragons might owe Bahamut allegiance, respect him, pay tribute to him, and strive to emulate him. Similarly, chromatic dragons might fear, respect, envy, and appease Tiamat as a sovereign. But none of those attitudes and behaviors bear any resemblance in a dragon's mind to the worship that mortals offer to their gods.
 
-![Bahamut is often accompani...](/Rules/Source/books/fizbans-treasury-of-dragons/img/023-03-011-bahamut.webp#center "Bahamut is often accompanied by seven ancient gold dragons in his journeys on the Material Plane")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/023-03-011-bahamut.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/023-03-011-bahamut.webp)
 
 A few other dragons also command reverence from their kin. These are often greatwyrms who have undergone a sort of apotheosis, joining multiple echoes of themselves into a single powerful form. A few are ancient dragons who have cultivated their dragonsight to such a degree that they can coordinate the actions of their echoes across the Material Plane, influencing events on multiple worlds at once. Humanoids might consider these dragons gods, but as with Bahamut and Tiamat, dragons respect these figures for their wisdom, their might, their magic, and their wealth; they don't worship them. Such enlightened dragons include Aasterinian (a brass dragon who serves as a messenger for Bahamut and is sometimes identified as a god of invention), Chronepsis (a black dragon who now resides in the Outlands, sometimes imagined as a god of fate), and Tamara (a silver dragon of transcendent beneficence, described as a god of life). A number of such dragons of legend are discussed in more detail in sidebars in chapters 5 and 6.
 
@@ -324,9 +758,36 @@ Since the failure of Severin's effort to bring Tiamat into the world, the Cult o
 
 The Tyranny of Dragons adventure details the cult's efforts to bring Tiamat's avatar into the world. Beyond that plot, the Cult of the Dragon Adventure Hooks table offers suggestions for how adventurers might encounter this sinister cult.
 
-![Cult of the Dragon Adventure Hooks](/Rules/Source/tables/cult-of-the-dragon-adventure-hooks-ftd.md)
 
-![An adventurer closes a por...](/Rules/Source/books/fizbans-treasury-of-dragons/img/024-03-012-an-adventurer-closes.webp#center "An adventurer closes a portal, preventing an agent of Tiamat from emerging to aid the Cult of the Dragon")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/cult-of-the-dragon-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Cult of the Dragon Adventure Hooks
+
+</div>
+
+
+
+# Cult of the Dragon Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 45* 
+
+**Cult of the Dragon Adventure Hooks**
+
+| dice: d6 | Adventure Hook |
+|----------|----------------|
+| 1 | A group of cultists has stolen a dragon egg, with the dual goal of hatching a minion for themselves and gaining leverage over the dragon who was caring for the egg. But the dragon wants the egg back. |
+| 2 | A group of cultists is trying to access a magic portal linking the Material Plane to Tiamat's domain, hoping to break the seal that has kept the portal closed for centuries. |
+| 3 | A dragon whose echo on another world has become a dracolich suffers from a wasting affliction (see "Undeath" above). Members of the Cult of the Dragon are trying to persuade the afflicted dragon to become a dracolich as well. |
+| 4 | A dragon and a dracolich, representing the opposing factions of the Cult of the Dragon, war against each other. Their battle is devastating the region between their lairs and endangers countless innocents. |
+| 5 | A group of cultists searches for all the [[Rules/Source/items/orb-of-dragonkind-xdmg\|Orbs of Dragonkind]], planning to use them to bend dragons to their will. |
+| 6 | A fringe group of cultists decides to focus on the "shattered thrones" part of the ancient prophecy and attempts to assassinate rulers and destroy their seats of power. |
+^cult-of-the-dragon-adventure-hooks
+
+</div></div>
+
+
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/024-03-012-an-adventurer-closes.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/024-03-012-an-adventurer-closes.webp)
 
 #### The Chamber
 
@@ -348,7 +809,34 @@ Most agents of the Chamber assume the Draconic Prophecy is concerned only with t
 
 "Eberron: Rising from the Last War" contains abundant ideas for adventures related to the Chamber's activities on Eberron. The Chamber Adventure Hooks table here suggests additional ways characters on other worlds might become entangled in the schemes and experiments of the Chamber, by way of agents whose awareness extends beyond Eberron.
 
-![Chamber Adventure Hooks](/Rules/Source/tables/chamber-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/chamber-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Chamber Adventure Hooks
+
+</div>
+
+
+
+# Chamber Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 46* 
+
+**Chamber Adventure Hooks**
+
+| dice: d6 | Adventure Hook |
+|----------|----------------|
+| 1 | An agent of the Chamber has plundered the research of an eccentric sage whose work is widely considered nonsense, suggesting that something important is hidden in the sage's notes. |
+| 2 | A dragon of the Chamber is convinced that dragonmarked Humanoids on Eberron have echoes on other worlds of the Material Plane, and seeks ways to identify them. |
+| 3 | A dragon of the Chamber draws the characters from one Material Plane world to another, trying to glean information about the Prophecy by examining the relationship between the two worlds. |
+| 4 | A member of the Chamber seeks to hire the characters to explore a dungeon that was recently discovered behind a sigil-inscribed stone seal. |
+| 5 | A member of the Chamber believes that one of the characters could serve as "the Child of Winter" (or some similar title) mentioned in the Prophecy and tries to manipulate the character into bringing the terms of the Prophecy to pass. |
+| 6 | A Fiend tries to trick the characters into slaying a dragon belonging to the Chamber. |
+^chamber-adventure-hooks
+
+</div></div>
+
 
 #### Hidecarved Dragons
 
@@ -358,7 +846,34 @@ On worlds across the Material Plane, dragons gather in small communities of thre
 
 Dragons most often form a lauth when they identify a shared goal whose completion requires the sustained effort of a diverse group of dragons. The Lauth Goals table offers a few examples.
 
-![Common Purpose; Lauth Goals](/Rules/Source/tables/common-purpose-lauth-goals-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/common-purpose-lauth-goals-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Common Purpose; Lauth Goals
+
+</div>
+
+
+
+# Common Purpose; Lauth Goals
+*Source: Fizban's Treasury of Dragons p. 47* 
+
+**Lauth Goals**
+
+| dice: d6 | Goal |
+|----------|------|
+| 1 | Support the establishment of a powerful empire to maintain order in the lauth's territory |
+| 2 | Bring about the downfall of a powerful empire |
+| 3 | End the influence of Aberrations originating in the Underdark |
+| 4 | Seek out and destroy hundreds of cursed magic items created by an ancient lich |
+| 5 | Destroy an archdevil, a demon prince, a powerful Celestial, or an archfey whose extraplanar influence is altering the lauth's territory |
+| 6 | Bring about (or prevent) the fulfillment of a prophecy uttered by an ancient dragon centuries ago |
+^lauth-goals
+
+</div></div>
+
 
 ##### Diverse Dragons
 
@@ -368,9 +883,36 @@ The hidecarved dragons of a lauth share a goal but often have little else in com
 
 The arcane markings carved into hidecarved dragons' scales are magical protections, intended to make the dragons more resilient against the threats they might face in carrying out the lauth's purpose. The longer dragons stay with a lauth, the more wards they receive. Most hidecarved dragons have one of these wards plus an additional ward for each age category above wyrmling. You can roll for these effects on the Hidecarved Wards table or choose effects as you wish.
 
-![Hidecarved dragons adorn t...](/Rules/Source/books/fizbans-treasury-of-dragons/img/025-03-013-hidecarved-dragons.webp#center "Hidecarved dragons adorn their scales with mystic words")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/025-03-013-hidecarved-dragons.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/025-03-013-hidecarved-dragons.webp)
 
-![Engraved Wards; Hidecarved Wards](/Rules/Source/tables/engraved-wards-hidecarved-wards-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/engraved-wards-hidecarved-wards-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Engraved Wards; Hidecarved Wards
+
+</div>
+
+
+
+# Engraved Wards; Hidecarved Wards
+*Source: Fizban's Treasury of Dragons p. 47* 
+
+**Hidecarved Wards**
+
+| dice: d6 | Ward Effect |
+|----------|-------------|
+| 1 | **Immutability**. The dragon is immune to any spell or effect that would alter its form. |
+| 2 | **Inscrutability**. The dragon is immune to any effect that would sense its emotions or read its thoughts. Wisdom ([[Rules/Source/skills#Insight\|Insight]]) checks made to ascertain its intentions or sincerity have disadvantage. |
+| 3 | **Magic Resistance**. The dragon has advantage on saving throws against spells and other magical effects. |
+| 4 | **Damage Resistance**. The dragon has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. |
+| 5 | **Additional Resistance**. The dragon has resistance to one type of damage. Roll a `d8`, rerolling if you get a damage type the dragon is already resistant or immune to: 1, acid; 2, cold; 3, fire; 4, lightning; 5, necrotic: 6, psychic; 7, radiant; 8, thunder. |
+| 6 | **Death Ward**. The dragon can cast the [[Rules/Source/spells/death-ward-xphb\|death ward]] spell on itself and regains the ability to do so after a long rest. |
+^hidecarved-wards
+
+</div></div>
+
 
 ##### Mystic Markings
 
@@ -380,7 +922,34 @@ The sigils engraved in the scales of a hidecarved dragon echo across the Materia
 
 The Hidecarved Dragons Adventure Hooks table offers suggestions for how this order of dragons might get caught up in the affairs of adventurers.
 
-![Hidecarved Dragons Adventure Hooks](/Rules/Source/tables/hidecarved-dragons-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/hidecarved-dragons-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Hidecarved Dragons Adventure Hooks
+
+</div>
+
+
+
+# Hidecarved Dragons Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 48* 
+
+**Hidecarved Dragons Adventure Hooks**
+
+| dice: d6 | Adventure Hook |
+|----------|----------------|
+| 1 | A hidecarved dragon hires the characters to undertake a quest in pursuit of the lauth's goal. |
+| 2 | A lauth becomes convinced that their goal demands the destruction of the characters. |
+| 3 | A lauth unexpectedly aids the characters' quest, which aligns with the hidecarved dragons' goal. |
+| 4 | A lauth opposes the characters' quest, which is at odds with the hidecarved dragons' goal. |
+| 5 | Following reports of a dangerous dragon in the region, the characters discover the dragon is part of a lauth whose goal is worth aiding. |
+| 6 | A dragon asks the characters to help figure out why mysterious arcane markings have suddenly appeared on the dragon's scales. Solving this puzzle might mean journeying to another world or finding a way to help awaken the dragon's dragonsight. |
+^hidecarved-dragons-adventure-hooks
+
+</div></div>
+
 
 #### Inheritors of the First World
 
@@ -408,7 +977,34 @@ A central tenet of the Inheritors of the First World is that a reborn Sardior wi
 
 The Inheritors of the First World Adventure Hooks table offers suggestions for how characters might become involved with this apocalyptic sect.
 
-![Inheritors of the First World Adventure Hooks](/Rules/Source/tables/inheritors-of-the-first-world-adventure-hooks-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/inheritors-of-the-first-world-adventure-hooks-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Inheritors of the First World Adventure Hooks
+
+</div>
+
+
+
+# Inheritors of the First World Adventure Hooks
+*Source: Fizban's Treasury of Dragons p. 49* 
+
+**Inheritors of the First World Adventure Hooks**
+
+| dice: d6 | Adventure Hook |
+|----------|----------------|
+| 1 | A fleeing foe disappears into a magic portal linked to another world of the Material Plane. When the characters follow this enemy, they draw the attention of dragons who want to know more about the world they came from. |
+| 2 | The lair of a gem dragon turns out to be a magical nexus containing portals linked to the lairs of the dragon's echoes on several other worlds. |
+| 3 | The characters discover an enormous ruby deep in the Underdark. When word of their find gets out, the gem becomes the target of thieves and eventually of dragons who believe it is the heart of Sardior and a key to the Ruby Dragon's return. |
+| 4 | A dragon offers to pay the characters handsomely if they travel to another world. There, they must make contact with the dragon's echo and solve the mystery of why their patron has been unable to learn dragonsight. |
+| 5 | Priests or dragon servitors of Bahamut send the characters to combat the Inheritors of the First World, worried that any attempt to restore Bahamut and Tiamat's primal creation will anger the gods and rekindle the ancient wars between dragons and Humanoids. |
+| 6 | Dragons establish a permanent portal connecting two worlds of the Material Plane, establishing an exciting era of discovery and trade between them. But the longer the portal remains open, the larger it grows, seemingly drawing the two worlds together into a catastrophic collision. |
+^inheritors-of-the-first-world-adventure-hooks
+
+</div></div>
+
 
 ## Followers
 
@@ -446,7 +1042,7 @@ An emperor might rule openly in dragon form, which discourages aggressive neighb
 
 The size of a dragon's territory is irrelevant to the "emperor" role. A dragon who acts as a mayor for a small frontier town has the same kind of relationship with the populace as one who rules a continent-spanning nation.
 
-![To Kugluk, the fiery breat...](/Rules/Source/books/fizbans-treasury-of-dragons/img/026-03-014-to-kugluk.webp#center "To Kugluk, the fiery breath of his &quot;Great Uncle&quot; is a toasty blessing")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/026-03-014-to-kugluk.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/026-03-014-to-kugluk.webp)
 
 #### God
 
@@ -484,7 +1080,48 @@ The combination of ego and intellect can lead a dragon to become a military lead
 
 Depending on the dragon's age and the power and number of minions involved, a dragon warlord might be a local menace or an imperial conqueror.
 
-![Warlord; Relationships and Adventures](/Rules/Source/tables/warlord-relationships-and-adventures-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/warlord-relationships-and-adventures-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Warlord; Relationships and Adventures
+
+</div>
+
+
+
+# Warlord; Relationships and Adventures
+*Source: Fizban's Treasury of Dragons p. 51* 
+
+**Relationships and Adventures**
+
+| dice: d20 | Adventure Hook |
+|-----------|----------------|
+| 1 | The dragon is trying to eliminate a business rival through ruthless competition or underhanded means, and the rival seeks the characters' help. (Business owner) |
+| 2 | A struggling merchant hires the characters to identify a mysterious competitor who seems to have unlimited resources. (Business owner) |
+| 3 | A repentant enemy comes to the characters, telling them that a former companion of the enemy is actually a manipulative dragon—and asking them to help get revenge. (Companion) |
+| 4 | The characters develop an ever-closer friendship with a secretive person who seems to have inexhaustible wealth and an endless supply of useful information. (Companion) |
+| 5 | A city council asks the characters to help put an end to a deadly war between two criminal gangs, not knowing one of the gangs is led by a dragon. (Crime boss) |
+| 6 | While the characters fight a crime family in a major city, they discover their patron is a dragon hoping to take over the criminal enterprise. (Crime boss) |
+| 7 | A small nation is worried about the aggressive expansion of a dragon-ruled empire on the opposite side of a desert, ocean, or mountain range. Its leaders seek aid from powerful adventurers who can protect the nation from conquest. (Emperor) |
+| 8 | As the characters become powerful enough that they might conceivably threaten a dragon ruler, they are given a choice: enter government service or face exile in the wild borderlands. (Emperor) |
+| 9 | Two nobles worry about the amount of money their heir is donating to a new temple. (God) |
+| 10 | A dragon with developed dragonsight is trying to bring together worshipers from multiple worlds to perform a ritual that will let the dragon ascend to true godhood. (God) |
+| 11 | A dragon noble's servants have kidnapped a well-known storyteller or musician because the dragon is having trouble sleeping. (Noble) |
+| 12 | An aristocrat is being blackmailed by someone threatening to reveal that the noble is actually a dragon in disguise. (Noble) |
+| 13 | When the characters defeat a powerful enemy, the enemy's "pet" dragon tries to adopt the characters. (Parental figure) |
+| 14 | When the characters kill a dragon's minions, the distraught dragon surrenders and agrees to leave the area—while secretly plotting revenge against the party. (Parental figure) |
+| 15 | Another group of adventurers—supplied with superior equipment and information by their dragon patron—is pursuing the same goal as the characters. (Patron) |
+| 16 | Local aristocrats complain that the best artists and performers are being lured away by a mysterious patron's promises of riches. (Patron) |
+| 17 | A dragon can teach great magical secrets. But any would-be disciples must prove their worth by acquiring a valuable item to add to the dragon's hoard. (Teacher) |
+| 18 | A dragon teacher from a character's past (whom the character might not know is a dragon) asks for help tracking down a student who has turned to evil. (Teacher) |
+| 19 | A marauding group of bandits has grown from an irritation to a significant threat after coming under the leadership of a dragon. (Warlord) |
+| 20 | The warlike minions of two dragons are clashing in skirmishes across the region, devastating peaceful villages and farmlands. (Warlord) |
+^relationships-and-adventures
+
+</div></div>
+
 
 ### Dragons' Minions
 
@@ -519,9 +1156,50 @@ Whether you're crafting a whole adventure around a dragon or just want to throw 
 
 With these four questions in mind, you can look to the Dragon Encounter Complications table for suggestions of quirks, special effects, and unusual situations that can make any dragon encounter more interesting and exciting.
 
-![An encounter with a dragon...](/Rules/Source/books/fizbans-treasury-of-dragons/img/027-03-015-an-encounter-with-a-dragon.webp#center "An encounter with a dragon can be devastating to people and property alike")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/027-03-015-an-encounter-with-a-dragon.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/027-03-015-an-encounter-with-a-dragon.webp)
 
-![Dragon Encounters; Dragon Encounter Complications](/Rules/Source/tables/dragon-encounters-dragon-encounter-complications-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-encounters-dragon-encounter-complications-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon Encounters; Dragon Encounter Complications
+
+</div>
+
+
+
+# Dragon Encounters; Dragon Encounter Complications
+*Source: Fizban's Treasury of Dragons p. 53* 
+
+**Dragon Encounter Complications**
+
+| dice: d20 | Complication |
+|-----------|--------------|
+| 1 | The dragon has no interest in fighting and tries to avoid the characters, until they anger the dragon through significantly injury or insult. |
+| 2 | The dragon is too bored to fight and offers the characters a tiny amount of treasure if they'll leave. |
+| 3 | The dragon hates a certain type of character (sneaky rogues, healers, or heavily armored fighters, perhaps) and directs at least one attack each round at such a character. |
+| 4 | The dragon tries to drive the characters off by emotionally hurting or humiliating them—threatening something they obviously care about, damaging their equipment, insulting them, or showing how ineffectual their attacks are. |
+| 5 | The dragon has a way to call for help hidden deep inside the lair, such as a magic horn that summons minions, an [[Rules/Source/items/iron-flask-xdmg\|iron flask]] with a powerful Fiend inside, or a magic portal to an echo's lair. The characters must prevent the dragon from summoning aid or face a new threat. |
+| 6 | The dragon is desperately trying to protect a particular treasure, one or more eggs, or perhaps a minion, bargaining to protect this treasure and flying into a rage if it is harmed. |
+| 7 | The previous occupant of the dragon's lair left behind a curse, a trap, or a lingering spirit that clever characters can turn against the dragon. |
+| 8 | The dragon's lair is almost impossible to navigate without access to one or more of the dragon's special movement modes (typically flight, but possibly burrowing, swimming, or climbing). |
+| 9 | It's been so long since anyone has dared to intrude on the dragon's lair that the dragon is more interested in showing off the lair—and impressive lair actions—than in doing serious harm to the characters. If the characters escape and spread stories of the dragon's grandeur, so much the better. |
+| 10 | When the dragon is agitated, the regional effects that alter the terrain around the lair create visible changes around the dragon each round. |
+| 11 | Factions and grudges within the ranks of the dragon's minions erupt when the characters challenge the dragon, resulting in infighting that might tip the odds in the main battle in either direction. |
+| 12 | A feature in the dragon's lair has an unpredictable magical effect, perhaps similar to a [[Rules/Source/items/wand-of-wonder-xdmg\|wand of wonder]], a sorcerer's [[Rules/Source/tables/wild-magic-surge-xphb\|Wild Magic Surge]], or a "dungeon trick" as described in the "Dungeon Master's Guide". The dragon avoids the feature unless the encounter is going badly, then either activates the feature or tries to goad the characters into doing so. |
+| 13 | Spell effects and breath weapons used inside the dragon's lair cause dramatic destruction, including chasms opening up, ceilings collapsing, pillars toppling, and other effects that can damage or hinder the characters and the dragon equally. |
+| 14 | The dragon has a rival who notices the characters approaching the dragon's lair and keeps tabs on the fight. This rival might step in to help the characters or the dragon, depending on the circumstances, or might ambush the characters when they leave the dragon's lair. |
+| 15 | The dragon takes tremendous pleasure in adopting Humanoid form and pretending to be a minion, groveling and sniveling when intruders enter the lair and claiming that the dragon is away. |
+| 16 | The dragon's only goal is to learn a key piece of information about the characters' larger goals and then escape. |
+| 17 | The dragon enjoys combat, roaring in appreciation each time the characters pull off effective attacks or flashy spells. But if seriously hurt, the dragon quickly calls for a truce. |
+| 18 | Each round of combat with the dragon, the characters catch an eerie glimpse of another world where one of the dragon's echoes is active. |
+| 19 | The dragon has a plan to feign death in case of attack—apparently being buried in a cave-in, tumbling into a deep chasm, drowning in lava, or some similarly dramatic exit. After escaping, the dragon plots revenge. |
+| 20 | At the same time the characters are confronting the dragon, another group of adventurers is confronting one of the dragon's echoes on another world. Halfway through the fight, either the dragons or the characters and the other adventurers switch places. |
+^dragon-encounter-complications
+
+</div></div>
+
 
 ## Dragon Adventures
 
@@ -541,7 +1219,7 @@ Three basic goals can provide the framework for a monstrous dragon adventure:
 - **Reclaim the Dragon's Lair.** A dragon has displaced an entire population to make a lair in the ruins of what was once a great city or stronghold. The people displaced want their home back, so the dragon must be removed. Killing the dragon is not necessarily the goal, but it's certainly one way to solve the problem.  
 - **Acquire the Dragon's Treasure.** The dragon's hoard contains unimaginable wealth—or perhaps one powerful artifact the characters desperately need to achieve some other goal. Slaying the dragon might be one option, but sneaking into the lair and stealing what the characters seek is another. The characters could even bargain with the dragon to acquire the needed item. Alternatively, a dragon might seek adventurers to recover items stolen from the dragon's hoard—with a threat that local folk will suffer if the characters fail.  
 
-![Sometimes the only solution is to slay the dragon](/Rules/Source/books/fizbans-treasury-of-dragons/img/028-03-016-sometimes-the-only-solution.webp#center)
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/028-03-016-sometimes-the-only-solution.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/028-03-016-sometimes-the-only-solution.webp)
 
 An adventure featuring a dragon in a monster's role lends itself to a location-based structure. That location is likely the dragon's lair, since it's difficult to pin a dragon down for an all-out fight in most other sites. You can use one of the lair maps in chapter 5 of this book as the key location for such an adventure, fleshing the site out with features and inhabitants using the "guidelines" in the "Dungeon Master's Guide".
 
@@ -551,7 +1229,34 @@ Most of the adventure hooks in this book involve the schemes a dragon might put 
 
 A dragon's schemes become the basis for an adventure when they intersect with the characters' lives. Most directly, the characters might be asked to aid the dragon's schemes or to oppose them. The Cross Purposes table provides inspiration to help you turn dragon-related adventure hooks into adventures that impact the characters in your game.
 
-![Dragon as Schemer; Cross-Purposes](/Rules/Source/tables/dragon-as-schemer-cross-purposes-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dragon-as-schemer-cross-purposes-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragon as Schemer; Cross-Purposes
+
+</div>
+
+
+
+# Dragon as Schemer; Cross-Purposes
+*Source: Fizban's Treasury of Dragons p. 56* 
+
+**Cross-Purposes**
+
+| dice: d6 | The Dragon's Schemes... |
+|----------|-------------------------|
+| 1 | ...directly target one or more characters. The adventure begins when the dragon or the dragon's minions confront the characters. |
+| 2 | ...threaten a character's bond or an NPC who's important to one or more characters. |
+| 3 | ...challenge a character's ideal or exploit a flaw. The character might hear rumors of the dragon's activity, spurring them into action. |
+| 4 | ...trap the characters between clashing forces. |
+| 5 | ...create an opportunity for a character to pursue a personal goal. |
+| 6 | ...cause an accident or catastrophe that threatens the characters. |
+^cross-purposes
+
+</div></div>
+
 
 An adventure featuring a dragon's schemes often works best as an "event-based adventure", as described in the "Dungeon Master's Guide". Whether the dragon is the villain, a patron, or an interested bystander, flesh out the dragon's personality, goals, and other traits using the tables and suggestions in this chapter and chapter 5. The dragon's lair might be a key location for the adventure (perhaps using a map from chapter 5), but the dragon's schemes could lead the characters anywhere—even to other worlds and planes of existence.
 
@@ -563,13 +1268,13 @@ The "Dragon Campaigns" section that follows discusses the world-ranging implicat
 
 Adventures at this scale might involve dragons as villains or as patrons, and they might well involve multiple dragons in conflict with each other. The characters might loyally serve one dragon in opposition to another, or they might attempt to play multiple dragons against one another—perhaps earning the ire of them all.
 
-![In the heart of the jungle...](/Rules/Source/books/fizbans-treasury-of-dragons/img/029-03-017-in-the-heart.webp#center "In the heart of the jungle, the black greatwyrm Rhashaak keeps watch over a ruined city")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/029-03-017-in-the-heart.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/029-03-017-in-the-heart.webp)
 
 ## Dragon Campaigns
 
 Dragons occupy a prominent place in most D&D worlds, but in some realms, they are central to a world's story. Consider these three examples.
 
-![Laurana and Kitiara—genera...](/Rules/Source/books/fizbans-treasury-of-dragons/img/030-03-018-laurana-and-kitiara.webp#center "Laurana and Kitiara—generals and dragonriders in opposing armies—battle in the temple of the Dragon Queen")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/030-03-018-laurana-and-kitiara.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/030-03-018-laurana-and-kitiara.webp)
 
 - **Krynn.** The home of the Dragonlance setting is the battleground for an unending conflict between Bahamut and Tiamat. Tiamat commands armies of draconians (described in chapter 6) formed from the corrupted eggs of metallic dragons, while heroes and villains alike ride mighty dragons into battle.  
 - **Council of Wyrms.** The Io's Blood isles are a vast domain governed by an assembly of ancient wyrms representing eighty-eight clans of chromatic, metallic, and gem dragons. The council's subjects include dozens of Humanoid peoples, some of whom serve as closely bonded aides to dragon masters.  
@@ -581,7 +1286,7 @@ If you want to build a campaign that puts dragons in a similarly prominent role,
 
 The "Dungeon Master's Guide" includes a discussion of "world-shaking events" that might define turning points at the start, middle, or end of a campaign. One way to give dragons a prominent role in your campaign is to apply a draconic twist to any of these events.
 
-![A half-dragon conqueror ac...](/Rules/Source/books/fizbans-treasury-of-dragons/img/031-03-019-a-half-dragon-conqueror.webp#center "A half-dragon conqueror acquiring an Orb of Dragonkind can throw a world into chaos")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/031-03-019-a-half-dragon-conqueror.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/031-03-019-a-half-dragon-conqueror.webp)
 
 - **Rise or Fall of a Leader or an Era.** A powerful dragon establishing a new lair in a region can be a singularly impactful event. Likewise, the death of an ancient dragon can cause dramatic changes in the world. The balance of power shifts. Established territories are suddenly contested or might be undefended against other perils. The dragon's hoard represents tremendous wealth flowing through a single region. Entire populations of Humanoids or monsters might move in or out of the dragon's territory.  
 - **Cataclysmic Disaster.** A dragon rampaging through inhabited lands can be worse than any natural disaster. What has stirred the dragon's wrath? Will these rampages continue? What might appease the creature?  
@@ -628,9 +1333,9 @@ Moving from the realm of temporal power to the spiritual domain, dragons can als
 
 If the gods are distant from their mortal worshipers in your campaign, making those gods dragons is largely an aesthetic choice that reinforces the importance of dragons. Perhaps the high priests of the gods are also dragons, or they could be draconians (described in chapter 6), dragonborn, or half-dragons. Anyone with draconic ancestry or magic might be viewed as carrying a divine blessing in such a setting, and actual dragons would be regarded with reverential awe.
 
-On the other hand, the dragon gods of your campaign might be ever present in the world and fully involved in the lives of their worshipers. You could reimagine the gods of Theros (detailed in "Mythic Odysseys of Theros") as dragons, so shining Heliod becomes a gold dragon, Erebos becomes a black dracolich, Thassa is a dragon turtle, and so on. These dragon gods might grant supernatural gifts to their followers in exchange for devotion, potentially even transforming their favored ones into dragonborn. You could draw on the supernatural gifts described in chapter 2 as well as the "piety benefits" detailed in "Mythic Odysseys of Theros" for inspiration.
+On the other hand, the dragon gods of your campaign might be ever present in the world and fully involved in the lives of their worshipers. You could reimagine the gods of Theros (detailed in) as dragons, so shining Heliod becomes a gold dragon, Erebos becomes a black dracolich, Thassa is a dragon turtle, and so on. These dragon gods might grant supernatural gifts to their followers in exchange for devotion, potentially even transforming their favored ones into dragonborn. You could draw on the supernatural gifts described in chapter 2 as well as the "piety benefits" detailed in "Mythic Odysseys of Theros" for inspiration.
 
-![Tiamat's emergence from Av...](/Rules/Source/books/fizbans-treasury-of-dragons/img/032-03-020-tiamats-emergence.webp#center "Tiamat's emergence from Avernus could define the course of a campaign")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/032-03-020-tiamats-emergence.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/032-03-020-tiamats-emergence.webp)
 
 #### Dragons of Myth
 

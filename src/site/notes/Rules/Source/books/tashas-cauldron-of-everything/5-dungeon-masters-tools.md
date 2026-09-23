@@ -9,7 +9,7 @@ The Dungeon Master employs many tools when preparing and running a D&D campaign.
 
 The tools herein build on the material in the "Dungeon Master's Guide" and the "Monster Manual". You may use some, all, or none of these tools, and feel free to customize how they work. Your group's enjoyment is paramount, so make these rules your own, aiming to match your group's tastes.
 
-![Tasha prepares to win anot...](/Rules/Source/books/tashas-cauldron-of-everything/img/090-04-001.webp#center "Tasha prepares to win another game of wizardly chess against her rival Mordenkainen.")
+![/Rules/Source/books/tashas-cauldron-of-everything/img/090-04-001.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/090-04-001.webp)
 
 ## Session Zero
 
@@ -36,7 +36,34 @@ During session zero, your role is to let the players build the characters they w
 
 If the players are having trouble coming up with a story for how their characters met, they may choose an option from the Party Origin table or let a `d6` roll choose it for them. You should spend part of session zero helping the players flesh out the details. For example, if the characters came together to overcome a common foe, the identity of this enemy needs to be determined. If a funeral gathered the group, the identity of the deceased and each character's relationship to them will need to be fleshed out.
 
-![Party Formation; Party Origin](/Rules/Source/tables/party-formation-party-origin-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/party-formation-party-origin-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Party Formation; Party Origin
+
+</div>
+
+
+
+# Party Formation; Party Origin
+*Source: Tasha's Cauldron of Everything p. 139* 
+
+**Party Origin**
+
+| dice: d6 | Origin Story |
+|----------|--------------|
+| 1 | The characters grew up in the same place and have known each other for years. |
+| 2 | The characters have united to overcome a foe. |
+| 3 | The characters were brought together by a common benefactor who wishes to sponsor their adventures. |
+| 4 | A funeral brings the characters together. |
+| 5 | A festival brings the characters together. |
+| 6 | The characters find themselves trapped together. |
+^party-origin
+
+</div></div>
+
 
 #### Running a Game for One Player
 
@@ -47,7 +74,7 @@ You might need to help the player run the sidekick for the first few sessions an
 - Sidekicks are stalwart companions who can perform tasks both in and out of combat, including things such as setting up camp and carrying gear.  
 - Ideally, a sidekick's abilities should complement those of the main character. For example, a spellcaster makes a good sidekick for a fighter or rogue.  
 
-![During a festival below on...](/Rules/Source/books/tashas-cauldron-of-everything/img/091-04-002.webp#center "During a festival below one of the walking statues of Waterdeep, young friends dream of embarking on adventures together.")
+![/Rules/Source/books/tashas-cauldron-of-everything/img/091-04-002.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/091-04-002.webp)
 
 ### Social Contract
 
@@ -156,18 +183,591 @@ If it's unclear whether a melee attack in the stat block uses Strength or Dexter
 - [[Rules/Source/classes/warrior-sidekick-tce\|Warrior Sidekick]]  
 
 > [!gallery]
-> ![Experts, Left to Right: a ...](/Rules/Source/books/tashas-cauldron-of-everything/img/092-04-003.webp#gallery "Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku")
-> ![Spellcasters, Left to Righ...](/Rules/Source/books/tashas-cauldron-of-everything/img/093-04-004.webp#gallery "Spellcasters, Left to Right: a Bullywug, a Goblin, and a Tabaxi")
-> ![Warriors, Left to Right: a...](/Rules/Source/books/tashas-cauldron-of-everything/img/094-04-005.webp#gallery "Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf")
+> ![/Rules/Source/books/tashas-cauldron-of-everything/img/092-04-003.webp\|gallery wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/092-04-003.webp)
+> ![/Rules/Source/books/tashas-cauldron-of-everything/img/093-04-004.webp\|gallery wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/093-04-004.webp)
+> ![/Rules/Source/books/tashas-cauldron-of-everything/img/094-04-005.webp\|gallery wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/094-04-005.webp)
 
 > [!embed-classtype]- Expert Sidekick
-> ![Expert Sidekick](/Rules/Source/classes/expert-sidekick-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/expert-sidekick-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Expert Sidekick
+
+</div>
+
+
+
+# Expert Sidekick
+*Source: Tasha's Cauldron of Everything p. 142*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick Class (Level 1)' class='internal-link'>Sidekick Class</a>, <a href='#Bonus Proficiencies (Level 1)' class='internal-link'>Bonus Proficiencies</a>, <a href='#Helpful (Level 1)' class='internal-link'>Helpful</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning Action (Level 2)' class='internal-link'>Cunning Action</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Expertise (Level 3)' class='internal-link'>Expertise</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Coordinated Strike (Level 6)' class='internal-link'>Coordinated Strike</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 10)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Inspiring Help (Level 11)' class='internal-link'>Inspiring Help</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Reliable Talent (Level 14)' class='internal-link'>Reliable Talent</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Expertise (Level 15)' class='internal-link'>Expertise</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Sharp Mind (Level 18)' class='internal-link'>Sharp Mind</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Inspiring Help Improvement (Level 20)' class='internal-link'>Inspiring Help Improvement</a></td></tr>
+> </tbody></table>
+
+
+## Hit Points
+
+- **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
+- **Hit Points at First Level:** *x* + CON
+- **Hit Points at Higher Levels:** add 1d*x* + CON (minimum of 1)
+
+## Starting Expert Sidekick
+
+- **Saving Throws**: One saving throw of your choice: Dexterity, Intelligence, or Charisma.
+- **Armor**: Light armor
+- **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Tools**: Two tools of your choice if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Skills**: Five skills of your choice
+
+
+## Expert Sidekick
+
+The Expert is a master of certain tasks or knowledge, favoring cunning over brawn. It might be a scout, a musician, a librarian, a clever street kid, a wily merchant, or a burglar.
+
+## Class Features
+
+### Sidekick Class (Level 1)
+
+To gain the Expert class, a creature must have at least one language in its stat block that it can speak.
+
+> [!note]
+> Note: this class is intended for NPC [[Rules/Source/variant-rules/sidekicks-tce\|sidekicks]].
+
+### Bonus Proficiencies (Level 1)
+
+*1st-level Expert feature*
+
+The sidekick gains proficiency in one saving throw of your choice: Dexterity, Intelligence, or Charisma.
+
+In addition, the sidekick gains proficiency in five skills of your choice, and it gains proficiency with light armor. If it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons and with two tools of your choice.
+
+### Helpful (Level 1)
+
+*1st-level Expert feature*
+
+The sidekick is adept at giving well-timed assistance; the sidekick can take the [[Rules/Source/actions#Help\|Help]] action as a bonus action.
+
+### Cunning Action (Level 2)
+
+*2nd-level Expert feature*
+
+The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [[Rules/Source/actions#Dash\|Dash]], [[Rules/Source/actions#Disengage\|Disengage]], or [[Rules/Source/actions#Hide\|Hide]] action as a bonus action.
+
+### Expertise (Level 3)
+
+*3rd-level Expert feature*
+
+Choose two of the sidekick's skill proficiencies. The sidekick's proficiency bonus is doubled for any ability check it makes that uses any of the chosen proficiencies.
+
+At 15th level, choose two more of the sidekick's skill proficiencies to gain this benefit.
+
+### Ability Score Improvement (Level 4)
+
+*4th-level Expert feature*
+
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Coordinated Strike (Level 6)
+
+*6th-level Expert feature*
+
+The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `2d6` damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
+
+### Evasion (Level 7)
+
+*7th-level Expert feature*
+
+Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [[Rules/Source/conditions#Incapacitated\|incapacitated]].
+
+### Ability Score Improvement (Level 8)
+
+*8th-level Expert feature*
+
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Ability Score Improvement (Level 10)
+
+*10th-level Expert feature*
+
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Inspiring Help (Level 11)
+
+*11th-level Expert feature*
+
+When the sidekick takes the [[Rules/Source/actions#Help\|Help]] action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+
+At 20th level, the bonus increases to `2d6`.
+
+### Ability Score Improvement (Level 12)
+
+*12th-level Expert feature*
+
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Reliable Talent (Level 14)
+
+*14th-level Expert feature*
+
+The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `d20` roll of 9 or lower as a 10.
+
+### Expertise (Level 15)
+
+*15th-level Expert feature*
+
+Choose two of the sidekick's skill proficiencies. The sidekick's proficiency bonus is doubled for any ability check it makes that uses any of the chosen proficiencies.
+
+### Ability Score Improvement (Level 16)
+
+*16th-level Expert feature*
+
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Sharp Mind (Level 18)
+
+*18th-level Expert feature*
+
+The sidekick gains proficiency in one of the following saving throws of your choice: Intelligence, Wisdom, or Charisma.
+
+### Ability Score Improvement (Level 19)
+
+*19th-level Expert feature*
+
+At 4th level and again at 8th, 10th, 12th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Inspiring Help Improvement (Level 20)
+
+*20th-level Expert feature*
+
+At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `2d6`.
+
+</div></div>
+
 
 > [!embed-classtype]- Spellcaster Sidekick
-> ![Spellcaster Sidekick](/Rules/Source/classes/spellcaster-sidekick-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/spellcaster-sidekick-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Spellcaster Sidekick
+
+</div>
+
+
+
+# Spellcaster Sidekick
+*Source: Tasha's Cauldron of Everything p. 144*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='10'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">1st</th><th class="value">2nd</th><th class="value">3rd</th><th class="value">4th</th><th class="value">5th</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick Class (Level 1)' class='internal-link'>Sidekick Class</a>, <a href='#Bonus Proficiencies (Level 1)' class='internal-link'>Bonus Proficiencies</a>, <a href='#Spellcasting (Level 1)' class='internal-link'>Spellcasting</a></td><td class="value">2</td><td class="value">1</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td><td class="value">2</td><td class="value">2</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"></td><td class="value">2</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">4</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Potent Cantrips (Level 6)' class='internal-link'>Potent Cantrips</a></td><td class="value">3</td><td class="value">4</td><td class="value">4</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">3</td><td class="value">5</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">5</td><td class="value">4</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td><td class="value">3</td><td class="value">6</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td><td class="value">4</td><td class="value">6</td><td class="value">4</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td><td class="value">4</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">7</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">⏤</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">4</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Empowered Spells (Level 14)' class='internal-link'>Empowered Spells</a></td><td class="value">4</td><td class="value">8</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">1</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td><td class="value">4</td><td class="value">9</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">9</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">2</td><td class="value">⏤</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">4</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 18)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">10</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">1</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td><td class="value">4</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Focused Casting (Level 20)' class='internal-link'>Focused Casting</a></td><td class="value">4</td><td class="value">11</td><td class="value">4</td><td class="value">3</td><td class="value">3</td><td class="value">3</td><td class="value">2</td></tr>
+> </tbody></table>
+
+
+## Hit Points
+
+- **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
+- **Hit Points at First Level:** *x* + CON
+- **Hit Points at Higher Levels:** add 1d*x* + CON (minimum of 1)
+
+## Starting Spellcaster Sidekick
+
+- **Saving Throws**: One saving throw of your choice: Wisdom, Intelligence, or Charisma.
+- **Armor**: Light armor
+- **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Tools**: none
+- **Skills**: Two skills of your choice from the following list: [[Rules/Source/skills#Arcana\|Arcana]], [[Rules/Source/skills#History\|History]], [[Rules/Source/skills#Insight\|Insight]], [[Rules/Source/skills#Investigation\|Investigation]], [[Rules/Source/skills#Medicine\|Medicine]], [[Rules/Source/skills#Performance\|Performance]], [[Rules/Source/skills#Persuasion\|Persuasion]], and [[Rules/Source/skills#Religion\|Religion]].
+
+
+## Spellcaster Sidekick
+
+A sidekick who becomes a Spellcaster walks the paths of magic. The sidekick might be a hedge wizard, a priest, a soothsayer, a magical performer, or a person with magic in their veins.
+
+## Class Features
+
+### Sidekick Class (Level 1)
+
+To gain the Spellcaster class, a creature must have at least one language in its stat block that it can speak.
+
+> [!note]
+> Note: this class is intended for NPC [[Rules/Source/variant-rules/sidekicks-tce\|sidekicks]].
+
+### Bonus Proficiencies (Level 1)
+
+*1st-level Spellcaster feature*
+
+The sidekick gains proficiency in one saving throw of your choice: Wisdom, Intelligence, or Charisma.
+
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [[Rules/Source/skills#Arcana\|Arcana]], [[Rules/Source/skills#History\|History]], [[Rules/Source/skills#Insight\|Insight]], [[Rules/Source/skills#Investigation\|Investigation]], [[Rules/Source/skills#Medicine\|Medicine]], [[Rules/Source/skills#Performance\|Performance]], [[Rules/Source/skills#Persuasion\|Persuasion]], and [[Rules/Source/skills#Religion\|Religion]].
+
+The sidekick gains proficiency with light armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons.
+
+### Spellcasting (Level 1)
+
+*1st-level Spellcaster feature*
+
+The sidekick gains the ability to cast spells. (If the creature already has the Spellcasting trait, this feature replaces that trait.) Choose the Spellcaster's role: Mage, Healer, or Prodigy. This choice determines the spell list and spellcasting ability used by the sidekick, as shown on the Spellcasting table.
+
+**Spellcasting**
+
+| Role | Spell List | Ability |
+|------|------------|---------|
+| Mage | Wizard | Intelligence |
+| Healer | Cleric and Druid | Wisdom |
+| Prodigy | Bard and Warlock | Charisma |
+**Spell Slots.** The Spellcaster table shows how many spell slots the sidekick has to cast its Spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell's level or higher. The sidekick regains all expended spell slots when it finishes a long rest.
+
+**Spells Known.** The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
+
+- **Mage.** [[Rules/Source/spells/mage-hand-xphb\|mage hand]], [[Rules/Source/spells/ray-of-frost-xphb\|ray of frost]], [[Rules/Source/spells/thunderwave-xphb\|thunderwave]]  
+- **Healer.** [[Rules/Source/spells/cure-wounds-xphb\|cure wounds]], [[Rules/Source/spells/guidance-xphb\|guidance]], [[Rules/Source/spells/sacred-flame-xphb\|sacred flame]]  
+- **Prodigy.** [[Rules/Source/spells/eldritch-blast-xphb\|eldritch blast]], [[Rules/Source/spells/healing-word-xphb\|healing word]], [[Rules/Source/spells/light-xphb\|light]]  
+- The Cantrips Known and Spells Known columns of the Spellcaster table show when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
+- Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
+
+**Spellcasting Ability.** The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.
+
+The sidekick uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.
+
+<span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Spellcasting</span>
+
+<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting</span>
+
+**Spellcasting Focus.** The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [[Rules/Source/items/musical-instrument-xphb\|musical instrument]].
+
+### Ability Score Improvement (Level 4)
+
+*4th-level Spellcaster feature*
+
+At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Potent Cantrips (Level 6)
+
+*6th-level Spellcaster feature*
+
+The sidekick can add its spellcasting ability modifier to the damage it deals with any cantrip.
+
+### Ability Score Improvement (Level 8)
+
+*8th-level Spellcaster feature*
+
+At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Ability Score Improvement (Level 12)
+
+*12th-level Spellcaster feature*
+
+At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Empowered Spells (Level 14)
+
+*14th-level Spellcaster feature*
+
+Choose one school of magic. Whenever the sidekick casts a spell of that school by expending a spell slot, the sidekick can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.
+
+### Ability Score Improvement (Level 16)
+
+*16th-level Spellcaster feature*
+
+At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Ability Score Improvement (Level 18)
+
+*18th-level Spellcaster feature*
+
+At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Focused Casting (Level 20)
+
+*20th-level Spellcaster feature*
+
+Taking damage can't break the sidekick's [[Rules/Source/conditions#Concentration\|concentration]] on a spell.
+
+</div></div>
+
 
 > [!embed-classtype]- Warrior Sidekick
-> ![Warrior Sidekick](/Rules/Source/classes/warrior-sidekick-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/warrior-sidekick-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Warrior Sidekick
+
+</div>
+
+
+
+# Warrior Sidekick
+*Source: Tasha's Cauldron of Everything p. 146*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Sidekick Class (Level 1)' class='internal-link'>Sidekick Class</a>, <a href='#Bonus Proficiencies (Level 1)' class='internal-link'>Bonus Proficiencies</a>, <a href='#Martial Role (Level 1)' class='internal-link'>Martial Role</a></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Second Wind (Level 2)' class='internal-link'>Second Wind</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Improved Critical (Level 3)' class='internal-link'>Improved Critical</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 6)' class='internal-link'>Extra Attack</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Battle Readiness (Level 7)' class='internal-link'>Battle Readiness</a></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Improved Defense (Level 10)' class='internal-link'>Improved Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable (Level 11)' class='internal-link'>Indomitable</a></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 14)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Extra Attack Improvement (Level 15)' class='internal-link'>Extra Attack Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable Improvement (Level 18)' class='internal-link'>Indomitable Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Ability Score Improvement (Level 19)' class='internal-link'>Ability Score Improvement</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Second Wind Improvement (Level 20)' class='internal-link'>Second Wind Improvement</a></td></tr>
+> </tbody></table>
+
+
+## Hit Points
+
+- **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
+- **Hit Points at First Level:** *x* + CON
+- **Hit Points at Higher Levels:** add 1d*x* + CON (minimum of 1)
+
+## Starting Warrior Sidekick
+
+- **Saving Throws**: One saving throw of your choice: Strength, Dexterity, or Constitution.
+- **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Tools**: none
+- **Skills**: Two skills of your choice from the following list: [[Rules/Source/skills#Acrobatics\|Acrobatics]], [[Rules/Source/skills#Animal Handling\|Animal Handling]], [[Rules/Source/skills#Athletics\|Athletics]], [[Rules/Source/skills#Intimidation\|Intimidation]], [[Rules/Source/skills#Nature\|Nature]], [[Rules/Source/skills#Perception\|Perception]], and [[Rules/Source/skills#Survival\|Survival]].
+
+
+## Warrior Sidekick
+
+A Warrior sidekick grows in martial prowess as it fights by your side. It might be a soldier, a town guard, a battle-trained beast, or any other creature honed for combat.
+
+## Class Features
+
+### Sidekick Class (Level 1)
+
+> [!note]
+> Note: this class is intended for NPC [[Rules/Source/variant-rules/sidekicks-tce\|sidekicks]].
+
+### Bonus Proficiencies (Level 1)
+
+*1st-level Warrior feature*
+
+The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
+
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [[Rules/Source/skills#Acrobatics\|Acrobatics]], [[Rules/Source/skills#Animal Handling\|Animal Handling]], [[Rules/Source/skills#Athletics\|Athletics]], [[Rules/Source/skills#Intimidation\|Intimidation]], [[Rules/Source/skills#Nature\|Nature]], [[Rules/Source/skills#Perception\|Perception]], and [[Rules/Source/skills#Survival\|Survival]].
+
+The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
+
+### Martial Role (Level 1)
+
+*1st-level Warrior feature*
+
+Each warrior focuses on offense or defense in their training. Choose one of the following options:
+
+- **Attacker.** The sidekick gains a +2 bonus to all attack rolls.  
+- **Defender.** The sidekick can use its reaction to impose disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the sidekick, provided the sidekick can see the attacker.  
+
+### Second Wind (Level 2)
+
+*2nd-level Warrior feature*
+
+The sidekick can use a bonus action on its turn to regain hit points equal to `1d10` + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
+
+The sidekick can use this feature twice between rests starting at 20th level.
+
+### Improved Critical (Level 3)
+
+*3rd-level Warrior feature*
+
+The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `d20`.
+
+### Ability Score Improvement (Level 4)
+
+*4th-level Warrior feature*
+
+At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Extra Attack (Level 6)
+
+*6th-level Warrior feature*
+
+The sidekick can attack twice, instead of once, whenever it takes the [[Rules/Source/actions#Attack\|Attack]] action on its turn.
+
+The number of attacks increases to three when the sidekick reaches 15th level.
+
+If the sidekick has the Multiattack action, it can use Extra Attack or Multiattack on a turn, not both.
+
+### Battle Readiness (Level 7)
+
+*7th-level Warrior feature*
+
+The sidekick has advantage on initiative rolls.
+
+### Ability Score Improvement (Level 8)
+
+*8th-level Warrior feature*
+
+At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Improved Defense (Level 10)
+
+*10th-level Warrior feature*
+
+The sidekick's Armor Class increases by 1.
+
+### Indomitable (Level 11)
+
+*11th-level Warrior feature*
+
+The sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again until it finishes a long rest.
+
+The sidekick can use this feature twice between long rests starting at 18th level.
+
+### Ability Score Improvement (Level 12)
+
+*12th-level Warrior feature*
+
+At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Ability Score Improvement (Level 14)
+
+*14th-level Warrior feature*
+
+At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Extra Attack Improvement (Level 15)
+
+*15th-level Warrior feature*
+
+The sidekick can attack twice, instead of once, whenever it takes the [[Rules/Source/actions#Attack\|Attack]] action on its turn.
+
+The number of attacks increases to three when the sidekick reaches 15th level.
+
+If the sidekick has the Multiattack action, it can use Extra Attack or Multiattack on a turn, not both.
+
+### Ability Score Improvement (Level 16)
+
+*16th-level Warrior feature*
+
+At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Indomitable Improvement (Level 18)
+
+*18th-level Warrior feature*
+
+The sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again until it finishes a long rest.
+
+The sidekick can use this feature twice between long rests starting at 18th level.
+
+### Ability Score Improvement (Level 19)
+
+*19th-level Warrior feature*
+
+At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, the sidekick may instead take a feat.
+
+### Second Wind Improvement (Level 20)
+
+*20th-level Warrior feature*
+
+The sidekick can use its Second Wind feature twice between rests.
+
+</div></div>
+
 
 ## Parleying with Monsters
 
@@ -177,43 +777,428 @@ If it's unclear whether a melee attack in the stat block uses Strength or Dexter
 
 Meeting a monster doesn't have to spark a fight. An offering, like food, can calm some hostile monsters, and sapient creatures often prefer to talk than to draw weapons. If the adventurers try to parley with a monster, you may improvise the encounter or use the "social interaction rules" in the "Dungeon Master's Guide". Consider granting the characters advantage on any ability check they make to communicate with a creature if they offer something it wants. The "Monsters' Desires" section below suggest things that a creature might like, depending on its type.
 
-![Adventurers offer meat to an owlbear.](/Rules/Source/books/tashas-cauldron-of-everything/img/095-04-006.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/095-04-006.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/095-04-006.webp)
 
 ### Monster Research
 
 Adventurers can research what a creature is likely to desire. The Monster Research table suggests which skills can be used to learn about a creature of a particular type. The DC for a relevant ability check equals 10 + the creature's challenge rating.
 
-![Monster Research](/Rules/Source/tables/monster-research-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monster-research-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monster Research
+
+</div>
+
+
+
+# Monster Research
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Monster Research**
+
+| Type | Suggested Skills |
+|------|------------------|
+| Aberration | [[Rules/Source/skills#Arcana\|Arcana]] |
+| Beast | [[Rules/Source/skills#Animal Handling\|Animal Handling]], [[Rules/Source/skills#Nature\|Nature]], or [[Rules/Source/skills#Survival\|Survival]] |
+| Celestial | [[Rules/Source/skills#Arcana\|Arcana]] or [[Rules/Source/skills#Religion\|Religion]] |
+| Construct | [[Rules/Source/skills#Arcana\|Arcana]] |
+| Dragon | [[Rules/Source/skills#Arcana\|Arcana]], [[Rules/Source/skills#History\|History]], or [[Rules/Source/skills#Nature\|Nature]] |
+| Elemental | [[Rules/Source/skills#Arcana\|Arcana]] or [[Rules/Source/skills#Nature\|Nature]] |
+| Fey | [[Rules/Source/skills#Arcana\|Arcana]] or [[Rules/Source/skills#Nature\|Nature]] |
+| Fiend | [[Rules/Source/skills#Arcana\|Arcana]] or [[Rules/Source/skills#Religion\|Religion]] |
+| Giant | [[Rules/Source/skills#History\|History]] |
+| Humanoid | [[Rules/Source/skills#History\|History]] |
+| Monstrosity | [[Rules/Source/skills#Nature\|Nature]] or [[Rules/Source/skills#Survival\|Survival]] |
+| Ooze | [[Rules/Source/skills#Arcana\|Arcana]] or [[Rules/Source/skills#Survival\|Survival]] |
+| Plant | [[Rules/Source/skills#Nature\|Nature]] or [[Rules/Source/skills#Survival\|Survival]] |
+| Undead | [[Rules/Source/skills#Arcana\|Arcana]] or [[Rules/Source/skills#Religion\|Religion]] |
+^monster-research
+
+</div></div>
+
 
 ### Monsters' Desires
 
-![Monsters' Desires; Aberrations](/Rules/Source/tables/monsters-desires-aberrations-tce.md)
 
-![Monsters' Desires; Beasts](/Rules/Source/tables/monsters-desires-beasts-tce.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-aberrations-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Monsters' Desires; Celestials](/Rules/Source/tables/monsters-desires-celestials-tce.md)
+<div class="markdown-embed-title">
 
-![Monsters' Desires; Constructs](/Rules/Source/tables/monsters-desires-constructs-tce.md)
+# Monsters' Desires; Aberrations
 
-![Monsters' Desires; Dragons](/Rules/Source/tables/monsters-desires-dragons-tce.md)
+</div>
 
-![Monsters' Desires; Elementals](/Rules/Source/tables/monsters-desires-elementals-tce.md)
 
-![Monsters' Desires; Fey](/Rules/Source/tables/monsters-desires-fey-tce.md)
 
-![Monsters' Desires; Fiends](/Rules/Source/tables/monsters-desires-fiends-tce.md)
+# Monsters' Desires; Aberrations
+*Source: Tasha's Cauldron of Everything p. 148* 
 
-![Monsters' Desires; Giants](/Rules/Source/tables/monsters-desires-giants-tce.md)
+**Aberrations**
 
-![Monsters' Desires; Humanoids](/Rules/Source/tables/monsters-desires-humanoids-tce.md)
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | The brain or other organs of a rare creature |
+| 2 | Flattery and obsequiousness |
+| 3 | Secrets or lore it doesn't already know |
+| 4 | Accepting a strange, organic graft onto your body |
+^aberrations
 
-![Monsters' Desires; Monstrosities](/Rules/Source/tables/monsters-desires-monstrosities-tce.md)
+</div></div>
 
-![Monsters' Desires; Oozes](/Rules/Source/tables/monsters-desires-oozes-tce.md)
 
-![Monsters' Desires; Plants](/Rules/Source/tables/monsters-desires-plants-tce.md)
 
-![Monsters' Desires; Undead](/Rules/Source/tables/monsters-desires-undead-tce.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-beasts-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Beasts
+
+</div>
+
+
+
+# Monsters' Desires; Beasts
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Beasts**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Fresh meat |
+| 2 | A soothing melody |
+| 3 | Brightly colored beads, cloth, feathers, or string |
+| 4 | An old stuffed animal or other soft trinket |
+^beasts
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-celestials-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Celestials
+
+</div>
+
+
+
+# Monsters' Desires; Celestials
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Celestials**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | The tale of a heroic figure |
+| 2 | An oath to do three charitable deeds before dawn |
+| 3 | The crown of a defeated tyrant |
+| 4 | A holy relic or treasured family heirloom |
+^celestials
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-constructs-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Constructs
+
+</div>
+
+
+
+# Monsters' Desires; Constructs
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Constructs**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Oil to apply to the construct's joints |
+| 2 | A magic item with charges, to be used as fuel |
+| 3 | A vessel infused with elemental power |
+| 4 | Adamantine or mithral components |
+^constructs
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-dragons-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Dragons
+
+</div>
+
+
+
+# Monsters' Desires; Dragons
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Dragons**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Gold or gems |
+| 2 | Anything from a draconic rival's hoard |
+| 3 | An antique passed down at least three generations |
+| 4 | A flattering artistic depiction of the dragon |
+^dragons
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-elementals-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Elementals
+
+</div>
+
+
+
+# Monsters' Desires; Elementals
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Elementals**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | A gem worth at least 50 gp, which the creature eats |
+| 2 | An exceedingly pure sample of a favored element |
+| 3 | A way to return the elemental to its home plane |
+| 4 | Performing a dance from the elemental's home plane |
+^elementals
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-fey-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Fey
+
+</div>
+
+
+
+# Monsters' Desires; Fey
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Fey**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | The memory of your first kiss |
+| 2 | The color of your eyes |
+| 3 | An object of deep sentimental value to you |
+| 4 | Reciting a sublime poem |
+^fey
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-fiends-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Fiends
+
+</div>
+
+
+
+# Monsters' Desires; Fiends
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Fiends**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Your soul |
+| 2 | A desecrated holy object |
+| 3 | Blood from a living or recently slain loved one |
+| 4 | Breaking a sacred promise in the fiend's presence |
+^fiends
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-giants-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Giants
+
+</div>
+
+
+
+# Monsters' Desires; Giants
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Giants**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | A dwarf admitting giant-craft to be superior to dwarf-craft |
+| 2 | A strong working animal |
+| 3 | Multiple barrels of ale |
+| 4 | Treasure stolen from a rival giant |
+^giants
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-humanoids-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Humanoids
+
+</div>
+
+
+
+# Monsters' Desires; Humanoids
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Humanoids**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Promising to find a lost item of great importance to their culture |
+| 2 | Challenging them to a type of friendly contest, such as dancing, singing, or drinking |
+| 3 | Recovering something they've lost |
+| 4 | Information on a foe's secrets or weaknesses |
+^humanoids
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-monstrosities-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Monstrosities
+
+</div>
+
+
+
+# Monsters' Desires; Monstrosities
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Monstrosities**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Dislodging the stuck scraps of the creature's last meal |
+| 2 | The creature's favorite food |
+| 3 | Driving off the creature's rival |
+| 4 | Making movements that mimic the monster's mating dance |
+^monstrosities
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-oozes-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Oozes
+
+</div>
+
+
+
+# Monsters' Desires; Oozes
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Oozes**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | A vial of putrid liquids |
+| 2 | A cloth bearing a noxious odor |
+| 3 | Bones or metal, which the ooze promptly absorbs |
+| 4 | A gallon of any effervescent fluid |
+^oozes
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-plants-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Plants
+
+</div>
+
+
+
+# Monsters' Desires; Plants
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Plants**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | A pound of mulch |
+| 2 | Water from a spring infused with Feywild energy |
+| 3 | Clearing invasive vegetation from the creature's territory |
+| 4 | Destroying all axes and fire-making implements the party carries |
+^plants
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monsters-desires-undead-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monsters' Desires; Undead
+
+</div>
+
+
+
+# Monsters' Desires; Undead
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Undead**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | A vial of blood |
+| 2 | A personal memento from the creature's past |
+| 3 | Materials, tools, or the skills to sun-proof a crumbling mausoleum |
+| 4 | Completing a task the creature was unable to finish in life |
+^undead
+
+</div></div>
+
 
 ## Environmental Hazards
 
@@ -251,9 +1236,47 @@ The grace of the Upper Planes touches this region. Consider rolling on the Bless
 - A creature scores a critical hit against a fiend or an undead  
 - A creature experiences an epiphany or inspiring triumph in the service of righteousness or in defiance of wickedness  
 
-![A Blessed Ki-rin Shrine](/Rules/Source/books/tashas-cauldron-of-everything/img/096-04-007.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/096-04-007.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/096-04-007.webp)
 
-![Blessed Radiance Effects](/Rules/Source/tables/blessed-radiance-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/blessed-radiance-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessed Radiance Effects
+
+</div>
+
+
+
+# Blessed Radiance Effects
+*Source: Tasha's Cauldron of Everything p. 150* 
+
+**Blessed Radiance Effects**
+
+| dice: d100 | Effect |
+|------------|--------|
+| 01–06 | Golden light fills a 20-foot-radius, 40-foot-high cylinder centered on one character in the region and then fades. That character and their friends in the cylinder gain the benefits of the [[Rules/Source/spells/divine-favor-xphb\|divine favor]] spell for 1 hour. |
+| 07–12 | Radiant energy erupts in a 10-foot-radius sphere centered on one random creature in the region. Each creature in the sphere that isn't undead regains `3d6` hit points. Each undead creature in the sphere takes `3d6` radiant damage. |
+| 13–18 | Aberrations, fiends, and undead in the region have disadvantage on attack rolls and ability checks for the next 24 hours. |
+| 19–24 | Each creature carrying the holy symbol of a deity from a non-evil plane while in the region gains advantage on saving throws for the next 24 hours. |
+| 25–30 | One character in the region is suffused with celestial power. For 1 minute, the character's melee attacks deal an extra `2d6` radiant damage on a hit. |
+| 31–36 | One simple or martial weapon that is nonmagical and carried by one character in the region gains the properties of a [[Rules/Source/items/mace-of-disruption-xdmg\|mace of disruption]] for 24 hours. |
+| 37–42 | A flying, gleaming sword (use the [[Rules/Source/bestiary/construct/animated-flying-sword-xmm\|flying sword]] stat block in the "Monster Manual") appears within 60 feet of an aberration, a fiend, or an undead, which becomes the sword's target. The sword deals radiant damage instead of slashing damage and knows the exact location of its target while the target is within the region. The sword vanishes when it or its target is reduced to 0 hit points. |
+| 43–48 | One character in the region hears whispers from celestial beings or refrains of celestial choirs. The character can ask those voices one question as if using the [[Rules/Source/spells/commune-xphb\|commune]] spell. |
+| 49–54 | Aberrations, fiends, and undead in the region give off a crimson glow for 1 minute. The creatures shed dim light in a 10-foot radius, attacks against them have advantage if the attacker can see them, and the creatures can't benefit from being [[Rules/Source/conditions#Invisible\|invisible]]. |
+| 55–60 | Celestial power explodes in a 30-foot-radius sphere of divine light centered on an aberration, a fiend, or an undead creature within the region. Each creature in the sphere must make a DC 15 Constitution saving throw. On a failure, the creature takes `4d6` radiant damage and is [[Rules/Source/conditions#Blinded\|blinded]]. On a success, it takes half damage and isn't [[Rules/Source/conditions#Blinded\|blinded]]. |
+| 61–66 | One character in the region feels a profound sense of purpose and gains the benefit of the [[Rules/Source/spells/bless-xphb\|bless]] spell for 1 minute. They can choose two other creatures they can see to gain the spell's benefits as well. |
+| 67–72 | A booming voice thunders in Celestial and can be heard throughout the region. Each creature in the region must make a DC 15 Constitution saving throw. On a success, the creature gains `2d10` temporary hit points. On a failure, the creature is [[Rules/Source/conditions#Deafened\|deafened]] for 1 minute. |
+| 73–78 | One character in the region gains the ability to cure afflictions for 1 hour. As an action, they can cast [[Rules/Source/spells/lesser-restoration-xphb\|lesser restoration]] or [[Rules/Source/spells/greater-restoration-xphb\|greater restoration]] without expending a spell slot and requiring no material components. |
+| 79–84 | The effects of a [[Rules/Source/spells/hallow-xphb\|hallow]] spell (save DC 17), with one of its extra effects (DM's choice), settle over the region for 24 hours. |
+| 85–90 | An angelic voice rings throughout the region. Each creature there must succeed on a DC 15 Wisdom saving throw or perform the grovel option of the [[Rules/Source/spells/command-xphb\|command]] spell. |
+| 91–95 | One character in the region permanently gains resistance to necrotic damage. Reroll if you've already rolled this effect. |
+| 96–00 | One character in the region gains the ability to use the Divine Intervention cleric feature, which succeeds automatically. The character can use the feature granted in this way only once and must use it within 7 days. Reroll if you've already rolled this effect. |
+^blessed-radiance-effects
+
+</div></div>
+
 
 #### Far Realm
 
@@ -267,9 +1290,43 @@ Consider rolling on the Far Realm Effects table when the following circumstances
 - The characters take a short or long rest in the region.  
 - A creature spends more than an hour reading an eldritch tome written by those who have seen or otherwise interacted with the Far Realm.  
 
-![A Far Realm Incursion with Mind Flayer Nautiloids](/Rules/Source/books/tashas-cauldron-of-everything/img/097-04-008.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/097-04-008.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/097-04-008.webp)
 
-![Far Realm Effects](/Rules/Source/tables/far-realm-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/far-realm-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Far Realm Effects
+
+</div>
+
+
+
+# Far Realm Effects
+*Source: Tasha's Cauldron of Everything p. 152* 
+
+**Far Realm Effects**
+
+| dice: d100 | Effect |
+|------------|--------|
+| 01–09 | A structure in the region whispers faintly. Any creature within 60 feet of the structure that can hear it must succeed on a DC 12 Wisdom saving throw or be [[Rules/Source/conditions#Charmed\|charmed]]. While [[Rules/Source/conditions#Charmed\|charmed]] in this way, the creature must move toward the source of the whispering, avoiding obvious hazards. When it reaches the source, it is [[Rules/Source/conditions#Incapacitated\|incapacitated]]. The creature can repeat the saving throw when it takes damage and at the end of every hour, ending the effect on itself on a success. |
+| 10–18 | An elder evil turns its attention to the region, imposing the pressure of its unfathomable presence upon the place. Any creature that finishes a rest in the region must succeed on a DC 12 Charisma saving throw, or it gains no benefit from finishing the rest. It instead finds strange scrawls, stacked stones, or its belongings arranged in intricate, abstruse patterns nearby. |
+| 19–27 | Local plants and animals share a malevolent intelligence. Roll a `d6`. On a 1–2, an [[Rules/Source/spells/insect-plague-xphb\|insect plague]] spell is centered on one random creature in the region. On a 3–4, `1d4` [[Rules/Source/bestiary/beast/swarm-of-ravens-xmm\|swarms of ravens]] and `1d4` [[Rules/Source/bestiary/beast/swarm-of-rats-xmm\|swarms of rats]] gather and attack any other creatures in the region. On a 5–6, a [[Rules/Source/bestiary/plant/treant-xmm\|treant]] (in forested terrain) or a [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|galeb duhr]] (in rockier terrain) attacks. |
+| 28–36 | Distance no longer functions in a comprehensible manner within the region. Creatures make ranged attack rolls with disadvantage, and the range of those attacks is halved. |
+| 37–45 | The landscape melts into a mass of writhing flesh, eyes, and fanged mouths. From an unoccupied space in the fleshy ground arise `1d4 + 5` [[Rules/Source/bestiary/aberration/gibbering-mouther-xmm\|gibbering mouthers]] that attack anyone in sight. |
+| 46–54 | Unintelligible murmurings threaten to overcome the mind of one random creature within the region. At the start of the creature's turn, it must succeed on a DC 13 Intelligence saving throw or use its action to make one melee attack against the nearest creature it can see. If there are no other creatures within reach, the target spends its action babbling. |
+| 55–63 | Bizarre appendages squirm beneath the ground and around trees or other structures within this region. Dozens of limbs burst forth, entangling anyone within a 30-foot sphere surrounding one random creature. Each creature in the sphere must succeed on a DC 14 Dexterity saving throw or take `3d6` bludgeoning damage and be [[Rules/Source/conditions#Restrained\|restrained]]. Any creature that ends its turn in the area takes `3d6` bludgeoning damage. A creature can free itself or someone else within reach from being [[Rules/Source/conditions#Restrained\|restrained]] in this way by using an action to make a successful DC 14 Strength or Dexterity check (its choice). |
+| 64–72 | Creatures in the region can't leave it and find themselves covering the same ground over and over. By the time they realize this, `2d10` hours have passed, during which they have made no progress in their effort to leave. The effect then ends, and each creature must succeed on a DC 10 Constitution saving throw or gain 1 level of [[Rules/Source/conditions#Exhaustion\|exhaustion]]. |
+| 73–79 | One random creature in the region hears strange whispers and must succeed on a DC 14 Wisdom saving throw or become [[Rules/Source/conditions#Charmed\|charmed]]. While [[Rules/Source/conditions#Charmed\|charmed]] in this way, the creature focuses on copying the blasphemous designs that appear in its mind using whatever medium it has available (ink, charcoal, mud, or its own blood). Unless [[Rules/Source/conditions#Restrained\|restrained]], the creature completes the designs in 1 hour of work. When the creature finishes its work, it is no longer [[Rules/Source/conditions#Charmed\|charmed]], and a [[Rules/Source/bestiary/aberration/death-slaad-xmm\|death slaad]] appears within 30 feet of it and attacks anyone in sight. |
+| 80–85 | Natural features and structures in this region writhe to spell out words and form strange symbols. Any creature that tries to read the messages must make a DC 20 Intelligence ([[Rules/Source/skills#Arcana\|Arcana]]) check. On a success, the creature gains insight as if it had cast the [[Rules/Source/spells/contact-other-plane-xphb\|contact other plane]] spell. On a failure, the creature is affected as if it failed a saving throw against the [[Rules/Source/spells/confusion-xphb\|confusion]] spell. This effect ends at the end of the creature's next turn. |
+| 86–90 | In this region, circular things (such as buttons, crystal balls, the sun, and so on) seem appallingly wrong. One random creature that starts its turn in this region must succeed on a DC 14 Intelligence saving throw or spend their turn loudly trying to destroy these objects. |
+| 91–95 | Glaring eyes, which weep viscid tears, appear on inanimate objects throughout the region. These eyes watch the characters, and creatures within the region can't be [[Rules/Source/conditions#Surprised\|surprised]] by the characters for as long as the eyes exist. An eye closes and disappears if it takes any damage. Reroll if you've already rolled this effect. |
+| 96–00 | A tear in reality creates a rift in the region, similar to the spell [[Rules/Source/spells/gate-xphb\|gate]], that passes through the Far Realm and connects with a random plane. Any creature that enters the rift takes `10d10` psychic damage from the horrors of the Far Realm and appears in an empty space closest to the rift's opening on another random plane. The rift vanishes after `2d10 + 2` hours. |
+^far-realm-effects
+
+</div></div>
+
 
 #### Haunted
 
@@ -283,9 +1340,50 @@ Consider rolling on the Haunted Effects table when the following circumstances o
 - Midnight or another ominous hour arrives.  
 - A ghost or other creature tied to the region's grim history menaces the party.  
 
-![A Haunted Manor](/Rules/Source/books/tashas-cauldron-of-everything/img/098-04-009.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/098-04-009.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/098-04-009.webp)
 
-![Haunted Effects](/Rules/Source/tables/haunted-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/haunted-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Haunted Effects
+
+</div>
+
+
+
+# Haunted Effects
+*Source: Tasha's Cauldron of Everything p. 154* 
+
+**Haunted Effects**
+
+| dice: d100 | Effect |
+|------------|--------|
+| 01–05 | A violent thunderstorm begins, centered over the region. It doesn't end until the party leaves the region. |
+| 06–10 | A random building in the region gains the benefits of the [[Rules/Source/spells/guards-and-wards-xphb\|guards and wards]] spell (save DC 13) for the next 24 hours. |
+| 11–15 | A mundane part of one random character's surroundings—perhaps a tree bole or a taxidermied animal head—animates for 1 minute and whispers a warning or threatens to reveal one of the character's secrets. |
+| 16–20 | All bright light weakens to dim light for 24 hours. Sources that provide dim light, such as candles, do not shed any light. |
+| 21–25 | The temperature in the region drops by 10 degrees Fahrenheit every hour for the next `1d6` hours, after which the temperature returns to normal. If cold enough, ice crystals form in sinister patterns. |
+| 26–30 | One random creature's shadow acts independently for the next 24 hours. The shadow acts out of sync with its owner, perhaps dramatically choking or trying to murder another shadow. |
+| 31–35 | After the next sunset, the sun doesn't rise again for 36 hours. During this time, the sky over the region might hold a crimson moon, be obscured by roiling fog, or display blinking, alien stars. |
+| 36–40 | During the next night, one random sleeping creature vanishes and reappears approximately a foot beneath where they were sleeping—typically buried in undisturbed dirt or in a space beneath floorboards. The creature or someone else can free it with a successful DC 13 Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check. |
+| 41–45 | One random creature in the region is targeted by the [[Rules/Source/spells/levitate-xphb\|levitate]] spell (save DC 15) for 1 minute. |
+| 46–50 | A nonviolent but unsettling [[Rules/Source/bestiary/undead/ghost-xmm\|ghost]]—perhaps a pet, an accident-prone child, or a dismembered big toe—appears and follows one random creature for 24 hours before vanishing. The ghost vanishes if reduced to 0 hit points. |
+| 51–55 | One player character's appearance changes for the next 24 hours to reflect the region's haunted history. For example, they might manifest the distinctive facial scar associated with a notorious tyrant who died in the region. |
+| 56–60 | For the next 24 hours, any humanoid killed in the region rapidly decomposes and rises as a [[Rules/Source/bestiary/undead/skeleton-xmm\|skeleton]] `1d10` minutes after dying. |
+| 61–65 | Over the next 24 hours, whenever any creature is wounded, its blood (or similar fluid) spreads to form a short message or grisly tableau. |
+| 66–70 | A spirit inhabits one character's simple or martial weapon, making it a sentient magic item until the character leaves the region. Randomly generate the item's properties as described in the ""Sentient Magic Items"" section of the "Dungeon Master's Guide". |
+| 71–75 | A spectral force manifests to one character in the region, allowing them to ask one question and receive a short answer as through the [[Rules/Source/spells/augury-xphb\|augury]] spell. The force manifests as a planchette moving on a talking board, writing on foggy glass, or insects swarming to create messages. |
+| 76–80 | During the next night, one sleeping character in the region receives a vision as if the target of the [[Rules/Source/spells/dream-xphb\|dream]] spell. The dream is brief and unsettling, revealing some element of the environment's history and putting the character in the place of someone who suffered a grim fate there. |
+| 81–85 | A coffin or small enclosed space in the region—perhaps an antique box, stone cairn, or tree stump sealed with rocks—radiates palpable malice. The first time a creature opens it, roll a die. If you roll an even number, the creature receives a terrible vision and is [[Rules/Source/conditions#Frightened\|frightened]] of all creatures for the next 24 hours. If you roll an odd number, an [[Rules/Source/bestiary/undead/avatar-of-death-xdmg\|avatar of death]] appears and attacks as though summoned by the Skull card from a [[Rules/Source/items/deck-of-many-things-xdmg\|deck of many things]]. |
+| 86–90 | Over the next 24 hours, whenever any creature in the region regains hit points from a spell, the healing magic leaves scars. This might be accompanied by a purging of black bile or a spectral force tearing free from the creature. These scars can be removed only by [[Rules/Source/spells/greater-restoration-xphb\|greater restoration]] or [[Rules/Source/spells/wish-xphb\|wish]]. |
+| 91–95 | For 24 hours, a luminous wisp of vapor floats above a corpse or grave in the region. If the wisp is put in a container, a creature holding the receptacle can cast the [[Rules/Source/spells/resurrection-xphb\|resurrection]] spell once, requiring no components and causing the wisp to vanish. Any creature returned to life in this way experiences strange dreams. |
+| 96–00 | A mysterious mist rises from the shadows. This dense fog heavily obscures everything in a 50-foot-radius sphere around one random creature in the region. Any creature that starts its turn in the mist must succeed on a DC 10 Constitution saving throw or gain 1 level of [[Rules/Source/conditions#Exhaustion\|exhaustion]]. This [[Rules/Source/conditions#Exhaustion\|exhaustion]] can't be removed while the creature is in the mist. Additionally, creatures notice unsettling sights through the fog, such as ominous ruins or soundless silhouettes fleeing pursuit. The mists can't be dispersed by any wind, but clear after 1 minute. |
+^haunted-effects
+
+</div></div>
+
 
 #### Infested
 
@@ -299,9 +1397,49 @@ Consider rolling on the Infested Effects table when the following circumstances 
 - A creature attacks an insect swarm or a Small or larger insect, such as a [[Rules/Source/bestiary/beast/giant-centipede-xmm\|giant centipede]] or [[Rules/Source/bestiary/beast/giant-spider-xmm\|giant spider]], in the region.  
 - A creature begins a short or long rest.  
 
-![An Infested City](/Rules/Source/books/tashas-cauldron-of-everything/img/099-04-010.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/099-04-010.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/099-04-010.webp)
 
-![Infested Effects](/Rules/Source/tables/infested-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/infested-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Infested Effects
+
+</div>
+
+
+
+# Infested Effects
+*Source: Tasha's Cauldron of Everything p. 156* 
+
+**Infested Effects**
+
+| dice: d100 | Infested Effects |
+|------------|------------------|
+| 01–05 | Intense buzzing or grinding noises fill the region for the next 24 hours. With the exception of truly cacophonous sounds, creatures can only hear speech and noises that originate within 10 feet of them. |
+| 06–10 | A mass migration of insects begins, with waves of Tiny bugs crawling over everything in the region. Creatures cannot take a short or long rest in the region for the next 24 hours. |
+| 11–15 | A swarm of bioluminescent flies converges on one random creature in the region. For the next minute, the creature sheds dim light in a 10-foot radius, any attack against it has advantage if the attacker can see it, and the creature can't benefit from being [[Rules/Source/conditions#Invisible\|invisible]]. |
+| 16–20 | A boil of termites bursts from the ground, along with dozens of bones and a treasure of the DM's choice (see ""Random Treasure"" in the "Dungeon Master's Guide"). |
+| 21–25 | A cricket-shaped creature with the statistics of a [[Rules/Source/bestiary/beast/cat-xmm\|cat]] bounds up to one random creature and follows it like an affectionate pet for 24 hours before scampering off. |
+| 26–30 | A cluster of `1d4 + 2` faintly glowing grubs appears in an unoccupied space within 30 feet of the party. Any creature that consumes one of these succulent grubs receives the benefits of a [[Rules/Source/items/potion-of-healing-xdmg\|potion of healing]]. |
+| 31–35 | A large, psychedelically colored moth flies over the party, dusting the characters with strange powder. Creatures the moth flies over must succeed on a DC 16 Constitution saving throw or be [[Rules/Source/conditions#Charmed\|charmed]] by all creatures for 1 hour. |
+| 36–45 | The region is choked with wispy webbing, which acts as difficult terrain. |
+| 46–50 | Nearly every surface is covered with discarded cicadae-like shells that crunch loudly when trod upon, imposing disadvantage on Dexterity ([[Rules/Source/skills#Stealth\|Stealth]]) checks made while moving across them. The shells vanish after 1 hour. |
+| 51–55 | A massive, bloated maggot emerges from the ground within 10 feet of the party and bursts, covering the ground with ichor in a 10-foot square centered on it. This region is affected by the [[Rules/Source/spells/grease-xphb\|grease]] spell (save DC 13) for 1 minute. |
+| 56–60 | The ground opens up beneath one random creature, creating a "quicksand" pit (see the "Dungeon Master's Guide"). |
+| 61–65 | One random creature in the region must succeed on a DC 16 Constitution saving throw or contract the [[Rules/Source/diseases#Sight Rot\|sight rot disease]] (see the "Dungeon Master's Guide") from minute parasites. |
+| 66–70 | Dung-colored bugs cover the ground. Creatures that move at half their normal walking speed can ignore the bugs. Those that move faster must succeed on a DC 16 Constitution saving throw or become [[Rules/Source/conditions#Poisoned\|poisoned]] until the start of their next turn. A creature [[Rules/Source/conditions#Poisoned\|poisoned]] in this way has its speed reduced to 0, as it is overcome by the squashed insects' foul smell. Creatures that don't need to breathe automatically succeed on this saving throw. |
+| 71–75 | One of the characters in the region must succeed on a DC 15 Wisdom saving throw or be transformed into a giant spider, as if by the [[Rules/Source/spells/polymorph-xphb\|polymorph]] spell. The spell lasts for 1 hour or until dispelled. |
+| 76–80 | One random creature in the region must succeed on a DC 16 Constitution saving throw, or it acquires a ravenous silverfish infestation among its gear. The infestation is discovered the next time the creature finishes a short or long rest. If the creature has any paper material, the silverfish destroy one random book or other paper item that isn't magical. |
+| 81–85 | One random creature in the region must succeed on a DC 16 Constitution saving throw or become host to a particularly aggressive tapeworm. The affected creature gains no benefit from eating until it receives treatment that removes a disease. A creature immune to disease automatically succeeds on this saving throw. |
+| 86–90 | Biting mites infest creatures' clothing in the region. Any creature wearing medium or heavy armor has disadvantage on attack rolls, ability checks, and saving throws for the next 24 hours. |
+| 91–95 | Tiny arachnids invade unattended spaces. The next time one random creature in the region dons its clothing or armor after finishing a long rest, it must succeed on a DC 16 Constitution saving throw or take 11 (`2d10`) poison damage. |
+| 96–00 | Countless tiny, bloodsucking insects infest the region for the next `1d6` hours. Every hour, each creature in the region must succeed on a DC 10 Constitution saving throw or gain 1 level of [[Rules/Source/conditions#Exhaustion\|exhaustion]]. The insects don't affect creatures that are immune to disease. |
+^infested-effects
+
+</div></div>
+
 
 #### Mirror Zone
 
@@ -314,9 +1452,46 @@ Consider rolling on the Mirror Zone Effects table when the following circumstanc
 - An illusion appears.  
 - A creature impersonates another creature.  
 
-![A Tailor Shop in a Mirror Zone](/Rules/Source/books/tashas-cauldron-of-everything/img/100-04-011.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/100-04-011.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/100-04-011.webp)
 
-![Mirror Zone Effects](/Rules/Source/tables/mirror-zone-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/mirror-zone-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Mirror Zone Effects
+
+</div>
+
+
+
+# Mirror Zone Effects
+*Source: Tasha's Cauldron of Everything p. 157* 
+
+**Mirror Zone Effects**
+
+| dice: d100 | Effect |
+|------------|--------|
+| 01–06 | Creatures in the region begin to display features other than their own for the next 24 hours. During that time, affected creatures have advantage on Charisma ([[Rules/Source/skills#Deception\|Deception]]) checks and ability checks made to disguise themselves. |
+| 07–12 | The [[Rules/Source/spells/hallucinatory-terrain-xphb\|hallucinatory terrain]] spell (save DC 15) affects the natural terrain of the region, changing it into a different kind of terrain (DM's choice). |
+| 13–18 | One random creature in the region gains the benefits of the [[Rules/Source/spells/blink-xphb\|blink]] spell for 1 minute, shimmering with overlapping shattered reflections. |
+| 19–24 | Creatures in the region don't cast reflections. Wisdom ([[Rules/Source/skills#Insight\|Insight]]) checks made against those creatures have disadvantage, and the creatures have disadvantage on Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) checks made against anyone who notices their lack of [[Rules/Source/bestiary/fey/reflection-tce\|reflection]]. When they leave the region, creatures regain their reflections, and the effect ends. |
+| 25–34 | Reflections of `1d4` creatures in the region emerge from mirrors and attack. The [[Rules/Source/bestiary/fey/reflection-tce\|reflections]] are two-dimensional, shimmering versions of the creatures that cast them. Treat the reflections as [[Rules/Source/bestiary/undead/shadow-xmm\|shadows]] that are fey instead of undead and vulnerable to bludgeoning damage instead of radiant. |
+| 35–40 | One character in the region gains the benefit of the [[Rules/Source/spells/mirror-image-xphb\|mirror image]] spell. The images created sometimes move or speak of their own volition. |
+| 41–46 | For the next 24 hours, certain wounds caused in the region attract spectral slivers of glass that cause extra damage. Any creature, other than a construct or an undead, hit by an attack that deals piercing or slashing damage begins to bleed, losing `1d4` hit points at the start of each of its turns. If the bleeding creature is hit by another such attack, the bleeding increases by `1d4`. Any creature can take an action to stanch the wound with a successful DC 10 Wisdom ([[Rules/Source/skills#Medicine\|Medicine]]) check. The bleeding also stops if the target receives magical healing. |
+| 47–52 | Mirrors and other highly reflective surfaces allow magical transport while in the region. Any creature that touches its [[Rules/Source/bestiary/fey/reflection-tce\|reflection]] in an object that it isn't wearing or carrying can immediately cast the [[Rules/Source/spells/misty-step-xphb\|misty step]] spell, requiring no components. |
+| 53–58 | One character can cast the [[Rules/Source/spells/scrying-xphb\|scrying]] spell (save DC 17) once within the next 24 hours, requiring no components but using a mirror or other reflective surface. |
+| 59–64 | The skin of one random creature in the region becomes silvery and reflective for the next 24 hours. For the duration, that creature has advantage on saving throws against spells, and spell attacks have disadvantage against that creature. |
+| 65–70 | A longsword or shortsword with a blade made of a jagged mirror appears in an unoccupied space within 60 feet of a random creature in the region. The weapon is a [[Rules/Source/items/sword-of-wounding-xdmg\|sword of wounding]] (see the "Dungeon Master's Guide"). If the weapon's wielder rolls a 1 or 20 on an attack roll using the weapon, the weapon shatters and is destroyed after that attack. |
+| 71–76 | For the next 24 hours, when anyone in the region hits a creature with an attack roll and deals damage to it, the attacker must succeed on a DC 13 Charisma saving throw or take force damage equal to half the damage dealt. |
+| 77–82 | Two shimmering, vertical, reflective disks of energy appear in unoccupied spaces in the region for 1 minute. Each is 6 feet in diameter and floats 1 foot above the ground. One appears in an unoccupied space within 30 feet of the party. Any creature that moves through the disk instantly appears within 5 feet of the other disk or the nearest unoccupied space. |
+| 83–88 | The next time one character in the party sees their [[Rules/Source/bestiary/fey/reflection-tce\|reflection]] in the region, that [[Rules/Source/bestiary/fey/reflection-tce\|reflection]] of comes to life and engages its counterpart in conversation. It offers to answer one question posed to it as if the creature cast the [[Rules/Source/spells/divination-xphb\|divination]] spell. After answering the question, the [[Rules/Source/bestiary/fey/reflection-tce\|reflection]] returns to normal. |
+| 89–94 | Floating shards of broken mirrors swirl through the region, showing reflections of creatures and places that aren't present, for the next minute before vanishing. On initiative count 20 (losing all ties), the shards make a ranged weapon attack (`+6` to hit) against one random creature in the region. On a hit, the target takes 10 (`3d6`) slashing damage. |
+| 95–00 | A duplicate of one random creature in the region appears in an unoccupied space within 30 feet of that creature. The duplicate's appearance, game statistics, and equipment are identical to the creature's. The duplicate immediately attacks the creature, seeking to slay it. If the duplicate dies, it and all its equipment shatter into mirror shards. If the duplicate fails to slay the creature within 1 hour, the duplicate vanishes. |
+^mirror-zone-effects
+
+</div></div>
+
 
 #### Psychic Resonance
 
@@ -329,9 +1504,46 @@ Consider rolling on the Psychic Resonance Effects table when the following circu
 - A creature becomes [[Rules/Source/conditions#Charmed\|charmed]] or [[Rules/Source/conditions#Frightened\|frightened]].  
 - A creature experiences telepathic communication.  
 
-![Animals converse after gai...](/Rules/Source/books/tashas-cauldron-of-everything/img/101-04-012.webp#center "Animals converse after gaining sapience from ambient psychic energy.")
+![/Rules/Source/books/tashas-cauldron-of-everything/img/101-04-012.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/101-04-012.webp)
 
-![Psychic Resonance Effects](/Rules/Source/tables/psychic-resonance-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/psychic-resonance-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Psychic Resonance Effects
+
+</div>
+
+
+
+# Psychic Resonance Effects
+*Source: Tasha's Cauldron of Everything p. 160* 
+
+**Psychic Resonance Effects**
+
+| dice: d100 | Effect |
+|------------|--------|
+| 01–06 | One random creature in the region gains the ability to cast the [[Rules/Source/spells/detect-thoughts-xphb\|detect thoughts]] spell (save DC 13) once over the next 24 hours, requiring no components. Intelligence is the spellcasting ability for this spell. |
+| 07–12 | One random creature in the region is affected by the [[Rules/Source/spells/mind-blank-xphb\|mind blank]] spell for the next 24 hours. |
+| 13–18 | For 1 minute on initiative count 20 (losing all ties), Tiny and Small objects in the region that aren't being worn or carried are flung by an unseen force. One random creature in the region must succeed on a DC 15 Dexterity saving throw or take `2d4` bludgeoning damage from the flung objects. |
+| 19–24 | Memories become sharp and clear for 1 hour. During this time, each creature in the region adds double its proficiency bonus to Intelligence checks made to recall information. |
+| 25–34 | Headaches and nosebleeds plague humanoids in the region, imposing disadvantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks for 1 hour. |
+| 35–40 | Psychic power builds in the mind of one random creature in the region. Once within the next minute, the creature can use a bonus action to magically assault the mind of another creature it can see. The target must succeed on a DC 14 Intelligence saving throw or take `4d10` psychic damage. |
+| 41–46 | Lurking fears become nightmares. Any creature that finishes a short or long rest in the region must succeed on a DC 10 Wisdom saving throw or gain no benefit for finishing the rest. |
+| 47–52 | For 1 hour, each creature in the region gains the ability to communicate telepathically with any creature it can see within 60 feet. If the target understands any languages, it can respond telepathically. |
+| 53–58 | One random creature in the region can sense the presence of nearby minds for 1 hour. For the duration, the creature gains advantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks made to locate other creatures within 120 feet of it, even creatures behind total cover. |
+| 59–64 | Creatures in the region suffer from disjointed thoughts and difficulty concentrating for 1 hour. For the duration, creatures have disadvantage on Intelligence checks and Constitution saving throws to maintain concentration on spells. |
+| 65–70 | One random creature in the region hears strange whispers in its mind. The whispers are fragments of thoughts from other creatures nearby. The creature has advantage on Wisdom ([[Rules/Source/skills#Insight\|Insight]]) checks for 1 hour. |
+| 71–76 | One random creature in the region gains the ability to cast the [[Rules/Source/spells/telekinesis-xphb\|telekinesis]] spell (save DC 15) once over the next 24 hours, requiring no components. Intelligence is the spellcasting ability for this spell. |
+| 77–82 | Thoughts in the region attract ambient psychic energy, forming protective fields around creatures' minds. Creatures in the region gain resistance to psychic damage for the next hour. |
+| 83–88 | For 1 minute on initiative count 20 (losing all ties), one random creature in the region must succeed on a DC 15 Intelligence saving throw or take `2d6` psychic damage. |
+| 89–94 | Compassion and joy fill the mind of one random creature in the region for 1 minute. For the duration, the creature has advantage on Intelligence, Wisdom, and Charisma saving throws, and disadvantage on attack rolls. |
+| 95–00 | The mind of every beast in the region is flooded with psychic energy. This energy causes each beast's Intelligence score to become 10, if it wasn't already higher, and the beast gains the ability to speak Common and Sylvan fluently. These changes are permanent. |
+^psychic-resonance-effects
+
+</div></div>
+
 
 > [!note] Awaken Anything
 > 
@@ -349,15 +1561,56 @@ Consider rolling on the Unraveling Magic Effects table when the following circum
 - A spell slot of 1st level or higher is expended.  
 - A dragon, a fey, or an elemental of challenge rating 5 or higher dies.  
 
-![A wood elf child reaches for unraveling magic.](/Rules/Source/books/tashas-cauldron-of-everything/img/102-04-013.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/102-04-013.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/102-04-013.webp)
 
-![Unraveling Magic Effects](/Rules/Source/tables/unraveling-magic-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/unraveling-magic-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Unraveling Magic Effects
+
+</div>
+
+
+
+# Unraveling Magic Effects
+*Source: Tasha's Cauldron of Everything p. 161* 
+
+**Unraveling Magic Effects**
+
+| dice: d100 | Effect |
+|------------|--------|
+| 01–05 | All magic items in the region temporarily lose their magical properties, becoming nonmagical for 1 hour. Artifacts are unaffected. When the items regain their magic, a creature's attunement to any of them is restored. |
+| 06–10 | The region becomes a dead-magic zone for 1 hour. For the duration, the entire region is affected by the [[Rules/Source/spells/antimagic-field-xphb\|antimagic field]] spell. |
+| 11–15 | One random creature in the region must succeed on a DC 15 Dexterity saving throw or be enclosed in [[Rules/Source/spells/otilukes-resilient-sphere-xphb\|Otiluke's resilient sphere]] for 1 minute. |
+| 16–20 | One random creature in the region that has expended spell slots regains one expended spell slot of a random level. |
+| 21–25 | Flares of magical energy flash through the region for 1 minute. For the duration, each round on initiative count 20 (losing all ties) one random creature in the region takes `2d4` damage of a type determined by a `d6`: 1, acid; 2, cold; 3, fire; 4, force; 5, lightning; or 6, thunder. |
+| 26–30 | One of the characters in the region must succeed on a DC 15 Wisdom saving throw or be transformed into a [[Rules/Source/bestiary/fey/blink-dog-xmm\|blink dog]], as if by the [[Rules/Source/spells/polymorph-xphb\|polymorph]] spell. The spell lasts for 1 hour or until dispelled. |
+| 31–35 | One random creature in the region that has spell slots expends one spell slot of a random level in a harmless shower of sparks and sounds. |
+| 36–40 | All fire in the region freezes into ice that gives off a blue light equal to the illumination it normally provides. In addition, the region radiates "extreme cold" (see the "Dungeon Master's Guide") for 1 day. |
+| 41–45 | One random creature in the region with spell slots becomes a focal point for ambient magic for 1 hour. At the end of each of the creature's turns, other creatures within 10 feet of it must succeed on a Dexterity saving throw against the spellcaster's spell save DC or take `1d6` force damage. |
+| 46–50 | The [[Rules/Source/spells/flaming-sphere-xphb\|flaming sphere]] spell (save DC 15) spontaneously activates in an unoccupied space within 5 feet of the party. On initiative count 20 (losing all ties), the sphere moves 30 feet toward the nearest creature. The sphere vanishes after 1 minute. |
+| 51–55 | simple or martial weapons in the region that are nonmagical crackle with power. For 1 hour, they become magic weapons that grant a +1 bonus to attack and damage rolls made with them. |
+| 56–60 | Swirling energy surrounds one random creature in the region for 24 hours. For the duration, the creature gains resistance to force damage and its speed is reduced by 10 feet. |
+| 61–65 | Each character in the region suddenly learns some magic. A character learns one wizard cantrip of the character's choice and knows the cantrip for `1d8` days. |
+| 66–70 | One random creature in the region crackles with sparks of light for 1 hour. For the duration, the creature magically sheds bright light in a 10-foot radius and dim light for an additional 10 feet. In addition, any creature it touches (requiring an unarmed strike if the target is unwilling) takes `1d6` force damage. |
+| 71–75 | Lightning arcs in a 5-foot wide line between two creatures in the region that are within 30 feet of each other and not behind total cover. Each creature in the line (including the two) must make a DC 13 Dexterity saving throw, taking `4d6` lightning damage on a failed save or half as much damage on a successful one. |
+| 76–80 | The [[Rules/Source/spells/reverse-gravity-xphb\|reverse gravity]] spell (save DC 18) activates for 1 minute, centered on the ground beneath one random creature in the region. |
+| 81–85 | On initiative count 20 (losing all ties), two random creatures in the region must each make a DC 15 Charisma saving throw. If either save fails, the creatures magically teleport, switching places. If both saves succeed, they don't teleport. |
+| 86–90 | One random creature in the region breaks spells for 1 hour. Whenever anyone within 20 feet of the creature casts a spell, the spellcaster must succeed on a DC 15 saving throw using its spellcasting ability, or the spell drains away without effect. The spell slot, charge, or feature use that powered the spell is wasted. |
+| 91–95 | During the next 24 hours, the first time a creature in the region targets another creature with a spell, the caster must make a DC 11 saving throw using its spellcasting ability. On a failed save, the spell targets the caster instead. On a successful save, the spell functions normally. This effect then ends. |
+| 96–00 | One random creature in the region can suddenly cast the [[Rules/Source/spells/wish-xphb\|wish]] spell once, within the next minute. Reroll if you've rolled this effect in the past 24 hours. |
+^unraveling-magic-effects
+
+</div></div>
+
 
 ### Magical Phenomena
 
 Magic has the ability to make even the most serene natural settings unpredictable. Whether the result of magical calamities, otherworldly influences, or nexuses of inexplicable forces, the subsequent effects range from whimsical to deadly.
 
-![Eldritch Storm](/Rules/Source/books/tashas-cauldron-of-everything/img/103-04-014.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/103-04-014.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/103-04-014.webp)
 
 #### Eldritch Storms
 
@@ -369,16 +1622,104 @@ When magical currents become trapped amid winds and clouds, eldritch storms can 
 - [[Rules/Source/traps-hazards/thryms-howl-tce\|Thrym's Howl]]  
 
 > [!embed-hazard]- Flaywind
-> ![Flaywind](/Rules/Source/traps-hazards/flaywind-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Flaywind
+
+</div>
+
+
+
+# Flaywind
+*Eldritch Storm*  
+
+Supernaturally powerful winds—like those from planes such as Pandemonium or Minethys, the third layer of Carceri—can spawn flaywinds. A flaywind is an intense sandstorm, gathering large rocks and other debris in addition to sand or grit. The area within the storm is heavily obscured, and a creature exposed to the storm takes `1d4` slashing damage at the start of each of its turns. Only substantial cover or shelter offers protection against the flensing grit.
+
+A flaywind leaves `4d6` feet of sand or debris in its wake. A successful DC 15 Intelligence ([[Rules/Source/skills#Arcana\|Arcana]]) or ([[Rules/Source/skills#Nature\|Nature]]) check or Wisdom ([[Rules/Source/skills#Survival\|Survival]]) check allows a character to recognize a flaywind 1 minute before it strikes, allowing time to seek shelter. A flaywind typically lasts `1d4 × 10` hours.
+
+*Source: Tasha's Cauldron of Everything p. 163*
+
+</div></div>
+
 
 > [!embed-hazard]- Flame Storm
-> ![Flame Storm](/Rules/Source/traps-hazards/flame-storm-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Flame Storm
+
+</div>
+
+
+
+# Flame Storm
+*Eldritch Storm*  
+
+Sooty thunderclouds shot through with red and orange lightning release a deluge of fiery droplets. Any creature caught in the burning rain takes `2d6` fire damage at the start of each of its turns. The droplets ignite any flammable objects that aren't being worn or carried; otherwise, the droplets burn out immediately. The smoke, soot, crackle, and low roar of the storm impose disadvantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks and ranged attack rolls.
+
+A flame storm usually lasts `2d4` minutes, though the originating storm clouds can persist for days, creating multiple flame storms.
+
+*Source: Tasha's Cauldron of Everything p. 163*
+
+</div></div>
+
 
 > [!embed-hazard]- Necrotic Tempest
-> ![Necrotic Tempest](/Rules/Source/traps-hazards/necrotic-tempest-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Necrotic Tempest
+
+</div>
+
+
+
+# Necrotic Tempest
+*Eldritch Storm*  
+
+Storms infused with the essence of death roil with dark clouds that manifest leering skulls and bone-white lightning. Any creature exposed to the storm that isn't a construct or an undead must succeed on a DC 13 Constitution saving throw at the end of each minute or take `3d6` necrotic damage.
+
+A creature that dies in a necrotic tempest rises as a [[Rules/Source/bestiary/undead/skeleton-xmm\|skeleton]] or [[Rules/Source/bestiary/undead/zombie-xmm\|zombie]] (your choice) `1d10` minutes later.
+
+A necrotic tempest lasts for `1d4` hours and leaves crops withered and wells undrinkable for `1d4` days after its passing.
+
+*Source: Tasha's Cauldron of Everything p. 163*
+
+</div></div>
+
 
 > [!embed-hazard]- Thrym's Howl
-> ![Thrym's Howl](/Rules/Source/traps-hazards/thryms-howl-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Thrym's Howl
+
+</div>
+
+
+
+# Thrym's Howl
+*Eldritch Storm*  
+
+These bone-chilling blizzards drive a wall of wind and snow like a living glacier. The storm projects [[Rules/Source/traps-hazards/extreme-cold-xdmg\|extreme cold]] (see the "Dungeon Master's Guide"). Due to the howling wind and dense blue-white ice particles, the area in the storm is heavily obscured, and ranged attack rolls and Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks made within it have disadvantage.
+
+Any creature exposed to the storm at the start of its turn takes `2d6` cold damage and can't regain hit points until it spends at least 1 hour in a warm environment. A creature that dies in the storm freezes solid. Creatures that are immune to cold damage are immune to the effects of the storm and can see normally within it.
+
+Thrym's howl typically lasts `2d10` hours.
+
+*Source: Tasha's Cauldron of Everything p. 163*
+
+</div></div>
+
 
 #### Emotional Echoes
 
@@ -428,11 +1769,44 @@ Regardless of whether a spring is pure or tainted, creatures might need to drink
 
 Bottling an enchanted spring's water removes its magical properties, unless the bottle is a specially prepared vial blessed by whatever being enchanted the spring in the first place.
 
-![Enchanted Spring](/Rules/Source/books/tashas-cauldron-of-everything/img/104-04-015.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/104-04-015.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/104-04-015.webp)
 
-![Enchanted Springs; Enchanted Spring Effects](/Rules/Source/tables/enchanted-springs-enchanted-spring-effects-tce.md)
 
-![Magic Mushrooms](/Rules/Source/books/tashas-cauldron-of-everything/img/105-04-016.webp#center)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/enchanted-springs-enchanted-spring-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Enchanted Springs; Enchanted Spring Effects
+
+</div>
+
+
+
+# Enchanted Springs; Enchanted Spring Effects
+*Source: Tasha's Cauldron of Everything p. 165* 
+
+**Enchanted Spring Effects**
+
+| dice: d12 | Effect |
+|-----------|--------|
+| 1 | Any creature that touches or drinks the water of this spring feels blessed. The creature gains the benefits of a [[Rules/Source/spells/bless-xphb\|bless]] spell for 1 hour. |
+| 2 | Bathing in the spring covers a creature with a glowing coat of golden feathers. While the creature isn't wearing armor, the feathers grant a +1 bonus to AC. The feathers vanish after `1d4` days. |
+| 3 | A creature that touches or drinks the water of this spring develops an overwhelming desire to sing. Every sentence the creature speaks for the next 24 hours rings with lyrical splendor, which grants it advantage on all Charisma checks. |
+| 4 | Bathing in the spring grants a creature the benefits of the [[Rules/Source/spells/greater-restoration-xphb\|greater restoration]] spell. As a side effect, the creature's skin, hair, and eyes become a shimmering golden color for `1d4` days. |
+| 5 | Bathing in the spring grants a creature the benefits of the [[Rules/Source/spells/spider-climb-xphb\|spider climb]] spell for 24 hours. |
+| 6 | A creature that touches or drinks the water of this spring grows the tail of its favorite animal. The tail is not under the creature's control; it moves or reacts to emotions. The tail vanishes after 24 hours. |
+| 7 | Any creature with an Intelligence score of 6 or higher that touches or drinks the water of this spring gains advantage on Wisdom ([[Rules/Source/skills#Insight\|Insight]]) checks and can cast the [[Rules/Source/spells/detect-thoughts-xphb\|detect thoughts]] spell once, requiring no components. The effects of the spring fade when either the spell is used or 24 hours pass, whichever happens first. |
+| 8 | Bathing in the spring causes `1d10` flowers to grow from a creature's head. The flowers smell lovely, and they renew their vitality and scent every day. The flowers vanish after 7 days. |
+| 9 | A creature that touches or drinks the water of this spring grows `1d4` eyestalks. These eyestalks let the creature see in all directions and grant it advantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks that rely on sight. The eyestalks vanish after `1d4` days. |
+| 10 | Bathing in the spring causes a creature's voice to sound sinister. For the next 24 hours, the creature's voice grants it advantage on Charisma ([[Rules/Source/skills#Intimidation\|Intimidation]]) checks and disadvantage on Charisma ([[Rules/Source/skills#Deception\|Deception]]) and Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) checks. |
+| 11 | A creature that touches or drinks the water of this spring grows a set of donkey ears. The ears grant the creature advantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks that rely on hearing. The ears vanish after `1d4` days. |
+| 12 | Bathing in the spring causes a creature to develop a third eye on its forehead. The eye grants the creature [[Rules/Source/senses#Truesight\|truesight]] out to a range of 60 feet. The eye vanishes after 24 hours. |
+^enchanted-spring-effects
+
+</div></div>
+
+
+![/Rules/Source/books/tashas-cauldron-of-everything/img/105-04-016.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/105-04-016.webp)
 
 #### Magic Mushrooms
 
@@ -442,7 +1816,38 @@ Creatures proficient in the [[Rules/Source/skills#Medicine\|Medicine]], [[Rules/
 
 To determine the effects of eating such fungus, roll on the Magic Mushroom Effects table.
 
-![Magic Mushrooms; Magic Mushroom Effects](/Rules/Source/tables/magic-mushrooms-magic-mushroom-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/magic-mushrooms-magic-mushroom-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Magic Mushrooms; Magic Mushroom Effects
+
+</div>
+
+
+
+# Magic Mushrooms; Magic Mushroom Effects
+*Source: Tasha's Cauldron of Everything p. 166* 
+
+**Magic Mushroom Effects**
+
+| dice: d10 | Effects |
+|-----------|---------|
+| 1 | The creature's skin turns an unusual color. Roll a `d4`: 1, purple with yellow splotches; 2, bright orange with tiger stripes; 3, tree-frog green with red squiggles; 4, hot pink with yellow spots. This change is permanent unless removed by a [[Rules/Source/spells/greater-restoration-xphb\|greater restoration]] spell or similar magic. |
+| 2 | The creature gains the enlarge or reduce effect (50 percent chance of either) of the [[Rules/Source/spells/enlarge-reduce-xphb\|enlarge/reduce]] spell for 1 hour. |
+| 3 | The creature regains `5d8 + 20` hit points. |
+| 4 | Vocally, the creature can only cluck and croon like a chicken. The creature can also understand and speak to chickens. This curse lasts for 1 hour unless ended by a [[Rules/Source/spells/remove-curse-xphb\|remove curse]] spell or similar magic. |
+| 5 | The creature can understand and speak all languages for `1d4` days. |
+| 6 | The creature gains the benefits of the [[Rules/Source/spells/telepathy-xphb\|telepathy]] spell for the next 24 hours. |
+| 7 | The creature gains the benefits of the [[Rules/Source/spells/speak-with-plants-xphb\|speak with plants]] spell for 8 hours. |
+| 8 | The creature immediately casts the [[Rules/Source/spells/time-stop-xphb\|time stop]] spell, requiring no components. Constitution is the spellcasting ability for this spell. |
+| 9 | The creature immediately casts the [[Rules/Source/spells/detect-thoughts-xphb\|detect thoughts]] spell, requiring no components. Constitution is the spellcasting ability for this spell. |
+| 10 | Magical mists pour out of the creature's eyes and ears, acting as a [[Rules/Source/spells/fog-cloud-xphb\|fog cloud]] spell for 1 hour that is centered on the creature and moves with it. |
+^magic-mushroom-effects
+
+</div></div>
+
 
 #### Mimic Colonies
 
@@ -454,7 +1859,7 @@ Members of the colony develop telepathy and the ability to speak. While within 1
 
 ##### Confronting a Colony
 
-A mimic colony's primary goal is survival. If threatened by a force the mimics can't overcome, they are willing to bargain. Mimic colonies have learned that adventurers they can't defeat can be bought off with information about nearby creatures or locations, hidden treasure (which the colony obtained from prior "food"), or even one of their own young.
+A mimic colony's primary goal is survival. If threatened by a force the mimics can't overcome, they are willing to bargain. Mimic colonies have learned that adventurers they can't defeat can be bought off with information about nearby creatures or locations, hidden treasure (which the colony obtained from prior), or even one of their own young.
 
 If the colony's survival is threatened and it thinks it has a chance of surviving a fight, it can leverage its combined might using special lair actions. On initiative count 20 (losing all ties), the mimic colony takes a lair action, causing one of the following effects; it can't use the same effect two rounds in a row:
 
@@ -465,7 +1870,7 @@ If the colony's survival is threatened and it thinks it has a chance of survivin
 
 When determining the difficulty of an encounter with a hostile mimic colony, consider the colony to be one additional creature of challenge rating 2.
 
-![Mimic Colony](/Rules/Source/books/tashas-cauldron-of-everything/img/106-04-017.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/106-04-017.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/106-04-017.webp)
 
 #### Primal Fruit
 
@@ -475,9 +1880,38 @@ A fruit-bearing plant that is suffused with magic might produce `1d6` pieces of 
 
 As an action, a creature can eat a piece of primal fruit to gain its effects. This fruit can be squeezed into juice or cooked into a dish and retains its magic. Choose an effect or roll on the Primal Fruit Effects table to determine what happens when a piece of the fruit is consumed. An [[Rules/Source/spells/identify-xphb\|identify]] spell or similar magic reveals the beneficial effect of a piece of fruit before it is eaten, but it doesn't reveal a curse or side effect.
 
-![Tressym fly around a primal tree](/Rules/Source/books/tashas-cauldron-of-everything/img/107-04-018.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/107-04-018.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/107-04-018.webp)
 
-![Primal Fruit Effects](/Rules/Source/tables/primal-fruit-effects-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/primal-fruit-effects-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Primal Fruit Effects
+
+</div>
+
+
+
+# Primal Fruit Effects
+*Source: Tasha's Cauldron of Everything p. 168* 
+
+**Primal Fruit Effects**
+
+| dice: d8 | Effect |
+|----------|--------|
+| 1 | The creature regains `3d8 + 4` hit points, and its skin sheds bright light in a 5-foot radius and dim light for an additional 5 feet for 1 hour |
+| 2 | The creature feels a surge of might. For 1 hour, the creature has advantage on attack rolls using Strength, Strength checks, and Strength saving throws. When the effect ends, the creature gains 1 level of [[Rules/Source/conditions#Exhaustion\|exhaustion]]. |
+| 3 | Waves of vitality crash over the creature. The creature's hit point maximum increases by `2d10`, and it gains the same number of hit points. The increase lasts until the creature finishes a long rest, at which time the creature must succeed on a DC 15 Charisma saving throw or be cursed with a random form of [[Rules/Source/variant-rules/player-characters-as-lycanthropes-mm\|lycanthropy]] (see "Lycanthropes" in the "Monster Manual"). |
+| 4 | The creature's skin prickles faintly. For 1 hour, it gains resistance to one damage type (chosen by the DM). |
+| 5 | Euphoric visions of bright light swim through the creature's mind. The creature gains the benefits of the [[Rules/Source/spells/death-ward-xphb\|death ward]] spell for 8 hours and must succeed on a DC 13 Constitution saving throw or be [[Rules/Source/conditions#Poisoned\|poisoned]] for the duration. |
+| 6 | A faint humming drones in the background of everything the creature hears for 1 hour, during which the creature has advantage on saving throws against spells. |
+| 7 | The creature doesn't require food, drink, or sleep for `1d4` days. For the duration, the creature can't be put to sleep by magic, and its dreams intrude upon its waking thoughts, imposing disadvantage on its Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks. |
+| 8 | Whispers intrude on the creature's mind for 24 hours. For the duration, the creature can telepathically communicate with any creature it can see within 120 feet of it. If the other creature understands at least one language, it can respond telepathically. |
+^primal-fruit-effects
+
+</div></div>
+
 
 #### Unearthly Roads
 
@@ -485,7 +1919,34 @@ Currents of magic run through the world—invisible, artery-like networks that e
 
 Some unearthly roads serve as trade routes or secret connections between distant lands. Others shift locations at noteworthy times or in response to external phenomena, like on specific anniversaries or in response to the phases of the moon. Some might also require a particular item, ritual, or action to open their gates. The Unearthly Road Keys table offers suggestions on how to enter an unearthly road.
 
-![Unearthly Roads; Unearthly Road Keys](/Rules/Source/tables/unearthly-roads-unearthly-road-keys-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/unearthly-roads-unearthly-road-keys-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Unearthly Roads; Unearthly Road Keys
+
+</div>
+
+
+
+# Unearthly Roads; Unearthly Road Keys
+*Source: Tasha's Cauldron of Everything p. 169* 
+
+**Unearthly Road Keys**
+
+| dice: d6 | Key |
+|----------|-----|
+| 1 | Throwing a silver orb through an ancient arch |
+| 2 | Spilling a pint of humanoid blood |
+| 3 | Calling the name of a specific archfey three times |
+| 4 | Wearing the regalia of a lost royal dynasty |
+| 5 | Permanently sacrificing a memory of joy |
+| 6 | Being the descendant of a legendary hero |
+^unearthly-road-keys
+
+</div></div>
+
 
 ### Natural Hazards
 
@@ -495,22 +1956,129 @@ Even without the threats of supernatural environments, the world is a dangerous 
 - [[Rules/Source/traps-hazards/falling-into-water-tce\|Falling into Water]]  
 - [[Rules/Source/traps-hazards/falling-onto-a-creature-tce\|Falling onto a Creature]]  
 
-![Falling into Water](/Rules/Source/books/tashas-cauldron-of-everything/img/108-04-019.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/108-04-019.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/108-04-019.webp)
 
 > [!embed-hazard]- Avalanche
-> ![Avalanche](/Rules/Source/traps-hazards/avalanche-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Avalanche
+
+</div>
+
+
+
+# Avalanche
+*Wilderness Hazard*  
+
+A typical avalanche (or rockslide) is 300 feet wide, 150 feet long, and 30 feet thick. Creatures in the path of an avalanche can avoid it or escape it if they're close to its edge, but outrunning one is almost impossible.
+
+When an avalanche occurs, all nearby creatures must roll initiative. Twice each round, on initiative counts 10 and 0, the avalanche travels 300 feet until it can travel no more. When an avalanche moves, any creature in its space moves along with it and falls [[Rules/Source/conditions#Prone\|prone]], and the creature must make a DC 15 Strength saving throw, taking `1d10` bludgeoning damage on a failed save, or half as much damage on a successful one.
+
+When an avalanche stops, the snow and other debris settle and bury creatures. A creature buried in this way is [[Rules/Source/conditions#Blinded\|blinded]] and [[Rules/Source/conditions#Restrained\|restrained]], and it has total cover. The creature gains 1 level of [[Rules/Source/conditions#Exhaustion\|exhaustion]] for every 5 minutes it spends buried. It can try to dig itself free as an action, breaking the surface and ending the [[Rules/Source/conditions#Blinded\|blinded]] and [[Rules/Source/conditions#Restrained\|restrained]] conditions on itself with a successful DC 15 Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check. A creature that fails this check three times can't attempt to dig itself out again.
+
+A creature that is not [[Rules/Source/conditions#Restrained\|restrained]] or [[Rules/Source/conditions#Incapacitated\|incapacitated]] can spend 1 minute freeing a buried creature. Once free, that creature is no longer [[Rules/Source/conditions#Blinded\|blinded]] or [[Rules/Source/conditions#Restrained\|restrained]] by the avalanche.
+
+*Source: Tasha's Cauldron of Everything p. 169*
+
+</div></div>
+
 
 > [!embed-hazard]- Falling into Water
-> ![Falling into Water](/Rules/Source/traps-hazards/falling-into-water-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Falling into Water
+
+</div>
+
+
+
+# Falling into Water
+*Wilderness Hazard*  
+
+A creature that falls into water or another liquid can use its reaction to make a DC 15 Strength ([[Rules/Source/skills#Athletics\|Athletics]]) or Dexterity ([[Rules/Source/skills#Acrobatics\|Acrobatics]]) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+
+*Source: Tasha's Cauldron of Everything p. 170*
+
+</div></div>
+
 
 > [!embed-hazard]- Falling onto a Creature
-> ![Falling onto a Creature](/Rules/Source/traps-hazards/falling-onto-a-creature-tce.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Falling onto a Creature
+
+</div>
+
+
+
+# Falling onto a Creature
+*Wilderness Hazard*  
+
+If a creature falls into the space of a second creature and neither of them is Tiny, the second creature must succeed on a DC 15 Dexterity saving throw or be impacted by the falling creature, and any damage resulting from the fall is divided evenly between them. The impacted creature is also knocked [[Rules/Source/conditions#Prone\|prone]], unless it is two or more sizes larger than the falling creature.
+
+*Source: Tasha's Cauldron of Everything p. 170*
+
+</div></div>
+
 
 #### Spell Equivalents of Natural Hazards
 
 Numerous spells emulate the wrath of nature, and you can use spell effects to represent a variety of natural hazards. The Spells as Natural Hazards table presents some common environmental dangers and the spells you may use to approximate them.
 
-![Spells as Natural Hazards](/Rules/Source/tables/spells-as-natural-hazards-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/spells-as-natural-hazards-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Spells as Natural Hazards
+
+</div>
+
+
+
+# Spells as Natural Hazards
+*Source: Tasha's Cauldron of Everything p. 170* 
+
+**Spells as Natural Hazards**
+
+| Natural Hazard | Approximate Spell |
+|----------------|-------------------|
+| Ball lightning | [[Rules/Source/spells/chromatic-orb-xphb\|Chromatic orb]] |
+| Blizzard | [[Rules/Source/spells/cone-of-cold-xphb\|Cone of cold]], [[Rules/Source/spells/ice-storm-xphb\|ice storm]], [[Rules/Source/spells/sleet-storm-xphb\|sleet storm]] |
+| Earthquake | [[Rules/Source/spells/earthquake-xphb\|Earthquake]] |
+| Falling debris | [[Rules/Source/spells/conjure-barrage-xphb\|Conjure barrage]], [[Rules/Source/spells/conjure-volley-xphb\|conjure volley]] |
+| Flood | [[Rules/Source/spells/control-water-xphb\|Control water]], [[Rules/Source/spells/tsunami-xphb\|tsunami]] |
+| Fog | [[Rules/Source/spells/fog-cloud-xphb\|Fog cloud]] |
+| Lava bomb | [[Rules/Source/spells/fireball-xphb\|Fireball]], [[Rules/Source/spells/produce-flame-xphb\|produce flame]] |
+| Lightning | [[Rules/Source/spells/call-lightning-xphb\|Call lightning]], [[Rules/Source/spells/lightning-bolt-xphb\|lightning bolt]] |
+| Meteor | [[Rules/Source/spells/fireball-xphb\|Fireball]], [[Rules/Source/spells/meteor-swarm-xphb\|meteor swarm]] |
+| Mirage | [[Rules/Source/spells/hallucinatory-terrain-xphb\|Hallucinatory terrain]] |
+| Pyroclastic flow | [[Rules/Source/spells/incendiary-cloud-xphb\|Incendiary cloud]] |
+| Radiation | [[Rules/Source/spells/blight-xphb\|Blight]], [[Rules/Source/spells/circle-of-death-xphb\|circle of death]] |
+| Smoke | [[Rules/Source/spells/fog-cloud-xphb\|Fog cloud]] |
+| St. Elmo's fire | [[Rules/Source/spells/faerie-fire-xphb\|Faerie fire]] |
+| Swamp gas | [[Rules/Source/spells/dancing-lights-xphb\|Dancing lights]] |
+| Tidal wave | [[Rules/Source/spells/tsunami-xphb\|Tsunami]] |
+| Toxic eruption | [[Rules/Source/spells/acid-splash-xphb\|Acid splash]] |
+| Toxic gas | [[Rules/Source/spells/cloudkill-xphb\|Cloudkill]], [[Rules/Source/spells/stinking-cloud-xphb\|stinking cloud]] |
+| Thunder | [[Rules/Source/spells/thunderwave-xphb\|Thunderwave]] |
+| Volcanic lightning | [[Rules/Source/spells/storm-of-vengeance-xphb\|Storm of vengeance]] |
+| Whirlpool | [[Rules/Source/spells/control-water-xphb\|Control water]] |
+| Wildfire | [[Rules/Source/spells/fire-storm-xphb\|Fire storm]], [[Rules/Source/spells/wall-of-fire-xphb\|wall of fire]] |
+| Windstorm | [[Rules/Source/spells/gust-of-wind-xphb\|Gust of wind]] |
+^spells-as-natural-hazards
+
+</div></div>
+
 
 ## Puzzles
 
@@ -592,7 +2160,35 @@ There are seven paintings on the walls. The paintings feature a gruesome werewol
 
 Each painting features a number of creatures of a particular kind, as summarized in the Creature Paintings table. Counting into each creature's name by the number of creatures in the painting reveals a letter. When unscrambled, the letters spell out "owlbear." Characters are likely to reveal these letters in random order. Arranging them in the correct order is part of the puzzle.
 
-![Creature Paintings](/Rules/Source/tables/creature-paintings-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creature-paintings-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creature Paintings
+
+</div>
+
+
+
+# Creature Paintings
+*Source: Tasha's Cauldron of Everything p. 172* 
+
+**Creature Paintings**
+
+| Painting | Number | Letter |
+|----------|--------|--------|
+| Gnolls | 3 | O |
+| Werewolf | 1 | W |
+| Kobolds | 5 | L |
+| Beholder | 1 | B |
+| Gelatinous Cubes | 2 | E |
+| Dragons | 3 | A |
+| Trolls | 2 | R |
+^creature-paintings
+
+</div></div>
+
 
 ##### Significance of "Owlbear"
 
@@ -652,7 +2248,7 @@ Characters can attempt to jump over trapped tiles, using the "jump rules" in the
 
 The only safe tiles for characters to step on are the ones with the faded black letters in "diagram 4.1". Red letters spell out either "magic" or one of the schools of magic: abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation. Stepping on one of these tiles triggers a poison trap, as described earlier.
 
-![Diagram 4.1: Reckless Steps Puzzle Solution](/Rules/Source/books/tashas-cauldron-of-everything/img/111-04-022.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/111-04-022.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/111-04-022.webp)
 
 #### Hint Checks
 
@@ -722,7 +2318,32 @@ Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf,
 
 Once the characters identify the creature depicted above each lock, they should count the letters in each creature's name. The number of letters in a creature's name corresponds to the number of teeth on the correct key, as shown in the Skeleton Keys Solution table.
 
-![Skeleton Keys Solution](/Rules/Source/tables/skeleton-keys-solution-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/skeleton-keys-solution-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Skeleton Keys Solution
+
+</div>
+
+
+
+# Skeleton Keys Solution
+*Source: Tasha's Cauldron of Everything p. 175* 
+
+**Skeleton Keys Solution**
+
+| Lock | Key |
+|------|-----|
+| Bat | Three teeth |
+| Snake | Five teeth |
+| Spider | Six teeth |
+| Wolf | Four teeth |
+^skeleton-keys-solution
+
+</div></div>
+
 
 #### Hint Checks
 
@@ -760,7 +2381,7 @@ This gem-filled room can be placed in any dungeon, estate, or building with mult
 
 #### Puzzle Features
 
-![A spirit escapes a gemstone](/Rules/Source/books/tashas-cauldron-of-everything/img/113-04-024.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/113-04-024.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/113-04-024.webp)
 
 The statue, which is impervious to damage, depicts Ioun or some other god of knowledge or order. Any character who succeeds on a DC 10 Intelligence ([[Rules/Source/skills#Religion\|Religion]]) check can identify the figure being depicted.
 
@@ -796,7 +2417,37 @@ An inventory of the room reveals gemstones in the amounts shown in the Gem Inven
 
 Each type of gem is associated with a letter of the alphabet, and each gem's letter is revealed by counting into the alphabet by a number of letters equal to the number of gems of its type. For example, there is one piece of quartz, so "quartz" corresponds to the first letter of the alphabet (A), while there are fourteen amethysts, so "amethyst" corresponds to the fourteenth letter of the alphabet (N).
 
-![Solution; Gem Inventory](/Rules/Source/tables/solution-gem-inventory-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/solution-gem-inventory-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Solution; Gem Inventory
+
+</div>
+
+
+
+# Solution; Gem Inventory
+*Source: Tasha's Cauldron of Everything p. 176* 
+
+**Gem Inventory**
+
+| Gem | Amount | Letter |
+|-----|--------|--------|
+| Amber | 9 | I |
+| Amethyst | 14 | N |
+| Citrine | 8 | H |
+| Garnet | 5 | E |
+| Jade | 18 | R |
+| Onyx | 16 | P |
+| Quartz | 1 | A |
+| Ruby | 12 | L |
+| Sapphire | 13 | M |
+^gem-inventory
+
+</div></div>
+
 
 Once the gems are sorted by type and alphabetized, characters can count into the alphabet by how many of each are in the room to reveal the words "in her palm." When a character speaks this phrase aloud, the statue's folded hands open, revealing the previously hidden diamond.
 
@@ -882,7 +2533,7 @@ Any character has the option of making these ability checks to receive a hint:
 
 ##### Charisma (Persuasion) DC 15
 
-The goblin provides a hint in the form of a synonym of the riddle's answer (for example, "lizard" for "newt").
+The goblin provides a hint in the form of a synonym of the riddle's answer (for example,).
 
 ##### Intelligence (Investigation) DC 10
 
@@ -924,7 +2575,7 @@ Solving this puzzle causes a secret compartment in the altar to open, revealing 
 
 Nine dwarf skulls rest near a grid of 1-foot-square tiles, as shown in puzzle handout 3 (see the end of this chapter). Columns and rows in the grid are labeled with the markings I, II, or III.
 
-![Diagram 4.2: Four by Four Puzzle Solution](/Rules/Source/books/tashas-cauldron-of-everything/img/116-04-027.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/116-04-027.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/116-04-027.webp)
 
 #### Solution
 
@@ -980,7 +2631,7 @@ The directions are written on a single sheet of parchment and recount the route 
 
 Characters who follow the directions and trace their paths on the map reveal three numbers: 3, 4, and 8 (see diagram 4.3). Turning the dials to these numbers in the same order opens the locked object.
 
-![Diagram 4.3: Illusive Island Puzzle Solution](/Rules/Source/books/tashas-cauldron-of-everything/img/117-04-028.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/117-04-028.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/117-04-028.webp)
 
 #### Hint Checks
 
@@ -1044,7 +2695,7 @@ Wizards and other spellcasters can identify the correct spell components for any
 
 Drawing a line from a spell to its material component crosses out letters that fall between the columns, as shown in diagram 4.4. Once all spells are connected to components, the untouched letters spell out "presto," which, when said aloud with the paper in hand, causes one or more [[Rules/Source/items/spell-scroll-xdmg\|spell scrolls]] (or some other treasure of your choice) to magically appear.
 
-![Diagram 4.4: Material Components Puzzle Solution](/Rules/Source/books/tashas-cauldron-of-everything/img/119-04-029.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/119-04-029.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/119-04-029.webp)
 
 #### Hint Checks
 
@@ -1119,7 +2770,38 @@ Each member that approaches the door is given a number by the guard. There is no
 
 For example, one member was given the number "six." There are three letters in the word "six," so the password for that member is "three." More potential answers are provided in the Potential Passwords table.
 
-![Solution; Potential Passwords](/Rules/Source/tables/solution-potential-passwords-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/solution-potential-passwords-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Solution; Potential Passwords
+
+</div>
+
+
+
+# Solution; Potential Passwords
+*Source: Tasha's Cauldron of Everything p. 183* 
+
+**Potential Passwords**
+
+| Number Provided | Response Required |
+|-----------------|-------------------|
+| One | Three |
+| Two | Three |
+| Three | Five |
+| Four | Four |
+| Five | Four |
+| Six | Three |
+| Eight | Five |
+| Nine | Four |
+| Eleven | Six |
+| Thirteen | Eight |
+^potential-passwords
+
+</div></div>
+
 
 #### Hint Checks
 
@@ -1173,7 +2855,7 @@ Diagram 4.5 shows how to divide the forty-five coins so that every square has a 
 
 The verse explains that the door requires the amount of coins shown in the center square. Upon inserting exactly five coins, the locked door opens.
 
-![Diagram 4.5: Exact Change Puzzle Solution](/Rules/Source/books/tashas-cauldron-of-everything/img/120-04-031.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/120-04-031.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/120-04-031.webp)
 
 #### Hint Checks
 
@@ -1301,7 +2983,7 @@ The spirit, Dolora, is a harmless apparition who won't engage the party in comba
 
 If approached with compassion, Dolora bemoans the fact that she can't pick up her doll until she speaks its name, which she has forgotten. She refuses to leave this place without the doll.
 
-Dolora, who only recalls fragmented memories of her life, can't answer many questions. This is particularly true about the messages associated with the alcoves in the hall (see "Alcoves" later in this section). While Dolora can't answer vague questions about the candles' clues (such as "Who is this talking about?"), she can provide the names of specific people when prompted. For example, if a character asks directly, "What was your mother's name?" Dolora provides the correct response. She also spells out the name, which is a clue that the spelling is important.
+Dolora, who only recalls fragmented memories of her life, can't answer many questions. This is particularly true about the messages associated with the alcoves in the hall (see), she can provide the names of specific people when prompted. For example, if a character asks directly, "What was your mother's name?" Dolora provides the correct response. She also spells out the name, which is a clue that the spelling is important.
 
 #### Puzzle Features
 
@@ -1338,7 +3020,34 @@ If the characters examine the rag doll or ask Dolora about it, she imparts the f
 
 Once the characters learn all six names, they must extract one letter from each name, as noted in the Remembered Names table. An alcove's number determines which letter to extract; for example, "Alexia" is the name connected to the verse in alcove 6, and the sixth letter in that name is A.
 
-![Solution; Remembered Names](/Rules/Source/tables/solution-remembered-names-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/solution-remembered-names-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Solution; Remembered Names
+
+</div>
+
+
+
+# Solution; Remembered Names
+*Source: Tasha's Cauldron of Everything p. 187* 
+
+**Remembered Names**
+
+| Alcove | Name | Letter |
+|--------|------|--------|
+| 1 | Sam | S |
+| 2 | Delia | E |
+| 3 | Fifi | F |
+| 4 | Tobias | I |
+| 5 | Johana | N |
+| 6 | Alexia | A |
+^remembered-names
+
+</div></div>
+
 
 The doll's name is Sefina. Once Dolora is told this, she picks up the doll, speaks its name, and disappears with it, her spirit having been laid to rest. If there's some piece of information you wish to have the spirit reveal to the party, such as the location of a nearby treasure or the secret of a more dangerous spirit, Dolora whispers this as she fades away.
 
@@ -1348,7 +3057,7 @@ Any character has the option of making these ability checks to receive a hint:
 
 ##### Charisma (Persuasion) DC 10
 
-Dolora thinks of the character as her friend. When this character figures out the answer to a riddle, Dolora calls out the name of the person it's about unprompted (for example, as soon as the character says "mother" aloud, Dolora calls out "Delia").
+Dolora thinks of the character as her friend. When this character figures out the answer to a riddle, Dolora calls out the name of the person it's about unprompted (for example, as soon as the character says).
 
 ##### Charisma (Intimidation) DC 15
 
@@ -1386,13 +3095,69 @@ A sign at the bar declares that a meal costs 1 sp, a mug of ale costs 4 cp, a gl
 
 Characters who peruse the menu see the items listed in the Menu Items table, in the order given.
 
-![Menu Items](/Rules/Source/tables/menu-items-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/menu-items-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Menu Items
+
+</div>
+
+
+
+# Menu Items
+*Source: Tasha's Cauldron of Everything p. 187* 
+
+**Menu Items**
+
+| Item | Price |
+|------|-------|
+| Corn and lentil soup | 12 cp |
+| Rabbit stew | 1 cp |
+| Ale and cheese pastry | 7 cp |
+| Brandied ham and carrots | 9 cp |
+| Grilled fish and carrots | 6 cp |
+| Seared boar and potatoes | 9 cp |
+| Dragonfire mead | 11 cp |
+^menu-items
+
+</div></div>
+
 
 #### Solution
 
 Arrange the menu items in alphabetical order, then count into each item by the number of letters indicated in its price, as shown in the What's On the Menu Solution table. Stringing the seven letters together forms the password: chimera.
 
-![What's on the Menu Solution](/Rules/Source/tables/whats-on-the-menu-solution-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/whats-on-the-menu-solution-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# What's on the Menu Solution
+
+</div>
+
+
+
+# What's on the Menu Solution
+*Source: Tasha's Cauldron of Everything p. 188* 
+
+**What's on the Menu Solution**
+
+| Item (Price) | Letter |
+|--------------|--------|
+| Ale and cheese pastry (7 cp) | C (7th letter) |
+| Brandied ham and carrots (9 cp) | H (9th letter) |
+| Corn and lentil soup (12 cp) | I (12th letter) |
+| Dragonfire mead (11 cp) | M (11th letter) |
+| Grilled fish and carrots (6 cp) | E (6th letter) |
+| Rabbit stew (1 cp) | R (1st letter) |
+| Seared boar and potatoes (3 cp) | A (3rd letter) |
+^whats-on-the-menu-solution
+
+</div></div>
+
 
 The characters can figure out the password without putting the menu items in alphabetical order. Once they get all seven letters, they must solve the anagram to get the password.
 

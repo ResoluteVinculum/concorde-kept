@@ -5,7 +5,7 @@
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 
 
-![While adventuring in the D...](/Rules/Source/books/players-handbook-2024/img/000-01-013-opening-art.webp#center "While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern")
+![/Rules/Source/books/players-handbook-2024/img/000-01-013-opening-art.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/000-01-013-opening-art.webp)
 
 Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in which the characters that you roleplay embark on adventures together in fantasy worlds filled with monsters and magic.
 
@@ -70,7 +70,7 @@ This pattern holds during every game session (each time you sit down to play D&D
 
 ## An Ongoing Game
 
-Sometimes a session of D&D is a complete game in itself (often called a "one-shot"), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
+Sometimes a session of D&D is a complete game in itself (often called a), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
 
 A campaign is like a TV series, while an adventure is like a season of the series. And a game session is like a single episode—it might be self-contained, but it usually links to the larger plot if there is one.
 
@@ -94,7 +94,7 @@ As with adventures, a DM might create a campaign from scratch, assemble a campai
 
 Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.
 
-![From left to right: `D4`, ...](/Rules/Source/books/players-handbook-2024/img/001-01-002-dice.webp#center "From left to right: `D4`, `D6`, `D8`, `D10` (ones digit), `D10` (tens digit), `D12`, `D20`")
+![/Rules/Source/books/players-handbook-2024/img/001-01-002-dice.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/001-01-002-dice.webp)
 
 > [!note] Round Down
 > 
@@ -148,19 +148,111 @@ Sometimes you might see a rule describing a percentage chance of something happe
 
 All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.
 
-![The Six Abilities; Ability Descriptions](/Rules/Source/tables/the-six-abilities-ability-descriptions-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/the-six-abilities-ability-descriptions-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# The Six Abilities; Ability Descriptions
+
+</div>
+
+
+
+# The Six Abilities; Ability Descriptions
+*Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Descriptions**
+
+| Ability | Score Measures... |
+|---------|-------------------|
+| Strength | Physical might |
+| Dexterity | Agility, reflexes, and balance |
+| Constitution | Health and stamina |
+| Intelligence | Reasoning and memory |
+| Wisdom | Perceptiveness and mental fortitude |
+| Charisma | Confidence, poise, and charm |
+^ability-descriptions
+
+</div></div>
+
 
 ### Ability Scores
 
 Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarizes what the scores mean.
 
-![Ability Scores](/Rules/Source/tables/ability-scores-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ability-scores-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ability Scores
+
+</div>
+
+
+
+# Ability Scores
+*Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Scores**
+
+| Score | Meaning |
+|-------|---------|
+| 1 | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
+| 2–9 | This represents a weak capability. |
+| 10–11 | This represents the human average. |
+| 12–19 | This represents a strong capability. |
+| 20 | This is the highest an adventurer's score can go unless a feature says otherwise. |
+| 21–29 | This represents an extraordinary capability. |
+| 30 | This is the highest a score can go. |
+^ability-scores
+
+</div></div>
+
 
 ### Ability Modifiers
 
-Each ability has a modifier that you apply whenever you make a [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]] with that ability (explained in "D20 Tests"). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
+Each ability has a modifier that you apply whenever you make a [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]] with that ability (explained in). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
-![Ability Modifiers](/Rules/Source/tables/ability-modifiers-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ability-modifiers-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ability Modifiers
+
+</div>
+
+
+
+# Ability Modifiers
+*Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Modifiers**
+
+| Score | Modifier |
+|-------|----------|
+| 1 | −5 |
+| 2–3 | −4 |
+| 4–5 | −3 |
+| 6–7 | −2 |
+| 8–9 | −1 |
+| 10–11 | +0 |
+| 12–13 | +1 |
+| 14–15 | +2 |
+| 16–17 | +3 |
+| 18–19 | +4 |
+| 20–21 | +5 |
+| 22–23 | +6 |
+| 24–25 | +7 |
+| 26–27 | +8 |
+| 28–29 | +9 |
+| 30 | +10 |
+^ability-modifiers
+
+</div></div>
+
 
 ## D20 Tests
 
@@ -173,7 +265,7 @@ When the outcome of an action is uncertain, the game uses a `d20` roll to determ
         - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
 - **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]] succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [[Rules/Source/variant-rules/difficulty-class-xphb\|Difficulty Class]] (DC). The target number for an attack roll is called an [[Rules/Source/variant-rules/armor-class-xphb\|Armor Class]] (AC), which appears on a character sheet or in a [[Rules/Source/variant-rules/stat-block-xphb\|stat block]].  
 
-![A D20 Test can result in a...](/Rules/Source/books/players-handbook-2024/img/002-01-003-d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe")
+![/Rules/Source/books/players-handbook-2024/img/002-01-003-d20-test.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/002-01-003-d20-test.webp)
 
 ### Ability Checks
 
@@ -183,7 +275,34 @@ An ability check represents a creature using talent and training to try to overc
 
 An ability check is named for the ability modifier it uses: a Strength check, an Intelligence check, and so on. Different ability checks are called for in different situations, depending on which ability is most relevant. See the Ability Check Examples table for examples of each check's use.
 
-![Ability Modifier; Ability Check Examples](/Rules/Source/tables/ability-modifier-ability-check-examples-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ability-modifier-ability-check-examples-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ability Modifier; Ability Check Examples
+
+</div>
+
+
+
+# Ability Modifier; Ability Check Examples
+*Source: Player's Handbook (2024) p. 10. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Check Examples**
+
+| Ability | Make a Check To... |
+|---------|--------------------|
+| Strength | Lift, push, pull, or break something |
+| Dexterity | Move nimbly, quickly, or quietly |
+| Constitution | Push your body beyond normal limits |
+| Intelligence | Reason or remember |
+| Wisdom | Notice things in the environment or in creatures' behavior |
+| Charisma | Influence, entertain, or deceive |
+^ability-check-examples
+
+</div></div>
+
 
 #### Proficiency Bonus
 
@@ -193,7 +312,34 @@ Add your Proficiency Bonus to an ability check when the DM determines that a ski
 
 The Difficulty Class of an ability check represents the task's difficulty. The more difficult the task, the higher its DC. The rules provide DCs for certain checks, but the DM ultimately sets them. The Typical Difficulty Classes table presents a range of possible DCs for ability checks.
 
-![Typical Difficulty Classes](/Rules/Source/tables/typical-difficulty-classes-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/typical-difficulty-classes-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Typical Difficulty Classes
+
+</div>
+
+
+
+# Typical Difficulty Classes
+*Source: Player's Handbook (2024) p. 11. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Typical Difficulty Classes**
+
+| Task Difficulty | DC |
+|-----------------|----|
+| Very easy | 5 |
+| Easy | 10 |
+| Medium | 15 |
+| Hard | 20 |
+| Very hard | 25 |
+| Nearly impossible | 30 |
+^typical-difficulty-classes
+
+</div></div>
+
 
 ### Saving Throws
 
@@ -205,7 +351,34 @@ If you don't want to resist the effect, you can choose to fail the save without 
 
 Saving throws are named for the ability modifiers they use: a Constitution saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table.
 
-![Ability Modifier; Saving Throw Examples](/Rules/Source/tables/ability-modifier-saving-throw-examples-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ability-modifier-saving-throw-examples-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ability Modifier; Saving Throw Examples
+
+</div>
+
+
+
+# Ability Modifier; Saving Throw Examples
+*Source: Player's Handbook (2024) p. 11. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Saving Throw Examples**
+
+| Ability | Make a Save To... |
+|---------|-------------------|
+| Strength | Physically resist direct force |
+| Dexterity | Dodge out of harm's way |
+| Constitution | Endure a toxic hazard |
+| Intelligence | Recognize an illusion as fake |
+| Wisdom | Resist a mental assault |
+| Charisma | Assert your identity |
+^saving-throw-examples
+
+</div></div>
+
 
 #### Proficiency Bonus
 
@@ -223,7 +396,31 @@ An attack roll determines whether an attack hits a target. An attack roll hits i
 
 The Attack Roll Abilities table shows which ability modifier to use for different types of attack rolls.
 
-![Ability Modifier; Attack Roll Abilities](/Rules/Source/tables/ability-modifier-attack-roll-abilities-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ability-modifier-attack-roll-abilities-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ability Modifier; Attack Roll Abilities
+
+</div>
+
+
+
+# Ability Modifier; Attack Roll Abilities
+*Source: Player's Handbook (2024) p. 12. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Attack Roll Abilities**
+
+| Ability | Attack Type |
+|---------|-------------|
+| Strength | Melee attack with a weapon or an [[Rules/Source/variant-rules/unarmed-strike-xphb\|Unarmed Strike]] |
+| Dexterity | Ranged attack with a weapon |
+| Varies | Spell attack (the ability used is determined by the spellcaster's spellcasting feature, as explained in chapter 7) |
+^attack-roll-abilities
+
+</div></div>
+
 
 Some features let you use different ability modifiers from those listed. For example, the [[Rules/Source/item-properties#Finesse\|Finesse]] property (see chapter 6) lets you use Strength or Dexterity with a weapon that has that property.
 
@@ -249,13 +446,13 @@ Some spells and class features give characters a different way to calculate thei
 
 #### Rolling 20 or 1
 
-If you roll a 20 on the `d20` (called a "natural 20") for an attack roll, the attack hits regardless of any modifiers or the target's AC. This is called a Critical Hit (see "Combat" later in this chapter).
+If you roll a 20 on the `d20` (called a) for an attack roll, the attack hits regardless of any modifiers or the target's AC. This is called a Critical Hit (see "Combat" later in this chapter).
 
-If you roll a 1 on the `d20` (a "natural 1") for an attack roll, the attack misses regardless of any modifiers or the target's AC.
+If you roll a 1 on the `d20` (a) for an attack roll, the attack misses regardless of any modifiers or the target's AC.
 
 ### Advantage/Disadvantage
 
-![If you have Advantage, use...](/Rules/Source/books/players-handbook-2024/img/003-01-004-advantage-disadvantage.webp#center "If you have Advantage, use the 18 If you have Disadvantage, use the 3")
+![/Rules/Source/books/players-handbook-2024/img/003-01-004-advantage-disadvantage.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/003-01-004-advantage-disadvantage.webp)
 
 Sometimes a [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]] is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a `d20` roll, while Disadvantage reflects negative circumstances.
 
@@ -295,7 +492,36 @@ Characters and monsters are good at various things. Some are skilled with many w
 
 This bonus is applied to a [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]] when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]]. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.
 
-![Proficiency Bonus](/Rules/Source/tables/proficiency-bonus-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/proficiency-bonus-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Proficiency Bonus
+
+</div>
+
+
+
+# Proficiency Bonus
+*Source: Player's Handbook (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Proficiency Bonus**
+
+| Level or CR | Bonus |
+|-------------|-------|
+| Up to 4 | +2 |
+| 5–8 | +3 |
+| 9–12 | +4 |
+| 13–16 | +5 |
+| 17–20 | +6 |
+| 21–24 | +7 |
+| 25–28 | +8 |
+| 29–30 | +9 |
+^proficiency-bonus
+
+</div></div>
+
 
 ### The Bonus Doesn't Stack
 
@@ -313,7 +539,46 @@ If a creature is proficient in a skill, the creature applies its Proficiency Bon
 
 The skills are shown on the Skills table, which notes example uses for each skill proficiency as well as the ability check the skill most often applies to.
 
-![Skill List; Skills](/Rules/Source/tables/skill-list-skills-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/skill-list-skills-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Skill List; Skills
+
+</div>
+
+
+
+# Skill List; Skills
+*Source: Player's Handbook (2024) p. 14. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Skills**
+
+| Skill | Ability | Example Uses |
+|-------|---------|--------------|
+| [[Rules/Source/skills#Acrobatics\|Acrobatics]] | Dexterity | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
+| [[Rules/Source/skills#Animal Handling\|Animal Handling]] | Wisdom | Calm or train an animal, or get an animal to behave in a certain way. |
+| [[Rules/Source/skills#Arcana\|Arcana]] | Intelligence | Recall lore about spells, magic items, and the planes of existence. |
+| [[Rules/Source/skills#Athletics\|Athletics]] | Strength | Jump farther than normal, stay afloat in rough water, or break something. |
+| [[Rules/Source/skills#Deception\|Deception]] | Charisma | Tell a convincing lie, or wear a disguise convincingly. |
+| [[Rules/Source/skills#History\|History]] | Intelligence | Recall lore about historical events, people, nations, and cultures. |
+| [[Rules/Source/skills#Insight\|Insight]] | Wisdom | Discern a person's mood and intentions. |
+| [[Rules/Source/skills#Intimidation\|Intimidation]] | Charisma | Awe or threaten someone into doing what you want. |
+| [[Rules/Source/skills#Investigation\|Investigation]] | Intelligence | Find obscure information in books, or deduce how something works. |
+| [[Rules/Source/skills#Medicine\|Medicine]] | Wisdom | Diagnose an illness, or determine what killed the recently slain. |
+| [[Rules/Source/skills#Nature\|Nature]] | Intelligence | Recall lore about terrain, plants, animals, and weather. |
+| [[Rules/Source/skills#Perception\|Perception]] | Wisdom | Using a combination of senses, notice something that's easy to miss. |
+| [[Rules/Source/skills#Performance\|Performance]] | Charisma | Act, tell a story, perform music, or dance. |
+| [[Rules/Source/skills#Persuasion\|Persuasion]] | Charisma | Honestly and graciously convince someone of something. |
+| [[Rules/Source/skills#Religion\|Religion]] | Intelligence | Recall lore about gods, religious rituals, and holy symbols. |
+| [[Rules/Source/skills#Sleight of Hand\|Sleight of Hand]] | Dexterity | Pick a pocket, conceal a handheld object, or perform legerdemain. |
+| [[Rules/Source/skills#Stealth\|Stealth]] | Dexterity | Escape notice by moving quietly and hiding behind things. |
+| [[Rules/Source/skills#Survival\|Survival]] | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
+^skills
+
+</div></div>
+
 
 #### Determining Skills
 
@@ -342,7 +607,40 @@ A character gains proficiency with various weapons and tools from their class an
 
 When you do something other than moving or communicating, you typically take an action. The Action table lists the game's main actions, which are defined in more detail in the rules glossary.
 
-![Actions](/Rules/Source/tables/actions-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/actions-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Actions
+
+</div>
+
+
+
+# Actions
+*Source: Player's Handbook (2024) p. 15. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Actions**
+
+| Action | Summary |
+|--------|---------|
+| [[Rules/Source/actions#Attack\|Attack]] | Attack with a weapon or an [[Rules/Source/variant-rules/unarmed-strike-xphb\|Unarmed Strike]]. |
+| [[Rules/Source/actions#Dash\|Dash]] | For the rest of the turn, give yourself extra movement equal to your [[Rules/Source/variant-rules/speed-xphb\|Speed]]. |
+| [[Rules/Source/actions#Disengage\|Disengage]] | Your movement doesn't provoke [[Rules/Source/actions#Opportunity Attack\|Opportunity Attack]] for the rest of the turn. |
+| [[Rules/Source/actions#Dodge\|Dodge]] | Until the start of your next turn, attack rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and you make Dexterity saving throws with [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. You lose this benefit if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or if your Speed is 0. |
+| [[Rules/Source/actions#Help\|Help]] | Help another creature's ability check or attack roll, or administer first aid. |
+| [[Rules/Source/actions#Hide\|Hide]] | Make a Dexterity ([[Rules/Source/skills#Stealth\|Stealth]]) check. |
+| [[Rules/Source/actions#Influence\|Influence]] | Make a Charisma ([[Rules/Source/skills#Deception\|Deception]], [[Rules/Source/skills#Intimidation\|Intimidation]], [[Rules/Source/skills#Performance\|Performance]], or [[Rules/Source/skills#Persuasion\|Persuasion]]) or Wisdom ([[Rules/Source/skills#Animal Handling\|Animal Handling]]) check to alter a creature's attitude. |
+| [[Rules/Source/actions#Magic\|Magic]] | Cast a spell, use a magic item, or use a magical feature. |
+| [[Rules/Source/actions#Ready\|Ready]] | Prepare to take an action in response to a trigger you define. |
+| [[Rules/Source/actions#Search\|Search]] | Make a Wisdom ([[Rules/Source/skills#Insight\|Insight]], [[Rules/Source/skills#Medicine\|Medicine]], [[Rules/Source/skills#Perception\|Perception]], or [[Rules/Source/skills#Survival\|Survival]]) check. |
+| [[Rules/Source/actions#Study\|Study]] | Make an Intelligence ([[Rules/Source/skills#Arcana\|Arcana]], [[Rules/Source/skills#History\|History]], [[Rules/Source/skills#Investigation\|Investigation]], [[Rules/Source/skills#Nature\|Nature]], or [[Rules/Source/skills#Religion\|Religion]]) check. |
+| [[Rules/Source/actions#Utilize\|Utilize]] | Use a nonmagical object. |
+^actions
+
+</div></div>
+
 
 Player characters and monsters can also do things not covered by these actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]] you need to make, if any.
 
@@ -378,7 +676,7 @@ In terms of timing, a Reaction takes place immediately after its trigger unless 
 
 ## Social Interaction
 
-![Characters lay on the char...](/Rules/Source/books/players-handbook-2024/img/004-01-005-adventurers-bartering.webp#center "Characters lay on the charm while bartering for magic items with a green hag")
+![/Rules/Source/books/players-handbook-2024/img/004-01-005-adventurers-bartering.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/004-01-005-adventurers-bartering.webp)
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
 
@@ -583,19 +881,140 @@ Monsters are the main perils characters face, but other dangers await. The rules
 [[Rules/Source/traps-hazards/suffocation-xphb\|Suffocation]]
 
 > [!embed-hazard]- Burning
-> ![Burning](/Rules/Source/traps-hazards/burning-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Burning
+
+</div>
+
+
+
+# Burning
+*Generic Hazard*  
+
+A burning creature or object takes `1d4` Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the [[Rules/Source/conditions#Prone\|Prone]] condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
+
+*Source: Player's Handbook (2024) p. 362*
+
+</div></div>
+
 
 > [!embed-hazard]- Dehydration
-> ![Dehydration](/Rules/Source/traps-hazards/dehydration-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dehydration
+
+</div>
+
+
+
+# Dehydration
+*Generic Hazard*  
+
+A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level at the day's end. [[Rules/Source/conditions#Exhaustion\|Exhaustion]] caused by dehydration can't be removed until the creature drinks the full amount of water required for a day.
+
+**Water Needs per Day**
+
+| Size | Water |
+|------|-------|
+| Tiny | 1/4 gallon |
+| Small | 1 gallon |
+| Medium | 1 gallon |
+| Large | 4 gallons |
+| Huge | 16 gallons |
+| Gargantuan | 64 gallons |
+
+*Source: Player's Handbook (2024) p. 365*
+
+</div></div>
+
 
 > [!embed-hazard]- Falling
-> ![Falling](/Rules/Source/traps-hazards/falling-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Falling
+
+</div>
+
+
+
+# Falling
+*Generic Hazard*  
+
+A creature that falls takes `1d6` Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of `20d6`. When the creature lands, it has the [[Rules/Source/conditions#Prone\|Prone]] condition unless it avoids taking any damage from the fall.
+
+A creature that falls into water or another liquid can use its [[Rules/Source/variant-rules/reaction-xphb\|Reaction]] to make a DC 15 Strength ([[Rules/Source/skills#Athletics\|Athletics]]) or Dexterity ([[Rules/Source/skills#Acrobatics\|Acrobatics]]) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+
+*Source: Player's Handbook (2024) p. 367*
+
+</div></div>
+
 
 > [!embed-hazard]- Malnutrition
-> ![Malnutrition](/Rules/Source/traps-hazards/malnutrition-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Malnutrition
+
+</div>
+
+
+
+# Malnutrition
+*Generic Hazard*  
+
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] or gain 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level at the day's end. A creature that eats nothing for 5 days automatically gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+
+[[Rules/Source/conditions#Exhaustion\|Exhaustion]] caused by malnutrition can't be removed until the creature eats the full amount of food required for a day.
+
+**Food Needs per Day**
+
+| Size | Food |
+|------|------|
+| Tiny | 1/4 pound |
+| Small | 1 pound |
+| Medium | 1 pound |
+| Large | 4 pounds |
+| Huge | 16 pounds |
+| Gargantuan | 64 pounds |
+
+*Source: Player's Handbook (2024) p. 371*
+
+</div></div>
+
 
 > [!embed-hazard]- Suffocation
-> ![Suffocation](/Rules/Source/traps-hazards/suffocation-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Suffocation
+
+</div>
+
+
+
+# Suffocation
+*Generic Hazard*  
+
+A creature can hold its breath for a number of minutes equal to 1 plus its Constitution modifier (minimum of 30 seconds) before suffocation begins. When a creature runs out of breath or is choking, it gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level at the end of each of its turns. When a creature can breathe again, it removes all levels of [[Rules/Source/conditions#Exhaustion\|Exhaustion]] it gained from suffocating.
+
+*Source: Player's Handbook (2024) p. 376*
+
+</div></div>
+
 
 ### Travel
 
@@ -613,7 +1032,31 @@ If you need to know how fast you can move when every second matters, see the mov
 
 While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [[Rules/Source/variant-rules/short-rest-xphb\|Short]] or [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] before they can move at that increased pace again (see chapter 6 for a selection of mounts for sale). The *Dungeon Master's Guide* has rules that affect which pace you can choose in certain types of terrain.
 
-![Travel Pace](/Rules/Source/tables/travel-pace-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/travel-pace-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Travel Pace
+
+</div>
+
+
+
+# Travel Pace
+*Source: Player's Handbook (2024) p. 20. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Travel Pace**
+
+|    |    |    |    |
+|----|----|----|----|
+| Fast | 400 feet | 4 miles | 30 miles |
+| Normal | 300 feet | 3 miles | 24 miles |
+| Slow | 200 feet | 2 miles | 18 miles |
+^travel-pace
+
+</div></div>
+
 
 Each travel pace has a game effect, as defined below.
 
@@ -802,7 +1245,7 @@ Combat ends when one side or the other is defeated, which can mean the creatures
 
 ### Movement and Position
 
-![Creatures occupy spaces of...](/Rules/Source/books/players-handbook-2024/img/009-01-010-displacer-beast-combat.webp#center "Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces")
+![/Rules/Source/books/players-handbook-2024/img/009-01-010-displacer-beast-combat.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/009-01-010-displacer-beast-combat.webp)
 
 On your turn, you can move a distance equal to your [[Rules/Source/variant-rules/speed-xphb\|Speed]] or less. Or you can decide not to move.
 
@@ -848,7 +1291,34 @@ A creature belongs to a size category, which determines the width of the square 
 
 A character's size is determined by species, and a monster's size is specified in the monster's stat block.
 
-![Creature Size and Space](/Rules/Source/tables/creature-size-and-space-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creature-size-and-space-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creature Size and Space
+
+</div>
+
+
+
+# Creature Size and Space
+*Source: Player's Handbook (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Creature Size and Space**
+
+| Size | Space (Feet) | Space (Squares) |
+|------|--------------|-----------------|
+| Tiny | 2½ by 2½ feet | 4 per square |
+| Small | 5 by 5 feet | 1 square |
+| Medium | 5 by 5 feet | 1 square |
+| Large | 10 by 10 feet | 4 squares (2 by 2) |
+| Huge | 15 by 15 feet | 9 squares (3 by 3) |
+| Gargantuan | 20 by 20 feet | 16 squares (4 by 4) |
+^creature-size-and-space
+
+</div></div>
+
 
 #### Moving around Other Creatures
 
@@ -872,7 +1342,31 @@ Walls, trees, creatures, and other obstacles can provide cover, making a target 
 
 A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives [[Rules/Source/variant-rules/cover-xphb\|Half Cover]] and a tree trunk that gives [[Rules/Source/variant-rules/cover-xphb\|Three-Quarters Cover]], the target has Three-Quarters Cover.
 
-![Cover](/Rules/Source/tables/cover-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/cover-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Cover
+
+</div>
+
+
+
+# Cover
+*Source: Player's Handbook (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Cover**
+
+| Degree | Benefit to Target | Offered By... |
+|--------|-------------------|---------------|
+| [[Rules/Source/variant-rules/cover-xphb\|Half]] | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| [[Rules/Source/variant-rules/cover-xphb\|Three-Quarters]] | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| [[Rules/Source/variant-rules/cover-xphb\|Total]] | Can't be targeted directly | An object that covers the whole target |
+^cover
+
+</div></div>
+
 
 > [!note] Unseen Attackers and Targets
 > 
@@ -920,7 +1414,7 @@ You can make an Opportunity Attack when a creature that you can see leaves your 
 
 ### Mounted Combat
 
-![Astride a giant seahorse, ...](/Rules/Source/books/players-handbook-2024/img/010-01-011-giant-seahorse-mount.webp#center "Astride a giant seahorse, a paladin adventures underwater")
+![/Rules/Source/books/players-handbook-2024/img/010-01-011-giant-seahorse-mount.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/010-01-011-giant-seahorse-mount.webp)
 
 A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
 
@@ -954,7 +1448,7 @@ A ranged attack roll with a weapon underwater automatically misses a target beyo
 
 #### Fire Resistance
 
-Anything underwater has Resistance to Fire damage (explained in "Damage and Healing").
+Anything underwater has Resistance to Fire damage (explained in).
 
 ## Damage and Healing
 
@@ -1141,49 +1635,3139 @@ Many effects impose a condition, a temporary state that alters the recipient's c
 The definition of a condition specifies what happens to its recipient while affected by it, and some conditions apply other conditions.
 
 > [!embed-condition]- Blinded
-> ![Blinded](/Rules/Source/conditions.md#Blinded)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blinded
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Charmed
-> ![Charmed](/Rules/Source/conditions.md#Charmed)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charmed
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Deafened
-> ![Deafened](/Rules/Source/conditions.md#Deafened)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Deafened
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Exhaustion
-> ![Exhaustion](/Rules/Source/conditions.md#Exhaustion)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Exhaustion
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Frightened
-> ![Frightened](/Rules/Source/conditions.md#Frightened)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Frightened
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Grappled
-> ![Grappled](/Rules/Source/conditions.md#Grappled)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Grappled
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Incapacitated
-> ![Incapacitated](/Rules/Source/conditions.md#Incapacitated)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Incapacitated
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Invisible
-> ![Invisible](/Rules/Source/conditions.md#Invisible)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Invisible
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Paralyzed
-> ![Paralyzed](/Rules/Source/conditions.md#Paralyzed)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Paralyzed
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Petrified
-> ![Petrified](/Rules/Source/conditions.md#Petrified)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Petrified
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Poisoned
-> ![Poisoned](/Rules/Source/conditions.md#Poisoned)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Poisoned
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Prone
-> ![Prone](/Rules/Source/conditions.md#Prone)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Prone
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Restrained
-> ![Restrained](/Rules/Source/conditions.md#Restrained)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Restrained
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Stunned
-> ![Stunned](/Rules/Source/conditions.md#Stunned)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Stunned
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 > [!embed-condition]- Unconscious
-> ![Unconscious](/Rules/Source/conditions.md#Unconscious)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Unconscious
+
+</div>
+
+
+
+# Conditions
+
+## Blinded
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] or fewer remaining.
+
+## Charmed
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [[Rules/Source/variant-rules/magical-effect-xphb\|magical effects]].
+
+**Social Advantage.** The charmer has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on any ability check to interact with you socially.
+
+## Concentration
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+
+**Damage.** If you take damage, you must succeed on a Constitution [[Rules/Source/variant-rules/saving-throw-xphb\|saving throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+
+**Incapacitated or Dead.** Your Concentration ends if you have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition or you die.
+
+## Deafened
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
+
+## Exhaustion
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Exhaustion condition, you experience the following effects.
+
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+
+**D20 Tests Affected.** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+
+**Speed Reduced.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is reduced by a number of feet equal to 5 times your Exhaustion level.
+
+**Removing Exhaustion Levels.** Finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+
+## Frightened
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
+
+## Grappled
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+
+## Incapacitated
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [[Rules/Source/variant-rules/action-xphb\|action]], [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], or [[Rules/Source/variant-rules/reaction-xphb\|Reaction]].
+
+**No Concentration.** Your [[Rules/Source/conditions#Concentration\|Concentration]] is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the roll.
+
+## Invisible
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [[Rules/Source/variant-rules/initiative-xphb\|Initiative]], you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and your attack rolls have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+
+## Paralyzed
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+## Petrified
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Resist Damage.** You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to all damage.
+
+**Poison Immunity.** You have [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition.
+
+## Poisoned
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls and ability checks.
+
+## Prone
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [[Rules/Source/variant-rules/crawling-xphb\|crawl]] or to spend an amount of movement equal to half your [[Rules/Source/variant-rules/speed-xphb\|Speed]] (round down) to right yourself and thereby end the condition. If your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0, you can't right yourself.
+
+**Attacks Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on attack rolls. An attack roll against you has [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] if the attacker is within 5 feet of you. Otherwise, that attack roll has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+## Restrained
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]], and your attack rolls have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]].
+
+**Saving Throws Affected.** You have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+## Stunned
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+## Surprised
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] roll.
+
+## Unconscious
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] and [[Rules/Source/conditions#Prone\|Prone]] conditions, and you drop whatever you're holding. When this condition ends, you remain [[Rules/Source/conditions#Prone\|Prone]].
+
+**Speed 0.** Your [[Rules/Source/variant-rules/speed-xphb\|Speed]] is 0 and can't increase.
+
+**Attacks Affected.** [[Rules/Source/actions#Attack\|Attack]] rolls against you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]].
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [[Rules/Source/variant-rules/saving-throw-xphb\|saving throws]].
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [[Rules/Source/variant-rules/critical-hit-xphb\|Critical Hit]] if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.
+
+</div></div>
+
 
 ### Duration
 

@@ -19,7 +19,7 @@ The following sections present a variety of options for creating characters with
 
 "Draconic Feats" provides feats to forge connections to the chromatic, gem, and metallic dragon families.
 
-![In his guise as a young mo...](/Rules/Source/books/fizbans-treasury-of-dragons/img/002-01-001-chapter-splash.webp#center "In his guise as a young monk, Bahamut helps a pair of adventurers put an end to a young red dragon's depredations")
+![/Rules/Source/books/fizbans-treasury-of-dragons/img/002-01-001-chapter-splash.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/002-01-001-chapter-splash.webp)
 
 ## Draconic Races
 
@@ -54,13 +54,203 @@ Here's a list of the game's creature types in alphabetical order: Aberration, Be
 - [[Rules/Source/races/dragonborn-xphb\|Metallic Dragonborn]]  
 
 > [!embed-race]- Dragonborn (Chromatic)
-> ![Dragonborn (Chromatic)](/Rules/Source/races/dragonborn-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/races/dragonborn-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragonborn (Chromatic)
+
+</div>
+
+
+
+# Dragonborn
+*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![/Rules/Source/races/img/dragonborn.webp\|right wmed](/img/user/Rules/Source/races/img/dragonborn.webp)
+
+- **Ability Scores**: None
+- **Type**: humanoid
+- **Size**: Medium
+- **Speed**: 30 ft.
+
+## Traits
+
+### Draconic Ancestry
+
+Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [[Rules/Source/variant-rules/damage-xphb\|Damage]] [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] traits as well as your appearance.
+
+**Draconic Ancestors**
+
+| Dragon | Damage Type |
+|--------|-------------|
+| Black | Acid |
+| Blue | Lightning |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Green | Poison |
+| Red | Fire |
+| Silver | Cold |
+| White | Cold |
+
+### Breath Weapon
+
+When you take the [[Rules/Source/actions#Attack\|Attack]] action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [[Rules/Source/variant-rules/cone-area-of-effect-xphb\|Cone]] or a 30-foot [[Rules/Source/variant-rules/line-area-of-effect-xphb\|Line]] that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]]). On a failed save, a creature takes `1d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `1d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
+
+You can use this Breath Weapon a number of times equal to your [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]], and you regain all expended uses when you finish a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]].
+
+### Damage Resistance
+
+You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to the damage type determined by your Draconic Ancestry trait.
+
+### Darkvision
+
+You have [[Rules/Source/senses#Darkvision\|Darkvision]] with a range of 60 feet.
+
+### Draconic Flight
+
+When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition. During that time, you have a [[Rules/Source/variant-rules/fly-speed-xphb\|Fly Speed]] equal to your [[Rules/Source/variant-rules/speed-xphb\|Speed]]. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]].
+
+## Description
+
+The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
+
+Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-boned with horns on their heads—and their coloration and other features are reminiscent of their draconic ancestors.
+
+</div></div>
+
 
 > [!embed-race]- Dragonborn (Gem)
-> ![Dragonborn (Gem)](/Rules/Source/races/dragonborn-gem-ftd.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/races/dragonborn-gem-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragonborn (Gem)
+
+</div>
+
+
+
+# Dragonborn (Gem)
+*Source: Fizban's Treasury of Dragons p. 11*  
+![/Rules/Source/races/img/gem-dragonborn.webp\|right wmed](/img/user/Rules/Source/races/img/gem-dragonborn.webp)
+
+- **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
+- **Size**: Medium
+- **Speed**: 30 ft.
+
+## Traits
+
+### Gem Ancestry
+
+You have a gem dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Gem Ancestry table. This determines the damage type for your other traits, as shown in the table.
+
+**Gem Ancestry**
+
+| Dragon | Damage Type |
+|--------|-------------|
+| Amethyst | Force |
+| Crystal | Radiant |
+| Emerald | Psychic |
+| Sapphire | Thunder |
+| Topaz | Necrotic |
+
+### Breath Weapon
+
+When you take the [[Rules/Source/actions#Attack\|Attack]] action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes `1d10` damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by `1d10` when you reach 5th level (`2d10`), 11th level (`3d10`), and 17th level (`4d10`).
+
+You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+### Draconic Resistance
+
+You have resistance to the damage type associated with your Gem Ancestry.
+
+### Psionic Mind
+
+You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
+
+### Gem Flight
+
+Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest.
+
+## Description
+
+Gem dragonborn partake of the heritage of gem dragons, who claim to be heirs of Sardior, the Ruby Dragon. The colors and mysterious powers of gem dragons—amethyst, crystal, emerald, sapphire, and topaz—gleam in these dragonborn's scaled skin and course through their veins. Theirs are the wonders of the mind, the force of will, the brilliant light of insight, and the resounding echo of discovery—but also the desiccation of despair.
+
+</div></div>
+
 
 > [!embed-race]- Dragonborn (Metallic)
-> ![Dragonborn (Metallic)](/Rules/Source/races/dragonborn-xphb.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/races/dragonborn-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dragonborn (Metallic)
+
+</div>
+
+
+
+# Dragonborn
+*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![/Rules/Source/races/img/dragonborn.webp\|right wmed](/img/user/Rules/Source/races/img/dragonborn.webp)
+
+- **Ability Scores**: None
+- **Type**: humanoid
+- **Size**: Medium
+- **Speed**: 30 ft.
+
+## Traits
+
+### Draconic Ancestry
+
+Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and [[Rules/Source/variant-rules/damage-xphb\|Damage]] [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] traits as well as your appearance.
+
+**Draconic Ancestors**
+
+| Dragon | Damage Type |
+|--------|-------------|
+| Black | Acid |
+| Blue | Lightning |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Green | Poison |
+| Red | Fire |
+| Silver | Cold |
+| White | Cold |
+
+### Breath Weapon
+
+When you take the [[Rules/Source/actions#Attack\|Attack]] action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [[Rules/Source/variant-rules/cone-area-of-effect-xphb\|Cone]] or a 30-foot [[Rules/Source/variant-rules/line-area-of-effect-xphb\|Line]] that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]]). On a failed save, a creature takes `1d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `1d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
+
+You can use this Breath Weapon a number of times equal to your [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]], and you regain all expended uses when you finish a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]].
+
+### Damage Resistance
+
+You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to the damage type determined by your Draconic Ancestry trait.
+
+### Darkvision
+
+You have [[Rules/Source/senses#Darkvision\|Darkvision]] with a range of 60 feet.
+
+### Draconic Flight
+
+When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition. During that time, you have a [[Rules/Source/variant-rules/fly-speed-xphb\|Fly Speed]] equal to your [[Rules/Source/variant-rules/speed-xphb\|Speed]]. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]].
+
+## Description
+
+The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
+
+Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-boned with horns on their heads—and their coloration and other features are reminiscent of their draconic ancestors.
+
+</div></div>
+
 
 ## Subclass Options
 
@@ -70,8 +260,8 @@ At 3rd level, a monk gains the Monastic Tradition class feature and a ranger gai
 - Ranger: Drakewarden  
 
 > [!gallery]
-> ![A human monk practices a f...](/Rules/Source/books/fizbans-treasury-of-dragons/img/dragon-monk.webp#gallery "A human monk practices a form inspired by dragon flight")
-> ![A dragonborn Drakewarden s...](/Rules/Source/books/fizbans-treasury-of-dragons/img/drakewarden-ranger.webp#gallery "A dragonborn Drakewarden shares affection with her drake companion")
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/dragon-monk.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/dragon-monk.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/drakewarden-ranger.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/drakewarden-ranger.webp)
 
 Way of the Ascendant Dragon
 
@@ -81,7 +271,38 @@ Drakewarden
 
 Sorcerers whose magic comes from a draconic origin, rangers with a drake companion, and monks who learn the ways of dragon masters are not the only adventurers whose skills, spells, and class features can have their source in the power of dragons. A character of any class can have strong ties to dragonkind. The Draconic Character Ties table provides ideas you might draw on as inspiration for infusing your character with draconic flavor. The classes noted in parentheses at the end of each entry are particularly appropriate for a given tie, but you are not limited to those options.
 
-![Heroes of the Dragon; Draconic Character Ties](/Rules/Source/tables/heroes-of-the-dragon-draconic-character-ties-ftd.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/heroes-of-the-dragon-draconic-character-ties-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Heroes of the Dragon; Draconic Character Ties
+
+</div>
+
+
+
+# Heroes of the Dragon; Draconic Character Ties
+*Source: Fizban's Treasury of Dragons p. 16* 
+
+**Draconic Character Ties**
+
+| dice: d10 | Draconic Tie |
+|-----------|--------------|
+| 1 | I revere and draw my power from one of the dragon gods—most likely Bahamut or Tiamat, but possibly Sardior or a powerful dragon with heightened dragonsight, such as Aasterinian, Ashardalon, or Chronepsis. (Cleric, paladin, warlock) |
+| 2 | I revere or host a draconic spirit, akin to a nature or ancestral spirit. (Barbarian, druid, ranger) |
+| 3 | I was part of an order that preserves the teachings of an ancient dragon founder. (Fighter, monk, paladin, wizard) |
+| 4 | I have a dragon for a mentor or patron. (Bard, druid, fighter, rogue, sorcerer, warlock) |
+| 5 | I use my class features to take on draconic characteristics. (Barbarian, sorcerer) |
+| 6 | I have a dragon tooth, horn, claw, or scale that I use as a focus for my spellcasting. (Cleric, druid, paladin, ranger, sorcerer, warlock, wizard) |
+| 7 | A dragon ancestor, or a dragon's gift to my ancestor, fuels my might. (Barbarian, fighter, sorcerer) |
+| 8 | My connection to nature gives me a strange link to a dragon whose presence alters the fabric of nature around the dragon's lair. (Druid, ranger) |
+| 9 | I recently discovered that a person I loved and trusted was a dragon in disguise. (Any) |
+| 10 | I have an apparently mundane item that was stolen from a dragon's hoard, and inexplicable things happen when I carry it with me. (Any) |
+^draconic-character-ties
+
+</div></div>
+
 
 ## Draconic Feats
 
@@ -94,10 +315,69 @@ Here are feats that bestow draconic power, available to you if you use the "opti
 - [[Rules/Source/feats/gift-of-the-metallic-dragon-ftd\|Gift of the Metallic Dragon]]  
 
 > [!embed-feat]- Gift of the Chromatic Dragon
-> ![Gift of the Chromatic Dragon](/Rules/Source/feats/gift-of-the-chromatic-dragon-ftd.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/gift-of-the-chromatic-dragon-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gift of the Chromatic Dragon
+
+</div>
+
+
+
+# Gift of the Chromatic Dragon
+*Source: Fizban's Treasury of Dragons p. 17*  
+
+You've manifested some of the power of chromatic dragons, granting you the following benefits:
+
+- **Chromatic Infusion.** As a bonus action, you can touch a simple or martial weapon and infuse it with one of the following damage types: acid, cold, fire, lightning, or poison. For the next minute, the weapon deals an extra `1d4` damage of the chosen type when it hits. After you use this bonus action, you can't do so again until you finish a long rest.  
+- **Reactive Resistance.** When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+</div></div>
+
 
 > [!embed-feat]- Gift of the Gem Dragon
-> ![Gift of the Gem Dragon](/Rules/Source/feats/gift-of-the-gem-dragon-ftd.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/gift-of-the-gem-dragon-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gift of the Gem Dragon
+
+</div>
+
+
+
+# Gift of the Gem Dragon
+*Source: Fizban's Treasury of Dragons p. 17*  
+
+You've manifested some of the power of gem dragons, granting you the following benefits:
+
+- **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.  
+- **Telekinetic Reprisal.** When you take damage from a creature that is within 10 feet of you, you can use your reaction to emanate telekinetic energy. The creature that dealt damage to you must make a Strength saving throw (DC equals 8 + your proficiency bonus + the ability modifier of the score increased by this feat). On a failed save, the creature takes `2d8` force damage and is pushed up to 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+</div></div>
+
 
 > [!embed-feat]- Gift of the Metallic Dragon
-> ![Gift of the Metallic Dragon](/Rules/Source/feats/gift-of-the-metallic-dragon-ftd.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/gift-of-the-metallic-dragon-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gift of the Metallic Dragon
+
+</div>
+
+
+
+# Gift of the Metallic Dragon
+*Source: Fizban's Treasury of Dragons p. 17*  
+
+You've manifested some of the power of metallic dragons, granting you the following benefits:
+
+- **Draconic Healing.** You learn the [[Rules/Source/spells/cure-wounds-xphb\|cure wounds]] spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can't do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell's spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this feat (choose when you gain the feat).  
+- **Protective Wings.** You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target's AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+</div></div>

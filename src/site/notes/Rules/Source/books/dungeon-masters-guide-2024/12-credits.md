@@ -30,5 +30,5 @@
 > ![/Rules/Source/books/dungeon-masters-guide-2024/img/249-14-001-dungeon-masters-guide.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/249-14-001-dungeon-masters-guide.webp)
 
 > [!gallery]
-> ![On the Cover: Tyler Jacobs...](/Rules/Source/books/dungeon-masters-guide-2024/img/250-14-002-on-the-cover.webp#gallery "On the Cover: Tyler Jacobson illustrates the archvillain Venger, his evil cohorts Skylla and Warduke, and a legion of skeletal minions.")
-> ![On the Alt-Cover: Lolth, t...](/Rules/Source/books/dungeon-masters-guide-2024/img/251-14-003-on-the-alt-cover.webp#gallery "On the Alt-Cover: Lolth, the Demon Queen of Spiders, spins a tangled web of schemes and snares in this illustration by Olena Richards.")
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/250-14-002-on-the-cover.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/250-14-002-on-the-cover.webp)
+> ![/Rules/Source/books/dungeon-masters-guide-2024/img/251-14-003-on-the-alt-cover.webp\|gallery wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/251-14-003-on-the-alt-cover.webp)

@@ -34,7 +34,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -111,5 +111,44 @@ Your Superiority Die becomes a `d12`.
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![Maneuver, Battle Master](/Rules/Source/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/lists/list-optfeaturetype-mv-b/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Maneuver, Battle Master
+
+</div>
+
+
+
+# Maneuver, Battle Master
+*Source: Player's Handbook, Tasha's Cauldron of Everything p. 42, Player's Handbook (2024)* 
+
+- [[Rules/Source/optional-features/ambush-xphb\|Ambush]]
+- [[Rules/Source/optional-features/bait-and-switch-xphb\|Bait and Switch]]
+- [[Rules/Source/optional-features/brace-tce\|Brace]]
+- [[Rules/Source/optional-features/commanders-strike-xphb\|Commander's Strike]]
+- [[Rules/Source/optional-features/commanding-presence-xphb\|Commanding Presence]]
+- [[Rules/Source/optional-features/disarming-attack-xphb\|Disarming Attack]]
+- [[Rules/Source/optional-features/distracting-strike-xphb\|Distracting Strike]]
+- [[Rules/Source/optional-features/evasive-footwork-xphb\|Evasive Footwork]]
+- [[Rules/Source/optional-features/feinting-attack-xphb\|Feinting Attack]]
+- [[Rules/Source/optional-features/goading-attack-xphb\|Goading Attack]]
+- [[Rules/Source/optional-features/grappling-strike-tce\|Grappling Strike]]
+- [[Rules/Source/optional-features/lunging-attack-xphb\|Lunging Attack]]
+- [[Rules/Source/optional-features/maneuvering-attack-xphb\|Maneuvering Attack]]
+- [[Rules/Source/optional-features/menacing-attack-xphb\|Menacing Attack]]
+- [[Rules/Source/optional-features/parry-xphb\|Parry]]
+- [[Rules/Source/optional-features/precision-attack-xphb\|Precision Attack]]
+- [[Rules/Source/optional-features/pushing-attack-xphb\|Pushing Attack]]
+- [[Rules/Source/optional-features/quick-toss-tce\|Quick Toss]]
+- [[Rules/Source/optional-features/rally-xphb\|Rally]]
+- [[Rules/Source/optional-features/riposte-xphb\|Riposte]]
+- [[Rules/Source/optional-features/sweeping-attack-xphb\|Sweeping Attack]]
+- [[Rules/Source/optional-features/tactical-assessment-xphb\|Tactical Assessment]]
+- [[Rules/Source/optional-features/trip-attack-xphb\|Trip Attack]]
+
+</div></div>
+
 ^list-optfeature-mv-b

@@ -5,7 +5,7 @@
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 
 
-![You don't need a magical g...](/Rules/Source/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp#center "You don't need a magical game table to play D&D, but wouldn't it be fun?")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp)
 
 Dungeons & Dragons is a game in which you and your friends take on roles and tell a shared story. While the "Player's Handbook" teaches you how to play the game and how to create characters who are the heroes of the story, the *Dungeon Master's Guide* is written for the player who presides over the game and makes sure everyone is having fun. This player is the Dungeon Master, or DM. Being a Dungeon Master is a fun, empowering, and rewarding experience, and this chapter walks you through the basics.
 
@@ -41,7 +41,8 @@ The most important part of being a good DM is facilitating the fun of everyone a
 > - **Ready-Made Elements.** Sample adventures in chapter 4, a campaign setting in chapter 5, and new maps in appendix B make it easier to run a game right away.  
 > - **Expanded and Revised Magic Items.** Chapter 7 is packed with new magic items and old ones that have been revised.  
 > - **Bastions.** Chapter 8 has rules that allow player characters to build, maintain, and enjoy their own strongholds.  
-> - **Lore Glossary.** In appendix A, a helpful glossary explains many of the iconic people and locations found throughout the D&D multiverse.  { #whats-new-in-the-2024-version}
+> - **Lore Glossary.** In appendix A, a helpful glossary explains many of the iconic people and locations found throughout the D&D multiverse.  { #whats-new-in-the-2024-version}
+
 
 
 ## Things You Need
@@ -52,7 +53,7 @@ What you need to play hasn't changed much since the game's first publication in 
 
 As the Dungeon Master, you need this book plus the "Player's Handbook" (which contains most of the rules of the game) and the "Monster Manual". Your players need access to the "Player's Handbook", too, but they can share as needed.
 
-Let players know beforehand what books (other than the "Player's Handbook") they can reference during a playing session. For example, it's not appropriate for players to look up a monster in the "Monster Manual" (or the equivalent digital tool) while fighting that monster. If you're running a published adventure, players should avoid reading that adventure so they don't spoil any surprises.
+Let players know beforehand what books (other than the) they can reference during a playing session. For example, it's not appropriate for players to look up a monster in the "Monster Manual" (or the equivalent digital tool) while fighting that monster. If you're running a published adventure, players should avoid reading that adventure so they don't spoil any surprises.
 
 ### A Dungeon Master
 
@@ -90,9 +91,10 @@ You can also play D&D anywhere you might come together in an online space, from 
 > 
 > Sometimes the hardest thing about running a game is finding a time when everyone can play. Some groups play for a few hours every week, while others set aside a whole day once a month. Create a schedule that works best for your group.
 > 
-> For new groups, it often helps to schedule a single-session game (often called a "one-shot") as a way for people to try it out. If everyone has a great time at that one session, it can be easier to get them to make a long-term commitment.
+> For new groups, it often helps to schedule a single-session game (often called a) as a way for people to try it out. If everyone has a great time at that one session, it can be easier to get them to make a long-term commitment.
 > 
-> Scheduling conflicts are sometimes inescapable. The "Group Size" section in chapter 2 offers some advice on what to do when a player has to miss a session.{ #scheduling-games}
+> Scheduling conflicts are sometimes inescapable. The "Group Size" section in chapter 2 offers some advice on what to do when a player has to miss a session.{ #scheduling-games}
+
 
 
 ### Dice
@@ -139,7 +141,7 @@ Many software tools designed to facilitate online D&D play provide a battle grid
 
 Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference.
 
-![What do you do when a die ...](/Rules/Source/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp#center "What do you do when a die lands cocked? See the end of this chapter for advice")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp)
 
 ## Preparing a Session
 
@@ -158,7 +160,7 @@ A D&D game session usually starts with some out-of-game chatter as everyone sett
 
 A more difficult combat encounter might count as two or three things, and a tense negotiation can use most or all of an hour of play on its own.
 
-![Like Zuggtmoy, the Demon Q...](/Rules/Source/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp#center "Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp)
 
 ### Preparation Time
 
@@ -216,7 +218,8 @@ As the DM, you decide how much to tell the players and when. All the information
 
 > [!note] 
 > 
-> Published adventures often include text in a box like this, which is meant to be read aloud to the players when their characters first arrive at a location or under a specific circumstance, as described in the text. It usually describes locations so the players know what's happening and have a sense of what their characters' options are.{ #01e}
+> Published adventures often include text in a box like this, which is meant to be read aloud to the players when their characters first arrive at a location or under a specific circumstance, as described in the text. It usually describes locations so the players know what's happening and have a sense of what their characters' options are.{ #01e}
+
 
 
 Whether you're running a published adventure or one of your own creation, your initial description of a room or situation should focus on what the characters can perceive. You don't have to reveal every detail at once. Most players begin to lose focus after about three sentences of descriptive text. As characters search rooms, open drawers and chests, and examine things more closely, give players more details about what their characters find.
@@ -253,7 +256,8 @@ Expect players to discuss the events of the game, spend time planning, and engag
 
 > [!note] Taking Breaks
 > 
-> When you finish a lengthy combat encounter or a tension-filled scene, or if you need time to think, take a quick break. Give your brain a few moments to refocus, relax, or prepare for the next encounter. It's OK to leave the players in suspense during a break while you figure out the consequences of their actions.{ #taking-breaks}
+> When you finish a lengthy combat encounter or a tension-filled scene, or if you need time to think, take a quick break. Give your brain a few moments to refocus, relax, or prepare for the next encounter. It's OK to leave the players in suspense during a break while you figure out the consequences of their actions.{ #taking-breaks}
+
 
 
 ### Ending a Session
@@ -266,11 +270,11 @@ Allow a few minutes at the end of play for everyone to discuss the events of the
 
 ## Example of Play
 
-These pages present a short example of play, similar to the ones in the "Player's Handbook", to illustrate how everything outlined in the "How to Run a Session" section works in practice. In this example, the Dungeon Master is running an adventure ("The Fouled Stream") from chapter 4. The four players are Amy (playing Auro, a Halfling Rogue), Maeve (playing Mirabella, an Elf Wizard), Phillip (playing Gareth, a Human Cleric), and Russell (playing Shreeve, a Goliath Fighter).
+These pages present a short example of play, similar to the ones in the) from chapter 4. The four players are Amy (playing Auro, a Halfling Rogue), Maeve (playing Mirabella, an Elf Wizard), Phillip (playing Gareth, a Human Cleric), and Russell (playing Shreeve, a Goliath Fighter).
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
 
-![Sinister shapes lurk near ...](/Rules/Source/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp#center "Sinister shapes lurk near the cave entrance as the adventurers approach")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp)
 
 - **Jared (as DM).** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?  
 - **Amy.** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.  
@@ -307,37 +311,44 @@ The DM starts by asking the players to recap the action of the previous session,
 
 > [!note] 1
 > 
-> The DM knows something the players don't: the withered shrubs are actually monsters. It's important to establish which characters are closest to the hidden monsters.{ #1}
+> The DM knows something the players don't: the withered shrubs are actually monsters. It's important to establish which characters are closest to the hidden monsters.{ #1}
+
 
 
 > [!note] 2
 > 
-> By asking the players to choose their characters' marching order, the DM cleverly pivots away from the withered shrubs. The players don't realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.{ #2}
+> By asking the players to choose their characters' marching order, the DM cleverly pivots away from the withered shrubs. The players don't realize their characters are in danger, and the DM is waiting for the right time to reveal the hidden monsters.{ #2}
+
 
 
 > [!note] 3
 > 
-> The DM rolls [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the "Running Combat" section in chapter 2 for advice about rolling and tracking Initiative.{ #3}
+> The DM rolls [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the "Running Combat" section in chapter 2 for advice about rolling and tracking Initiative.{ #3}
+
 
 
 > [!note] 4
 > 
-> The DM doesn't have the exact positions of the monsters mapped out on a grid, but it's fair to assume that they're clumped close together as they move to attack the characters.{ #4}
+> The DM doesn't have the exact positions of the monsters mapped out on a grid, but it's fair to assume that they're clumped close together as they move to attack the characters.{ #4}
+
 
 
 > [!note] 5
 > 
-> It's always fair for the DM to expect players to explain what their spells and abilities do. The DM has enough to keep track of!{ #5}
+> It's always fair for the DM to expect players to explain what their spells and abilities do. The DM has enough to keep track of!{ #5}
+
 
 
 > [!note] 6
 > 
-> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [[Rules/Source/variant-rules/vulnerability-xphb\|Vulnerability]] to Fire damage (because they're just dry shrubs) and so few [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] that they'll die no matter what they roll.{ #6}
+> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [[Rules/Source/variant-rules/vulnerability-xphb\|Vulnerability]] to Fire damage (because they're just dry shrubs) and so few [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] that they'll die no matter what they roll.{ #6}
+
 
 
 > [!note] 7
 > 
-> It's not Shreeve's turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster's attack because it gives Shreeve a fun heroic moment. The DM changes the monster's target to Shreeve and makes an attack roll.{ #7}
+> It's not Shreeve's turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster's attack because it gives Shreeve a fun heroic moment. The DM changes the monster's target to Shreeve and makes an attack roll.{ #7}
+
 
 
 - **Maeve.** How many of these walking bundles of kindling can I get in a 15-foot Cone?  
@@ -379,7 +390,8 @@ The DM starts by asking the players to recap the action of the previous session,
 > 
 > D&D is a game, and everyone should have fun playing it. Everyone shares equal responsibility in moving the game along, and everyone contributes to the fun when they treat each other with respect and consideration: talking through disagreements among players or their characters, and remembering that arguments or mean-spirited squabbles can get in the way of the fun.
 > 
-> People have many different ideas about what makes D&D fun. The "right way" to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.{ #the-rule-of-fun}
+> People have many different ideas about what makes D&D fun. The "right way" to play D&D is the way you and your players agree to and enjoy. If everyone comes to the table prepared to contribute to the game, the entire table is likely to have a wonderful and memorable time.{ #the-rule-of-fun}
+
 
 
 ## Every DM Is Unique
@@ -456,7 +468,7 @@ Telling players what to expect prepares them as they imagine what sorts of chara
 
 Being clear about your expectations and making sure you understand your players' expectations in return can help ensure a smooth game. Take your players' opinions and desires seriously, and make sure they take yours just as seriously. Ideally, you'll find a style of play that suits everyone.
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp)
 
 > [!note] Using the Game Expectations Sheet
 > 
@@ -472,7 +484,8 @@ Being clear about your expectations and making sure you understand your players'
 > - **Limits.** Using an **X** for a hard limit or a question mark for a soft limit, indicate any potentially sensitive elements that are problematic. Add any other elements to avoid.  
 > - **Hopes, Expectations, and Concerns.** In the last two boxes, share any hopes and expectations for the game, and list any concerns about behavior at the table.  
 > 
-> Collect all the sheets, and gather your players' limits into a separate, anonymous document the whole group can access.{ #using-the-game-expectations-sheet}
+> Collect all the sheets, and gather your players' limits into a separate, anonymous document the whole group can access.{ #using-the-game-expectations-sheet}
+
 
 
 #### Hard and Soft Limits
@@ -488,7 +501,7 @@ Common in-game limits apply to topics such as intra-party romance, sex, exploita
 
 That said, D&D is a game that has in-world conflicts and mayhem. Certain core elements of the game are difficult to ignore. For example, taking damage isn't a limit you can work around easily. Similarly, character death is something that happens from time to time, though the game has ways to counteract or avoid it (see "Death" in chapter 3 for suggestions).
 
-![Conflicts between characte...](/Rules/Source/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp#center "Conflicts between characters aren't always bad, but they can get in the way of the game")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp)
 
 ##### Communicating Limits
 
@@ -528,7 +541,8 @@ Your players need to know from the start that you'll run a game that is fun, fai
 > 
 > Other DMs let players change their minds freely. This creates a more relaxed mood at the table, which might slow the pace of the game.
 > 
-> A common compromise is to rule that players can retract or change anything their characters did up until the point they learn the consequences of their actions. Once you describe what happens as a result, it's too late for the players to change their minds.{ #do-you-really-do-that}
+> A common compromise is to rule that players can retract or change anything their characters did up until the point they learn the consequences of their actions. Once you describe what happens as a result, it's too late for the players to change their minds.{ #do-you-really-do-that}
+
 
 
 #### Sharing the Spotlight
@@ -625,7 +639,8 @@ Outlining these principles can help hold players' exploits at bay. If a player p
 > 
 > You don't have to be an expert on the rules to be a good DM. Of course it's helpful to be familiar with the rules, especially the ones in the "Player's Handbook", but facilitating fun is more important than implementing the rules perfectly. If you're not sure how to apply the rules in a situation, you can always ask the opinion of the players as a group. It might take a few minutes, but it's usually possible to reach an answer that feels fair to everyone, and that's more important than a "correct" answer.
 > 
-> You don't need to know every spell in the "Player's Handbook" or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.{ #knowing-the-rules}
+> You don't need to know every spell in the "Player's Handbook" or the features of every class. Set the expectation that players are responsible for telling you what their abilities and spells do.{ #knowing-the-rules}
+
 
 
 ### Rules for the Virtual Table

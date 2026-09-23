@@ -5,7 +5,7 @@
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
 
-![A Blob of Annihilation att...](/Rules/Source/books/dungeon-masters-guide-2024/img/021-02-001-blob-attack.webp#center "A Blob of Annihilation attacks Sharn, the City of Towers, in the world of Eberron")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/021-02-001-blob-attack.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/021-02-001-blob-attack.webp)
 
 Whereas chapters 1 and 2 teach the essentials of being a Dungeon Master, this chapter provides advice on topics that can surface as you prepare or run a D&D game session, as well as rules for adventure elements ranging from chases and doors to traps. It also includes guidance on creating new backgrounds, creatures, magic items, and spells to amuse your players.
 
@@ -55,7 +55,7 @@ An organization's ethos doesn't dictate the alignment of its members or even the
 
 ## Chases
 
-![An exciting chase nears its conclusion](/Rules/Source/books/dungeon-masters-guide-2024/img/022-02-002-party-gives-chase.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/022-02-002-party-gives-chase.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/022-02-002-party-gives-chase.webp)
 
 The rules for movement in combat don't translate to every situation. In particular, they can make a potentially thrilling chase seem dull and predictable. Faster creatures always catch up to slower ones, while creatures with the same Speed never close the distance between each other. Use the following rules to introduce random elements that make chases more exciting.
 
@@ -89,7 +89,32 @@ If neither side gives up the chase, the quarry makes a Dexterity ([[Rules/Source
 
 The quarry can gain [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] or [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on its check based on the circumstances, as shown in the Escape Factors table.
 
-![Ending a Chase; Escape Factors](/Rules/Source/tables/ending-a-chase-escape-factors-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ending-a-chase-escape-factors-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ending a Chase; Escape Factors
+
+</div>
+
+
+
+# Ending a Chase; Escape Factors
+*Source: Dungeon Master's Guide (2024) p. 53* 
+
+**Escape Factors**
+
+| Factor | Check Has... |
+|--------|--------------|
+| Many things to hide behind | Advantage |
+| A very crowded area | Advantage |
+| Few things to hide behind | Disadvantage |
+| An uncrowded area | Disadvantage |
+^escape-factors
+
+</div></div>
+
 
 Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a [[Rules/Source/spells/faerie-fire-xphb\|Faerie Fire]] spell cast on it might have Disadvantage on checks made to escape because it's much easier to spot.
 
@@ -115,7 +140,7 @@ Complications can be barriers to progress or opportunities for mayhem. Character
 
 A map of a chase can be linear or have many branches, depending on the nature of the chase. For example, a mine cart chase might have few (if any) branches, while a sewer chase might have several.
 
-![An ill-advised attempt to ...](/Rules/Source/books/dungeon-masters-guide-2024/img/023-02-003-sylgar-theft.webp#center "An ill-advised attempt to steal Xanathar's pet goldfish, Sylgar, leads to a heated chase")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/023-02-003-sylgar-theft.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/023-02-003-sylgar-theft.webp)
 
 ### Chase Complications
 
@@ -123,15 +148,71 @@ Unexpected complications make a chase more exciting. The accompanying Urban Chas
 
 Characters can create their own complications to shake off pursuers or slow their quarry (for example, casting the [[Rules/Source/spells/web-xphb\|Web]] spell in a narrow alleyway). Adjudicate these at your discretion.
 
-![Urban Chase Complications](/Rules/Source/tables/urban-chase-complications-xdmg.md)
 
-![Wilderness Chase Complications](/Rules/Source/tables/wilderness-chase-complications-xdmg.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/urban-chase-complications-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Urban Chase Complications
+
+</div>
+
+
+
+# Urban Chase Complications
+*Source: Dungeon Master's Guide (2024) p. 53* 
+
+**Urban Chase Complications**
+
+| dice: 1d12 | Complication |
+|------------|--------------|
+| 1 | A cart or another large obstacle blocks your way. Make a DC 10 Dexterity saving throw to get past the obstacle. On a failed save, the obstacle counts as 10 feet of [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]] for you. |
+| 2 | A crowd blocks your way. Make a DC 10 Strength, Dexterity, or Charisma saving throw (your choice) to navigate through the crowd. On a failed save, the crowd counts as 10 feet of [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]] for you. |
+| 3 | A maze of barrels, crates, or similar obstacles stands in your way. Make a DC 10 Dexterity or Intelligence saving throw (your choice) to navigate the maze. On a failed save, the maze counts as 10 feet of [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]] for you. |
+| 4 | The ground is slippery with rain, spilled oil, or some other liquid. Make a DC 10 Dexterity saving throw. On a failed save, you have the [[Rules/Source/conditions#Prone\|Prone]] condition. |
+| 5 | You encounter a brawl in progress. Make a DC 15 Strength, Dexterity, or Charisma saving throw (your choice) to get past the brawlers unimpeded. On a failed save, you take `2d4` Bludgeoning damage, and the brawlers count as 10 feet of [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]] for you. |
+| 6 | You must make a sharp turn to avoid colliding with something impassable. Make a DC 10 Dexterity saving throw to navigate the turn. On a failed save, you collide with something hard and take `1d4` Bludgeoning damage. |
+| 7–12 | There is no complication. |
+^urban-chase-complications
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/wilderness-chase-complications-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Wilderness Chase Complications
+
+</div>
+
+
+
+# Wilderness Chase Complications
+*Source: Dungeon Master's Guide (2024) p. 53* 
+
+**Wilderness Chase Complications**
+
+| dice: 1d12 | Complication |
+|------------|--------------|
+| 1 | You pass through a [[Rules/Source/bestiary/beast/swarm-of-insects-xmm\|Swarm of Insects]] (see the "Monster Manual", with the DM choosing whichever kind of insects makes the most sense). The swarm uses one of its actions, targeting you. |
+| 2 | A stream or ravine blocks your path. Make a DC 10 Strength or Dexterity saving throw (your choice) to cross the impediment. On a failed save, the impediment counts as 10 feet of [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]] for you. |
+| 3 | Make a DC 10 Constitution saving throw. On a failed save, blowing sand, dirt, ash, snow, or pollen causes you to have the [[Rules/Source/conditions#Blinded\|Blinded]] condition until the end of your turn. While you are Blinded in this way, your Speed is halved. |
+| 4 | A sudden drop catches you by surprise. Make a DC 10 Dexterity saving throw to navigate the impediment. On a failed save, you fall 10 feet. |
+| 5 | Your path takes you near a patch of [[Rules/Source/traps-hazards/razorvine-xdmg\|razorvine]] (see "Hazards" in this chapter). Make a DC 15 Dexterity saving throw or use 10 feet of movement (your choice) to avoid the razorvine. On a failed save, you take `1d10` Slashing damage. |
+| 6 | A creature native to the area notices you. (The DM chooses a creature appropriate for the terrain.) Make a DC 10 Wisdom or Charisma saving throw (your choice). On a failed save, the creature joins the chase, with you as its quarry. |
+| 7–12 | There is no complication. |
+^wilderness-chase-complications
+
+</div></div>
+
 
 ## Creating a Background
 
 A character's background represents what the character did prior to becoming an adventurer. Creating a unique background or customizing an existing one from the "Player's Handbook" can reflect the particular theme of your campaign or elements of your world. You can also create a background to help a player craft the story they have in mind for their character.
 
-![You might alter the Sailor...](/Rules/Source/books/dungeon-masters-guide-2024/img/024-02-004-seas-of-greyhawk.webp#center "You might alter the Sailor background to reflect a character's youth on the seas of Greyhawk")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/024-02-004-seas-of-greyhawk.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/024-02-004-seas-of-greyhawk.webp)
 
 This section describes, step by step, how you can create backgrounds like the ones in the "Player's Handbook", tailored for your world and the heroes in it.
 
@@ -162,7 +243,7 @@ Assemble a package of equipment worth 50 GP (including unspent gold). Don't incl
 
 ## Creating a Creature
 
-![Baba Yaga invents a new cr...](/Rules/Source/books/dungeon-masters-guide-2024/img/025-02-005-baba-yaga.webp#center "Baba Yaga invents a new creature—a fire-breathing Giant Toad!")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/025-02-005-baba-yaga.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/025-02-005-baba-yaga.webp)
 
 Use the approaches and examples in the following sections to build custom creatures for your game.
 
@@ -280,7 +361,33 @@ If you make an item that lets a character kill whatever they hit with it, that i
 
 Use the Magic Item Power by Rarity table as a guide to help you determine how powerful a magic item should be based on its rarity.
 
-![Power Level; Magic Item Power by Rarity](/Rules/Source/tables/power-level-magic-item-power-by-rarity-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/power-level-magic-item-power-by-rarity-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Power Level; Magic Item Power by Rarity
+
+</div>
+
+
+
+# Power Level; Magic Item Power by Rarity
+*Source: Dungeon Master's Guide (2024) p. 58* 
+
+**Magic Item Power by Rarity**
+
+| Rarity | Max. Spell Level | Max. Bonus |
+|--------|------------------|------------|
+| Common | 1 | — |
+| Uncommon | 3 | +1 |
+| Rare | 5 | +2 |
+| Very Rare | 8 | +3 |
+| Legendary | 9 | +4 |
+^magic-item-power-by-rarity
+
+</div></div>
+
 
 ##### Maximum Spell Level
 
@@ -304,7 +411,7 @@ If the item grants a bonus that other items also grant, it's a good idea to requ
 
 ## Creating a Spell
 
-![Ringlerun's spell research...](/Rules/Source/books/dungeon-masters-guide-2024/img/026-02-006-ringlerun-researching.webp#center "Ringlerun's spell research leads in unexpected directions as he unintentionally creates a flying gelatinous cubelet")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/026-02-006-ringlerun-researching.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/026-02-006-ringlerun-researching.webp)
 
 When creating a new spell, use existing ones as examples. Here are some things to consider:
 
@@ -320,7 +427,38 @@ For any spell that deals damage, use the Spell Damage table to determine approxi
 
 You can use different damage dice than the ones in the table if the average damage is about the same. For example, you could change a cantrip's damage from `1d10` (average 5.5) to `2d4` (average 5), reducing the maximum damage and making an average result more likely.
 
-![Spell Damage](/Rules/Source/tables/spell-damage-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/spell-damage-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Spell Damage
+
+</div>
+
+
+
+# Spell Damage
+*Source: Dungeon Master's Guide (2024) p. 59* 
+
+**Spell Damage**
+
+| Spell Level | One Target | Multiple Targets |
+|-------------|------------|------------------|
+| Cantrip | `1d10` | `1d6` |
+| 1 | `2d10` | `2d6` |
+| 2 | `3d10` | `3d6` |
+| 3 | `5d10` | `6d6` |
+| 4 | `6d10` | `7d6` |
+| 5 | `7d10` | `8d6` |
+| 6 | `10d10` | `11d6` |
+| 7 | `11d10` | `12d6` |
+| 8 | `12d10` | `13d6` |
+| 9 | `15d10` | `16d6` |
+^spell-damage
+
+</div></div>
+
 
 ### Healing Spells
 
@@ -334,7 +472,7 @@ The following sections discuss curses and magical contagions in detail.
 
 ### Curses
 
-![The curse of demonic posse...](/Rules/Source/books/dungeon-masters-guide-2024/img/027-02-007-demonic-possession.webp#center "The curse of demonic possession has devastating effects")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/027-02-007-demonic-possession.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/027-02-007-demonic-possession.webp)
 
 Every curse has rules that govern it. A curse typically takes one of the forms detailed below.
 
@@ -389,13 +527,151 @@ The following examples show how magical contagions can work. Feel free to alter 
 - [[Rules/Source/diseases#Sight Rot\|Sight Rot]]  
 
 > [!embed-disease]- Cackle Fever
-> ![Cackle Fever](/Rules/Source/diseases.md#Cackle%20Fever)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/diseases/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Cackle Fever
+
+</div>
+
+
+
+# Diseases
+
+## Cackle Fever
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which affects Humanoids only (gnomes are strangely immune). A creature suffers the following effects `1d4` days after infection:
+
+- **Fever.** The creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level, which lasts until the contagion ends on the creature.  
+- **Uncontrollable Laughter.** While the creature has the [[Rules/Source/conditions#Exhaustion\|Exhaustion]] condition, the creature makes a DC 13 Constitution saving throw each time it takes damage other than Psychic damage. On a failed save, the creature takes 5 (`1d10`) Psychic damage and has the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition as it laughs uncontrollably. At the end of each of its turns, the creature repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.  
+
+**Fighting the Contagion.** At the end of each Long Rest, an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
+
+**Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+## Sewer Plague
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Fouled potions and alchemical waste can give rise to Sewer Plague, which incubates in sewers and refuse heaps and is sometimes transmitted by creatures that dwell in such areas, including otyughs and rats. Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 Constitution saving throw or become infected with Sewer Plague. A creature suffers the following effects `1d4` days after infection:
+
+- **Fatigue.** The creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level.  
+- **Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of Hit Points from spending Hit Point Dice.  
+- **Restlessness.** While the creature has any Exhaustion levels, finishing a Long Rest neither restores lost Hit Points nor reduces the creature's Exhaustion level.  
+
+**Fighting the Contagion.** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level as its fatigue worsens. On a successful save, the creature's Exhaustion level decreases by 1. If the creature's Exhaustion level is reduced to 0, the contagion ends on the creature.
+
+## Sight Rot
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 Constitution saving throw or have the [[Rules/Source/conditions#Blinded\|Blinded]] condition until the contagion ends.
+
+**Fighting the Contagion.** Magic such as a [[Rules/Source/spells/heal-xphb\|Heal]] or [[Rules/Source/spells/lesser-restoration-xphb\|Lesser Restoration]] spell ends the contagion immediately. A character who is proficient with an [[Rules/Source/items/herbalism-kit-xphb\|Herbalism Kit]] can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends on the creature.
+
+**Spreading the Contagion.** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+</div></div>
+
 
 > [!embed-disease]- Sewer Plague
-> ![Sewer Plague](/Rules/Source/diseases.md#Sewer%20Plague)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/diseases/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sewer Plague
+
+</div>
+
+
+
+# Diseases
+
+## Cackle Fever
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which affects Humanoids only (gnomes are strangely immune). A creature suffers the following effects `1d4` days after infection:
+
+- **Fever.** The creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level, which lasts until the contagion ends on the creature.  
+- **Uncontrollable Laughter.** While the creature has the [[Rules/Source/conditions#Exhaustion\|Exhaustion]] condition, the creature makes a DC 13 Constitution saving throw each time it takes damage other than Psychic damage. On a failed save, the creature takes 5 (`1d10`) Psychic damage and has the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition as it laughs uncontrollably. At the end of each of its turns, the creature repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.  
+
+**Fighting the Contagion.** At the end of each Long Rest, an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
+
+**Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+## Sewer Plague
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Fouled potions and alchemical waste can give rise to Sewer Plague, which incubates in sewers and refuse heaps and is sometimes transmitted by creatures that dwell in such areas, including otyughs and rats. Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 Constitution saving throw or become infected with Sewer Plague. A creature suffers the following effects `1d4` days after infection:
+
+- **Fatigue.** The creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level.  
+- **Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of Hit Points from spending Hit Point Dice.  
+- **Restlessness.** While the creature has any Exhaustion levels, finishing a Long Rest neither restores lost Hit Points nor reduces the creature's Exhaustion level.  
+
+**Fighting the Contagion.** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level as its fatigue worsens. On a successful save, the creature's Exhaustion level decreases by 1. If the creature's Exhaustion level is reduced to 0, the contagion ends on the creature.
+
+## Sight Rot
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 Constitution saving throw or have the [[Rules/Source/conditions#Blinded\|Blinded]] condition until the contagion ends.
+
+**Fighting the Contagion.** Magic such as a [[Rules/Source/spells/heal-xphb\|Heal]] or [[Rules/Source/spells/lesser-restoration-xphb\|Lesser Restoration]] spell ends the contagion immediately. A character who is proficient with an [[Rules/Source/items/herbalism-kit-xphb\|Herbalism Kit]] can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends on the creature.
+
+**Spreading the Contagion.** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+</div></div>
+
 
 > [!embed-disease]- Sight Rot
-> ![Sight Rot](/Rules/Source/diseases.md#Sight%20Rot)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/diseases/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sight Rot
+
+</div>
+
+
+
+# Diseases
+
+## Cackle Fever
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which affects Humanoids only (gnomes are strangely immune). A creature suffers the following effects `1d4` days after infection:
+
+- **Fever.** The creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level, which lasts until the contagion ends on the creature.  
+- **Uncontrollable Laughter.** While the creature has the [[Rules/Source/conditions#Exhaustion\|Exhaustion]] condition, the creature makes a DC 13 Constitution saving throw each time it takes damage other than Psychic damage. On a failed save, the creature takes 5 (`1d10`) Psychic damage and has the [[Rules/Source/conditions#Incapacitated\|Incapacitated]] condition as it laughs uncontrollably. At the end of each of its turns, the creature repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.  
+
+**Fighting the Contagion.** At the end of each Long Rest, an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
+
+**Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+## Sewer Plague
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Fouled potions and alchemical waste can give rise to Sewer Plague, which incubates in sewers and refuse heaps and is sometimes transmitted by creatures that dwell in such areas, including otyughs and rats. Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 Constitution saving throw or become infected with Sewer Plague. A creature suffers the following effects `1d4` days after infection:
+
+- **Fatigue.** The creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level.  
+- **Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of Hit Points from spending Hit Point Dice.  
+- **Restlessness.** While the creature has any Exhaustion levels, finishing a Long Rest neither restores lost Hit Points nor reduces the creature's Exhaustion level.  
+
+**Fighting the Contagion.** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level as its fatigue worsens. On a successful save, the creature's Exhaustion level decreases by 1. If the creature's Exhaustion level is reduced to 0, the contagion ends on the creature.
+
+## Sight Rot
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+
+Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 Constitution saving throw or have the [[Rules/Source/conditions#Blinded\|Blinded]] condition until the contagion ends.
+
+**Fighting the Contagion.** Magic such as a [[Rules/Source/spells/heal-xphb\|Heal]] or [[Rules/Source/spells/lesser-restoration-xphb\|Lesser Restoration]] spell ends the contagion immediately. A character who is proficient with an [[Rules/Source/items/herbalism-kit-xphb\|Herbalism Kit]] can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends on the creature.
+
+**Spreading the Contagion.** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+</div></div>
+
 
 ## Death
 
@@ -410,7 +686,7 @@ The best way to avoid hard feelings connected to the death of a beloved characte
 - **Provide Fair Warning.** Let characters face the consequences of their foolish actions, but make sure you give enough cues for the players to recognize self-destructive actions. You might want to ask a player, "Are you sure?" before committing a character to a potentially fatal course of action.  
 - **Fair Encounters.** Your players have to know that you're fair in designing encounters. It's fine to throw tough encounters at them and sometimes to let them face monsters they can't beat. But it's not fair if the players have no way to know they can't win the fight or have no way to escape.  
 
-![Sometimes death—even the d...](/Rules/Source/books/dungeon-masters-guide-2024/img/028-02-008-death-passage.webp#center "Sometimes death—even the death of an entire party—is just a passage to new adventures")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/028-02-008-death-passage.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/028-02-008-death-passage.webp)
 
 ### Scaling Lethality
 
@@ -447,7 +723,7 @@ It's also possible for dead characters to be brought back to life. The most comm
 
 ### What If Everyone Dies?
 
-Misadventure can wipe out an entire group. (You'll sometimes hear players refer to this as a "total party kill" or "TPK.") Such a catastrophe doesn't have to end the whole game—rather, it presents an opportunity to take the game in a new direction. Consider these possibilities.
+Misadventure can wipe out an entire group. (You'll sometimes hear players refer to this as a) Such a catastrophe doesn't have to end the whole game—rather, it presents an opportunity to take the game in a new direction. Consider these possibilities.
 
 #### A Fresh Start
 
@@ -483,7 +759,32 @@ The Doors table provides the AC and Hit Points for common doors, which are Mediu
 
 With the [[Rules/Source/actions#Utilize\|Utilize]] action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
 
-![Doors](/Rules/Source/tables/doors-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/doors-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Doors
+
+</div>
+
+
+
+# Doors
+*Source: Dungeon Master's Guide (2024) p. 64* 
+
+**Doors**
+
+| Door | AC | HP | DC to Open |
+|------|----|----|------------|
+| Glass door | 13 | 4 | 10 |
+| Metal door | 19 | 72 | 25 |
+| Stone door | 17 | 40 | 20 |
+| Wooden door | 15 | 18 | 15 |
+^doors
+
+</div></div>
+
 
 #### Barred Door
 
@@ -493,9 +794,56 @@ A barred door has no lock. A creature on the barred side of the door can take th
 
 Characters who don't have the key to a locked door can try to pick the lock using [[Rules/Source/items/thieves-tools-xphb\|Thieves' Tools]]. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([[Rules/Source/skills#Sleight of Hand\|Sleight of Hand]]) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
 
-![Locked Door; Lock Complexity](/Rules/Source/tables/locked-door-lock-complexity-xdmg.md)
 
-![Locked Door; Lock Quality](/Rules/Source/tables/locked-door-lock-quality-xdmg.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/locked-door-lock-complexity-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Locked Door; Lock Complexity
+
+</div>
+
+
+
+# Locked Door; Lock Complexity
+*Source: Dungeon Master's Guide (2024) p. 64* 
+
+**Lock Complexity**
+
+| Complexity | Time |
+|------------|------|
+| Simple | 1 action |
+| Complex | 1 minute |
+^lock-complexity
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/locked-door-lock-quality-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Locked Door; Lock Quality
+
+</div>
+
+
+
+# Locked Door; Lock Quality
+*Source: Dungeon Master's Guide (2024) p. 64* 
+
+**Lock Quality**
+
+| Quality | DC to Unlock |
+|---------|--------------|
+| Inferior | 10 |
+| Good | 15 |
+| Superior | 20 |
+^lock-quality
+
+</div></div>
+
 
 ### Secret Doors
 
@@ -505,7 +853,31 @@ With the [[Rules/Source/actions#Search\|Search]] action, a character can search 
 
 You can instead call for an Intelligence ([[Rules/Source/skills#Investigation\|Investigation]]) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See "Perception" in chapter 2 for more advice.
 
-![Secret Doors](/Rules/Source/tables/secret-doors-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secret-doors-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secret Doors
+
+</div>
+
+
+
+# Secret Doors
+*Source: Dungeon Master's Guide (2024) p. 64* 
+
+**Secret Doors**
+
+| Secret Door | DC to Detect |
+|-------------|--------------|
+| Barely hidden secret door | 10 |
+| Standard secret door | 15 |
+| Well-hidden secret door | 20 |
+^secret-doors
+
+</div></div>
+
 
 #### Secret Door Etiquette
 
@@ -517,7 +889,31 @@ Typically made of iron or wood, a portcullis blocks a passage or an archway unti
 
 Winching a portcullis up or down requires the [[Rules/Source/actions#Utilize\|Utilize]] action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [[Rules/Source/actions#Utilize\|Utilize]] action and a successful Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
 
-![Portcullises](/Rules/Source/tables/portcullises-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/portcullises-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Portcullises
+
+</div>
+
+
+
+# Portcullises
+*Source: Dungeon Master's Guide (2024) p. 64* 
+
+**Portcullises**
+
+| Portcullis Size | Iron DC | Wood DC |
+|-----------------|---------|---------|
+| Medium (8 ft. tall × 5 ft. wide) | 20 | 15 |
+| Large (10 ft. tall × 10 ft. wide) | 25 | 20 |
+| Huge (20 ft. tall × 15 ft. wide) | 30 | 25 |
+^portcullises
+
+</div></div>
+
 
 ## Dungeons
 
@@ -525,11 +921,68 @@ Some dungeons are old strongholds abandoned by the folk who built them. Others a
 
 You can use the Dungeon Quirks table to add distinctive character to a dungeon you're creating or one in a published adventure. The quirks on the table reflect the characteristics of a dungeon's creator, its intended purpose, its location, or some (often catastrophic) event in its history. You can use a single quirk or combine quirks as you see fit, and roll or choose a result that inspires you.
 
-![Dungeons; Dungeon Quirks](/Rules/Source/tables/dungeons-dungeon-quirks-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dungeons-dungeon-quirks-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dungeons; Dungeon Quirks
+
+</div>
+
+
+
+# Dungeons; Dungeon Quirks
+*Source: Dungeon Master's Guide (2024) p. 65* 
+
+**Dungeon Quirks**
+
+| dice: 1d100 | Quirk |
+|-------------|-------|
+| 01–02 | Abandoned after internal strife devastated its population |
+| 03–04 | Abandoned because the site was cursed by a god or other powerful entity |
+| 05–06 | Abandoned by its original creators when a plague spread through the dungeon |
+| 07–09 | Amazingly well preserved ancient city inside a dome encased in volcanic ash, submerged underwater, or entombed in desert sands |
+| 10–12 | Built as a fortress guarding a mountain pass |
+| 13–15 | Built as a maze, either to protect treasure from intruders or as a gauntlet where prisoners were hunted by monsters |
+| 16–18 | Built as a stronghold but abandoned after it fell to invaders |
+| 19–21 | Built as a treasure vault to protect powerful magic items and great wealth |
+| 22–23 | Built atop a cloud |
+| 24–26 | Built beneath a city in catacombs or sewers |
+| 27–29 | Built beneath or on top of a mesa or several connected mesas |
+| 30–32 | Built by a religious group to serve as a temple and linked to the energy of other planes of existence |
+| 33–35 | Built by dwarves and decorated with enormous dwarven faces that have been defaced by its current inhabitants |
+| 36–38 | Built in a volcano |
+| 39–40 | Built in or among the branches of a tree |
+| 41–43 | Built to house a planar portal but abandoned when creatures or energy from the other side of the portal seeped into the dungeon |
+| 44–46 | Carved into a meteorite (before or after it fell to earth) |
+| 47–49 | Carved into a sheer cliff face |
+| 50–52 | Caverns carved by a beholder's disintegration eye ray, with unnaturally smooth walls and vertical shafts connecting different levels |
+| 53–55 | Contains something that led to the downfall of its creators or inhabitants |
+| 56–58 | Dug as a burrow by a monster that might still live inside |
+| 59–61 | Entrance concealed behind a waterfall |
+| 62–64 | Floating on the sea |
+| 65–66 | Intended as a death trap to eliminate any creature that enters, perhaps to guard a treasure or to harvest souls for a necromantic rite |
+| 67–69 | Intended as a tomb |
+| 70–72 | Long known as the site of a great miracle or another auspicious event |
+| 73–75 | Made by amphibious creatures (such as kuo-toa or aboleths), using water to protect the innermost reaches from air-breathing intruders |
+| 76–78 | Made by a powerful spellcaster (perhaps a lich) as a site for magical research and experimentation |
+| 79–81 | Made by giants at a vast scale |
+| 82–84 | Natural caverns featuring a range of strikingly beautiful rock and crystal formations |
+| 85–87 | On an island in an underground sea |
+| 88–90 | On the back of a Gargantuan creature |
+| 91–93 | Originally constructed as a mine but abandoned when tunnels connected to dangerous Underdark tunnels |
+| 94–96 | Secreted away in a demiplane or in a pocket dimension |
+| 97–98 | Slowly abandoned as its creators died out or migrated away |
+| 99–00 | Transformed by multiple events or disasters over the course of centuries |
+^dungeon-quirks
+
+</div></div>
+
 
 ### Mapping a Dungeon
 
-![A dungeon built by giants ...](/Rules/Source/books/dungeon-masters-guide-2024/img/029-02-009-giants-dungeon.webp#center "A dungeon built by giants offers enormous adventures")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/029-02-009-giants-dungeon.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/029-02-009-giants-dungeon.webp)
 
 A dungeon can range in size from a few chambers to a huge complex of rooms and passages extending hundreds of feet. The adventurers' goal often lies as far from the dungeon entrance as possible, forcing characters to delve deeper underground or push farther into the heart of the complex.
 
@@ -609,11 +1062,38 @@ Sapient creatures often have laboratories, workshops, libraries, forges, and stu
 
 The States of Ruin table can help you determine the general conditions of a dungeon area.
 
-![Dungeon Decay; States of Ruin](/Rules/Source/tables/dungeon-decay-states-of-ruin-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/dungeon-decay-states-of-ruin-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dungeon Decay; States of Ruin
+
+</div>
+
+
+
+# Dungeon Decay; States of Ruin
+*Source: Dungeon Master's Guide (2024) p. 67* 
+
+**States of Ruin**
+
+| dice: 1d6 | Features |
+|-----------|----------|
+| 1 | Perilous. The area is dangerously worn and prone to collapse. Any impacts or damage to the structure, including from spells and other areas of effect, have a 50 percent chance of causing a collapse. |
+| 2 | Crumbling. Areas within the dungeon section are choked with rubble and have a 50 percent chance of being [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]]. [[Rules/Source/tables/cover-xphb\|Half Cover]] and hiding places are plentiful. |
+| 3 | Neglected. One dungeon hazard—such as [[Rules/Source/traps-hazards/brown-mold-xdmg\|brown mold]], [[Rules/Source/traps-hazards/green-slime-xdmg\|green slime]], or [[Rules/Source/traps-hazards/yellow-mold-xdmg\|yellow mold]] (see "Hazards" in this chapter)—is abundant. |
+| 4 | Abandoned. Most of the dungeon is deserted. Dexterity ([[Rules/Source/skills#Stealth\|Stealth]]) checks have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] because any sounds stand out as unusual. |
+| 5 | Secure. Ability checks made to break down doors, open locks, or carry out similar activities have Disadvantage. |
+| 6 | Thriving. The dungeon is heavily populated. Any loud noises draw the attention of nearby creatures. |
+^states-of-ruin
+
+</div></div>
+
 
 ## Environmental Effects
 
-![A friendly bronze dragon k...](/Rules/Source/books/dungeon-masters-guide-2024/img/030-02-010-bronze-dragon-v-ship.webp#center "A friendly bronze dragon keeps a watchful eye on a storm-tossed ship")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/030-02-010-bronze-dragon-v-ship.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/030-02-010-bronze-dragon-v-ship.webp)
 
 Characters crossing a frigid tundra might suffer the effects of extreme cold, while a visit to a cloud giant's castle might subject characters to the effects of high altitude. The following sections provide rules for handling these and other environmental effects.
 
@@ -631,40 +1111,294 @@ Characters crossing a frigid tundra might suffer the effects of extreme cold, wh
 - [[Rules/Source/traps-hazards/wild-magic-zone-xdmg\|Wild Magic Zone]]  
 
 > [!embed-hazard]- Dead Magic Zone
-> ![Dead Magic Zone](/Rules/Source/traps-hazards/dead-magic-zone-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Dead Magic Zone
+
+</div>
+
+
+
+# Dead Magic Zone
+*Environmental Hazard*  
+
+A dead magic zone is an area where the fabric of magic is torn. The effect is the same as the [[Rules/Source/spells/antimagic-field-xphb\|Antimagic Field]] spell, except that it is permanent and typically covers an area no more than 300 feet in diameter.
+
+*Source: Dungeon Master's Guide (2024) p. 68*
+
+</div></div>
+
 
 > [!embed-hazard]- Deep Water
-> ![Deep Water](/Rules/Source/traps-hazards/deep-water-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Deep Water
+
+</div>
+
+
+
+# Deep Water
+*Environmental Hazard*  
+
+Swimming through deep water (more than 100 feet deep) presents additional challenges because of the water's pressure and cold temperature. After each hour of swimming in deep water, a creature that lacks a Swim Speed must succeed on a DC 10 Constitution saving throw or gain 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level.
+
+*Source: Dungeon Master's Guide (2024) p. 68*
+
+</div></div>
+
 
 > [!embed-hazard]- Extreme Cold
-> ![Extreme Cold](/Rules/Source/traps-hazards/extreme-cold-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Extreme Cold
+
+</div>
+
+
+
+# Extreme Cold
+*Environmental Hazard*  
+
+When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level. Creatures that have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] or [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to Cold damage automatically succeed on the save.
+
+*Source: Dungeon Master's Guide (2024) p. 68*
+
+</div></div>
+
 
 > [!embed-hazard]- Extreme Heat
-> ![Extreme Heat](/Rules/Source/traps-hazards/extreme-heat-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Extreme Heat
+
+</div>
+
+
+
+# Extreme Heat
+*Environmental Hazard*  
+
+When the temperature is 100 degrees Fahrenheit or higher, a creature exposed to the extreme heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing Medium or Heavy armor have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on the save. Creatures that have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] or [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to Fire damage automatically succeed on the save.
+
+*Source: Dungeon Master's Guide (2024) p. 68*
+
+</div></div>
+
 
 > [!embed-hazard]- Frigid Water
-> ![Frigid Water](/Rules/Source/traps-hazards/frigid-water-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Frigid Water
+
+</div>
+
+
+
+# Frigid Water
+*Environmental Hazard*  
+
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level. Creatures with [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] or [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to Cold damage automatically succeed on the save, as do creatures that are naturally adapted to living in ice-cold water.
+
+*Source: Dungeon Master's Guide (2024) p. 68*
+
+</div></div>
+
 
 > [!embed-hazard]- Heavy Precipitation
-> ![Heavy Precipitation](/Rules/Source/traps-hazards/heavy-precipitation-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Heavy Precipitation
+
+</div>
+
+
+
+# Heavy Precipitation
+*Environmental Hazard*  
+
+Everything within an area of heavy rain or heavy snowfall is [[Rules/Source/variant-rules/lightly-obscured-xphb\|Lightly Obscured]], and creatures in the area have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on all Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks. Heavy rain also extinguishes open flames.
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 > [!embed-hazard]- High Altitude
-> ![High Altitude](/Rules/Source/traps-hazards/high-altitude-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# High Altitude
+
+</div>
+
+
+
+# High Altitude
+*Environmental Hazard*  
+
+Traveling at altitudes of 10,000 feet or higher above sea level is taxing for most creatures because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel (see ""Travel Pace"" in "chapter 2").
+
+Creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 > [!embed-hazard]- Planar Effects
-> ![Planar Effects](/Rules/Source/traps-hazards/planar-effects-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Planar Effects
+
+</div>
+
+
+
+# Planar Effects
+*Environmental Hazard*  
+
+Certain planes of existence—and areas on the Material Plane affected by them—have supernatural effects on creatures within them. Several examples are presented below. See "chapter 6" for more information about the planes of existence.
+
+## Acheronian Bloodlust
+
+The plane of "Acheron" rewards a creature for harming other creatures by imbuing it with the strength to keep fighting. While in Acheron or a region under its influence, a creature gains [[Rules/Source/variant-rules/temporary-hit-points-xphb\|Temporary Hit Points]] equal to half its Hit Point maximum whenever it reduces another creature to 0 Hit Points.
+
+## Arcadian Vitality
+
+On the plane of "Arcadia" and in regions where its influence is felt, creatures benefit from supernatural vitality, which grants them [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] the [[Rules/Source/conditions#Frightened\|Frightened]] and [[Rules/Source/conditions#Poisoned\|Poisoned]] conditions.
+
+## Blessed Beneficence
+
+On the plane of "Mount Celestia" and in regions where its influence is felt, creatures are blessed by the pervasive beneficence of the plane. Creatures other than Fiends and Undead gain the benefit of the [[Rules/Source/spells/bless-xphb\|Bless]] spell as long as they remain in an area of blessed beneficence. In addition, such a creature that finishes a Long Rest in the area gains the benefit of a [[Rules/Source/spells/lesser-restoration-xphb\|Lesser Restoration]] spell.
+
+## Gehennan Cruelty
+
+On the plane of "Gehenna" and in regions where its influence is felt, creatures are driven to loathe helping one another. Whenever a creature subject to Gehennan cruelty casts a spell, including a spell that restores Hit Points or removes a condition other than [[Rules/Source/conditions#Invisible\|Invisible]], the caster must succeed on a DC 10 Charisma saving throw, or the spell fails and is wasted.
+
+## Winds of Pandemonium
+
+The winds of "Pandemonium" are common in Pandemonium and regions where its influence is felt, including parts of the Underdark. A creature makes a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level. The winds can't increase a creature's [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level above 3. Finishing a Long Rest doesn't reduce a creature's Exhaustion level unless the creature can somehow escape the winds.
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 > [!embed-hazard]- Slippery Ice
-> ![Slippery Ice](/Rules/Source/traps-hazards/slippery-ice-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Slippery Ice
+
+</div>
+
+
+
+# Slippery Ice
+*Environmental Hazard*  
+
+Slippery ice is [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]]. A creature that moves onto slippery ice for the first time on a turn or starts its turn there must succeed on a DC 10 Dexterity saving throw or have the [[Rules/Source/conditions#Prone\|Prone]] condition.
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 > [!embed-hazard]- Strong Wind
-> ![Strong Wind](/Rules/Source/traps-hazards/strong-wind-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Strong Wind
+
+</div>
+
+
+
+# Strong Wind
+*Environmental Hazard*  
+
+Strong wind imposes [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ranged attack rolls with weapons. It also extinguishes open flames and disperses fog. A flying creature in a strong wind must land at the end of its turn or fall.
+
+A strong wind in a desert can create a sandstorm that imposes Disadvantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) checks.
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 > [!embed-hazard]- Thin Ice
-> ![Thin Ice](/Rules/Source/traps-hazards/thin-ice-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Thin Ice
+
+</div>
+
+
+
+# Thin Ice
+*Environmental Hazard*  
+
+Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is [[Rules/Source/traps-hazards/frigid-water-xdmg\|frigid water]].
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 > [!embed-hazard]- Wild Magic Zone
-> ![Wild Magic Zone](/Rules/Source/traps-hazards/wild-magic-zone-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Wild Magic Zone
+
+</div>
+
+
+
+# Wild Magic Zone
+*Environmental Hazard*  
+
+A past magical disaster or uncontrolled surge of power in a particular place can cause the fabric of magic to unravel, creating a wild magic zone. In such an area, which is typically no more than 300 feet in diameter, magic behaves unpredictably.
+
+Whenever a creature expends a spell slot to cast a spell in a wild magic zone, roll `1d20`. If you roll a 20 on the die, roll on the [[Rules/Source/tables/wild-magic-surge-xphb\|Wild Magic Surge]] table in the "Player's Handbook" to create a magical effect.
+
+*Source: Dungeon Master's Guide (2024) p. 69*
+
+</div></div>
+
 
 ## Fear and Mental Stress
 
@@ -676,7 +1410,31 @@ If you plan to use any of these rules, discuss them with your players at the sta
 
 Whenever the characters encounter something that is supernaturally frightful, use the [[Rules/Source/conditions#Frightened\|Frightened]] condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
 
-![Fear Effects; Sample Fear DCs](/Rules/Source/tables/fear-effects-sample-fear-dcs-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/fear-effects-sample-fear-dcs-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Fear Effects; Sample Fear DCs
+
+</div>
+
+
+
+# Fear Effects; Sample Fear DCs
+*Source: Dungeon Master's Guide (2024) p. 70* 
+
+**Sample Fear DCs**
+
+| Example | Save DC |
+|---------|---------|
+| When the characters open a sarcophagus, a harmless yet terrifying apparition appears. | 10 |
+| A character triggers a magical trap that creates an illusory manifestation of that character's worst fears, visible only to that character. | 15 |
+| A portal to the Abyss opens, revealing a nightmarish realm of torment and slaughter. | 20 |
+^sample-fear-dcs
+
+</div></div>
+
 
 Typically, a [[Rules/Source/conditions#Frightened\|Frightened]] creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -692,7 +1450,31 @@ When a character is subjected to an effect that causes intense mental stress, Ps
 
 The Sample Mental Stress Effects table provides a few examples of such effects, with suggested saving throw DCs and damage. Mental stress can usually be resisted with a successful Wisdom save, but sometimes an Intelligence or Charisma save is more appropriate. On a successful save, a character might take half as much damage instead of no damage, at your discretion.
 
-![Sample Mental Stress Effects](/Rules/Source/tables/sample-mental-stress-effects-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sample-mental-stress-effects-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sample Mental Stress Effects
+
+</div>
+
+
+
+# Sample Mental Stress Effects
+*Source: Dungeon Master's Guide (2024) p. 70* 
+
+**Sample Mental Stress Effects**
+
+| Example | Save DC | Psychic Damage |
+|---------|---------|----------------|
+| A character ingests a hallucinogenic substance that distorts the character's perception of reality. | 10 | `1d6` |
+| A character touches a fiendish idol that tears at the character's mind, threatening to shatter it. | 15 | `3d6` |
+| A magical trap flings a character into the Far Realm until the end of that character's next turn. | 20 | `9d6` |
+^sample-mental-stress-effects
+
+</div></div>
+
 
 #### Prolonged Effects
 
@@ -710,13 +1492,13 @@ The character has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]]
 
 An indefinite effect is a long-term effect (see above) that lasts until removed by a [[Rules/Source/spells/greater-restoration-xphb\|Greater Restoration]] spell. It can be suppressed by a Calm Emotions spell.
 
-![Fight, flight, or freeze?](/Rules/Source/books/dungeon-masters-guide-2024/img/031-02-011-fight-flight-or-freeze.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/031-02-011-fight-flight-or-freeze.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/031-02-011-fight-flight-or-freeze.webp)
 
 ## Firearms and Explosives
 
 Renaissance-era pistols and muskets appear in the "Player's Handbook". In a campaign involving a crashed spaceship or elements of modern-day Earth, characters might find the items described here.
 
-![When faced with a troll, t...](/Rules/Source/books/dungeon-masters-guide-2024/img/032-02-012-troll-v-firearms.webp#center "When faced with a troll, there's no time to figure out the right way to hold a shotgun")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/032-02-012-troll-v-firearms.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/032-02-012-troll-v-firearms.webp)
 
 ### Firearms
 
@@ -738,15 +1520,97 @@ You can make a limited number of shots with a Reload weapon. You must then reloa
 
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [[Rules/Source/items/energy-cell-xdmg\|Energy Cell]] weighs 1/2 lb.
 
-![Firearms](/Rules/Source/tables/firearms-xdmg.md)
 
-![Firearms](/Rules/Source/tables/firearms-xdmg.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/firearms-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Firearms
+
+</div>
+
+
+
+# Firearms
+*Source: Dungeon Master's Guide (2024) p. 72* 
+
+**Firearms**
+
+| Modern Item | Damage | Properties | Mastery | Weight |
+|-------------|--------|------------|---------|--------|
+| *Martial Ranged Weapons* |
+| &emsp;[[Rules/Source/items/automatic-rifle-xdmg\|Automatic Rifle]] | `2d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 80/240; Bullet), [[Rules/Source/item-properties#Burst Fire\|Burst Fire]], [[Rules/Source/item-properties#Reload\|Reload]] (30 shots), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 8 lb. |
+| &emsp;[[Rules/Source/items/hunting-rifle-xdmg\|Hunting Rifle]] | `2d10` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 80/240; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (5 shots), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 8 lb. |
+| &emsp;[[Rules/Source/items/revolver-xdmg\|Revolver]] | `2d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 40/120; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (6 shots) | [[Rules/Source/item-mastery#Sap\|Sap]] | 3 lb. |
+| &emsp;[[Rules/Source/items/semiautomatic-pistol-xdmg\|Semiautomatic Pistol]] | `2d6` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 50/150; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (15 shots) | [[Rules/Source/item-mastery#Vex\|Vex]] | 3 lb. |
+| &emsp;[[Rules/Source/items/shotgun-xdmg\|Shotgun]] | `2d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 30/90; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (2 shots), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Push\|Push]] | 7 lb. |
+^firearms
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/firearms-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Firearms
+
+</div>
+
+
+
+# Firearms
+*Source: Dungeon Master's Guide (2024) p. 72* 
+
+**Firearms**
+
+| Modern Item | Damage | Properties | Mastery | Weight |
+|-------------|--------|------------|---------|--------|
+| *Martial Ranged Weapons* |
+| &emsp;[[Rules/Source/items/automatic-rifle-xdmg\|Automatic Rifle]] | `2d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 80/240; Bullet), [[Rules/Source/item-properties#Burst Fire\|Burst Fire]], [[Rules/Source/item-properties#Reload\|Reload]] (30 shots), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 8 lb. |
+| &emsp;[[Rules/Source/items/hunting-rifle-xdmg\|Hunting Rifle]] | `2d10` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 80/240; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (5 shots), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Slow\|Slow]] | 8 lb. |
+| &emsp;[[Rules/Source/items/revolver-xdmg\|Revolver]] | `2d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 40/120; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (6 shots) | [[Rules/Source/item-mastery#Sap\|Sap]] | 3 lb. |
+| &emsp;[[Rules/Source/items/semiautomatic-pistol-xdmg\|Semiautomatic Pistol]] | `2d6` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 50/150; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (15 shots) | [[Rules/Source/item-mastery#Vex\|Vex]] | 3 lb. |
+| &emsp;[[Rules/Source/items/shotgun-xdmg\|Shotgun]] | `2d8` Piercing | [[Rules/Source/item-properties#Ammunition\|Ammunition]] (Range 30/90; Bullet), [[Rules/Source/item-properties#Reload\|Reload]] (2 shots), [[Rules/Source/item-properties#Two-Handed\|Two-Handed]] | [[Rules/Source/item-mastery#Push\|Push]] | 7 lb. |
+^firearms
+
+</div></div>
+
 
 ### Explosives
 
 The Explosives table has examples of explosives. If no cost is given for an explosive, it can't typically be bought. If you make these explosives available for purchase, treat them as Rare magic items. Rules for explosives are given below.
 
-![Explosives](/Rules/Source/tables/explosives-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/explosives-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Explosives
+
+</div>
+
+
+
+# Explosives
+*Source: Dungeon Master's Guide (2024) p. 72* 
+
+**Explosives**
+
+| Item | Cost | Weight |
+|------|------|--------|
+| [[Rules/Source/items/bomb-xdmg\|Bomb]] | 100 GP | 1 lb. |
+| [[Rules/Source/items/dynamite-stick-xdmg\|Dynamite Stick]] | — | 1 lb. |
+| [[Rules/Source/items/fragmentation-grenade-xdmg\|Grenade, Fragmentation]] | — | 1 lb. |
+| [[Rules/Source/items/grenade-launcher-xdmg\|Grenade Launcher]] | — | 7 lb. |
+| [[Rules/Source/items/smoke-grenade-xdmg\|Grenade, Smoke]] | 50 GP | 2 lb. |
+| [[Rules/Source/items/gunpowder-keg-xdmg\|Gunpowder (keg)]] | 250 GP | 20 lb. |
+| [[Rules/Source/items/gunpowder-powder-horn-xdmg\|Gunpowder (powder horn)]] | 35 GP | 2 lb. |
+^explosives
+
+</div></div>
+
 
 #### Bomb
 
@@ -885,40 +1749,348 @@ Hazards are presented in alphabetical order.
 ![/Rules/Source/books/dungeon-masters-guide-2024/img/035-02-015-spiders.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/035-02-015-spiders.webp)
 
 > [!embed-hazard]- Brown Mold
-> ![Brown Mold](/Rules/Source/traps-hazards/brown-mold-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Brown Mold
+
+</div>
+
+
+
+# Brown Mold
+*Generic Hazard*  
+
+Brown mold resembles a furry, light-brown carpet. This fungus feeds on warmth, drawing heat from anything around itself. One patch of brown mold covers a 10-foot square, and the temperature within 30 feet of it is always frigid.
+
+When a creature enters a space within 5 feet of the mold for the first time on a turn or starts its turn there, the creature makes a DC 12 Constitution saving throw, taking 22 (`4d10`) Cold damage on a failed save or half as much damage on a successful one.
+
+Brown mold has [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to Fire damage, and any source of fire brought within 5 feet of it causes the mold to instantly expand across a surface and toward the fire, creating a new patch that covers a 10-foot square. A patch of brown mold exposed to an effect that deals any amount of Cold damage is destroyed instantly.
+
+*Source: Dungeon Master's Guide (2024) p. 76*
+
+</div></div>
+
 
 > [!embed-hazard]- Fireball Fungus
-> ![Fireball Fungus](/Rules/Source/traps-hazards/fireball-fungus-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Fireball Fungus
+
+</div>
+
+
+
+# Fireball Fungus
+*Generic Hazard*  
+
+A fireball fungus is a Small, inanimate mushroom that can grow anywhere fungi are found in abundance. Its luminous, orange cap sheds [[Rules/Source/variant-rules/bright-light-xphb\|Bright Light]] in a 15-foot radius and [[Rules/Source/variant-rules/dim-light-xphb\|Dim Light]] for an additional 15 feet.
+
+A fireball fungus has AC 10, HP 6, and [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[Rules/Source/spells/fireball-xphb\|Fireball]] spell (save DC 15) had been centered on it.
+
+## At Higher Levels
+
+The explosion of a fireball fungus causes other fireball fungi in the area of effect to explode as well. You can scale the hazard for higher levels by adding one additional fungus at levels 11–16 or three additional fungi at levels 17–20.
+
+*Source: Dungeon Master's Guide (2024) p. 76*
+
+</div></div>
+
 
 > [!embed-hazard]- Green Slime
-> ![Green Slime](/Rules/Source/traps-hazards/green-slime-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Green Slime
+
+</div>
+
+
+
+# Green Slime
+*Generic Hazard*  
+
+Acidic green slime devours flesh, organic material, and metal on contact. Bright green, wet, and sticky, it clings to walls, floors, and ceilings in patches.
+
+One patch of green slime covers a 5-foot square. Green slime has [[Rules/Source/senses#Blindsight\|Blindsight]] with a range of 30 feet, and it drops from walls and ceilings when it detects movement below itself. Beyond that, it can't move. A creature aware of the slime's presence can avoid being struck by it with a successful DC 10 Dexterity saving throw.
+
+A creature that comes in contact with green slime takes 5 (`1d10`) Acid damage. The creature takes the damage again at the start of each of its turns until the slime is scraped off (requiring an action) or destroyed. Against wood or metal, green slime deals 11 (`2d10`) Acid damage each round, and any nonmagical wood or metal item used to scrape off the green slime is destroyed.
+
+Direct sunlight or any amount of Cold, Fire, or Radiant damage destroys a patch of green slime.
+
+*Source: Dungeon Master's Guide (2024) p. 76*
+
+</div></div>
+
 
 > [!embed-hazard]- Inferno
-> ![Inferno](/Rules/Source/traps-hazards/inferno-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Inferno
+
+</div>
+
+
+
+# Inferno
+*Generic Hazard*  
+
+Whenever an uncontrolled fire spreads, it can create an inferno that quickly engulfs creatures, objects, and vegetation.
+
+An inferno consists of at least four contiguous 10-foot [[Rules/Source/variant-rules/cube-area-of-effect-xphb\|Cubes]] of fire. Each of the inferno's 10-foot Cubes can be doused with 10 gallons of water. Exposure to a strong wind for 1 minute causes the inferno to grow, adding `1d4` new 10-foot Cubes to its volume. An inferno deprived of fuel burns itself out after `1d10` minutes.
+
+An inferno damages any vegetation or object that isn't being worn or carried that it touches, dealing 22 (`4d10`) Fire damage immediately and again at the end of each minute. Any creature that enters the inferno for the first time on a turn or starts its turn there takes 22 (`4d10`) Fire damage and is burning.
+
+*Source: Dungeon Master's Guide (2024) p. 76*
+
+</div></div>
+
 
 > [!embed-hazard]- Poisonous Gas
-> ![Poisonous Gas](/Rules/Source/traps-hazards/poisonous-gas-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Poisonous Gas
+
+</div>
+
+
+
+# Poisonous Gas
+*Generic Hazard*  
+
+Poisonous gas is usually encountered in an enclosed space, such as a sewer or sealed tomb. The gas fills as much space as it can, up to a maximum of ten 10-foot [[Rules/Source/variant-rules/cube-area-of-effect-xphb\|Cubes]]. The transparent gas carries a foul odor. The gas is continuously or periodically replenished by some natural or magical source, though a strong wind disperses the gas for 1 minute.
+
+Any creature that enters poisonous gas for the first time on a turn or starts its turn there makes a DC 12 Constitution saving throw, taking 5 (`1d10`) Poison damage on a failed save or half as much damage on a successful one. Creatures in the gas also have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on [[Rules/Source/variant-rules/death-saving-throw-xphb\|Death Saving Throws]].
+
+## At Higher Levels
+
+You can scale the hazard for higher levels by increasing the Poison damage and the save DC, as shown in the following table.
+
+| Levels | Poison Damage | Save DC |
+|--------|---------------|---------|
+| 5–10 | 11 (`2d10`) | 14 |
+| 11–16 | 22 (`4d10`) | 16 |
+| 17–20 | 55 (`10d10`) | 18 |
+
+*Source: Dungeon Master's Guide (2024) p. 77*
+
+</div></div>
+
 
 > [!embed-hazard]- Quicksand Pit
-> ![Quicksand Pit](/Rules/Source/traps-hazards/quicksand-pit-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Quicksand Pit
+
+</div>
+
+
+
+# Quicksand Pit
+*Generic Hazard*  
+
+A quicksand pit is 10 feet deep and covers the ground in a 10-foot square. A creature that enters the area sinks `1d4 + 1` feet into the quicksand and has the [[Rules/Source/conditions#Restrained\|Restrained]] condition. At the start of each of the creature's turns, it sinks another `1d4` feet. As long as the creature isn't completely submerged in quicksand, it can take an action to try to escape, doing so with a successful Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check (DC 10 plus the number of feet the creature has sunk into the quicksand). A creature that is completely submerged in quicksand has [[Rules/Source/tables/cover-xphb\|Total Cover]] and the [[Rules/Source/conditions#Blinded\|Blinded]] condition and risks suffocation.
+
+A creature can pull another creature within its reach out of a quicksand pit by taking an action and succeeding on a Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check (DC 5 plus the number of feet the creature has sunk into the quicksand).
+
+## At Higher Levels
+
+You can scale this hazard for higher levels by making the pit deeper and increasing the number of feet a creature sinks at the start of each of its turns, as shown in the following table.
+
+| Levels | Pit Depth | Sinking Rate |
+|--------|-----------|--------------|
+| 5–10 | 15 feet | `1d6` feet |
+| 11–16 | 20 feet | `1d8` feet |
+| 17–20 | 30 feet | `1d10` feet |
+
+*Source: Dungeon Master's Guide (2024) p. 77*
+
+</div></div>
+
 
 > [!embed-hazard]- Razorvine
-> ![Razorvine](/Rules/Source/traps-hazards/razorvine-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Razorvine
+
+</div>
+
+
+
+# Razorvine
+*Generic Hazard*  
+
+Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11; HP 25; and [[Rules/Source/variant-rules/immunity-xphb\|Immunity]] to Bludgeoning, Piercing, and Psychic damage.
+
+When a creature comes into contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take 5 (`1d10`) Slashing damage from the bladelike thorns.
+
+*Source: Dungeon Master's Guide (2024) p. 78*
+
+</div></div>
+
 
 > [!embed-hazard]- River Styx
-> ![River Styx](/Rules/Source/traps-hazards/river-styx-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# River Styx
+
+</div>
+
+
+
+# River Styx
+*Generic Hazard*  
+
+The "River Styx" courses through the Lower Planes. Tasting or touching its waters can shatter a creature's intellect and personality, as well as strip away its memories. Certain Fiends are immune to the river's effects.
+
+Unless immune to the river's effects, a creature that drinks from the Styx, enters the river, or starts its turn in the river makes a DC 20 Intelligence saving throw. On a failed save, the creature takes 19 (`3d12`) Psychic damage and can't cast spells or take the [[Rules/Source/actions#Magic\|Magic]] action for 30 days. An affected creature can drink from the Styx and swim in its waters without suffering any additional effects.
+
+The effect can be ended only by the [[Rules/Source/spells/greater-restoration-xphb\|Greater Restoration]], [[Rules/Source/spells/heal-xphb\|Heal]], or [[Rules/Source/spells/wish-xphb\|Wish]] spell. If the effect isn't ended after 30 days, the effect becomes permanent and the creature loses all its memories. At that point, nothing short of a [[Rules/Source/spells/wish-xphb\|Wish]] spell or divine intervention can undo the effect.
+
+Water taken from the River Styx loses its potency after 24 hours, becoming a harmless, foul-tasting liquid. Arcanaloths, night hags, and other fell creatures might know rituals that can prolong the water's potency, at your discretion.
+
+*Source: Dungeon Master's Guide (2024) p. 78*
+
+</div></div>
+
 
 > [!embed-hazard]- Rockslide
-> ![Rockslide](/Rules/Source/traps-hazards/rockslide-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Rockslide
+
+</div>
+
+
+
+# Rockslide
+*Generic Hazard*  
+
+When a rockslide occurs, every creature in its path makes a DC 15 Dexterity saving throw. On a failed save, a creature takes 11 (`2d10`) Bludgeoning damage, has the [[Rules/Source/conditions#Prone\|Prone]] condition, and moves with the rockslide. On a successful save, a creature takes half as much damage only.
+
+When the rockslide stops, its space becomes [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]], and all Prone creatures in its space are buried under rocks and debris. A creature buried in this way has the [[Rules/Source/conditions#Restrained\|Restrained]] condition and has [[Rules/Source/tables/cover-xphb\|Total Cover]]. As an action, a creature can try to crawl out from under the rock pile. If the creature succeeds on a DC 15 Strength ([[Rules/Source/skills#Athletics\|Athletics]]) check, it is no longer Restrained; instead, it has the [[Rules/Source/conditions#Prone\|Prone]] condition and is atop the rock pile. If the check fails, the creature remains buried and gains 1 [[Rules/Source/conditions#Exhaustion\|Exhaustion]] level.
+
+A creature that has neither the Incapacitated nor the Restrained condition can spend 1 minute freeing another creature buried by the rockslide.
+
+## At Higher Levels
+
+You can scale this hazard for higher levels by increasing the Bludgeoning damage as follows: 22 (`4d10`) at levels 5–10, 55 (`10d10`) at levels 11–16, and 99 (`18d10`) at levels 17–20.
+
+*Source: Dungeon Master's Guide (2024) p. 78*
+
+</div></div>
+
 
 > [!embed-hazard]- Vicious Vine
-> ![Vicious Vine](/Rules/Source/traps-hazards/vicious-vine-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Vicious Vine
+
+</div>
+
+
+
+# Vicious Vine
+*Generic Hazard*  
+
+Vicious vines are animated by magic. They often cling to doorways, archways, walls, and statuary. Until a vicious vine moves, there's nothing to distinguish it from an inanimate vine.
+
+Each vicious vine has AC 11; HP 16; and Immunity to Bludgeoning, Piercing, and Psychic damage. When a creature enters a space within 5 feet of the vine for the first time on a turn or starts its turn there, the vine tries to coil around that creature. The target must succeed on a DC 12 Dexterity saving throw or have the [[Rules/Source/conditions#Grappled\|Grappled]] condition (escape DC 12). While Grappled in this way, the target takes 5 (`1d10`) Necrotic damage from the vine's life-draining thorns at the start of each of the target's turns. The vine can grapple only one creature at a time.
+
+As an [[Rules/Source/actions#Influence\|Influence]] action, a character under the effect of a [[Rules/Source/spells/speak-with-plants-xphb\|Speak with Plants]] spell or similar magic can try to persuade the vine to release its victim, doing so with a successful DC 10 Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) check. A creature released by the vine in this way won't be attacked by that vine again for the next 24 hours.
+
+## At Higher Levels
+
+You can scale the hazard for higher levels by increasing the Necrotic damage, the save DC, and the escape DC, as shown in the following table.
+
+| Levels | Necrotic Damage | Save/Escape DC |
+|--------|-----------------|----------------|
+| 5–10 | 11 (`2d10`) | 14 |
+| 11–16 | 22 (`4d10`) | 16 |
+| 17–20 | 55 (`10d10`) | 18 |
+
+*Source: Dungeon Master's Guide (2024) p. 78*
+
+</div></div>
+
 
 > [!embed-hazard]- Webs
-> ![Webs](/Rules/Source/traps-hazards/webs-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Webs
+
+</div>
+
+
+
+# Webs
+*Generic Hazard*  
+
+Giant spiders weave thick, sticky webs across passages and at the bottom of pits to snare prey. These web-filled areas are [[Rules/Source/variant-rules/difficult-terrain-xphb\|Difficult Terrain]].
+
+A creature that enters a web-filled area for the first time on a turn or starts its turn there must succeed on a DC 12 Dexterity saving throw or have the [[Rules/Source/conditions#Restrained\|Restrained]] condition. As an action, a creature Restrained by the webs can try to escape from them, doing so with a successful DC 12 Strength ([[Rules/Source/skills#Athletics\|Athletics]]) or Dexterity ([[Rules/Source/skills#Acrobatics\|Acrobatics]]) check.
+
+Each 10-foot [[Rules/Source/variant-rules/cube-area-of-effect-xphb\|Cube]] of webs has AC 10; HP 15; Vulnerability to Fire damage; and Immunity to Piercing, Poison, and Psychic damage.
+
+*Source: Dungeon Master's Guide (2024) p. 79*
+
+</div></div>
+
 
 > [!embed-hazard]- Yellow Mold
-> ![Yellow Mold](/Rules/Source/traps-hazards/yellow-mold-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Yellow Mold
+
+</div>
+
+
+
+# Yellow Mold
+*Generic Hazard*  
+
+Yellow mold grows in dark places, and one patch covers a 5-foot square. If touched, the mold ejects a cloud of spores that fills a 10-foot [[Rules/Source/variant-rules/cube-area-of-effect-xphb\|Cube]]. Any creature in that area must succeed on a DC 15 Constitution saving throw or take 11 (`2d10`) Poison damage and have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 1 minute. While Poisoned in this way, the creature takes 5 (`1d10`) Poison damage at the start of each of its turns. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+
+Direct sunlight or any amount of Fire damage destroys a patch of yellow mold.
+
+*Source: Dungeon Master's Guide (2024) p. 79*
+
+</div></div>
+
 
 ## Marks of Prestige
 
@@ -932,7 +2104,31 @@ A fortification is a reward usually given to seasoned adventurers who demonstrat
 
 The individual bequeathing the fortification might offer to pay its maintenance costs for one or more months, after which the characters inherit that responsibility. The type of fortification determines its maintenance costs, as shown in the Maintenance Costs table.
 
-![Fortifications; Maintenance Costs](/Rules/Source/tables/fortifications-maintenance-costs-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/fortifications-maintenance-costs-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Fortifications; Maintenance Costs
+
+</div>
+
+
+
+# Fortifications; Maintenance Costs
+*Source: Dungeon Master's Guide (2024) p. 80* 
+
+**Maintenance Costs**
+
+| Fortification | Cost per Day |
+|---------------|--------------|
+| Fortified outpost or watchtower | 50 GP |
+| Keep or small castle | 100 GP |
+| Large castle or fortress | 400 GP |
+^maintenance-costs
+
+</div></div>
+
 
 ### Letters of Recommendation
 
@@ -942,7 +2138,7 @@ A letter of recommendation from a person of impeccable reputation can grant adve
 
 A letter of recommendation is worth only as much as the reputation of the person who wrote it and offers no benefit where its writer holds no sway.
 
-![Queen Yolande of Celene is...](/Rules/Source/books/dungeon-masters-guide-2024/img/036-02-016-queen-yolande.webp#center "Queen Yolande of Celene is grateful for adventurers' aid")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/036-02-016-queen-yolande.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/036-02-016-queen-yolande.webp)
 
 ### Medals
 
@@ -1009,7 +2205,48 @@ Whenever you would otherwise make a number of [[Rules/Source/variant-rules/d20-t
 - **Step 2.** Find the roll needed on the Mob Results table. If all the monsters have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] (for example, if they're attacking a creature protected by the [[Rules/Source/spells/blur-xphb\|Blur]] spell), use the With Disadvantage column. Otherwise, use the Normal column.  
 - **Step 3.** Read across the table to find a fractional number of successes you can easily apply to the group of monsters. That's the fraction of monsters that succeed on the [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]].  
 
-![Average Results; Mob Results](/Rules/Source/tables/average-results-mob-results-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/average-results-mob-results-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Average Results; Mob Results
+
+</div>
+
+
+
+# Average Results; Mob Results
+*Source: Dungeon Master's Guide (2024) p. 82* 
+
+**Mob Results**
+
+|    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|
+| 1 | 1–4 | 1 | 4/4 | 5/5 | 6/6 | 8/8 | 10/10 |
+| 2 | 5–6 | — | 4/4 | 5/5 | 6/6 | 8/8 | 10/10 |
+| 3 | 7–8 | 2 | 4/4 | 5/5 | 5/6 | 7/8 | 9/10 |
+| 4 | 9 | — | 3/4 | 4/5 | 5/6 | 7/8 | 9/10 |
+| 5 | 10 | 3 | 3/4 | 4/5 | 5/6 | 6/8 | 8/10 |
+| 6 | 11 | — | 3/4 | 4/5 | 5/6 | 6/8 | 8/10 |
+| 7 | 12 | 4 | 3/4 | 4/5 | 4/6 | 6/8 | 7/10 |
+| 8 | 13 | 5 | 3/4 | 3/5 | 4/6 | 5/8 | 7/10 |
+| 9 | 14 | — | 2/4 | 3/5 | 4/6 | 5/8 | 6/10 |
+| 10 | — | 6 | 2/4 | 3/5 | 3/6 | 4/8 | 6/10 |
+| 11 | 15 | 7 | 2/4 | 3/5 | 3/6 | 4/8 | 5/10 |
+| 12 | 16 | — | 2/4 | 2/5 | 3/6 | 4/8 | 5/10 |
+| 13 | — | 8 | 2/4 | 2/5 | 2/6 | 3/8 | 4/10 |
+| 14 | 17 | 9 | 1/4 | 2/5 | 2/6 | 3/8 | 4/10 |
+| 15 | 18 | 10 | 1/4 | 2/5 | 2/6 | 2/8 | 3/10 |
+| 16 | — | 11 | 1/4 | 1/5 | 2/6 | 2/8 | 3/10 |
+| 17 | 19 | 12 | 1/4 | 1/5 | 1/6 | 2/8 | 2/10 |
+| 18 | — | 13 | 1/4 | 1/5 | 1/6 | 1/8 | 2/10 |
+| 19 | 20 | 14–15 | 0 | 1/5 | 1/6 | 1/8 | 1/10 |
+| 20 | — | 16–17 | 0 | 0 | 0 | 0 | 1/10 |
+^mob-results
+
+</div></div>
+
 
 ### Adjudicating Areas of Effect
 
@@ -1019,7 +2256,40 @@ The Targets in Area of Effect table offers a guideline. To use the table, find t
 
 Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[Rules/Source/spells/shatter-xphb\|Shatter]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[Rules/Source/variant-rules/sphere-area-of-effect-xphb\|Sphere]] includes only three creatures.
 
-![Adjudicating Areas of Effect; Targets in Area of Effect](/Rules/Source/tables/adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Adjudicating Areas of Effect; Targets in Area of Effect
+
+</div>
+
+
+
+# Adjudicating Areas of Effect; Targets in Area of Effect
+*Source: Dungeon Master's Guide (2024) p. 82* 
+
+**Targets in Area of Effect**
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| 10-foot | 5- to 10-foot | 5-foot-radius | — | 1 |
+| 15- to 20-foot | 15-foot | — | 30-foot-long, 5-foot-wide | 2 |
+| 25-foot | — | 10-foot-radius | 30-foot-long, 10-foot-wide or 60-foot-long, 5-foot-wide | 3 |
+| — | 20-foot | — | 90- or 100-foot-long, 5-foot-wide | 4 |
+| 30-foot | — | — | 60-foot-long, 10-foot-wide or 120-foot-long, 5-foot-wide | 5 |
+| 35-foot | 25-foot | 15-foot-radius | — | 6 |
+| 40-foot | 30-foot | — | 90- or 100-foot-long, 10-foot-wide | 8 |
+| 45-foot | — | — | — | 9 |
+| 50-foot | 35-foot | 20-foot-radius | 120-foot-long, 10-foot-wide | 10 |
+| 55-foot | 40-foot | — | — | 12 |
+| 60-foot | 45-foot | 25-foot-radius | — | 16 |
+| — | 50-foot | 30-foot-radius | — | 20 |
+*Use this column for [[Rules/Source/variant-rules/cylinder-area-of-effect-xphb\|Cylinders]], [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanations]] (using the size of the Emanation rather than its radius), and [[Rules/Source/variant-rules/sphere-area-of-effect-xphb\|Spheres]].
+
+</div></div>
+
 
 ### Examples
 
@@ -1037,7 +2307,7 @@ Nonplayer characters (NPCs) are supporting characters controlled by you, the DM.
 
 The "Monster Manual" contains stat blocks you can use to represent NPCs in your game. You can add details to make them distinctive and memorable. For example, your players will have no trouble remembering the no-nonsense blacksmith with the tattoo of the black rose on her right shoulder or the badly dressed musician with the broken nose. NPCs in your game rarely need much more complexity than that.
 
-![Nonplayer Characters come in all shapes and sizes](/Rules/Source/books/dungeon-masters-guide-2024/img/037-02-017-nonplayer-characters.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/037-02-017-nonplayer-characters.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/037-02-017-nonplayer-characters.webp)
 
 ### Detailed NPCs
 
@@ -1047,17 +2317,215 @@ Flesh out NPCs who play prominent roles in your adventures. You can use the acco
 
 You'll need a name for any NPC who plays a prominent role in your campaign. You can pick a given name and a surname from any of the accompanying tables; a name can include options from different tables. If you like, you can roll `1d6` to determine which table to choose a name from, then roll `1d12` to get a name. You can also alter or combine names, pull from a book of names, or use a name inspired by a movie or book.
 
-![1: Common Names](/Rules/Source/tables/1-common-names-xdmg.md)
 
-![2: Guttural Names](/Rules/Source/tables/2-guttural-names-xdmg.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/1-common-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![3: Lyrical Names](/Rules/Source/tables/3-lyrical-names-xdmg.md)
+<div class="markdown-embed-title">
 
-![4: Monosyllabic Names](/Rules/Source/tables/4-monosyllabic-names-xdmg.md)
+# 1: Common Names
 
-![5: Sinister Names](/Rules/Source/tables/5-sinister-names-xdmg.md)
+</div>
 
-![6: Whimsical Names](/Rules/Source/tables/6-whimsical-names-xdmg.md)
+
+
+# 1: Common Names
+*Source: Dungeon Master's Guide (2024) p. 84* 
+
+**1: Common Names**
+
+| dice: 1d12 | Common Given Name | Common Surname |
+|------------|-------------------|----------------|
+| 1 | Adrik | Brightsun |
+| 2 | Alvyn | Dundragon |
+| 3 | Aurora | Frostbeard |
+| 4 | Eldeth | Garrick |
+| 5 | Eldon | Goodbarrel |
+| 6 | Farris | Greycastle |
+| 7 | Kathra | Ironfist |
+| 8 | Kellen | Jaerin |
+| 9 | Lily | Merryweather |
+| 10 | Nissa | Redthorn |
+| 11 | Xinli | Stormriver |
+| 12 | Zorra | Wren |
+^1-common-names
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/2-guttural-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# 2: Guttural Names
+
+</div>
+
+
+
+# 2: Guttural Names
+*Source: Dungeon Master's Guide (2024) p. 84* 
+
+**2: Guttural Names**
+
+| dice: 1d12 | Guttural Given Name | Guttural Surname |
+|------------|---------------------|------------------|
+| 1 | Abzug | Burska |
+| 2 | Bajok | Gruuthok |
+| 3 | Bharash | Hrondl |
+| 4 | Grovis | Jarzzok |
+| 5 | Gruuna | Kraltus |
+| 6 | Hokrun | Shamog |
+| 7 | Mardred | Skrangval |
+| 8 | Rhogar | Ungart |
+| 9 | Skuldark | Uuthrakt |
+| 10 | Thokk | Vrakir |
+| 11 | Urzul | Yuldra |
+| 12 | Varka | Zulrax |
+^2-guttural-names
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/3-lyrical-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# 3: Lyrical Names
+
+</div>
+
+
+
+# 3: Lyrical Names
+*Source: Dungeon Master's Guide (2024) p. 84* 
+
+**3: Lyrical Names**
+
+| dice: 1d12 | Lyrical Given Name | Lyrical Surname |
+|------------|--------------------|-----------------|
+| 1 | Arannis | Arvannis |
+| 2 | Damaia | Brawnanvil |
+| 3 | Darsis | Daardendrian |
+| 4 | Dweomer | Drachedandion |
+| 5 | Evabeth | Endryss |
+| 6 | Jhessail | Meliamne |
+| 7 | Keyleth | Mishann |
+| 8 | Netheria | Silverfrond |
+| 9 | Orianna | Snowmantle |
+| 10 | Sorcyl | Summerbreeze |
+| 11 | Umarion | Thunderfoot |
+| 12 | Velissa | Zashir |
+^3-lyrical-names
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/4-monosyllabic-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# 4: Monosyllabic Names
+
+</div>
+
+
+
+# 4: Monosyllabic Names
+*Source: Dungeon Master's Guide (2024) p. 84* 
+
+**4: Monosyllabic Names**
+
+| dice: 1d12 | Monosyllabic Given Name | Monosyllabic Surname |
+|------------|-------------------------|----------------------|
+| 1 | Chen | Dench |
+| 2 | Creel | Drog |
+| 3 | Dain | Dusk |
+| 4 | Dorn | Holg |
+| 5 | Flint | Horn |
+| 6 | Glim | Imsh |
+| 7 | Henk | Jask |
+| 8 | Krusk | Keth |
+| 9 | Nox | Ku |
+| 10 | Nyx | Kung |
+| 11 | Rukh | Mott |
+| 12 | Shan | Quaal |
+^4-monosyllabic-names
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/5-sinister-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# 5: Sinister Names
+
+</div>
+
+
+
+# 5: Sinister Names
+*Source: Dungeon Master's Guide (2024) p. 84* 
+
+**5: Sinister Names**
+
+| dice: 1d12 | Sinister Given Name | Sinister Surname |
+|------------|---------------------|------------------|
+| 1 | Arachne | Doomwhisper |
+| 2 | Axyss | Dreadfield |
+| 3 | Carrion | Gallows |
+| 4 | Grinnus | Hellstryke |
+| 5 | Melkhis | Killraven |
+| 6 | Morthos | Nightblade |
+| 7 | Nadir | Norixius |
+| 8 | Scandal | Shadowfang |
+| 9 | Skellendyre | Valtar |
+| 10 | Thaltus | Winterspell |
+| 11 | Valkora | Xandros |
+| 12 | Vexander | Zarkynzorn |
+^5-sinister-names
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/6-whimsical-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# 6: Whimsical Names
+
+</div>
+
+
+
+# 6: Whimsical Names
+*Source: Dungeon Master's Guide (2024) p. 84* 
+
+**6: Whimsical Names**
+
+| dice: 1d12 | Whimsical Given Name | Whimsical Surname |
+|------------|----------------------|-------------------|
+| 1 | Cricket | Borogove |
+| 2 | Daisy | Goldjoy |
+| 3 | Dimble | Hoddypeak |
+| 4 | Ellywick | Huddle |
+| 5 | Erky | Jollywind |
+| 6 | Fiddlestyx | Oneshoe |
+| 7 | Fonkin | Scramblewise |
+| 8 | Golly | Sunnyhill |
+| 9 | Mimsy | Tallgrass |
+| 10 | Pumpkin | Timbers |
+| 11 | Quarrel | Underbough |
+| 12 | Sybilwick | Wimbly |
+^6-whimsical-names
+
+</div></div>
+
 
 #### Stat Block
 
@@ -1079,15 +2547,79 @@ For example, if you find the adventurers unexpectedly arguing with a Lawful Neut
 
 Briefly describe the NPC's most distinctive physical features. You can start with the basics—skin, hair, and eye colors, as well as the NPC's species. The NPC Appearance table can also help you identify one or two things that stand out about the character's appearance.
 
-![NPC Appearance](/Rules/Source/tables/npc-appearance-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/npc-appearance-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# NPC Appearance
+
+</div>
+
+
+
+# NPC Appearance
+*Source: Dungeon Master's Guide (2024) p. 86* 
+
+**NPC Appearance**
+
+| dice: 1d12 | Feature |
+|------------|---------|
+| 1 | Distinctive jewelry |
+| 2 | Flamboyant, outlandish, formal, or ragged clothes |
+| 3 | Uses an elegant mobility device (wheelchair, brace, or cane) |
+| 4 | Pronounced scar |
+| 5 | Unusual eye color (or two different colors) |
+| 6 | Tattoos or piercings |
+| 7 | Birthmark |
+| 8 | Unusual hair color |
+| 9 | Bald, or braided beard or hair |
+| 10 | Distinctive nose (large, bulbous, angular, small) |
+| 11 | Distinctive posture (stooped or rigid) |
+| 12 | Exceptionally beautiful or ugly |
+^npc-appearance
+
+</div></div>
+
 
 #### Secret
 
 Describe a secret the NPC is trying to hide or protect. The NPC Secrets table provides several ideas.
 
-![NPC Secrets](/Rules/Source/tables/npc-secrets-xdmg.md)
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/039-02-019-npc-tracker-sheet.webp#center)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/npc-secrets-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# NPC Secrets
+
+</div>
+
+
+
+# NPC Secrets
+*Source: Dungeon Master's Guide (2024) p. 86* 
+
+**NPC Secrets**
+
+| dice: 1d10 | Secret |
+|------------|--------|
+| 1 | The NPC is in disguise, concealing their identity or some aspect of their appearance. |
+| 2 | The NPC is currently planning, executing, or covering up a crime. |
+| 3 | The NPC (or their family) has been threatened with harm unless the NPC does something. |
+| 4 | The NPC is under a magical compulsion (perhaps a [[Rules/Source/spells/geas-xphb\|Geas]] spell or some kind of curse) to behave in a certain way. |
+| 5 | The NPC is seriously ill or in terrible pain. |
+| 6 | The NPC feels responsible for someone's death or ill fortune. |
+| 7 | The NPC is on the brink of financial ruin. |
+| 8 | The NPC is desperately lonely or harboring an unrequited passion. |
+| 9 | The NPC nurses a powerful ambition. |
+| 10 | The NPC is deeply dissatisfied or unhappy. |
+^npc-secrets
+
+</div></div>
+
+
+![/Rules/Source/books/dungeon-masters-guide-2024/img/039-02-019-npc-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/039-02-019-npc-tracker-sheet.webp)
 
 ### Recurring NPCs
 
@@ -1118,7 +2650,7 @@ Here are some NPC archetypes that work well as supporting characters in an adven
 
 Even useful NPCs can slow down the game or overstay their welcome. Consider having NPC party members stick around for no more than a few game sessions or a single adventure before making their exit. NPCs can benefit from time away from the characters now and then.
 
-![As a member of another gro...](/Rules/Source/books/dungeon-masters-guide-2024/img/040-02-020-npc-healer.webp#center "As a member of another group of heroes, Niko first joined Sheila, Diana, Eric, and Presto as an NPC healer")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/040-02-020-npc-healer.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/040-02-020-npc-healer.webp)
 
 #### Loyalty
 
@@ -1148,7 +2680,7 @@ If the characters own or operate a sailing ship or similar vessel, you can use t
 
 Given their insidious and deadly nature, poisons are a favorite tool among assassins and evil creatures.
 
-![Zarak applies poison to his dagger](/Rules/Source/books/dungeon-masters-guide-2024/img/041-02-021-zarak-poison-dagger.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/041-02-021-zarak-poison-dagger.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/041-02-021-zarak-poison-dagger.webp)
 
 Poisons come in the following four types:
 
@@ -1185,46 +2717,368 @@ Example poisons are detailed here in alphabetical order. Each poison's descripti
 - [[Rules/Source/items/wyvern-poison-xdmg\|Wyvern Poison]]  
 
 > [!embed-item]- Assassin's Blood
-> ![Assassin's Blood](/Rules/Source/items/assassins-blood-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Assassin's Blood
+
+</div>
+
+
+
+# Assassin's Blood
+*Adventuring gear, poison (ingested)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 150 gp
+
+A creature subjected to Assassin's Blood makes a DC 10 Constitution saving throw. On a failed save, the creature takes 6 (`1d12`) Poison damage and has the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 24 hours. On a successful save, the creature takes half as much damage only.
+
+*Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Burnt Othur Fumes
-> ![Burnt Othur Fumes](/Rules/Source/items/burnt-othur-fumes-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Burnt Othur Fumes
+
+</div>
+
+
+
+# Burnt Othur Fumes
+*Adventuring gear, poison (inhaled)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 500 gp
+
+A creature subjected to Burnt Othur Fumes must succeed on a DC 13 Constitution saving throw or take 10 (`3d6`) Poison damage, and it must repeat the save at the start of each of its turns. On each successive failed save, the creature takes 3 (`1d6`) Poison damage. After three successful saves, the poison ends.
+
+*Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Carrion Crawler Mucus
-> ![Carrion Crawler Mucus](/Rules/Source/items/carrion-crawler-mucus-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Carrion Crawler Mucus
+
+</div>
+
+
+
+# Carrion Crawler Mucus
+*Adventuring gear, poison (contact)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 200 gp
+
+A creature subjected to Carrion Crawler Mucus must succeed on a DC 13 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 1 minute. The creature also has the [[Rules/Source/conditions#Paralyzed\|Paralyzed]] condition while [[Rules/Source/conditions#Poisoned\|Poisoned]] in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+
+*Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Crawler Mucus (Contact)")*
+
+</div></div>
+
 
 > [!embed-item]- Essence of Ether
-> ![Essence of Ether](/Rules/Source/items/essence-of-ether-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Essence of Ether
+
+</div>
+
+
+
+# Essence of Ether
+*Adventuring gear, poison (inhaled)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 300 gp
+
+A creature subjected to Essence of Ether must succeed on a DC 15 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 8 hours. The creature also has the [[Rules/Source/conditions#Unconscious\|Unconscious]] condition while [[Rules/Source/conditions#Poisoned\|Poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+
+*Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Lolth's Sting
-> ![Lolth's Sting](/Rules/Source/items/lolths-sting-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Lolth's Sting
+
+</div>
+
+
+
+# Lolth's Sting
+*Adventuring gear, poison (injury)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 200 gp
+
+A creature subjected to Lolth's Sting must succeed on a DC 13 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 1 hour. If the creature fails the save by 5 or more, the creature also has the [[Rules/Source/conditions#Unconscious\|Unconscious]] condition while [[Rules/Source/conditions#Poisoned\|Poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Malice
-> ![Malice](/Rules/Source/items/malice-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Malice
+
+</div>
+
+
+
+# Malice
+*Adventuring gear, poison (inhaled)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 250 gp
+
+A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 1 hour. The creature also has the [[Rules/Source/conditions#Blinded\|Blinded]] condition while [[Rules/Source/conditions#Poisoned\|Poisoned]] in this way.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Midnight Tears
-> ![Midnight Tears](/Rules/Source/items/midnight-tears-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Midnight Tears
+
+</div>
+
+
+
+# Midnight Tears
+*Adventuring gear, poison (ingested)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 1,500 gp
+
+A creature that ingests Midnight Tears suffers no effect until the stroke of midnight. Any effect that ends the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition neutralizes this poison. If the poison hasn't been neutralized before midnight, the creature makes a DC 17 Constitution saving throw, taking 31 (`9d6`) Poison damage on a failed save or half as much damage on a successful one.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Oil of Taggit
-> ![Oil of Taggit](/Rules/Source/items/oil-of-taggit-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Oil of Taggit
+
+</div>
+
+
+
+# Oil of Taggit
+*Adventuring gear, poison (contact)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 400 gp
+
+A creature subjected to Oil of Taggit must succeed on a DC 13 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 24 hours. The creature also has the [[Rules/Source/conditions#Unconscious\|Unconscious]] condition while [[Rules/Source/conditions#Poisoned\|Poisoned]] in this way. It wakes up if it takes damage.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Pale Tincture
-> ![Pale Tincture](/Rules/Source/items/pale-tincture-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Pale Tincture
+
+</div>
+
+
+
+# Pale Tincture
+*Adventuring gear, poison (ingested)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 250 gp
+
+A creature subjected to Pale Tincture must succeed on a DC 16 Constitution saving throw or take 3 (`1d6`) Poison damage and have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition. The [[Rules/Source/conditions#Poisoned\|Poisoned]] creature repeats the save every 24 hours, taking 3 (`1d6`) Poison damage on a failed save. The damage the poison deals can't be healed by any means while the creature remains [[Rules/Source/conditions#Poisoned\|Poisoned]]. After seven successful saves against the poison, the creature is no longer [[Rules/Source/conditions#Poisoned\|Poisoned]].
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Purple Worm Poison
-> ![Purple Worm Poison](/Rules/Source/items/purple-worm-poison-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Purple Worm Poison
+
+</div>
+
+
+
+# Purple Worm Poison
+*Adventuring gear, poison (injury)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 2,000 gp
+
+A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking 35 (`10d6`) Poison damage on a failed save or half as much damage on a successful one.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Serpent Venom
-> ![Serpent Venom](/Rules/Source/items/serpent-venom-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Serpent Venom
+
+</div>
+
+
+
+# Serpent Venom
+*Adventuring gear, poison (injury)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 200 gp
+
+A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking 10 (`3d6`) Poison damage on a failed save or half as much damage on a successful one.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Torpor
-> ![Torpor](/Rules/Source/items/torpor-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Torpor
+
+</div>
+
+
+
+# Torpor
+*Adventuring gear, poison (ingested)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 600 gp
+
+A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for `4d6` hours. The creature's [[Rules/Source/variant-rules/speed-xphb\|Speed]] is halved while the creature is [[Rules/Source/conditions#Poisoned\|Poisoned]] in this way.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Truth Serum
-> ![Truth Serum](/Rules/Source/items/truth-serum-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Truth Serum
+
+</div>
+
+
+
+# Truth Serum
+*Adventuring gear, poison (ingested)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 150 gp
+
+A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving throw or have the [[Rules/Source/conditions#Poisoned\|Poisoned]] condition for 1 hour. The [[Rules/Source/conditions#Poisoned\|Poisoned]] creature can't knowingly communicate a lie.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-item]- Wyvern Poison
-> ![Wyvern Poison](/Rules/Source/items/wyvern-poison-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Wyvern Poison
+
+</div>
+
+
+
+# Wyvern Poison
+*Adventuring gear, poison (injury)*  
+
+
+- **Properties**: [[Rules/Source/item-properties#Poison\|Poison]]
+- **Cost**: 1,200 gp
+
+A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (`7d6`) Poison damage on a failed save or half as much damage on a successful one.
+
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 ## Renown
 
@@ -1267,17 +3121,67 @@ Disagreements with members of a group aren't enough to cause a loss of renown wi
 
 If you want to use the benefits of renown without tracking Renown Scores, you can use a character's level as a shorthand for the character's Renown Score with a group, assuming the character has worked with or for that group for most of the character's career. The Level-Based Renown table shows equivalencies between Renown Score and character level.
 
-![Level-Based Renown](/Rules/Source/tables/level-based-renown-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/level-based-renown-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Level-Based Renown
+
+</div>
+
+
+
+# Level-Based Renown
+*Source: Dungeon Master's Guide (2024) p. 92* 
+
+**Level-Based Renown**
+
+| Renown Score | Character Level |
+|--------------|-----------------|
+| 1 | 1 |
+| 3 | 3 |
+| 10 | 5 |
+| 25 | 11 |
+| 50 | 17 |
+^level-based-renown
+
+</div></div>
+
 
 ## Settlements
 
-![Life in a city is full of fantastical surprises!](/Rules/Source/books/dungeon-masters-guide-2024/img/042-02-022-city-life.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/042-02-022-city-life.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/042-02-022-city-life.webp)
 
 Your campaign world is likely to include settlements that characters can visit. The characters might even adopt one of these settlements as a home base, in or near which they can build their Bastions when they are of high enough level to do so (see chapter 8).
 
 The Settlements by Size table provides population ranges for villages, towns, and cities as well as the value of the most expensive item the settlement is likely to have for sale. Adjust these numbers as you wish to account for special circumstances. For example, a [[Rules/Source/items/potion-of-healing-xdmg\|Potion of Healing]] (which costs 50 GP) is too expensive an item to purchase in most villages, but a village that happens to have an alchemist, an herbalist, or a potion brewer might have one or more such potions for sale.
 
-![Settlements by Size](/Rules/Source/tables/settlements-by-size-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlements-by-size-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settlements by Size
+
+</div>
+
+
+
+# Settlements by Size
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Settlements by Size**
+
+| Settlement | Population Range | Max. GP Value |
+|------------|------------------|---------------|
+| Village | Up to 500 | 20 GP |
+| Town | 501–5,000 | 2,000 GP |
+| City | 5,001 and higher | 200,000 GP |
+^settlements-by-size
+
+</div></div>
+
 
 > [!note] Do I Need a Settlement Map?
 > 
@@ -1291,21 +3195,242 @@ The Settlements by Size table provides population ranges for villages, towns, an
 
 The following tables allow you to flesh out details about a settlement. You can use the accompanying Settlement Tracker to record important information about a village, town, or city in your campaign.
 
-![Settlement Tables and Tracker; Defining Traits](/Rules/Source/tables/settlement-tables-and-tracker-defining-traits-xdmg.md)
 
-![Settlement Tables and Tracker; Claims to Fame](/Rules/Source/tables/settlement-tables-and-tracker-claims-to-fame-xdmg.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlement-tables-and-tracker-defining-traits-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Settlement Tables and Tracker; Current Calamities](/Rules/Source/tables/settlement-tables-and-tracker-current-calamities-xdmg.md)
+<div class="markdown-embed-title">
 
-![Settlement Tables and Tracker; Local Leaders](/Rules/Source/tables/settlement-tables-and-tracker-local-leaders-xdmg.md)
+# Settlement Tables and Tracker; Defining Traits
 
-![Settlement Tables and Tracker; Tavern Names](/Rules/Source/tables/settlement-tables-and-tracker-tavern-names-xdmg.md)
+</div>
 
-![Settlement Tables and Tracker; Random Shops](/Rules/Source/tables/settlement-tables-and-tracker-random-shops-xdmg.md)
+
+
+# Settlement Tables and Tracker; Defining Traits
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Defining Traits**
+
+| dice: 1d20 | Trait |
+|------------|-------|
+| 1–2 | Fortified outer wall |
+| 3–4 | Lots of gardens, parks, and greenery |
+| 5–6 | Lots of mud, filth, and litter |
+| 7–8 | Sprawling cemetery |
+| 9–10 | Lingering fog |
+| 11–12 | Noise and smoke from smithies and forges |
+| 13 | Canals and bridges |
+| 14 | Cliffs on one or more sides |
+| 15–16 | Clean streets and well-maintained buildings |
+| 17–18 | Ancient ruins within the settlement |
+| 19–20 | Impressive structure (such as a keep, temple, circle of standing stones, or ziggurat) |
+^defining-traits
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlement-tables-and-tracker-claims-to-fame-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settlement Tables and Tracker; Claims to Fame
+
+</div>
+
+
+
+# Settlement Tables and Tracker; Claims to Fame
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Claims to Fame**
+
+| dice: 1d20 | Claim to Fame |
+|------------|---------------|
+| 1 | Delicious food |
+| 2 | Rude people |
+| 3 | Friendly folk |
+| 4 | Artists or writers |
+| 5 | Great hero/savior |
+| 6 | Flowers |
+| 7 | Seasonal festival |
+| 8 | Hauntings |
+| 9 | Spellcasters |
+| 10 | Decadence |
+| 11 | Piety |
+| 12 | Gambling |
+| 13 | Godlessness |
+| 14 | Education |
+| 15 | Wines |
+| 16 | High fashion |
+| 17 | Political intrigue |
+| 18 | Powerful guilds |
+| 19 | Patriotism |
+| 20 | Ancient ruins |
+^claims-to-fame
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlement-tables-and-tracker-current-calamities-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settlement Tables and Tracker; Current Calamities
+
+</div>
+
+
+
+# Settlement Tables and Tracker; Current Calamities
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Current Calamities**
+
+| dice: 1d12 | Calamity |
+|------------|----------|
+| 1 | Monsters infest the settlement. |
+| 2 | A key figure died; murder is suspected. |
+| 3 | War brews between rival guilds or gangs. |
+| 4 | A plague or famine sparks riots. |
+| 5 | Monsters attack anyone who approaches or leaves the settlement. |
+| 6 | Trade disputes cause economic hardship. |
+| 7 | A natural disaster threatens the settlement. |
+| 8 | A prophecy of doom has residents on edge. |
+| 9 | Locals are being drafted to fight in a war. |
+| 10 | Political or religious strife threatens violence. |
+| 11 | The settlement is under siege. |
+| 12 | Scandal threatens powerful local families. |
+^current-calamities
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlement-tables-and-tracker-local-leaders-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settlement Tables and Tracker; Local Leaders
+
+</div>
+
+
+
+# Settlement Tables and Tracker; Local Leaders
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Local Leaders**
+
+| dice: 1d12 | Leader |
+|------------|--------|
+| 1 | Respected, fair, and just leader or council |
+| 2 | Feared tyrant |
+| 3 | Coward manipulated by others |
+| 4 | Illegitimate leader causing civil unrest |
+| 5 | Powerful monster |
+| 6 | Mysterious, anonymous conspirators |
+| 7 | Contested leadership (with open fighting) |
+| 8 | Acrimonious council unable to make decisions |
+| 9 | Doltish lout |
+| 10 | Dying leader (with disputed succession) |
+| 11 | Iron-willed and respected leader or council |
+| 12 | Religious leader or council |
+^local-leaders
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlement-tables-and-tracker-tavern-names-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settlement Tables and Tracker; Tavern Names
+
+</div>
+
+
+
+# Settlement Tables and Tracker; Tavern Names
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Tavern Names**
+
+| dice: 1d20 | First Part | Second Part |
+|------------|------------|-------------|
+| 1 | The Golden | Lyre |
+| 2 | The Silver | Dolphin |
+| 3 | The Beardless | Dwarf |
+| 4 | The Laughing | Pegasus |
+| 5 | The Dancing | Hut |
+| 6 | The Gilded | Rose |
+| 7 | The Stumbling | Stag |
+| 8 | The Wolf and | Duck |
+| 9 | The Fallen | Lamb |
+| 10 | The Leering | Demon |
+| 11 | The Drunken | Goat |
+| 12 | The Wine and | Spirit |
+| 13 | The Roaring | Horde |
+| 14 | The Frowning | Jester |
+| 15 | The Barrel and | Bucket |
+| 16 | The Thirsty | Crow |
+| 17 | The Wandering | Satyr |
+| 18 | The Barking | Dog |
+| 19 | The Happy | Spider |
+| 20 | The Witch and | Dragon |
+*Roll a separate `d20` for each part of the tavern's name.
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/settlement-tables-and-tracker-random-shops-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settlement Tables and Tracker; Random Shops
+
+</div>
+
+
+
+# Settlement Tables and Tracker; Random Shops
+*Source: Dungeon Master's Guide (2024) p. 93* 
+
+**Random Shops**
+
+| dice: 1d20 | Type |
+|------------|------|
+| 1 | Pawnshop |
+| 2 | Apothecary |
+| 3 | Grocer |
+| 4 | Delicatessen |
+| 5 | Potter |
+| 6 | Undertaker |
+| 7 | Bookstore |
+| 8 | Moneylender |
+| 9 | Armorer |
+| 10 | Chandler |
+| 11 | Smithy |
+| 12 | Carpenter |
+| 13 | Weaver |
+| 14 | Jeweler |
+| 15 | Baker |
+| 16 | Mapmaker |
+| 17 | Tailor |
+| 18 | Ropemaker |
+| 19 | Mason |
+| 20 | Scribe |
+^random-shops
+
+</div></div>
+
 
 ![/Rules/Source/books/dungeon-masters-guide-2024/img/043-02-023-flagon-with-coins.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/043-02-023-flagon-with-coins.webp)
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/044-02-024-settlement-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/044-02-024-settlement-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/044-02-024-settlement-tracker-sheet.webp)
 
 ## Siege Equipment
 
@@ -1323,38 +3448,422 @@ Siege equipment includes objects designed to assail castles and other walled for
 - [[Rules/Source/objects/trebuchet-xdmg\|Trebuchet]]  
 
 > [!embed-object]- Ballista
-> ![Ballista](/Rules/Source/objects/ballista-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/ballista-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ballista
+
+</div>
+
+
+
+# Ballista
+
+*Source: Dungeon Master's Guide (2024) p. 96*  
+
+A Ballista is a massive crossbow that fires heavy bolts. Loading a Ballista requires the [[Rules/Source/actions#Utilize\|Utilize]] action, and aiming it requires another [[Rules/Source/actions#Utilize\|Utilize]] action. Then a crew member can take the Ballista Bolt action.
+
+```ad-statblock
+title: Ballista
+![[/Rules/Source/objects/token/ballista-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 50
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Ballista Bolt (Requires Load and Aim).*** *Ranged Attack Roll:* +6, range 120/480 ft. *Hit:* 16 (3d10) Piercing damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Cannon
-> ![Cannon](/Rules/Source/objects/cannon-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/cannon-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Cannon
+
+</div>
+
+
+
+# Cannon
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 96*  
+
+A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructive speeds. A Cannon is usually attached to a wooden frame with wheels. Loading a Cannon requires the [Utilize](/Rules/Source/actions.md#Utilize) action, and aiming it requires another [Utilize](/Rules/Source/actions.md#Utilize) action. Then a crew member can take the Cannonball action.
+
+```ad-statblock
+title: Cannon
+![[/Rules/Source/objects/token/cannon-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 19
+- **Hit Points** 75
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Cannonball (Requires Load and Aim).*** *Ranged Attack Roll:* +6, range 600/2,400 ft. *Hit:* 44 (8d10) Bludgeoning damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Flamethrower Coach
-> ![Flamethrower Coach](/Rules/Source/objects/flamethrower-coach-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/flamethrower-coach-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Flamethrower Coach
+
+</div>
+
+
+
+# Flamethrower Coach
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 96*  
+
+Powered by magic, this iron coach has a flamethrower turret mounted atop it.
+
+The coach can accommodate up to two Medium creatures. An iron hatch in the vehicle's underbelly grants access. Narrow slits in the front, sides, and back of the coach allow its occupants to see outside. A creature in the coach has [Three-Quarters Cover](/Rules/Source/tables/cover-xphb.md) against attacks and other effects that originate outside it.
+
+The coach is designed for a crew of two: a driver and a gunner. The driver can take the [Utilize](/Rules/Source/actions.md#Utilize) action to move and turn the coach, which has a Speed of 30 feet, using levers and pedals inside. The gunner can use the Flamethrower action to aim and fire it.
+
+```ad-statblock
+title: Flamethrower Coach
+![[/Rules/Source/objects/token/flamethrower-coach-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 19
+- **Hit Points** 100
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [Line](/Rules/Source/variant-rules/line-area-of-effect-xphb.md). *Failure:* 14 (4d6) Fire damage, and the creature starts burning. *Success:* Half damage only.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Keg Launcher
-> ![Keg Launcher](/Rules/Source/objects/keg-launcher-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/keg-launcher-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Keg Launcher
+
+</div>
+
+
+
+# Keg Launcher
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 96*  
+
+A back-mounted, wooden catapult flings small kegs of toxic gas. Loading a Keg Launcher requires the [Utilize](/Rules/Source/actions.md#Utilize) action, and aiming it requires another [Utilize](/Rules/Source/actions.md#Utilize) action. Then a crew member can take the Toxic Keg action.
+
+```ad-statblock
+title: Keg Launcher
+![[/Rules/Source/objects/token/keg-launcher-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 30
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Toxic Keg (Requires Load and Aim).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](/Rules/Source/variant-rules/sphere-area-of-effect-xphb.md) centered on a point 30 to 300 feet from the launcher. *Failure:* 14 (4d6) Poison damage. *Success:* Half damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Lightning Cannon
-> ![Lightning Cannon](/Rules/Source/objects/lightning-cannon-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/lightning-cannon-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Lightning Cannon
+
+</div>
+
+
+
+# Lightning Cannon
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 96*  
+
+A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [Utilize](/Rules/Source/actions.md#Utilize) action, then a crew member can take the Lightning Ball action.
+
+```ad-statblock
+title: Lightning Cannon
+![[/Rules/Source/objects/token/lightning-cannon-xdmg.webp|token wmed]]
+*Medium Siege weapon*
+
+- **Armor Class** 19
+- **Hit Points** 30
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Lightning Ball (Requires Aim).*** *Ranged Attack Roll:* +6, range 300/1,200 ft. *Hit:* 22 (4d10) Lightning damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Mangonel
-> ![Mangonel](/Rules/Source/objects/mangonel-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/mangonel-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Mangonel
+
+</div>
+
+
+
+# Mangonel
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 97*  
+
+A Mangonel is a catapult that hurls heavy projectiles in a high arc, so it can hit targets behind walls. Loading a Mangonel requires two [Utilize](/Rules/Source/actions.md#Utilize) actions, and aiming it requires two more [Utilize](/Rules/Source/actions.md#Utilize) actions. Then a crew member can take the Mangonel Stone action.
+
+```ad-statblock
+title: Mangonel
+![[/Rules/Source/objects/token/mangonel-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 100
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Mangonel Stone (Requires Load and Aim).*** *Ranged Attack Roll:* +5, range 200/800 ft. (can't hit targets within 60 feet of itself). *Hit:* 27 (5d10) Bludgeoning damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Ram
-> ![Ram](/Rules/Source/objects/ram-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/ram-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ram
+
+</div>
+
+
+
+# Ram
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 97*  
+
+A Ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains. The log is shod in iron and used to batter through doors and barricades. Positioning a Ram requires three [Utilize](/Rules/Source/actions.md#Utilize) actions. Then a crew member can use the Ram action.
+
+The gallery roof gives the operators [Total Cover](/Rules/Source/tables/cover-xphb.md) against attacks and other effects from above.
+
+```ad-statblock
+title: Ram
+![[/Rules/Source/objects/token/ram-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 100
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Ram (Requires Position).*** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 16 (3d10) Bludgeoning damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Siege Tower
-> ![Siege Tower](/Rules/Source/objects/siege-tower-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/siege-tower-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Siege Tower
+
+</div>
+
+
+
+# Siege Tower
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 97*  
+
+A Siege Tower is a mobile wooden structure with a beam frame and slats in its walls. Large wooden wheels or rollers allow the tower to be pushed or pulled by soldiers or beasts of burden. Medium or smaller creatures can use the Siege Tower to reach the top of walls up to 40 feet high. A creature in the tower has [Total Cover](/Rules/Source/tables/cover-xphb.md) against attacks and other effects that originate outside it.
+
+```ad-statblock
+title: Siege Tower
+![[/Rules/Source/objects/token/siege-tower-xdmg.webp|token wmed]]
+*Gargantuan Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 200
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Suspended Cauldron
-> ![Suspended Cauldron](/Rules/Source/objects/suspended-cauldron-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/suspended-cauldron-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Suspended Cauldron
+
+</div>
+
+
+
+# Suspended Cauldron
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 97*  
+
+An iron pot is suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled before it can be used again. Filling the cauldron requires three [Utilize](/Rules/Source/actions.md#Utilize) actions. Then a crew member can take the Spill action.
+
+Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [green slime](/Rules/Source/traps-hazards/green-slime-xdmg.md) (see), with different effects.
+
+```ad-statblock
+title: Suspended Cauldron
+![[/Rules/Source/objects/token/suspended-cauldron-xdmg.webp|token wmed]]
+*Large Siege weapon*
+
+- **Armor Class** 19
+- **Hit Points** 20
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Spill (Requires a Full Cauldron).*** *Dexterity Saving Throw:* DC 15, each creature in a 10-foot square directly below the cauldron. *Failure:* 10 (3d6) Fire damage. *Success:* Half damage.
+```
+^statblock
+
+</div></div>
+
 
 > [!embed-object]- Trebuchet
-> ![Trebuchet](/Rules/Source/objects/trebuchet-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/objects/trebuchet-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Trebuchet
+
+</div>
+
+
+
+# Trebuchet
+%%-- Embedded content starts on the next line. --%%
+*Source: Dungeon Master's Guide (2024) p. 97*  
+
+A Trebuchet is a catapult that throws its payload in a high arc so it can hit targets behind walls. Loading a Trebuchet requires two [Utilize](/Rules/Source/actions.md#Utilize) actions, and aiming it requires two more [Utilize](/Rules/Source/actions.md#Utilize) actions. Then a crew member can take the Trebuchet Stone action.
+
+```ad-statblock
+title: Trebuchet
+![[/Rules/Source/objects/token/trebuchet-xdmg.webp|token wmed]]
+*Huge Siege weapon*
+
+- **Armor Class** 15
+- **Hit Points** 150
+- **Speed** 
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+
+
+## Actions
+
+***Trebuchet Stone (Requires Load and Aim).*** *Ranged Attack Roll:* +5, range 300/1,200 ft. (can't hit targets within 60 feet of itself). *Hit:* 44 (8d10) Bludgeoning damage.
+```
+^statblock
+
+</div></div>
+
 
 ## Supernatural Gifts
 
-![A magical creature like a ...](/Rules/Source/books/dungeon-masters-guide-2024/img/047-02-027-unicorn.webp#center "A magical creature like a unicorn might bestow a supernatural gift")
+![[/Rules/Source/books/dungeon-masters-guide-2024/img/047-02-027-unicorn.webp|A magical creature like a ...|center wmed]]
 
 A supernatural gift is a special reward granted by a being or force of great magical power. Supernatural gifts come in two forms:
 
@@ -1377,77 +3886,329 @@ A character should receive a Blessing only if it is useful to that character, an
 
 A character retains the benefit of a Blessing forever or until it is taken away by the being who granted it.
 
-There is no limit on the number of Blessings a character can receive, but it should be rare for a character to have more than one at a time. Moreover, a character can't benefit from multiple instances of a Blessing at the same time. For example, a character can't benefit from two instances of the [[Rules/Source/rewards/blessing-of-health-xdmg\|Blessing of Health]] at once.
+There is no limit on the number of Blessings a character can receive, but it should be rare for a character to have more than one at a time. Moreover, a character can't benefit from multiple instances of a Blessing at the same time. For example, a character can't benefit from two instances of the [Blessing of Health](/Rules/Source/rewards/blessing-of-health-xdmg.md) at once.
 
 You can easily create more Blessings by mimicking the properties of a Wondrous Item.
 
-- [[Rules/Source/rewards/blessing-of-health-xdmg\|Blessing of Health]]  
-- [[Rules/Source/rewards/blessing-of-magic-resistance-xdmg\|Blessing of Magic Resistance]]  
-- [[Rules/Source/rewards/blessing-of-protection-xdmg\|Blessing of Protection]]  
-- [[Rules/Source/rewards/blessing-of-understanding-xdmg\|Blessing of Understanding]]  
-- [[Rules/Source/rewards/blessing-of-valhalla-xdmg\|Blessing of Valhalla]]  
-- [[Rules/Source/rewards/blessing-of-weapon-enhancement-xdmg\|Blessing of Weapon Enhancement]]  
-- [[Rules/Source/rewards/blessing-of-wound-closure-xdmg\|Blessing of Wound Closure]]  
+- [Blessing of Health](/Rules/Source/rewards/blessing-of-health-xdmg.md)  
+- [Blessing of Magic Resistance](/Rules/Source/rewards/blessing-of-magic-resistance-xdmg.md)  
+- [Blessing of Protection](/Rules/Source/rewards/blessing-of-protection-xdmg.md)  
+- [Blessing of Understanding](/Rules/Source/rewards/blessing-of-understanding-xdmg.md)  
+- [Blessing of Valhalla](/Rules/Source/rewards/blessing-of-valhalla-xdmg.md)  
+- [Blessing of Weapon Enhancement](/Rules/Source/rewards/blessing-of-weapon-enhancement-xdmg.md)  
+- [Blessing of Wound Closure](/Rules/Source/rewards/blessing-of-wound-closure-xdmg.md)  
 
 > [!embed-reward]- Blessing of Health
-> ![Blessing of Health](/Rules/Source/rewards/blessing-of-health-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-health-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Health
+
+</div>
+
+
+
+# Blessing of Health
+
+Your Constitution score increases by 2, up to a maximum of 22.
+
+*Source: Dungeon Master's Guide (2024) p. 98*
+
+</div></div>
+
 
 > [!embed-reward]- Blessing of Magic Resistance
-> ![Blessing of Magic Resistance](/Rules/Source/rewards/blessing-of-magic-resistance-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-magic-resistance-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Magic Resistance
+
+</div>
+
+
+
+# Blessing of Magic Resistance
+
+You have [Advantage](/Rules/Source/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+
+*Source: Dungeon Master's Guide (2024) p. 98*
+
+</div></div>
+
 
 > [!embed-reward]- Blessing of Protection
-> ![Blessing of Protection](/Rules/Source/rewards/blessing-of-protection-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-protection-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Protection
+
+</div>
+
+
+
+# Blessing of Protection
+
+You gain a +1 bonus to AC and saving throws.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Blessing of Understanding
-> ![Blessing of Understanding](/Rules/Source/rewards/blessing-of-understanding-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-understanding-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Understanding
+
+</div>
+
+
+
+# Blessing of Understanding
+
+Your Wisdom score increases by 2, up to a maximum of 22.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Blessing of Valhalla
-> ![Blessing of Valhalla](/Rules/Source/rewards/blessing-of-valhalla-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-valhalla-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Valhalla
+
+</div>
+
+
+
+# Blessing of Valhalla
+
+This Blessing grants you the power to summon spirit warriors, as if you are blowing a [silver Horn of Valhalla](/Rules/Source/items/horn-of-valhalla-silver-xdmg.md). Once you use this Blessing, you can't use it again until 7 days have passed.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Blessing of Weapon Enhancement
-> ![Blessing of Weapon Enhancement](/Rules/Source/rewards/blessing-of-weapon-enhancement-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-weapon-enhancement-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Weapon Enhancement
+
+</div>
+
+
+
+# Blessing of Weapon Enhancement
+
+One nonmagical weapon in your possession becomes a [+1 Weapon](/Rules/Source/items/1-weapon-xdmg.md) while you wield it.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Blessing of Wound Closure
-> ![Blessing of Wound Closure](/Rules/Source/rewards/blessing-of-wound-closure-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-wound-closure-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Blessing of Wound Closure
+
+</div>
+
+
+
+# Blessing of Wound Closure
+
+This Blessing grants you the benefits of a [Periapt of Wound Closure](/Rules/Source/items/periapt-of-wound-closure-xdmg.md).
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 ### Charms
 
 Charms can be received in many different ways. For example, a Wizard who finds an eldritch secret in a dead archmage's spellbook might be infused with the magic of a Charm, as might a character who solves a sphinx's riddle or drinks from a magical fountain. Mythic creatures sometimes grace their allies with Charms, and some explorers find themselves bearing a Charm after discovering a long-lost location drenched in primeval magic.
 
-Some Charms can be used only once; others can be used a specific number of times before vanishing. If a Charm lets a character cast a spell, the character can do so without expending a spell slot or providing any spell components. Unless otherwise stated, the spell uses its normal casting time, range, and duration; if the spell requires [[Rules/Source/conditions#Concentration\|Concentration]], the character must concentrate.
+Some Charms can be used only once; others can be used a specific number of times before vanishing. If a Charm lets a character cast a spell, the character can do so without expending a spell slot or providing any spell components. Unless otherwise stated, the spell uses its normal casting time, range, and duration; if the spell requires [Concentration](/Rules/Source/conditions.md#Concentration), the character must concentrate.
 
-A Charm can't be removed from a creature by anything short of divine intervention or a [[Rules/Source/spells/wish-xphb\|Wish]] spell. A character can't benefit from multiple instances of a Charm at the same time.
+A Charm can't be removed from a creature by anything short of divine intervention or a [Wish](/Rules/Source/spells/wish-xphb.md) spell. A character can't benefit from multiple instances of a Charm at the same time.
 
 A typical Charm mimics the effects of a Potion or spell, so it is easy to create more Charms of your own.
 
-- [[Rules/Source/rewards/charm-of-animal-conjuring-xdmg\|Charm of Animal Conjuring]]  
-- [[Rules/Source/rewards/charm-of-darkvision-xdmg\|Charm of Darkvision]]  
-- [[Rules/Source/rewards/charm-of-feather-falling-xdmg\|Charm of Feather Falling]]  
-- [[Rules/Source/rewards/charm-of-heroism-xdmg\|Charm of Heroism]]  
-- [[Rules/Source/rewards/charm-of-restoration-xdmg\|Charm of Restoration]]  
-- [[Rules/Source/rewards/charm-of-the-slayer-xdmg\|Charm of the Slayer]]  
-- [[Rules/Source/rewards/charm-of-vitality-xdmg\|Charm of Vitality]]  
+- [Charm of Animal Conjuring](/Rules/Source/rewards/charm-of-animal-conjuring-xdmg.md)  
+- [Charm of Darkvision](/Rules/Source/rewards/charm-of-darkvision-xdmg.md)  
+- [Charm of Feather Falling](/Rules/Source/rewards/charm-of-feather-falling-xdmg.md)  
+- [Charm of Heroism](/Rules/Source/rewards/charm-of-heroism-xdmg.md)  
+- [Charm of Restoration](/Rules/Source/rewards/charm-of-restoration-xdmg.md)  
+- [Charm of the Slayer](/Rules/Source/rewards/charm-of-the-slayer-xdmg.md)  
+- [Charm of Vitality](/Rules/Source/rewards/charm-of-vitality-xdmg.md)  
 
 > [!embed-reward]- Charm of Animal Conjuring
-> ![Charm of Animal Conjuring](/Rules/Source/rewards/charm-of-animal-conjuring-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-animal-conjuring-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of Animal Conjuring
+
+</div>
+
+
+
+# Charm of Animal Conjuring
+
+This Charm allows you to cast [Conjure Animals](/Rules/Source/spells/conjure-animals-xphb.md). Once used three times, the Charm vanishes from you.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Charm of Darkvision
-> ![Charm of Darkvision](/Rules/Source/rewards/charm-of-darkvision-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-darkvision-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of Darkvision
+
+</div>
+
+
+
+# Charm of Darkvision
+
+This Charm allows you to cast [Darkvision](/Rules/Source/spells/darkvision-xphb.md). Once used three times, the Charm vanishes from you.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Charm of Feather Falling
-> ![Charm of Feather Falling](/Rules/Source/rewards/charm-of-feather-falling-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-feather-falling-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of Feather Falling
+
+</div>
+
+
+
+# Charm of Feather Falling
+
+This Charm grants you the benefits of a [Ring of Feather Falling](/Rules/Source/items/ring-of-feather-falling-xdmg.md). These benefits last for 10 days, after which the Charm vanishes from you.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Charm of Heroism
-> ![Charm of Heroism](/Rules/Source/rewards/charm-of-heroism-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-heroism-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of Heroism
+
+</div>
+
+
+
+# Charm of Heroism
+
+This Charm allows you to give yourself the benefit of a [Potion of Heroism](/Rules/Source/items/potion-of-heroism-xdmg.md) as a [Magic](/Rules/Source/actions.md#Magic) action. Once you do so, the Charm vanishes from you.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Charm of Restoration
-> ![Charm of Restoration](/Rules/Source/rewards/charm-of-restoration-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-restoration-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of Restoration
+
+</div>
+
+
+
+# Charm of Restoration
+
+This Charm has 3 charges. You can expend some of its charges to cast one of the following spells: [Greater Restoration](/Rules/Source/spells/greater-restoration-xphb.md) (2 charges) or [Lesser Restoration](/Rules/Source/spells/lesser-restoration-xphb.md) (1 charge). Once all its charges have been expended, the Charm vanishes from you.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Charm of the Slayer
-> ![Charm of the Slayer](/Rules/Source/rewards/charm-of-the-slayer-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-the-slayer-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of the Slayer
+
+</div>
+
+
+
+# Charm of the Slayer
+
+One weapon in your possession becomes a [Dragon Slayer](/Rules/Source/items/dragon-slayer-xdmg.md) or [Giant Slayer](/Rules/Source/items/giant-slayer-xdmg.md) (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 > [!embed-reward]- Charm of Vitality
-> ![Charm of Vitality](/Rules/Source/rewards/charm-of-vitality-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-vitality-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Charm of Vitality
+
+</div>
+
+
+
+# Charm of Vitality
+
+This Charm allows you to give yourself the benefit of a [Potion of Vitality](/Rules/Source/items/potion-of-vitality-xdmg.md) as a [Magic](/Rules/Source/actions.md#Magic) action. Once you do so, the Charm vanishes from you.
+
+*Source: Dungeon Master's Guide (2024) p. 99*
+
+</div></div>
+
 
 ## Traps
 
@@ -1469,38 +4230,326 @@ Use caution when introducing a trap to characters of a level lower than the trap
 
 Traps are presented in alphabetical order.
 
-- [[Rules/Source/traps-hazards/collapsing-roof-xdmg\|Collapsing Roof]]  
-- [[Rules/Source/traps-hazards/falling-net-xdmg\|Falling Net]]  
-- [[Rules/Source/traps-hazards/fire-casting-statue-xdmg\|Fire-Casting Statue]]  
-- [[Rules/Source/traps-hazards/hidden-pit-xdmg\|Hidden Pit]]  
-- [[Rules/Source/traps-hazards/poisoned-darts-xdmg\|Poisoned Darts]]  
-- [[Rules/Source/traps-hazards/poisoned-needle-xdmg\|Poisoned Needle]]  
-- [[Rules/Source/traps-hazards/rolling-stone-xdmg\|Rolling Stone]]  
-- [[Rules/Source/traps-hazards/spiked-pit-xdmg\|Spiked Pit]]  
+- [Collapsing Roof](/Rules/Source/traps-hazards/collapsing-roof-xdmg.md)  
+- [Falling Net](/Rules/Source/traps-hazards/falling-net-xdmg.md)  
+- [Fire-Casting Statue](/Rules/Source/traps-hazards/fire-casting-statue-xdmg.md)  
+- [Hidden Pit](/Rules/Source/traps-hazards/hidden-pit-xdmg.md)  
+- [Poisoned Darts](/Rules/Source/traps-hazards/poisoned-darts-xdmg.md)  
+- [Poisoned Needle](/Rules/Source/traps-hazards/poisoned-needle-xdmg.md)  
+- [Rolling Stone](/Rules/Source/traps-hazards/rolling-stone-xdmg.md)  
+- [Spiked Pit](/Rules/Source/traps-hazards/spiked-pit-xdmg.md)  
 
 > [!embed-trap]- Collapsing Roof
-> ![Collapsing Roof](/Rules/Source/traps-hazards/collapsing-roof-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Collapsing Roof
+
+</div>
+
+
+
+# Collapsing Roof
+*Generic Hazard*  
+
+This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
+
+The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (`2d10`) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into [Difficult Terrain](/Rules/Source/variant-rules/difficult-terrain-xphb.md).
+
+## Detect and Disarm
+
+As a [Search](/Rules/Source/actions.md#Search) action, a creature can examine the trapped area and make a DC 11 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting the trip wire and the unstable section of ceiling on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
+
+| Levels | Bludgeoning Damage | Save DC |
+|--------|--------------------|---------|
+| 5–10 | 22 (`4d10`) | 15 |
+| 11–16 | 55 (`10d10`) | 17 |
+| 17–20 | 99 (`18d10`) | 19 |
+
+*Source: Dungeon Master's Guide (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Falling Net
-> ![Falling Net](/Rules/Source/traps-hazards/falling-net-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Falling Net
+
+</div>
+
+
+
+# Falling Net
+*Generic Hazard*  
+
+A falling net trap uses a trip wire to release a weighted, 10-foot-square [Net](/Rules/Source/items/net-xphb.md) suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
+
+The first creature that crosses the trip wire causes the Net to fall on it. The target must succeed on a DC 10 Dexterity saving throw or have the [Restrained](/Rules/Source/conditions.md#Restrained) condition until it escapes. The target succeeds automatically if it's Huge or larger. A creature can take an action to make a DC 10 Strength ([Athletics](/Rules/Source/skills.md#Athletics)) check, freeing itself or another creature within its reach from the Net on a successful check.
+
+## Detect and Disarm
+
+As a [Search](/Rules/Source/actions.md#Search) action, a creature can examine the trapped area and make a DC 11 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting the trip wire and the suspended Net on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
+
+## Destroy the Net
+
+Reducing the Net to 0 Hit Points frees any creature trapped in it (see the "Player's Handbook" for the [Net's](/Rules/Source/items/net-xphb.md) statistics).
+
+## Set the Trap
+
+A creature that has [Thieves' Tools](/Rules/Source/items/thieves-tools-xphb.md) and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([Sleight of Hand](/Rules/Source/skills.md#Sleight%20of%20Hand)) check. Each attempt to set this trap takes 10 minutes.
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing the weight of the Net, which increases the save DC and the DC of the Strength ([Athletics](/Rules/Source/skills.md#Athletics)) check as follows: DC 12 at levels 5–10, DC 14 at levels 11–16, or DC 16 at levels 17–20.
+
+*Source: Dungeon Master's Guide (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Fire-Casting Statue
-> ![Fire-Casting Statue](/Rules/Source/traps-hazards/fire-casting-statue-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Fire-Casting Statue
+
+</div>
+
+
+
+# Fire-Casting Statue
+*Generic Hazard*  
+
+When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot [Cone](/Rules/Source/variant-rules/cone-area-of-effect-xphb.md) of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (`2d10`) Fire damage on a failed save or half as much damage on a successful one.
+
+## Detect and Disarm
+
+A [Detect Magic](/Rules/Source/spells/detect-magic-xphb.md) spell reveals an aura of Evocation magic around the statue. As a [Search](/Rules/Source/actions.md#Search) action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a [Study](/Rules/Source/actions.md#Study) action to examine it and make a DC 15 Intelligence ([Arcana](/Rules/Source/skills.md#Arcana)) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
+
+As a [Search](/Rules/Source/actions.md#Search) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting the pressure plate on a successful check. Wedging an [Iron Spike](/Rules/Source/items/iron-spikes-xphb.md) or similar object under the pressure plate prevents the trap from triggering.
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
+
+| Levels | Fire Damage | Area of Effect |
+|--------|-------------|----------------|
+| 5–10 | 22 (`4d10`) | 30-foot Cone |
+| 11–16 | 55 (`10d10`) | 60-foot Cone |
+| 17–20 | 99 (`18d10`) | 120-foot Cone |
+
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Hidden Pit
-> ![Hidden Pit](/Rules/Source/traps-hazards/hidden-pit-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Hidden Pit
+
+</div>
+
+
+
+# Hidden Pit
+*Generic Hazard*  
+
+This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
+
+A creature that falls into the pit takes 3 (`1d6`) Bludgeoning damage from the fall.
+
+## Detect and Disarm
+
+As a [Study](/Rules/Source/actions.md#Study) action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([Investigation](/Rules/Source/skills.md#Investigation)) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [Arcane Lock](/Rules/Source/spells/arcane-lock-xphb.md) or similar magic.
+
+## Escape
+
+A creature needs a Climb Speed, climbing gear, or magic such as [Spider Climb](/Rules/Source/spells/spider-climb-xphb.md) to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
+
+| Levels | Pit Depth | Bludgeoning Damage |
+|--------|-----------|--------------------|
+| 5–10 | 30 feet | 10 (`3d6`) |
+| 11–16 | 60 feet | 21 (`6d6`) |
+| 17–20 | 120 feet | 42 (`12d6`) |
+
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Poisoned Darts
-> ![Poisoned Darts](/Rules/Source/traps-hazards/poisoned-darts-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Poisoned Darts
+
+</div>
+
+
+
+# Poisoned Darts
+*Generic Hazard*  
+
+When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs, or skillfully hidden amid bas-reliefs, murals, or frescoes.
+
+Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by `1d3` darts, taking 3 (`1d6`) Poison damage per dart.
+
+## Detect and Disarm
+
+As a [Search](/Rules/Source/actions.md#Search) action, a creature can examine the walls and make a DC 15 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting the holes on a successful check. Plugging all the holes with wax, cloth, or detritus prevents the darts from firing.
+
+As a [Search](/Rules/Source/actions.md#Search) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting the pressure plate on a successful check. Wedging an [Iron Spike](/Rules/Source/items/iron-spikes-xphb.md) or a similar object under the pressure plate prevents the trap from triggering.
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing each dart's Poison damage as follows: 7 (`2d6`) at levels 5–10, 14 (`4d6`) at levels 11–16, or 24 (`7d6`) at levels 17–20.
+
+*Source: Dungeon Master's Guide (2024) p. 101. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Poisoned Needle
-> ![Poisoned Needle](/Rules/Source/traps-hazards/poisoned-needle-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Poisoned Needle
+
+</div>
+
+
+
+# Poisoned Needle
+*Generic Hazard*  
+
+A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (`1d10`) Poison damage and has the [Poisoned](/Rules/Source/conditions.md#Poisoned) condition for 1 hour. On a successful save, the creature takes half as much damage only.
+
+## Avoid
+
+The trap doesn't trigger if the lock is opened using a [Knock](/Rules/Source/spells/knock-xphb.md) spell or similar magic.
+
+## Detect and Disarm
+
+As a [Search](/Rules/Source/actions.md#Search) action, a creature can examine the trapped lock and make a DC 15 Wisdom ([Perception](/Rules/Source/skills.md#Perception)) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([Sleight of Hand](/Rules/Source/skills.md#Sleight%20of%20Hand)) check. On a failed check, the creature triggers the trap.
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
+
+| Levels | Poison Damage | Save DC |
+|--------|---------------|---------|
+| 5–10 | 11 (`2d10`) | 13 |
+| 11–16 | 22 (`4d10`) | 15 |
+| 17–20 | 55 (`10d10`) | 17 |
+
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Rolling Stone
-> ![Rolling Stone](/Rules/Source/traps-hazards/rolling-stone-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Rolling Stone
+
+</div>
+
+
+
+# Rolling Stone
+*Generic Hazard*  
+
+When a creature moves onto a hidden pressure plate, a 5-foot-radius orb of solid stone is released from a secret compartment and begins to roll. The stone and all creatures nearby roll Initiative; the stone gets a +8 bonus on its Initiative roll.
+
+On its turn, the stone moves 60 feet in one direction, changing course if redirected by an obstacle. The stone can move through creatures' spaces, and creatures can move through the stone's space, treating it as [Difficult Terrain](/Rules/Source/variant-rules/difficult-terrain-xphb.md). Whenever the stone enters a creature's space for the first time on a turn or a creature enters the stone's space while the stone is rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (`10d10`) Bludgeoning damage and have the [Prone](/Rules/Source/conditions.md#Prone) condition.
+
+The stone stops when it hits a wall or similar barrier. It can't go around corners, but creative dungeon builders incorporate curving turns into nearby passages that allow the stone to keep moving.
+
+## Detect and Disarm
+
+As a [Study](/Rules/Source/actions.md#Study) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Intelligence ([Investigation](/Rules/Source/skills.md#Investigation)) check, deducing the pressure plate's function on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
+
+## Destroy the Stone
+
+The stone is a Large object that has AC 17, HP 100, a [Damage Threshold](/Rules/Source/variant-rules/damage-threshold-xphb.md) of 10, and [Immunity](/Rules/Source/variant-rules/immunity-xphb.md) to Poison and Psychic damage.
+
+## Slow the Stone
+
+As an action, a creature can try to slow down the stone with a DC 20 Strength ([Athletics](/Rules/Source/skills.md#Athletics)) check. If the check is successful, the distance the stone moves on its turn is reduced by 15 feet. If that distance drops to 0, it stops moving and is no longer a threat.
+
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 > [!embed-trap]- Spiked Pit
-> ![Spiked Pit](/Rules/Source/traps-hazards/spiked-pit-xdmg.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Spiked Pit
+
+</div>
+
+
+
+# Spiked Pit
+*Generic Hazard*  
+
+A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
+
+A creature that falls into the pit lands at the bottom and takes 3 (`1d6`) Bludgeoning damage from the fall plus 9 (`2d8`) Piercing damage from the spikes.
+
+## Detect and Disarm
+
+As a [Study](/Rules/Source/actions.md#Study) action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([Investigation](/Rules/Source/skills.md#Investigation)) check, detecting the pit on a successful check. Once the hidden pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using an [Arcane Lock](/Rules/Source/spells/arcane-lock-xphb.md) spell or similar magic.
+
+## Escape
+
+A creature needs a Climb Speed, climbing gear, or magic such as a [Spider Climb](/Rules/Source/spells/spider-climb-xphb.md) spell to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
+
+## At Higher Levels
+
+You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
+
+| Levels | Pit Depth | Damage |
+|--------|-----------|--------|
+| 5–10 | 30 feet | 10 (`3d6`) Bludgeoning plus 13 (`3d8`) Piercing |
+| 11–16 | 60 feet | 21 (`6d6`) Bludgeoning plus 36 (`8d8`) Piercing |
+| 17–20 | 120 feet | 42 (`12d6`) Bludgeoning plus 57 (`13d8`) Piercing |
+
+*Source: Dungeon Master's Guide (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+</div></div>
+
 
 ### Building Your Own Traps
 
@@ -1508,4 +4557,28 @@ When designing your own traps, use the Building a Trap table to determine an app
 
 If the trap requires an attack roll or allows a saving throw, use the appropriate columns on the table to determine the attack bonus or an appropriate save DC.
 
-![Building Your Own Traps; Building a Trap](/Rules/Source/tables/building-your-own-traps-building-a-trap-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/building-your-own-traps-building-a-trap-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Building Your Own Traps; Building a Trap
+
+</div>
+
+
+
+# Building Your Own Traps; Building a Trap
+*Source: Dungeon Master's Guide (2024) p. 103* 
+
+**Building a Trap**
+
+|    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|
+| 1–4 | `+4` | 10–12 | 5 (`1d10`) | `+8` | 13–15 | 11 (`2d10`) |
+| 5–10 | `+4` | 12–14 | 11 (`2d10`) | `+8` | 15–17 | 22 (`4d10`) |
+| 11–16 | `+4` | 14–16 | 22 (`4d10`) | `+8` | 17–19 | 55 (`10d10`) |
+| 17–20 | `+4` | 16–18 | 55 (`10d10`) | `+8` | 19–21 | 99 (`18d10`) |
+^building-a-trap
+
+</div></div>

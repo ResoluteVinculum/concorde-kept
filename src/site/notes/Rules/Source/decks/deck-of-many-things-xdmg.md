@@ -3,7 +3,7 @@
 ---
 
 # Deck of Many Things
-*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as) and the Free Rules (2024)*  
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.
 
@@ -100,7 +100,7 @@ An NPC of the DM's choice becomes [[Rules/Source/variant-rules/hostile-attitude-
 
 ### Ruin
 ![/Rules/Source/decks/img/deck-of-many-things-16-ruin.webp\|card wmed](/img/user/Rules/Source/decks/img/deck-of-many-things-16-ruin.webp)
-All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. If you have a Bastion (see the "Dungeon Master's Guide"), it is destroyed by some calamity beyond your control. Any documentation that proves you should own something lost to this card also disappears.
+All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. If you have a Bastion (see the), it is destroyed by some calamity beyond your control. Any documentation that proves you should own something lost to this card also disappears.
 
 ### Sage
 ![/Rules/Source/decks/img/deck-of-many-things-07-sage.webp\|card wmed](/img/user/Rules/Source/decks/img/deck-of-many-things-07-sage.webp)

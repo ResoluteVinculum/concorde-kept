@@ -9,36 +9,36 @@ You can find all the tracking sheets found throughout the "Dungeon Master's Guid
 
 ## Game Expectations
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/240-13-001-game-expectations-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/240-13-001-game-expectations-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/240-13-001-game-expectations-sheet.webp)
 
 ## Travel Planner
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/241-13-002-travel-planner-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/241-13-002-travel-planner-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/241-13-002-travel-planner-sheet.webp)
 
 ## NPC Tracker
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/242-13-003-npc-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/242-13-003-npc-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/242-13-003-npc-tracker-sheet.webp)
 
 ## Settlement Tracker
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/243-13-004-settlement-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/243-13-004-settlement-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/243-13-004-settlement-tracker-sheet.webp)
 
 ## Campaign Journal
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/244-13-005-campaign-journal-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/244-13-005-campaign-journal-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/244-13-005-campaign-journal-sheet.webp)
 
 ## DM's Character Tracker
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/245-13-006-dms-character-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/245-13-006-dms-character-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/245-13-006-dms-character-tracker-sheet.webp)
 
 ## Campaign Conflicts
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/246-13-007-campaign-conflicts-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/246-13-007-campaign-conflicts-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/246-13-007-campaign-conflicts-sheet.webp)
 
 ## Magic Item Tracker
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/247-13-008-magic-item-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/247-13-008-magic-item-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/247-13-008-magic-item-tracker-sheet.webp)
 
 ## Bastion Tracker
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp)

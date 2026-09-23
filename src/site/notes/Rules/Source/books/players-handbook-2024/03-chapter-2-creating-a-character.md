@@ -5,7 +5,7 @@
 # Chapter 2: Creating a Character
 *Source: Player's Handbook (2024), p. 33* 
 
-![World-traveling explorers ...](/Rules/Source/books/players-handbook-2024/img/012-02-001-world-traveling-explorers.webp#center "World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure")
+![/Rules/Source/books/players-handbook-2024/img/012-02-001-world-traveling-explorers.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/012-02-001-world-traveling-explorers.webp)
 
 You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as Fighter or Wizard), a background (such as [[Rules/Source/backgrounds/sailor-xphb\|Sailor]] or [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]]), and a species (such as [[Rules/Source/races/human-xphb\|Human]] or [[Rules/Source/races/elf-xphb\|Elf]]). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
 
@@ -43,7 +43,40 @@ On the character sheet on the following pages, many spaces are labeled with a nu
 
 Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See chapter 3 for the classes' details.
 
-![Choose a Class; Class Overview](/Rules/Source/tables/choose-a-class-class-overview-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/choose-a-class-class-overview-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Choose a Class; Class Overview
+
+</div>
+
+
+
+# Choose a Class; Class Overview
+*Source: Player's Handbook (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Class Overview**
+
+| Class | Likes... | Primary Ability | Complexity |
+|-------|----------|-----------------|------------|
+| [[Rules/Source/classes/barbarian-xphb\|Barbarian]] | Battle | Strength | Average |
+| [[Rules/Source/classes/bard-xphb\|Bard]] | Performing | Charisma | High |
+| [[Rules/Source/classes/cleric-xphb\|Cleric]] | Gods | Wisdom | Average |
+| [[Rules/Source/classes/druid-xphb\|Druid]] | Nature | Wisdom | High |
+| [[Rules/Source/classes/fighter-xphb\|Fighter]] | Weapons | Strength or Dexterity | Low |
+| [[Rules/Source/classes/monk-xphb\|Monk]] | Unarmed combat | Dexterity and Wisdom | High |
+| [[Rules/Source/classes/paladin-xphb\|Paladin]] | Defense | Strength and Charisma | Average |
+| [[Rules/Source/classes/ranger-xphb\|Ranger]] | Survival | Dexterity and Wisdom | Average |
+| [[Rules/Source/classes/rogue-xphb\|Rogue]] | Stealth | Dexterity | Low |
+| [[Rules/Source/classes/sorcerer-xphb\|Sorcerer]] | Power | Charisma | High |
+| [[Rules/Source/classes/warlock-xphb\|Warlock]] | Occult lore | Charisma | High |
+| [[Rules/Source/classes/wizard-xphb\|Wizard]] | Spellbooks | Intelligence | Average |
+^class-overview
+
+</div></div>
+
 
 > [!note] A Balanced Party
 > 
@@ -88,7 +121,34 @@ Choose your character's background, and write it on your character sheet. You ca
 
 The background you choose influences step 3, when you determine your character's ability scores. If you're having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class's primary ability there.
 
-![Choose a Background; Ability Scores and Backgrounds](/Rules/Source/tables/choose-a-background-ability-scores-and-backgrounds-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/choose-a-background-ability-scores-and-backgrounds-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Choose a Background; Ability Scores and Backgrounds
+
+</div>
+
+
+
+# Choose a Background; Ability Scores and Backgrounds
+*Source: Player's Handbook (2024) p. 36. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Scores and Backgrounds**
+
+| Ability | Backgrounds |
+|---------|-------------|
+| Strength | [[Rules/Source/backgrounds/artisan-xphb\|Artisan]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/farmer-xphb\|Farmer]], [[Rules/Source/backgrounds/guard-xphb\|Guard]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Dexterity | [[Rules/Source/backgrounds/artisan-xphb\|Artisan]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/guide-xphb\|Guide]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/scribe-xphb\|Scribe]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], [[Rules/Source/backgrounds/wayfarer-xphb\|Wayfarer]] |
+| Constitution | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/farmer-xphb\|Farmer]], [[Rules/Source/backgrounds/guide-xphb\|Guide]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/merchant-xphb\|Merchant]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Intelligence | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/artisan-xphb\|Artisan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/guard-xphb\|Guard]], [[Rules/Source/backgrounds/merchant-xphb\|Merchant]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/scribe-xphb\|Scribe]] |
+| Wisdom | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/farmer-xphb\|Farmer]], [[Rules/Source/backgrounds/guard-xphb\|Guard]], [[Rules/Source/backgrounds/guide-xphb\|Guide]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/scribe-xphb\|Scribe]], [[Rules/Source/backgrounds/wayfarer-xphb\|Wayfarer]] |
+| Charisma | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/merchant-xphb\|Merchant]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/wayfarer-xphb\|Wayfarer]] |
+^ability-scores-and-backgrounds
+
+</div></div>
+
 
 ##### Record Your Feat
 
@@ -110,7 +170,7 @@ Your background and class both provide starting equipment. Any coins that you ga
 
 Record your chosen equipment on your character sheet. Equipment is described in chapter 6, but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
-![Consider how your choices ...](/Rules/Source/books/players-handbook-2024/img/013-02-002-character-choices.webp#center "Consider how your choices combine to set your character on the path to adventure")
+![/Rules/Source/books/players-handbook-2024/img/013-02-002-character-choices.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/013-02-002-character-choices.webp)
 
 #### Choose a Species
 
@@ -135,11 +195,72 @@ Your character knows at least three languages: Common plus two languages you rol
 
 The Standard Languages table lists languages that are widespread on D&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D&D and have since spread widely.
 
-![Choose Languages; Standard Languages](/Rules/Source/tables/choose-languages-standard-languages-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/choose-languages-standard-languages-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Choose Languages; Standard Languages
+
+</div>
+
+
+
+# Choose Languages; Standard Languages
+*Source: Player's Handbook (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Standard Languages**
+
+| dice: 1d12 | Language | Origin |
+|------------|----------|--------|
+| — | Common | Sigil |
+| 1 | Common Sign Language | Sigil |
+| 2 | Draconic | Dragons |
+| 3-4 | Dwarvish | Dwarves |
+| 5-6 | Elvish | Elves |
+| 7 | Giant | Giants |
+| 8 | Gnomish | Gnomes |
+| 9 | Goblin | Goblinoids |
+| 10-11 | Halfling | Halflings |
+| 12 | Orc | Orcs |
+^standard-languages
+
+</div></div>
+
 
 The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
 
-![Choose Languages; Rare Languages](/Rules/Source/tables/choose-languages-rare-languages-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/choose-languages-rare-languages-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Choose Languages; Rare Languages
+
+</div>
+
+
+
+# Choose Languages; Rare Languages
+*Source: Player's Handbook (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Rare Languages**
+
+| Language | Origin |
+|----------|--------|
+| Abyssal | Demons of the Abyss |
+| Celestial | Celestials |
+| Deep Speech | Aberrations |
+| Druidic | Druidic circles |
+| Infernal | Devils of the Nine Hells |
+| Primordial* | Elementals |
+| Sylvan | The Feywild |
+| Thieves' Cant | Various criminal guilds |
+| Undercommon | The Underdark |
+*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
+
+</div></div>
+
 
 ### Step 3: Determine Ability Scores
 
@@ -161,7 +282,36 @@ Roll four d6s and record the total of the highest three dice. Do this five more 
 
 You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Costs table. For example, a score of 14 costs 7 of your 27 points.
 
-![Ability Score Point Costs](/Rules/Source/tables/ability-score-point-costs-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ability-score-point-costs-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ability Score Point Costs
+
+</div>
+
+
+
+# Ability Score Point Costs
+*Source: Player's Handbook (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Score Point Costs**
+
+| Score | Cost |
+|-------|------|
+| 8 | 0 |
+| 9 | 1 |
+| 10 | 2 |
+| 11 | 3 |
+| 12 | 4 |
+| 13 | 5 |
+| 14 | 7 |
+| 15 | 9 |
+^ability-score-point-costs
+
+</div></div>
+
 
 #### Assign Ability Scores
 
@@ -169,7 +319,40 @@ Once you've generated six scores, assign them to Strength, Dexterity, Constituti
 
 If you're using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character's class. The table puts the highest scores in a class's main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
 
-![Assign Ability Scores; Standard Array by Class](/Rules/Source/tables/assign-ability-scores-standard-array-by-class-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/assign-ability-scores-standard-array-by-class-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Assign Ability Scores; Standard Array by Class
+
+</div>
+
+
+
+# Assign Ability Scores; Standard Array by Class
+*Source: Player's Handbook (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Standard Array by Class**
+
+| Class | Str. | Dex. | Con. | Int. | Wis. | Cha. |
+|-------|------|------|------|------|------|------|
+| [[Rules/Source/classes/barbarian-xphb\|Barbarian]] | 15 | 13 | 14 | 10 | 12 | 8 |
+| [[Rules/Source/classes/bard-xphb\|Bard]] | 8 | 14 | 12 | 13 | 10 | 15 |
+| [[Rules/Source/classes/cleric-xphb\|Cleric]] | 14 | 8 | 13 | 10 | 15 | 12 |
+| [[Rules/Source/classes/druid-xphb\|Druid]] | 8 | 12 | 14 | 13 | 15 | 10 |
+| [[Rules/Source/classes/fighter-xphb\|Fighter]] | 15 | 14 | 13 | 8 | 10 | 12 |
+| [[Rules/Source/classes/monk-xphb\|Monk]] | 12 | 15 | 13 | 10 | 14 | 8 |
+| [[Rules/Source/classes/paladin-xphb\|Paladin]] | 15 | 10 | 13 | 8 | 12 | 14 |
+| [[Rules/Source/classes/ranger-xphb\|Ranger]] | 12 | 15 | 13 | 8 | 14 | 10 |
+| [[Rules/Source/classes/rogue-xphb\|Rogue]] | 12 | 15 | 13 | 14 | 10 | 8 |
+| [[Rules/Source/classes/sorcerer-xphb\|Sorcerer]] | 10 | 13 | 14 | 8 | 12 | 15 |
+| [[Rules/Source/classes/warlock-xphb\|Warlock]] | 8 | 14 | 13 | 12 | 10 | 15 |
+| [[Rules/Source/classes/wizard-xphb\|Wizard]] | 8 | 12 | 13 | 15 | 14 | 10 |
+^standard-array-by-class
+
+</div></div>
+
 
 #### Adjust Ability Scores
 
@@ -191,7 +374,38 @@ Some players like to increase their class's primary ability, while others prefer
 
 Finally, determine your ability modifiers using the Ability Scores and Modifiers table. Write the modifier next to each of your scores.
 
-![Determine Ability Modifiers; Ability Scores and Modifiers](/Rules/Source/tables/determine-ability-modifiers-ability-scores-and-modifiers-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-ability-modifiers-ability-scores-and-modifiers-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Ability Modifiers; Ability Scores and Modifiers
+
+</div>
+
+
+
+# Determine Ability Modifiers; Ability Scores and Modifiers
+*Source: Player's Handbook (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Ability Scores and Modifiers**
+
+| Score | Modifier |
+|-------|----------|
+| 3 | −4 |
+| 4–5 | −3 |
+| 6–7 | −2 |
+| 8–9 | −1 |
+| 10–11 | +0 |
+| 12–13 | +1 |
+| 14–15 | +2 |
+| 16–17 | +3 |
+| 18–19 | +4 |
+| 20 | +5 |
+^ability-scores-and-modifiers
+
+</div></div>
+
 
 #### Describe Appearance and Personality
 
@@ -201,27 +415,177 @@ Note your character's appearance and personality on your character sheet.
 
 ![/Rules/Source/books/players-handbook-2024/img/014-02-003-strength-icon.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/014-02-003-strength-icon.webp)
 
-![Describe Appearance and Personality; Strength](/Rules/Source/tables/describe-appearance-and-personality-strength-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/describe-appearance-and-personality-strength-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Describe Appearance and Personality; Strength
+
+</div>
+
+
+
+# Describe Appearance and Personality; Strength
+*Source: Player's Handbook (2024) p. 38* 
+
+**Strength**
+
+| dice: 1d4 | High Strength | Low Strength |
+|-----------|---------------|--------------|
+| 1 | Muscular | Weak |
+| 2 | Sinewy | Slight |
+| 3 | Protective | Self-conscious |
+| 4 | Direct | Indirect |
+^strength
+
+</div></div>
+
 
 ![/Rules/Source/books/players-handbook-2024/img/015-02-004-dexterity-icon.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/015-02-004-dexterity-icon.webp)
 
-![Describe Appearance and Personality; Dexterity](/Rules/Source/tables/describe-appearance-and-personality-dexterity-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/describe-appearance-and-personality-dexterity-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Describe Appearance and Personality; Dexterity
+
+</div>
+
+
+
+# Describe Appearance and Personality; Dexterity
+*Source: Player's Handbook (2024) p. 38* 
+
+**Dexterity**
+
+| dice: 1d4 | High Dexterity | Low Dexterity |
+|-----------|----------------|---------------|
+| 1 | Lithe | Jittery |
+| 2 | Dynamic | Clumsy |
+| 3 | Fidgety | Hesitant |
+| 4 | Poised | Unsteady |
+^dexterity
+
+</div></div>
+
 
 ![/Rules/Source/books/players-handbook-2024/img/016-02-005-constitution-icon.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/016-02-005-constitution-icon.webp)
 
-![Describe Appearance and Personality; Constitution](/Rules/Source/tables/describe-appearance-and-personality-constitution-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/describe-appearance-and-personality-constitution-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Describe Appearance and Personality; Constitution
+
+</div>
+
+
+
+# Describe Appearance and Personality; Constitution
+*Source: Player's Handbook (2024) p. 38* 
+
+**Constitution**
+
+| dice: 1d4 | High Constitution | Low Constitution |
+|-----------|-------------------|------------------|
+| 1 | Energetic | Frail |
+| 2 | Hale | Squeamish |
+| 3 | Hearty | Lethargic |
+| 4 | Stable | Fragile |
+^constitution
+
+</div></div>
+
 
 ![/Rules/Source/books/players-handbook-2024/img/017-02-006-intelligence-icon.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/017-02-006-intelligence-icon.webp)
 
-![Describe Appearance and Personality; Intelligence](/Rules/Source/tables/describe-appearance-and-personality-intelligence-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/describe-appearance-and-personality-intelligence-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Describe Appearance and Personality; Intelligence
+
+</div>
+
+
+
+# Describe Appearance and Personality; Intelligence
+*Source: Player's Handbook (2024) p. 38* 
+
+**Intelligence**
+
+| dice: 1d4 | High Intelligence | Low Intelligence |
+|-----------|-------------------|------------------|
+| 1 | Decisive | Artless |
+| 2 | Logical | Illogical |
+| 3 | Informative | Uninformed |
+| 4 | Curious | Frivolous |
+^intelligence
+
+</div></div>
+
 
 ![/Rules/Source/books/players-handbook-2024/img/018-02-007-wisdom-icon.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/018-02-007-wisdom-icon.webp)
 
-![Describe Appearance and Personality; Wisdom](/Rules/Source/tables/describe-appearance-and-personality-wisdom-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/describe-appearance-and-personality-wisdom-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Describe Appearance and Personality; Wisdom
+
+</div>
+
+
+
+# Describe Appearance and Personality; Wisdom
+*Source: Player's Handbook (2024) p. 38* 
+
+**Wisdom**
+
+| dice: 1d4 | High Wisdom | Low Wisdom |
+|-----------|-------------|------------|
+| 1 | Serene | Rash |
+| 2 | Considerate | Distracted |
+| 3 | Attentive | Oblivious |
+| 4 | Wary | Naive |
+^wisdom
+
+</div></div>
+
 
 ![/Rules/Source/books/players-handbook-2024/img/019-02-008-charisma-icon.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/019-02-008-charisma-icon.webp)
 
-![Describe Appearance and Personality; Charisma](/Rules/Source/tables/describe-appearance-and-personality-charisma-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/describe-appearance-and-personality-charisma-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Describe Appearance and Personality; Charisma
+
+</div>
+
+
+
+# Describe Appearance and Personality; Charisma
+*Source: Player's Handbook (2024) p. 38* 
+
+**Charisma**
+
+| dice: 1d4 | High Charisma | Low Charisma |
+|-----------|---------------|--------------|
+| 1 | Charming | Pedantic |
+| 2 | Commanding | Humorless |
+| 3 | Hilarious | Reserved |
+| 4 | Inspiring | Tactless |
+^charisma
+
+</div></div>
+
 
 ### Step 4: Choose an Alignment
 
@@ -235,7 +599,7 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-![Alignments might be visual...](/Rules/Source/books/players-handbook-2024/img/020-02-009-alignments.webp#center "Alignments might be visualized as a grid like this—along with creatures that embody those alignments")
+![/Rules/Source/books/players-handbook-2024/img/020-02-009-alignments.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/020-02-009-alignments.webp)
 
 ##### Lawful Good (LG)
 
@@ -283,7 +647,48 @@ Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or b
 
 Alignment can shape a character's personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character's personality.
 
-![Alignment and Personality; Personality Traits by Alignment](/Rules/Source/tables/alignment-and-personality-personality-traits-by-alignment-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/alignment-and-personality-personality-traits-by-alignment-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Alignment and Personality; Personality Traits by Alignment
+
+</div>
+
+
+
+# Alignment and Personality; Personality Traits by Alignment
+*Source: Player's Handbook (2024) p. 40* 
+
+**Personality Traits by Alignment**
+
+| Alignment | dice: 1d4 | Associated Trait |
+|-----------|-----------|------------------|
+| Chaotic | 1 | Boastful |
+|  | 2 | Impulsive |
+|  | 3 | Rebellious |
+|  | 4 | Self-absorbed |
+| Good | 1 | Compassionate |
+|  | 2 | Helpful |
+|  | 3 | Honest |
+|  | 4 | Kind |
+| Evil | 1 | Dishonest |
+|  | 2 | Vengeful |
+|  | 3 | Cruel |
+|  | 4 | Greedy |
+| Lawful | 1 | Cooperative |
+|  | 2 | Loyal |
+|  | 3 | Judgmental |
+|  | 4 | Methodical |
+| Neutral | 1 | Selfish |
+|  | 2 | Disinterested |
+|  | 3 | Laconic |
+|  | 4 | Pragmatic |
+^personality-traits-by-alignment
+
+</div></div>
+
 
 ### Step 5: Fill In Details
 
@@ -319,7 +724,32 @@ Include all modifiers that apply to your Wisdom ([[Rules/Source/skills#Perceptio
 
 Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
 
-![Level 1 Hit Points by Class](/Rules/Source/tables/level-1-hit-points-by-class-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/level-1-hit-points-by-class-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Level 1 Hit Points by Class
+
+</div>
+
+
+
+# Level 1 Hit Points by Class
+*Source: Player's Handbook (2024) p. 40. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Level 1 Hit Points by Class**
+
+| Class | Hit Point Maximum |
+|-------|-------------------|
+| [[Rules/Source/classes/barbarian-xphb\|Barbarian]] | 12 + Con. modifier |
+| [[Rules/Source/classes/fighter-xphb\|Fighter]], [[Rules/Source/classes/paladin-xphb\|Paladin]], or [[Rules/Source/classes/ranger-xphb\|Ranger]] | 10 + Con. modifier |
+| [[Rules/Source/classes/bard-xphb\|Bard]], [[Rules/Source/classes/cleric-xphb\|Cleric]], [[Rules/Source/classes/druid-xphb\|Druid]], [[Rules/Source/classes/monk-xphb\|Monk]], [[Rules/Source/classes/rogue-xphb\|Rogue]], or [[Rules/Source/classes/warlock-xphb\|Warlock]] | 8 + Con. modifier |
+| [[Rules/Source/classes/sorcerer-xphb\|Sorcerer]] or [[Rules/Source/classes/wizard-xphb\|Wizard]] | 6 + Con. modifier |
+^level-1-hit-points-by-class
+
+</div></div>
+
 
 The character sheet includes room to note your current Hit Points when you take damage, as well as any [[Rules/Source/variant-rules/temporary-hit-points-xphb\|Temporary Hit Points]] you might gain. There's also space to track [[Rules/Source/variant-rules/death-saving-throw-xphb\|Death Saving Throws]].
 
@@ -374,13 +804,54 @@ As you finish creating your character, consider whether you'd like to make up an
 
 ## Level Advancement
 
-![Adventuring equipment impr...](/Rules/Source/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp#center "Adventuring equipment improves as a character progresses through the tiers of play")
+![/Rules/Source/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp)
 
 While going on adventures, your character gains experience, represented by [[Rules/Source/variant-rules/experience-points-xphb\|Experience Points]] (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
 The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
 
-![Level Advancement; Character Advancement](/Rules/Source/tables/level-advancement-character-advancement-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/level-advancement-character-advancement-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Level Advancement; Character Advancement
+
+</div>
+
+
+
+# Level Advancement; Character Advancement
+*Source: Player's Handbook (2024) p. 41. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Character Advancement**
+
+| Level | Experience Points | Proficiency Bonus |
+|-------|-------------------|-------------------|
+| 1 | 0 | +2 |
+| 2 | 300 | +2 |
+| 3 | 900 | +2 |
+| 4 | 2,700 | +2 |
+| 5 | 6,500 | +3 |
+| 6 | 14,000 | +3 |
+| 7 | 23,000 | +3 |
+| 8 | 34,000 | +3 |
+| 9 | 48,000 | +4 |
+| 10 | 64,000 | +4 |
+| 11 | 85,000 | +4 |
+| 12 | 100,000 | +4 |
+| 13 | 120,000 | +5 |
+| 14 | 140,000 | +5 |
+| 15 | 165,000 | +5 |
+| 16 | 195,000 | +5 |
+| 17 | 225,000 | +6 |
+| 18 | 265,000 | +6 |
+| 19 | 305,000 | +6 |
+| 20 | 355,000 | +6 |
+^character-advancement
+
+</div></div>
+
 
 ### Gaining a Level
 
@@ -389,7 +860,32 @@ When you gain a level, follow these steps:
 - **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the "Multiclassing" section later in this chapter.  
 - **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.  
 
-    ![Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class](/Rules/Source/tables/adjust-hit-points-and-hit-point-dice-fixed-hit-points-by-class-xphb.md)  
+    
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/adjust-hit-points-and-hit-point-dice-fixed-hit-points-by-class-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class
+
+</div>
+
+
+
+# Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class
+*Source: Player's Handbook (2024) p. 42. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Fixed Hit Points by Class**
+
+| Class | Hit Points per Level |
+|-------|----------------------|
+| [[Rules/Source/classes/barbarian-xphb\|Barbarian]] | 7 + Con. modifier |
+| [[Rules/Source/classes/fighter-xphb\|Fighter]], [[Rules/Source/classes/paladin-xphb\|Paladin]], or [[Rules/Source/classes/ranger-xphb\|Ranger]] | 6 + Con. modifier |
+| [[Rules/Source/classes/bard-xphb\|Bard]], [[Rules/Source/classes/cleric-xphb\|Cleric]], [[Rules/Source/classes/druid-xphb\|Druid]], [[Rules/Source/classes/monk-xphb\|Monk]], [[Rules/Source/classes/rogue-xphb\|Rogue]], or [[Rules/Source/classes/warlock-xphb\|Warlock]] | 5 + Con. modifier |
+| [[Rules/Source/classes/sorcerer-xphb\|Sorcerer]] or [[Rules/Source/classes/wizard-xphb\|Wizard]] | 4 + Con. modifier |
+^fixed-hit-points-by-class
+
+</div></div>
+  
 - **Record New Class Features.** Look at your class features table in chapter 3 and note the features you gain at your new level in that class. Make any choices offered by a new feature.  
 - **Adjust Proficiency Bonus.** A character's Proficiency Bonus increases at certain levels, as shown in the "Character Advancement table" and your class features table in chapter 3. When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.  
 - **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character's Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.  
@@ -434,7 +930,32 @@ The DM decides whether your character starts with more than the standard equipme
 
 Also, check with your DM about what equipment is available for you to buy with your starting money. For example, the firearms described in chapter 6 are too expensive for level 1 characters, but they might be available for purchase if your DM allows them.
 
-![Starting Equipment at Higher Levels](/Rules/Source/tables/starting-equipment-at-higher-levels-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/starting-equipment-at-higher-levels-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Starting Equipment at Higher Levels
+
+</div>
+
+
+
+# Starting Equipment at Higher Levels
+*Source: Player's Handbook (2024) p. 43. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Starting Equipment at Higher Levels**
+
+| Starting Level | Equipment and Money | Magic Items |
+|----------------|---------------------|-------------|
+| 2–4 | Normal starting equipment | 1 Common |
+| 5–10 | 500 GP plus `1d10 × 25` GP plus normal starting equipment | 1 Common, 1 Uncommon |
+| 11–16 | 5,000 gp plus `1d10 × 250` GP plus normal starting equipment | 2 Common, 3 Uncommon, 1 Rare |
+| 17–20 | 20,000 GP plus `1d10 × 250` GP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
+^starting-equipment-at-higher-levels
+
+</div></div>
+
 
 ## Multiclassing
 
@@ -482,7 +1003,48 @@ Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra 
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
 
-![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](/Rules/Source/tables/spellcasting-multiclass-spellcaster-spell-slots-per-spell-level-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/spellcasting-multiclass-spellcaster-spell-slots-per-spell-level-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
+
+</div>
+
+
+
+# Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
+*Source: Player's Handbook (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Multiclass Spellcaster: Spell Slots per Spell Level**
+
+| Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|-------|---|---|---|---|---|---|---|---|---|
+| 1 | 2 | — | — | — | — | — | — | — | — |
+| 2 | 3 | — | — | — | — | — | — | — | — |
+| 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+^multiclass-spellcaster-spell-slots-per-spell-level
+
+</div></div>
+
 
 ##### Spells Prepared
 
@@ -512,7 +1074,7 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 
 If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-![A character with Paladin a...](/Rules/Source/books/players-handbook-2024/img/022-02-011-paladin-warlock-multiclass.webp#center "A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron")
+![/Rules/Source/books/players-handbook-2024/img/022-02-011-paladin-warlock-multiclass.webp\|center wmed](/img/user/Rules/Source/books/players-handbook-2024/img/022-02-011-paladin-warlock-multiclass.webp)
 
 ## Trinkets
 

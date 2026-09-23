@@ -223,7 +223,48 @@ The process for building fights that feature only one legendary monster is simpl
 
 For a more perilous battle, match up the characters with a legendary creature whose challenge rating is 1 or 2 higher than optimal. For an easy fight, use a legendary creature whose challenge rating is 3 or more lower than the challenge rating for an optimal encounter.
 
-![Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating](/Rules/Source/tables/determine-numbers-and-challenge-ratings-solo-monster-challenge-rating-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-numbers-and-challenge-ratings-solo-monster-challenge-rating-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
+
+</div>
+
+
+
+# Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
+*Source: Xanathar's Guide to Everything p. 88* 
+
+**Solo Monster Challenge Rating**
+
+| Character Level | Party of 6 Characters | Party of 5 Characters | Party of 4 Characters |
+|-----------------|-----------------------|-----------------------|-----------------------|
+| 1st | 2 | 2 | 1 |
+| 2nd | 4 | 3 | 2 |
+| 3rd | 5 | 4 | 3 |
+| 4th | 6 | 5 | 4 |
+| 5th | 9 | 8 | 7 |
+| 6th | 10 | 9 | 8 |
+| 7th | 11 | 10 | 9 |
+| 8th | 12 | 11 | 10 |
+| 9th | 13 | 12 | 11 |
+| 10th | 14 | 13 | 12 |
+| 11th | 15 | 14 | 13 |
+| 12th | 17 | 16 | 15 |
+| 13th | 18 | 17 | 16 |
+| 14th | 19 | 18 | 17 |
+| 15th | 20 | 19 | 18 |
+| 16th | 21 | 20 | 19 |
+| 17th | 22 | 21 | 20 |
+| 18th | 22 | 21 | 20 |
+| 19th | 23 | 22 | 21 |
+| 20th | 24 | 23 | 22 |
+^solo-monster-challenge-rating
+
+</div></div>
+
 
 If your encounter features multiple monsters, balancing it takes a little more work. Refer to the Multiple Monsters tables, which are broken up by level ranges, providing information for how to balance encounters for characters of 1st-5th level, 6th-10th level, 11th-15th level, and 16th-20th level.
 
@@ -231,21 +272,125 @@ First, you need to note the challenge rating for each creature the party will fa
 
 For example, reading the row for 1st-level characters from the 1st-5th Level table, we see that one 1st-level character is the equivalent of two CR 1/8 monsters or one CR 1/4 monster. The ratio reverses for higher challenge ratings, where a single monster is more powerful than a single 1st-level character. One CR 1/2 creature is equivalent to three 1st-level characters, while one CR 1 opponent is equivalent to five.
 
-![Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level](/Rules/Source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-1st-5th-level-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-1st-5th-level-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level
+
+</div>
+
+
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 1st-5th Level
+*Source: Xanathar's Guide to Everything p. 88* 
+
+**Multiple Monsters: 1st-5th Level**
+
+| Character Level | CR 1/8 | CR 1/4 | CR 1/2 | CR 1 | CR 2 | CR 3 | CR 4 | CR 5 | CR 6 |
+|-----------------|--------|--------|--------|------|------|------|------|------|------|
+| 1st | 1/2 | 1/1 | 3/1 | 5/1 | — | — | — | — | — |
+| 2nd | 1/3 | 1/2 | 1/1 | 3/1 | 6/1 | — | — | — | — |
+| 3rd | 1/5 | 1/2 | 1/1 | 2/1 | 4/1 | 6/1 | — | — | — |
+| 4th | 1/8 | 1/4 | 1/2 | 1/1 | 2/1 | 4/1 | 6/1 | — | — |
+| 5th | 1/12 | 1/8 | 1/4 | 1/2 | 1/1 | 2/1 | 3/1 | 5/1 | 6/1 |
+^multiple-monsters-1st-5th-level
+
+</div></div>
+
 
 Let's say you have a party of four 3rd-level characters. Using the table, you can see that one CR 2 foe is a good match for the entire party, but that the characters will likely have a hard time handling a CR 3 creature.
 
 Using the same guidelines, you can mix and match challenge ratings to put together a group of creatures to oppose four 3rd-level characters. For example, you could select one CR 1 creature. That's worth two 3rd-level characters, leaving you with two characters' worth of monsters to allocate. You could then add two CR 1/4 monsters to account for one other character and one CR 1/2 monster to account for the final character. In total, your encounter has one CR 1, one CR 1/2, and two CR 1/4 creatures.
 
-![Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level](/Rules/Source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-6th-10th-level-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-6th-10th-level-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level
+
+</div>
+
+
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 6th-10th Level
+*Source: Xanathar's Guide to Everything p. 88* 
+
+**Multiple Monsters: 6th-10th Level**
+
+| Character Level | CR 1/8 | CR 1/4 | CR 1/2 | CR 1 | CR 2 | CR 3 | CR 4 | CR 5 | CR 6 | CR 7 | CR 8 | CR 9 | CR 10 |
+|-----------------|--------|--------|--------|------|------|------|------|------|------|------|------|------|-------|
+| 6th | 1/12 | 1/9 | 1/5 | 1/2 | 1/1 | 2/1 | 2/1 | 4/1 | 5/1 | 6/1 | — | — | — |
+| 7th | 1/12 | 1/12 | 1/6 | 1/3 | 1/1 | 1/1 | 2/1 | 3/1 | 4/1 | 5/1 | — | — | — |
+| 8th | 1/12 | 1/12 | 1/7 | 1/4 | 1/2 | 1/1 | 2/1 | 3/1 | 3/1 | 4/1 | 6/1 | — | — |
+| 9th | 1/12 | 1/12 | 1/8 | 1/4 | 1/2 | 1/1 | 1/1 | 2/1 | 3/1 | 4/1 | 5/1 | 6/1 | — |
+| 10th | 1/12 | 1/12 | 1/10 | 1/5 | 1/2 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 4/1 | 5/1 | 6/1 |
+^multiple-monsters-6th-10th-level
+
+</div></div>
+
 
 For groups in which the characters are of different levels, you have two options. You can group all characters of the same level together, match them with monsters, and then combine all the creatures into one encounter. Alternatively, you can determine the group's average level and treat each character as being of that level for the purpose of selecting appropriate monsters.
 
-![Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level](/Rules/Source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-11th-15th-level-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-11th-15th-level-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level
+
+</div>
+
+
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level
+*Source: Xanathar's Guide to Everything p. 88* 
+
+**Multiple Monsters: 11th-15th Level**
+
+| Character Level | CR 1 | CR 2 | CR 3 | CR 4 | CR 5 | CR 6 | CR 7 | CR 8 | CR 9 | CR 10 | CR 11 | CR 12 | CR 13 | CR 14 | CR 15 |
+|-----------------|------|------|------|------|------|------|------|------|------|-------|-------|-------|-------|-------|-------|
+| 11th | 1/6 | 1/3 | 1/2 | 1/1 | 2/1 | 2/1 | 2/1 | 3/1 | 4/1 | 5/1 | 6/1 | — | — | — | — |
+| 12th | 1/8 | 1/3 | 1/2 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 5/1 | 6/1 | — | — | — |
+| 13th | 1/9 | 1/4 | 1/2 | 1/2 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 5/1 | 6/1 | — | — |
+| 14th | 1/10 | 1/4 | 1/3 | 1/2 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 4/1 | 5/1 | 6/1 | — |
+| 15th | 1/12 | 1/5 | 1/3 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 5/1 | 5/1 | 6/1 |
+^multiple-monsters-11th-15th-level
+
+</div></div>
+
 
 The above guidelines are designed to create a fight that will challenge a party while still being winnable. If you want to create an easier encounter that will challenge characters but not threaten to defeat them, you can treat the party as if it were roughly one-third smaller than it is. For example, to make an easy encounter for a party of five characters, put them up against monsters that would be a tough fight for three characters. Likewise, you can treat the party as up to half again larger to build a battle that is potentially deadly, though still not likely to be an automatic defeat. A party of four characters facing an encounter designed for six characters would fall into this category.
 
-![Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level](/Rules/Source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-16th-20th-level-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-numbers-and-challenge-ratings-multiple-monsters-16th-20th-level-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
+
+</div>
+
+
+
+# Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
+*Source: Xanathar's Guide to Everything p. 88* 
+
+**Multiple Monsters: 16th-20th Level**
+
+| Character Level | CR 2 | CR 3 | CR 4 | CR 5 | CR 6 | CR 7 | CR 8 | CR 9 | CR 10 | CR 11 | CR 12 | CR 13 | CR 14 | CR 15 | CR 16 | CR 17 | CR 18 | CR 19 | CR 20 |
+|-----------------|------|------|------|------|------|------|------|------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 16th | 1/5 | 1/3 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 2/1 | 3/1 | 4/1 | 4/1 | 5/1 | 5/1 | 6/1 | — | — | — | — |
+| 17th | 1/7 | 1/4 | 1/3 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 4/1 | 5/1 | 6/1 | — | — | — |
+| 18th | 1/7 | 1/5 | 1/3 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 4/1 | 5/1 | 6/1 | 6/1 | — | — |
+| 19th | 1/8 | 1/5 | 1/3 | 1/2 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 4/1 | 5/1 | 6/1 | 6/1 | — |
+| 20th | 1/9 | 1/6 | 1/4 | 1/2 | 1/2 | 1/1 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 4/1 | 5/1 | 5/1 | 6/1 |
+^multiple-monsters-16th-20th-level
+
+</div></div>
+
 
 #### Weak Monsters and High-Level Characters
 
@@ -275,13 +420,69 @@ If you already have ideas for how to flesh out your encounter in these ways, go 
 
 To address the question of a monster's personality, you can use the tables in chapter 4 of the Dungeon Master's Guide, use the Monster Personality table below, or simply jot down a few notes based on a creature's Monster Manual description. During the battle, you can use these ideas to inform how you portray the monsters and their actions. To keep things simple, you can assign the same personality traits to an entire group of monsters. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-![Monster Personality](/Rules/Source/tables/monster-personality-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monster-personality-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monster Personality
+
+</div>
+
+
+
+# Monster Personality
+*Source: Xanathar's Guide to Everything p. 91* 
+
+**Monster Personality**
+
+| dice: d8 | Personality |
+|----------|-------------|
+| 1 | Cowardly; looking to surrender |
+| 2 | Greedy; wants treasure |
+| 3 | Braggart; makes a show of bravery but runs from danger |
+| 4 | Fanatic; ready to die fighting |
+| 5 | Rabble; poorly trained and easily rattled |
+| 6 | Brave; stands its ground |
+| 7 | Joker; taunts its enemies |
+| 8 | Bully; refuses to believe it can lose |
+^monster-personality
+
+</div></div>
+
 
 #### Monster Relationships
 
 Do rivalries, hatreds, or attachments exist among the monsters in an encounter? If so, you can use such relationships to inform the monsters' behavior during combat. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might decide to flee if its spouse is killed, or a mistreated toady might be eager to surrender and betray its master in return for its life.
 
-![Monster Relationships](/Rules/Source/tables/monster-relationships-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monster-relationships-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monster Relationships
+
+</div>
+
+
+
+# Monster Relationships
+*Source: Xanathar's Guide to Everything p. 91* 
+
+**Monster Relationships**
+
+| dice: d6 | Relationship |
+|----------|--------------|
+| 1 | Has a rival; wants one random ally to suffer |
+| 2 | Is abused by others; hangs back, betrays at first opportunity |
+| 3 | Is worshiped; allies will die for it |
+| 4 | Is outcast by group; its allies ignore it |
+| 5 | Is outcast by choice; cares only for itself |
+| 6 | Is seen as a bully; its allies want to see it defeated |
+^monster-relationships
+
+</div></div>
+
 
 #### Terrain and Traps
 
@@ -301,7 +502,48 @@ The guidelines above assume that you are concerned about balance in your combat 
 
 This table gives you a way to match a character of a certain level with a number of monsters. The table lists the challenge ratings to use for including one, two, and four monsters per character for each level. For instance, looking at the 3rd-level entry on the table, you can see that a CR 1/2 monster is equivalent to one 3rd-level character, as are two CR 1/4 monsters and four CR 1/8 ones.
 
-![Quick Matchups](/Rules/Source/tables/quick-matchups-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/quick-matchups-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Quick Matchups
+
+</div>
+
+
+
+# Quick Matchups
+*Source: Xanathar's Guide to Everything p. 91* 
+
+**Quick Matchups**
+
+| Character Level | 1 Monster | 2 Monsters | 4 Monsters |
+|-----------------|-----------|------------|------------|
+| 1st | 1/4 | 1/8 | — |
+| 2nd | 1/2 | 1/4 | — |
+| 3rd | 1/2 | 1/4 | 1/8 |
+| 4th | 1 | 1/2 | 1/4 |
+| 5th | 2 | 1 | 1/2 |
+| 6th | 2 | 1 | 1/2 |
+| 7th | 3 | 1 | 1/2 |
+| 8th | 3 | 2 | 1 |
+| 9th | 4 | 2 | 1 |
+| 10th | 4 | 2 | 1 |
+| 11th | 4 | 3 | 2 |
+| 12th | 5 | 3 | 2 |
+| 13th | 6 | 4 | 2 |
+| 14th | 6 | 4 | 2 |
+| 15th | 7 | 4 | 3 |
+| 16th | 7 | 4 | 3 |
+| 17th | 8 | 5 | 3 |
+| 18th | 8 | 5 | 3 |
+| 19th | 9 | 6 | 4 |
+| 20th | 10 | 6 | 4 |
+^quick-matchups
+
+</div></div>
+
 
 ## Random Encounters: A World of Possibilities
 
@@ -406,31 +648,202 @@ The following simple traps can be used to populate your adventures or as models 
 > And you get hurt! That's the best part.
 
 > [!embed-trap]- Bear Trap
-> ![Bear Trap](/Rules/Source/traps-hazards/bear-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Bear Trap
+
+</div>
+
+
+
+# Bear Trap
+*Generic Hazard*  
+
+A bear trap resembles a set of iron jaws that springs shut when stepped on, clamping down on a creature's leg. The trap is spiked in the ground, leaving the victim immobilized.
+
+*Source: Xanathar's Guide to Everything p. 113*
+
+</div></div>
+
 
 > [!embed-trap]- Crossbow Trap
-> ![Crossbow Trap](/Rules/Source/traps-hazards/crossbow-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crossbow Trap
+
+</div>
+
+
+
+# Crossbow Trap
+*Generic Hazard*  
+
+The crossbow trap is a favorite of kobolds and other creatures that rely on traps to defend their lairs. It consists of a trip wire strung across a hallway and connected to a pair of hidden heavy crossbows. The crossbows are aimed to fire down the hallway at anyone who disturbs the trip wire.
+
+*Source: Xanathar's Guide to Everything p. 113*
+
+</div></div>
+
 
 > [!embed-trap]- Falling Portcullis
-> ![Falling Portcullis](/Rules/Source/traps-hazards/falling-portcullis-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Falling Portcullis
+
+</div>
+
+
+
+# Falling Portcullis
+*Generic Hazard*  
+
+Some folk who build dungeons, such as mad wizards in search of new victims, have no intention of allowing their visitors to make an easy escape. A falling portcullis trap can be especially devious if it causes a portcullis to drop some distance away from the pressure plate that activates the trap. Although the trap is deep in the dungeon, the portcullis closes off the dungeon entrance, which is hundreds of feet away, meaning that adventurers don't know they are trapped until they decide to head for the exit.
+
+*Source: Xanathar's Guide to Everything p. 113*
+
+</div></div>
+
 
 > [!embed-trap]- Fiery Blast Trap
-> ![Fiery Blast Trap](/Rules/Source/traps-hazards/fiery-blast-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Fiery Blast Trap
+
+</div>
+
+
+
+# Fiery Blast Trap
+*Generic Hazard*  
+
+Anyone who steps on the mosaic causes fire to erupt from it. Those who openly wear holy symbols of Pyremius don't trigger this trap.
+
+*Source: Xanathar's Guide to Everything p. 113*
+
+</div></div>
+
 
 > [!embed-trap]- Net Trap
-> ![Net Trap](/Rules/Source/traps-hazards/net-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Net Trap
+
+</div>
+
+
+
+# Net Trap
+*Generic Hazard*  
+
+Goblins, with their propensity to enslave their enemies, prefer traps that leave intruders intact so the victims can be put to work in the mines or elsewhere.
+
+*Source: Xanathar's Guide to Everything p. 113*
+
+</div></div>
+
 
 > [!embed-trap]- Pit Trap
-> ![Pit Trap](/Rules/Source/traps-hazards/pit-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Pit Trap
+
+</div>
+
+
+
+# Pit Trap
+*Generic Hazard*  
+
+The simplest of pit traps consists of a 10-foot-deep hole in the floor, concealed by tattered canvas that's covered with leaves and dirt to look like solid ground. This type of trap is useful for blocking off the entrance to a monster lair, and usually has narrow ledges along its sides to allow for movement around it.
+
+*Source: Xanathar's Guide to Everything p. 114*
+
+</div></div>
+
 
 > [!embed-trap]- Poison Needle Trap
-> ![Poison Needle Trap](/Rules/Source/traps-hazards/poison-needle-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Poison Needle Trap
+
+</div>
+
+
+
+# Poison Needle Trap
+*Generic Hazard*  
+
+A tiny, poisoned needle hidden in a lock is a good way to discourage thieves from plundering a hoard. Such a trap is usually put in a chest or in the door to a treasure chamber.
+
+*Source: Xanathar's Guide to Everything p. 114*
+
+</div></div>
+
 
 > [!embed-trap]- Scything Blade Trap
-> ![Scything Blade Trap](/Rules/Source/traps-hazards/scything-blade-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Scything Blade Trap
+
+</div>
+
+
+
+# Scything Blade Trap
+*Generic Hazard*  
+
+This trap uses moving blades that sweep down through a chamber, threatening anyone nearby. Typically, a scything blade trap is activated by manipulating a lever or some other simple device. Kobolds especially like this kind of trap, since it can take down bigger creatures.
+
+*Source: Xanathar's Guide to Everything p. 114*
+
+</div></div>
+
 
 > [!embed-trap]- Sleep of Ages Trap
-> ![Sleep of Ages Trap](/Rules/Source/traps-hazards/sleep-of-ages-trap-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sleep of Ages Trap
+
+</div>
+
+
+
+# Sleep of Ages Trap
+*Generic Hazard*  
+
+When a sleep of ages trap activates, a pressure plate unleashes a spell that threatens to send intruders into a deep slumber. The dungeon's guardians can then more easily dispose of the sleepers.
+
+*Source: Xanathar's Guide to Everything p. 114*
+
+</div></div>
+
 
 ![/Rules/Source/books/xanathars-guide-to-everything/img/c2022.webp\|center wmed](/img/user/Rules/Source/books/xanathars-guide-to-everything/img/c2022.webp)
 
@@ -480,11 +893,85 @@ The Spell Equivalent by Level table shows the spell slot level that is appropria
 
 The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `24d6` fire damage on a failed saving throw.
 
-![Level and Lethality; Trap Save DCs and Attack Bonuses](/Rules/Source/tables/level-and-lethality-trap-save-dcs-and-attack-bonuses-xge.md)
 
-![Level and Lethality; Damage Severity by Level](/Rules/Source/tables/level-and-lethality-damage-severity-by-level-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/level-and-lethality-trap-save-dcs-and-attack-bonuses-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Level and Lethality; Spell Equivalent by Level](/Rules/Source/tables/level-and-lethality-spell-equivalent-by-level-xge.md)
+<div class="markdown-embed-title">
+
+# Level and Lethality; Trap Save DCs and Attack Bonuses
+
+</div>
+
+
+
+# Level and Lethality; Trap Save DCs and Attack Bonuses
+*Source: Xanathar's Guide to Everything p. 116* 
+
+**Trap Save DCs and Attack Bonuses**
+
+| Trap Danger | Save/Check DC | Attack Bonus |
+|-------------|---------------|--------------|
+| Moderate | 10 | +5 |
+| Dangerous | 15 | +8 |
+| Deadly | 20 | +12 |
+^trap-save-dcs-and-attack-bonuses
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/level-and-lethality-damage-severity-by-level-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Level and Lethality; Damage Severity by Level
+
+</div>
+
+
+
+# Level and Lethality; Damage Severity by Level
+*Source: Xanathar's Guide to Everything p. 116* 
+
+**Damage Severity by Level**
+
+| Character Level | Moderate | Dangerous | Deadly |
+|-----------------|----------|-----------|--------|
+| 1-4 | 5 (`1d10`) | 11 (`2d10`) | 22 (`4d10`) |
+| 5-10 | 11 (`2d10`) | 22 (`4d10`) | 55 (`10d10`) |
+| 11-16 | 22 (`4d10`) | 55 (`10d10`) | 99 (`18d10`) |
+| 17-20 | 55 (`10d10`) | 99 (`18d10`) | 132 (`24d10`) |
+^damage-severity-by-level
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/level-and-lethality-spell-equivalent-by-level-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Level and Lethality; Spell Equivalent by Level
+
+</div>
+
+
+
+# Level and Lethality; Spell Equivalent by Level
+*Source: Xanathar's Guide to Everything p. 116* 
+
+**Spell Equivalent by Level**
+
+| Character Level | Moderate | Dangerous | Deadly |
+|-----------------|----------|-----------|--------|
+| 1-4 | Cantrip | 1st | 2nd |
+| 5-10 | 1st | 3rd | 6th |
+| 11-16 | 3rd | 6th | 9th |
+| 17-20 | 6th | 9th | 9th + 5th |
+^spell-equivalent-by-level
+
+</div></div>
+
 
 #### Triggers
 
@@ -595,7 +1082,32 @@ The trap's constant elements allow it to have effects when it isn't the trap's t
 
 Overcoming a complex trap merits an experience point award, depending on the danger it poses. Judging whether a party has overcome a trap requires some amount of adjudication. As a rule of thumb, if the characters disable a complex trap or are exposed to its effects and survive, award them experience points for the effort according to the table below.
 
-![Experience for Complex Traps; Complex Trap Experience Awards](/Rules/Source/tables/experience-for-complex-traps-complex-trap-experience-awards-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/experience-for-complex-traps-complex-trap-experience-awards-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Experience for Complex Traps; Complex Trap Experience Awards
+
+</div>
+
+
+
+# Experience for Complex Traps; Complex Trap Experience Awards
+*Source: Xanathar's Guide to Everything p. 118* 
+
+**Complex Trap Experience Awards**
+
+| Trap Level | Experience Points |
+|------------|-------------------|
+| 1-4 | 650 |
+| 5-10 | 3,850 |
+| 11-16 | 11,100 |
+| 17-20 | 21,500 |
+^complex-trap-experience-awards
+
+</div></div>
+
 
 ### Example Complex Traps
 
@@ -606,13 +1118,70 @@ The following complex traps can be used to challenge characters or to inspire yo
 - [[Rules/Source/traps-hazards/sphere-of-crushing-doom-xge\|Sphere of Crushing Doom]]  
 
 > [!embed-trap]- Path of Blades
-> ![Path of Blades](/Rules/Source/traps-hazards/path-of-blades-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Path of Blades
+
+</div>
+
+
+
+# Path of Blades
+*Generic Hazard*  
+
+Hidden within a buried pyramid that marks the location of the Lost City of Cynidicea is the tomb of King Alexander and Queen Zenobia. The entrance to their tomb is a long hallway riddled with traps, accessible only by cunningly hidden secret doors. The hallway is 20 feet wide and 160 feet long. It is mostly clear. After 80 feet, the floor is broken and cracked, becoming difficult terrain until the 130-foot mark.
+
+*Source: Xanathar's Guide to Everything p. 118*
+
+</div></div>
+
 
 > [!embed-trap]- Poisoned Tempest
-> ![Poisoned Tempest](/Rules/Source/traps-hazards/poisoned-tempest-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Poisoned Tempest
+
+</div>
+
+
+
+# Poisoned Tempest
+*Generic Hazard*  
+
+This fiendish trap was built to eliminate intruders who infiltrate a yuan-ti temple. The trap is a room, 60 feet on a side, with 5-foot-wide stone doors in the middle of each wall. In each corner of the room stands a 10-foot-tall statue of a great serpent, coiled and ready to strike. The eyes in each statue are rubies worth 200 gp apiece.
+
+*Source: Xanathar's Guide to Everything p. 120*
+
+</div></div>
+
 
 > [!embed-trap]- Sphere of Crushing Doom
-> ![Sphere of Crushing Doom](/Rules/Source/traps-hazards/sphere-of-crushing-doom-xge.md)
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sphere of Crushing Doom
+
+</div>
+
+
+
+# Sphere of Crushing Doom
+*Generic Hazard*  
+
+The court jester devised a deadly trap to foil anyone who sought to steal his magic fool's cap. The jester's tomb is located at the end of a 10-foot-wide, 150-foot-long hallway that descends sharply from north to south. The entrance to the tomb is a door on the eastern wall at the bottom of the slope, at the south end of the hall.
+
+*Source: Xanathar's Guide to Everything p. 119*
+
+</div></div>
+
 
 ### Designing Complex Traps
 
@@ -750,7 +1319,48 @@ It's possible for the characters to have two or three rivals at a time, each wit
 
 The best rivals have a connection with their adversaries on a personal level. Find links in the characters' backstories or the events of recent adventures that explain what sparked the rival's actions. The best trouble to put the characters in is trouble they created for themselves.
 
-![Creating a Rival; Rival](/Rules/Source/tables/creating-a-rival-rival-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creating-a-rival-rival-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creating a Rival; Rival
+
+</div>
+
+
+
+# Creating a Rival; Rival
+*Source: Xanathar's Guide to Everything p. 124* 
+
+**Rival**
+
+| dice: d20 | Rival |
+|-----------|-------|
+| 1 | Tax collector who is convinced the characters are dodging fees |
+| 2 | Politician who is concerned that the characters are causing more trouble than they solve |
+| 3 | High priest who worries the characters are diminishing the temple's prestige |
+| 4 | Wizard who blames the characters for some recent troubles |
+| 5 | Rival adventuring party |
+| 6 | Bard who loves a scandal enough to spark one |
+| 7 | Childhood rival or member of a rival clan |
+| 8 | Scorned sibling or parent |
+| 9 | Merchant who blames the characters for any business woes |
+| 10 | Newcomer out to make a mark on the world |
+| 11 | Sibling or ally of defeated enemy |
+| 12 | Official seeking to restore a tarnished reputation |
+| 13 | Deadly foe disguised as a social rival |
+| 14 | Fiend seeking to tempt the characters to evil |
+| 15 | Spurned romantic interest |
+| 16 | Political opportunist seeking a scapegoat |
+| 17 | Traitorous noble looking to foment a revolution |
+| 18 | Would-be tyrant who brooks no opposition |
+| 19 | Exiled noble looking for revenge |
+| 20 | Corrupt official worried that recent misdeeds will be revealed |
+^rival
+
+</div></div>
+
 
 To add the right amount of detail to a rival you want to create, give some thought to what that NPC is trying to accomplish and what resources and methods the rival can bring to bear against the characters.
 
@@ -816,15 +1426,104 @@ You have final say in determining which items are for sale and their final price
 
 If the characters seek a specific magic item, first decide if it's an item you want to allow in your game. If so, include the desired item among the items for sale on a check total of 10 or higher if the item is common, 15 or higher if it is uncommon, 20 or higher if it is rare, 25 or higher if it is very rare, and 30 or higher if it is legendary.
 
-![Buying a Magic Item; Buying Magic Items](/Rules/Source/tables/buying-a-magic-item-buying-magic-items-xge.md)
 
-![Buying a Magic Item; Magic Item Price](/Rules/Source/tables/buying-a-magic-item-magic-item-price-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/buying-a-magic-item-buying-magic-items-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Buying a Magic Item; Buying Magic Items
+
+</div>
+
+
+
+# Buying a Magic Item; Buying Magic Items
+*Source: Xanathar's Guide to Everything p. 126* 
+
+**Buying Magic Items**
+
+| Check Total | Items Acquired |
+|-------------|----------------|
+| 1—5 | Roll `1d6` times on Magic Item Table A. |
+| 6—10 | Roll `1d4` times on Magic Item Table B. |
+| 11—15 | Roll `1d4` times on Magic Item Table C. |
+| 16—20 | Roll `1d4` times on Magic Item Table D. |
+| 21—25 | Roll `1d4` times on Magic Item Table E. |
+| 26—30 | Roll `1d4` times on Magic Item Table F. |
+| 31—35 | Roll `1d4` times on Magic Item Table G. |
+| 36—40 | Roll `1d4` times on Magic Item Table H. |
+| 41+ | Roll `1d4` times on Magic Item Table I. |
+^buying-magic-items
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/buying-a-magic-item-magic-item-price-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Buying a Magic Item; Magic Item Price
+
+</div>
+
+
+
+# Buying a Magic Item; Magic Item Price
+*Source: Xanathar's Guide to Everything p. 126* 
+
+**Magic Item Price**
+
+| Rarity | Asking Price* |
+|--------|---------------|
+| Common | `(1d6 + 1) × 10` gp |
+| Uncommon | `1d6 × 100` gp |
+| Rare | `2d10 × 1,000` gp |
+| Very rare | `(1d4 + 1) × 10,000` gp |
+| Legendary | `2d6 × 25,000` gp |
+*Halved for a consumable item like a potion or scroll
+
+</div></div>
+
 
 ##### Complications
 
 The magic item trade is fraught with peril. The large sums of money involved and the power offered by magic items attract thieves, con artists, and other villains. If you want to make things more interesting for the characters, roll on the Magic Item Purchase Complications table or invent your own complication.
 
-![Magic Item Purchase Complications](/Rules/Source/tables/magic-item-purchase-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/magic-item-purchase-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Magic Item Purchase Complications
+
+</div>
+
+
+
+# Magic Item Purchase Complications
+*Source: Xanathar's Guide to Everything p. 126* 
+
+**Magic Item Purchase Complications**
+
+| dice: d12 | Complication |
+|-----------|--------------|
+| 1 | The item is a fake, planted by an enemy.* |
+| 2 | The item is stolen by the party's enemies.* |
+| 3 | The item is cursed by a god. |
+| 4 | The item's original owner will kill to reclaim it; the party's enemies spread news of its sale.* |
+| 5 | The item is at the center of a dark prophecy. |
+| 6 | The seller is murdered before the sale.* |
+| 7 | The seller is a devil looking to make a bargain. |
+| 8 | The item is the key to freeing an evil entity. |
+| 9 | A third party bids on the item, doubling its price.* |
+| 10 | The item is an enslaved, intelligent entity. |
+| 11 | The item is tied to a cult. |
+| 12 | The party's enemies spread rumors that the item is an artifact of evil.* |
+*Might involve a rival
+
+</div></div>
+
 
 ![/Rules/Source/books/xanathars-guide-to-everything/img/c2025.webp\|center wmed](/img/user/Rules/Source/books/xanathars-guide-to-everything/img/c2025.webp)
 
@@ -842,7 +1541,33 @@ A character with the noble background can mingle with the upper class, but other
 
 After a workweek of carousing, a character stands to make contacts within the selected social class. The character makes a Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) check using the Carousing table.
 
-![Carousing](/Rules/Source/tables/carousing-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/carousing-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Carousing
+
+</div>
+
+
+
+# Carousing
+*Source: Xanathar's Guide to Everything p. 127* 
+
+**Carousing**
+
+| Check Total | Result |
+|-------------|--------|
+| 1—5 | Character has made a hostile contact. |
+| 6—10 | Character has made no new contacts. |
+| 11—15 | Character has made an allied contact. |
+| 16—20 | Character has made two allied contacts. |
+| 21+ | Character has made three allied contacts. |
+^carousing
+
+</div></div>
+
 
 Contacts are NPCs who now share a bond with the character. Each one either owes the character a favor or has some reason to bear a grudge. A hostile contact works against the character, placing obstacles but stopping short of committing a crime or a violent act. Allied contacts are friends who will render aid to the character, but not at the risk of their lives.
 
@@ -868,11 +1593,98 @@ At any time, a character can have a maximum number of unspecified allied contact
 
 Characters who carouse risk bar brawls, accumulating a cloud of nasty rumors, and building a bad reputation around town. As a rule of thumb, a character has a 10 percent chance of triggering a complication for each workweek of carousing.
 
-![Lower-Class Carousing Complications](/Rules/Source/tables/lower-class-carousing-complications-xge.md)
 
-![Middle-Class Carousing Complications](/Rules/Source/tables/middle-class-carousing-complications-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/lower-class-carousing-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Upper-Class Carousing Complications](/Rules/Source/tables/upper-class-carousing-complications-xge.md)
+<div class="markdown-embed-title">
+
+# Lower-Class Carousing Complications
+
+</div>
+
+
+
+# Lower-Class Carousing Complications
+*Source: Xanathar's Guide to Everything p. 128* 
+
+**Lower-Class Carousing Complications**
+
+| dice: d8 | Complication |
+|----------|--------------|
+| 1 | A pickpocket lifts `1d10 × 5` gp from you.* |
+| 2 | A bar brawl leaves you with a scar.* |
+| 3 | You have fuzzy memories of doing something very, very illegal, but can't remember exactly what. |
+| 4 | You are banned from a tavern after some obnoxious behavior.* |
+| 5 | After a few drinks, you swore in the town square to pursue a dangerous quest. |
+| 6 | Surprise! You're married. |
+| 7 | Streaking naked through the streets seemed like a great idea at the time. |
+| 8 | Everyone is calling you by some weird, embarrassing nickname, like Puddle Drinker or Bench Slayer, and no one will say why.* |
+*Might involve a rival
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/middle-class-carousing-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Middle-Class Carousing Complications
+
+</div>
+
+
+
+# Middle-Class Carousing Complications
+*Source: Xanathar's Guide to Everything p. 128* 
+
+**Middle-Class Carousing Complications**
+
+| dice: d8 | Complication |
+|----------|--------------|
+| 1 | You accidentally insulted a guild master, and only a public apology will let you do business with the guild again.* |
+| 2 | You swore to complete some quest on behalf of a temple or a guild. |
+| 3 | A social gaffe has made you the talk of the town.* |
+| 4 | A particularly obnoxious person has taken an intense romantic interest in you.* |
+| 5 | You have made a foe out of a local spellcaster.* |
+| 6 | You have been recruited to help run a local festival, play, or similar event. |
+| 7 | You made a drunken toast that scandalized the locals. |
+| 8 | You spent an additional 100 gp trying to impress people. |
+*Might involve a rival
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/upper-class-carousing-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Upper-Class Carousing Complications
+
+</div>
+
+
+
+# Upper-Class Carousing Complications
+*Source: Xanathar's Guide to Everything p. 128* 
+
+**Upper-Class Carousing Complications**
+
+| dice: d8 | Complication |
+|----------|--------------|
+| 1 | A pushy noble family wants to marry off one of their scions to you.* |
+| 2 | You tripped and fell during a dance, and people can't stop talking about it. |
+| 3 | You have agreed to take on a noble's debts. |
+| 4 | You have been challenged to a joust by a knight.* |
+| 5 | You have made a foe out of a local noble.* |
+| 6 | A boring noble insists you visit each day and listen to long, tedious theories of magic. |
+| 7 | You have become the target of a variety of embarrassing rumors.* |
+| 8 | You spent an additional 500 gp trying to impress people. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Crafting an Item
 
@@ -886,7 +1698,30 @@ Multiple characters can combine their efforts. Divide the time needed to create 
 
 A character needs to be proficient with the tools needed to craft an item and have access to the appropriate equipment. Everyone who collaborates needs to have the appropriate tool proficiency. You need to make any judgment calls regarding whether a character has the correct equipment. The following table provides some examples.
 
-![Crafting an Item; Resources and Resolution](/Rules/Source/tables/crafting-an-item-resources-and-resolution-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crafting-an-item-resources-and-resolution-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crafting an Item; Resources and Resolution
+
+</div>
+
+
+
+# Crafting an Item; Resources and Resolution
+*Source: Xanathar's Guide to Everything p. 128* 
+
+| Proficiency | Items |
+|-------------|-------|
+| [[Rules/Source/items/herbalism-kit-xphb\|Herbalism kit]] | Antitoxin, potion of healing |
+| [[Rules/Source/items/leatherworkers-tools-xphb\|Leatherworker's tools]] | Leather armor, boots |
+| [[Rules/Source/items/smiths-tools-xphb\|Smith's tools]] | Armor, weapons |
+| [[Rules/Source/items/weavers-tools-xphb\|Weaver's tools]] | Cloaks, robes |
+^proficiency-items
+
+</div></div>
+
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
 
@@ -904,13 +1739,65 @@ An item invariably requires an exotic material to complete it. This material can
 
 The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to.
 
-![Crafting Magic Items; Magic Item Ingredients](/Rules/Source/tables/crafting-magic-items-magic-item-ingredients-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crafting-magic-items-magic-item-ingredients-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crafting Magic Items; Magic Item Ingredients
+
+</div>
+
+
+
+# Crafting Magic Items; Magic Item Ingredients
+*Source: Xanathar's Guide to Everything p. 128* 
+
+**Magic Item Ingredients**
+
+| Item Rarity | CR Range |
+|-------------|----------|
+| Common | 1—3 |
+| Uncommon | 4—8 |
+| Rare | 9—12 |
+| Very rare | 13—18 |
+| Legendary | 19+ |
+^magic-item-ingredients
+
+</div></div>
+
 
 If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating mariner's armor might require the essence of a water weird. Crafting a staff of charming might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a staff of power might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-![Crafting Magic Items; Magic Item Crafting Time and Cost](/Rules/Source/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crafting Magic Items; Magic Item Crafting Time and Cost
+
+</div>
+
+
+
+# Crafting Magic Items; Magic Item Crafting Time and Cost
+*Source: Xanathar's Guide to Everything p. 128* 
+
+**Magic Item Crafting Time and Cost**
+
+| Item Rarity | Workweeks* | Cost* |
+|-------------|------------|-------|
+| Common | 1 | 50 gp |
+| Uncommon | 2 | 200 gp |
+| Rare | 10 | 2,000 gp |
+| Very rare | 25 | 20,000 gp |
+| Legendary | 50 | 100,000 gp |
+*Halved for a consumable item like a potion or scroll
+
+</div></div>
+
 
 To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [[Rules/Source/skills#Arcana\|Arcana]] skill.
 
@@ -920,13 +1807,65 @@ If all the above requirements are met, the result of the process is a magic item
 
 Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
-![Crafting Complications](/Rules/Source/tables/crafting-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crafting-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crafting Complications
+
+</div>
+
+
+
+# Crafting Complications
+*Source: Xanathar's Guide to Everything p. 129* 
+
+**Crafting Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | Rumors swirl that what you're working on is unstable and a threat to the community.* |
+| 2 | Your tools are stolen, forcing you to buy new ones.* |
+| 3 | A local wizard shows keen interest in your work and insists on observing you. |
+| 4 | A powerful noble offers a hefty price for your work and is not interested in hearing no for an answer.* |
+| 5 | A dwarf clan accuses you of stealing its secret lore to fuel your work.* |
+| 6 | A competitor spreads rumors that your work is shoddy and prone to failure.* |
+*Might involve a rival
+
+</div></div>
+
 
 ##### Brewing Potions of Healing
 
 Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the herbalism kit can create these potions. The times and costs for doing so are summarized on the Potion of Healing Creation table.
 
-![Brewing Potions of Healing; Potion of Healing Creation](/Rules/Source/tables/brewing-potions-of-healing-potion-of-healing-creation-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/brewing-potions-of-healing-potion-of-healing-creation-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Brewing Potions of Healing; Potion of Healing Creation
+
+</div>
+
+
+
+# Brewing Potions of Healing; Potion of Healing Creation
+*Source: Xanathar's Guide to Everything p. 130* 
+
+**Potion of Healing Creation**
+
+| Type | Time | Cost |
+|------|------|------|
+| Healing | 1 day | 25 gp |
+| Greater healing | 1 workweek | 100 gp |
+| Superior healing | 3 workweeks | 1,000 gp |
+| Supreme healing | 4 workweeks | 10,000 gp |
+^potion-of-healing-creation
+
+</div></div>
+
 
 #### Crime
 
@@ -952,13 +1891,67 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![Crime; Loot Value](/Rules/Source/tables/crime-loot-value-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crime-loot-value-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crime; Loot Value
+
+</div>
+
+
+
+# Crime; Loot Value
+*Source: Xanathar's Guide to Everything p. 130* 
+
+**Loot Value**
+
+| DC | Value |
+|----|-------|
+| 10 | 50 gp, robbery of a struggling merchant |
+| 15 | 100 gp, robbery of a prosperous merchant |
+| 20 | 200 gp, robbery of a noble |
+| 25 | 1,000 gp, robbery of one of the richest figures in town |
+^loot-value
+
+</div></div>
+
 
 ##### Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![Crime Complications](/Rules/Source/tables/crime-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/crime-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Crime Complications
+
+</div>
+
+
+
+# Crime Complications
+*Source: Xanathar's Guide to Everything p. 130* 
+
+**Crime Complications**
+
+| dice: d8 | Complication |
+|----------|--------------|
+| 1 | A bounty equal to your earnings is offered for information about your crime.* |
+| 2 | An unknown person contacts you, threatening to reveal your crime if you don't render a service.* |
+| 3 | Your victim is financially ruined by your crime. |
+| 4 | Someone who knows of your crime has been arrested on an unrelated matter.* |
+| 5 | Your loot is a single, easily identified item that you can't fence in this region. |
+| 6 | You robbed someone who was under a local crime lord's protection, and who now wants revenge. |
+| 7 | Your victim calls in a favor from a guard, doubling the efforts to solve the case. |
+| 8 | Your victim asks one of your adventuring companions to solve the crime. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Gambling
 
@@ -974,13 +1967,65 @@ The character must make a series of checks, with a DC determined at random based
 
 The character makes three checks: Wisdom ([[Rules/Source/skills#Insight\|Insight]]), Charisma ([[Rules/Source/skills#Deception\|Deception]]), and Charisma ([[Rules/Source/skills#Intimidation\|Intimidation]]). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
-![Gambling Results](/Rules/Source/tables/gambling-results-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gambling-results-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gambling Results
+
+</div>
+
+
+
+# Gambling Results
+*Source: Xanathar's Guide to Everything p. 130* 
+
+**Gambling Results**
+
+| Result | Value |
+|--------|-------|
+| 0 successes | Lose all the money you bet, and accrue a debt equal to that amount. |
+| 1 success | Lose half the money you bet. |
+| 2 successes | Gain the amount you bet plus half again more. |
+| 3 successes | Gain double the amount you bet. |
+^gambling-results
+
+</div></div>
+
 
 ##### Complications
 
 Gambling tends to attract unsavory individuals. The potential complications involved come from run-ins with the law and associations with various criminals tied to the activity. Every workweek spent gambling brings a 10 percent chance of a complication, examples of which are on the Gambling Complications table.
 
-![Gambling Complications](/Rules/Source/tables/gambling-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gambling-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gambling Complications
+
+</div>
+
+
+
+# Gambling Complications
+*Source: Xanathar's Guide to Everything p. 130* 
+
+**Gambling Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | You are accused of cheating. You decide whether you actually did cheat or were framed.* |
+| 2 | The town guards raid the gambling hall and throw you in jail.* |
+| 3 | A noble in town loses badly to you and loudly vows to get revenge.* |
+| 4 | You won a sum from a low-ranking member of a thieves' guild, and the guild wants its money back. |
+| 5 | A local crime boss insists you start frequenting the boss's gambling parlor and no others. |
+| 6 | A high-stakes gambler comes to town and insists that you take part in a game. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Pit Fighting
 
@@ -996,13 +2041,65 @@ The character must make a series of checks, with a DC determined at random based
 
 The character makes three checks: Strength ([[Rules/Source/skills#Athletics\|Athletics]]), Dexterity ([[Rules/Source/skills#Acrobatics\|Acrobatics]]), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
-![Pit Fighting Results](/Rules/Source/tables/pit-fighting-results-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/pit-fighting-results-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Pit Fighting Results
+
+</div>
+
+
+
+# Pit Fighting Results
+*Source: Xanathar's Guide to Everything p. 131* 
+
+**Pit Fighting Results**
+
+| Result | Value |
+|--------|-------|
+| 0 successes | Lose your bouts, earning nothing. |
+| 1 success | Win 50 gp. |
+| 2 successes | Win 100 gp. |
+| 3 successes | Win 200 gp. |
+^pit-fighting-results
+
+</div></div>
+
 
 ##### Complications
 
 Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
 
-![Pit Fighting Complications](/Rules/Source/tables/pit-fighting-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/pit-fighting-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Pit Fighting Complications
+
+</div>
+
+
+
+# Pit Fighting Complications
+*Source: Xanathar's Guide to Everything p. 131* 
+
+**Pit Fighting Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | An opponent swears to take revenge on you.* |
+| 2 | A crime boss approaches you and offers to pay you to intentionally lose a few matches.* |
+| 3 | You defeat a popular local champion, drawing the crowd's ire. |
+| 4 | You defeat a noble's servant, drawing the wrath of the noble's house.* |
+| 5 | You are accused of cheating. Whether the allegation is true or not, your reputation is tarnished.* |
+| 6 | You accidentally deliver a near-fatal wound to a foe. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Relaxation
 
@@ -1032,7 +2129,31 @@ Performing religious service requires access to, and often attendance at, a temp
 
 At the end of the required time, the character chooses to make either an Intelligence ([[Rules/Source/skills#Religion\|Religion]]) check or a Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
 
-![Religious Service](/Rules/Source/tables/religious-service-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-service-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Service
+
+</div>
+
+
+
+# Religious Service
+*Source: Xanathar's Guide to Everything p. 131* 
+
+**Religious Service**
+
+| Check Total | Result |
+|-------------|--------|
+| 1—10 | No effect. Your efforts fail to make a lasting impression. |
+| 11—20 | You earn one favor. |
+| 21+ | You earn two favors. |
+^religious-service
+
+</div></div>
+
 
 A favor, in broad terms, is a promise of future assistance from a representative of the temple. It can be expended to ask the temple for help in dealing with a specific problem, for general political or social support, or to reduce the cost of cleric spellcasting by 50 percent. A favor could also take the form of a deity's intervention, such as an omen, a vision, or a minor miracle provided at a key moment. This latter sort of favor is expended by the DM, who also determines its nature.
 
@@ -1042,7 +2163,34 @@ Favors earned need not be expended immediately, but only a certain number can be
 
 Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10 percent chance of a complication, examples of which are on the Religious Service Complications table.
 
-![Religious Service Complications](/Rules/Source/tables/religious-service-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-service-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Service Complications
+
+</div>
+
+
+
+# Religious Service Complications
+*Source: Xanathar's Guide to Everything p. 132* 
+
+**Religious Service Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | You have offended a priest through your words or actions.* |
+| 2 | Blasphemy is still blasphemy, even if you did it by accident. |
+| 3 | A secret sect in the temple offers you membership. |
+| 4 | Another temple tries to recruit you as a spy.* |
+| 5 | The temple elders implore you to take up a holy quest. |
+| 6 | You accidentally discover that an important person in the temple is a fiend worshiper. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Research
 
@@ -1056,7 +2204,32 @@ Typically, a character needs access to a library or a sage to conduct research. 
 
 The character declares the focus of the research—a specific person, place, or thing. After one workweek, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. In addition, a character who has access to a particularly well-stocked library or knowledgeable sages gains advantage on this check. Determine how much lore a character learns using the Research Outcomes table.
 
-![Research Outcomes](/Rules/Source/tables/research-outcomes-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/research-outcomes-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Research Outcomes
+
+</div>
+
+
+
+# Research Outcomes
+*Source: Xanathar's Guide to Everything p. 132* 
+
+**Research Outcomes**
+
+| Check Total | Outcome |
+|-------------|---------|
+| 1—5 | No effect. |
+| 6—10 | You learn one piece of lore. |
+| 11—20 | You learn two pieces of lore. |
+| 21+ | You learn three pieces of lore. |
+^research-outcomes
+
+</div></div>
+
 
 ![/Rules/Source/books/xanathars-guide-to-everything/img/c2027.webp\|center wmed](/img/user/Rules/Source/books/xanathars-guide-to-everything/img/c2027.webp)
 
@@ -1070,7 +2243,34 @@ The greatest risk in research is uncovering false information. Not all lore is a
 
 In addition, a character might run into other complications during research. Every workweek spent in research brings a 10 percent chance of a complication, examples of which are on the Research Complications table.
 
-![Research Complications](/Rules/Source/tables/research-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/research-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Research Complications
+
+</div>
+
+
+
+# Research Complications
+*Source: Xanathar's Guide to Everything p. 132* 
+
+**Research Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | You accidentally damage a rare book. |
+| 2 | You offend a sage, who demands an extravagant gift.* |
+| 3 | If you had known that book was cursed, you never would have opened it. |
+| 4 | A sage becomes obsessed with convincing you of a number of strange theories about reality.* |
+| 5 | Your actions cause you to be banned from a library until you make reparations.* |
+| 6 | You uncovered useful lore, but only by promising to complete a dangerous task in return. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Scribing a Spell Scroll
 
@@ -1082,13 +2282,71 @@ Scribing a spell scroll takes an amount of time and money related to the level o
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.
 
-![Resources; Spell Scroll Costs](/Rules/Source/tables/resources-spell-scroll-costs-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/resources-spell-scroll-costs-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Resources; Spell Scroll Costs
+
+</div>
+
+
+
+# Resources; Spell Scroll Costs
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Spell Scroll Costs**
+
+| Spell Level | Time | Cost |
+|-------------|------|------|
+| Cantrip | 1 day | 15 gp |
+| 1st | 1 day | 25 gp |
+| 2nd | 3 days | 250 gp |
+| 3rd | 1 workweek | 500 gp |
+| 4th | 2 workweeks | 2,500 gp |
+| 5th | 4 workweeks | 5,000 gp |
+| 6th | 8 workweeks | 15,000 gp |
+| 7th | 16 workweeks | 25,000 gp |
+| 8th | 32 workweeks | 50,000 gp |
+| 9th | 48 workweeks | 250,000 gp |
+^spell-scroll-costs
+
+</div></div>
+
 
 ##### Complications
 
 Crafting a spell scroll is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
 
-![Scribe a Scroll Complications](/Rules/Source/tables/scribe-a-scroll-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/scribe-a-scroll-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Scribe a Scroll Complications
+
+</div>
+
+
+
+# Scribe a Scroll Complications
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Scribe a Scroll Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | You bought up the last of the rare ink used to craft scrolls, angering a wizard in town. |
+| 2 | The priest of a temple of good accuses you of trafficking in dark magic.* |
+| 3 | A wizard eager to collect one of your spells in a book presses you to sell the scroll. |
+| 4 | Due to a strange error in creating the scroll, it is instead a random spell of the same level. |
+| 5 | The rare parchment you bought for your scroll has a barely visible map on it. |
+| 6 | A thief attempts to break into your workroom.* |
+*Might involve a rival
+
+</div></div>
+
 
 #### Selling a Magic Item
 
@@ -1102,15 +2360,92 @@ A character can find a buyer for one magic item by spending one workweek and 25 
 
 A character who wants to sell an item must make a Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
 
-![Selling a Magic Item; Magic Item Base Prices](/Rules/Source/tables/selling-a-magic-item-magic-item-base-prices-xge.md)
 
-![Selling a Magic Item; Magic Item Offer](/Rules/Source/tables/selling-a-magic-item-magic-item-offer-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/selling-a-magic-item-magic-item-base-prices-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Selling a Magic Item; Magic Item Base Prices
+
+</div>
+
+
+
+# Selling a Magic Item; Magic Item Base Prices
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Magic Item Base Prices**
+
+| Rarity | Base Price* |
+|--------|-------------|
+| Common | 100 gp |
+| Uncommon | 400 gp |
+| Rare | 4,000 gp |
+| Very rare | 40,000 gp |
+| Legendary | 200,000 gp |
+*Halved for a consumable item like a potion or scroll
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/selling-a-magic-item-magic-item-offer-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Selling a Magic Item; Magic Item Offer
+
+</div>
+
+
+
+# Selling a Magic Item; Magic Item Offer
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Magic Item Offer**
+
+| Check Total | Offer |
+|-------------|-------|
+| 1—10 | 50% of base price |
+| 11—20 | 100% of base price |
+| 21+ | 150% of base price |
+^magic-item-offer
+
+</div></div>
+
 
 ##### Complications
 
 The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10 percent chance of a complication, examples of which are on the Magic Item Sale Complications table.
 
-![Magic Item Sale Complications](/Rules/Source/tables/magic-item-sale-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/magic-item-sale-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Magic Item Sale Complications
+
+</div>
+
+
+
+# Magic Item Sale Complications
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Magic Item Sale Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | Your enemy secretly arranges to buy the item to use it against you.* |
+| 2 | A thieves' guild, alerted to the sale, attempts to steal your item.* |
+| 3 | A foe circulates rumors that your item is a fake.* |
+| 4 | A sorcerer claims your item as a birthright and demands you hand it over. |
+| 5 | Your item's previous owner, or surviving allies of the owner, vow to retake the item by force. |
+| 6 | The buyer is murdered before the sale is finalized.* |
+*Might involve a rival
+
+</div></div>
+
 
 ![/Rules/Source/books/xanathars-guide-to-everything/img/c2028.webp\|center wmed](/img/user/Rules/Source/books/xanathars-guide-to-everything/img/c2028.webp)
 
@@ -1126,7 +2461,34 @@ Receiving training in a language or tool typically takes at least ten workweeks,
 
 Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10 percent chance of a complication, examples of which are on the Training Complications table.
 
-![Training Complications](/Rules/Source/tables/training-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/training-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Training Complications
+
+</div>
+
+
+
+# Training Complications
+*Source: Xanathar's Guide to Everything p. 134* 
+
+**Training Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | Your instructor disappears, forcing you to spend one workweek finding a new one.* |
+| 2 | Your teacher instructs you in rare, archaic methods, which draw comments from others. |
+| 3 | Your teacher is a spy sent to learn your plans.* |
+| 4 | Your teacher is a wanted criminal. |
+| 5 | Your teacher is a cruel taskmaster. |
+| 6 | Your teacher asks for help dealing with a threat. |
+*Might involve a rival
+
+</div></div>
+
 
 #### Work
 
@@ -1140,13 +2502,65 @@ Performing a job requires one workweek of effort.
 
 To determine how much money a character earns, the character makes an ability check: Strength ([[Rules/Source/skills#Athletics\|Athletics]]), Dexterity ([[Rules/Source/skills#Acrobatics\|Acrobatics]]), Intelligence using a set of tools, Charisma ([[Rules/Source/skills#Performance\|Performance]]), or Charisma using a musical instrument. Consult the Wages table to see how much money is generated according to the total of the check.
 
-![Work; Wages](/Rules/Source/tables/work-wages-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/work-wages-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Work; Wages
+
+</div>
+
+
+
+# Work; Wages
+*Source: Xanathar's Guide to Everything p. 134* 
+
+**Wages**
+
+| Check Total | Earnings |
+|-------------|----------|
+| 9 or lower | Poor lifestyle for the week |
+| 10—14 | Modest lifestyle for the week |
+| 15—20 | Comfortable lifestyle for the week |
+| 21+ | Comfortable lifestyle for the week + 25 gp |
+^wages
+
+</div></div>
+
 
 ##### Complications
 
 Ordinary work is rarely filled with significant complications. Still, the Work Complications table can add some difficulties to a worker's life. Each workweek of activity brings a 10 percent chance that a character encounters a complication.
 
-![Work Complications](/Rules/Source/tables/work-complications-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/work-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Work Complications
+
+</div>
+
+
+
+# Work Complications
+*Source: Xanathar's Guide to Everything p. 134* 
+
+**Work Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | A difficult customer or a fight with a coworker reduces the wages you earn by one category.* |
+| 2 | Your employer's financial difficulties result in your not being paid.* |
+| 3 | A coworker with ties to an important family in town takes a dislike to you.* |
+| 4 | Your employer is involved with a dark cult or a criminal enterprise. |
+| 5 | A crime ring targets your business for extortion.* |
+| 6 | You gain a reputation for laziness (unjustified or not, as you choose), giving you disadvantage on checks made for this downtime activity for the next six workweeks you devote to it.* |
+*Might involve a rival
+
+</div></div>
+
 
 ## Awarding Magic Items
 
@@ -1158,7 +2572,33 @@ The system in the dungeon master's guide is designed so that you can generate al
 
 This alternative method of treasure determination focuses on choosing magic items based on their rarity, rather than by rolling on the tables in the dungeon master's guide. This method uses two tables: Magic Items Awarded by Tier and Magic Items Awarded by Rarity.
 
-![Distribution by Rarity; Magic Items Awarded by Tier](/Rules/Source/tables/distribution-by-rarity-magic-items-awarded-by-tier-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/distribution-by-rarity-magic-items-awarded-by-tier-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Distribution by Rarity; Magic Items Awarded by Tier
+
+</div>
+
+
+
+# Distribution by Rarity; Magic Items Awarded by Tier
+*Source: Xanathar's Guide to Everything p. 135* 
+
+**Magic Items Awarded by Tier**
+
+| Character Level | Minor Items | Major Items | All Items |
+|-----------------|-------------|-------------|-----------|
+| 1-4 | 9 | 2 | 11 |
+| 5-10 | 28 | 6 | 34 |
+| 11-16 | 24 | 6 | 30 |
+| 17-20 | 19 | 6 | 25 |
+| Total | 80 | 20 | 100 |
+^magic-items-awarded-by-tier
+
+</div></div>
+
 
 #### By Tier
 
@@ -1168,9 +2608,61 @@ The Magic Items Awarded by Tier table shows the number of magic items a D&D part
 
 The Magic Items Awarded by Rarity table takes the numbers from the Magic Items Awarded by Tier table and breaks them down to show the number of items of each rarity the characters are expected to have when they reach the end of a tier.
 
-![Magic Items Awarded by Rarity - Minor](/Rules/Source/tables/magic-items-awarded-by-rarity-minor-xge.md)
 
-![Magic Items Awarded by Rarity - Major](/Rules/Source/tables/magic-items-awarded-by-rarity-major-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/magic-items-awarded-by-rarity-minor-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Magic Items Awarded by Rarity - Minor
+
+</div>
+
+
+
+# Magic Items Awarded by Rarity - Minor
+*Source: Xanathar's Guide to Everything p. 135* 
+
+**Magic Items Awarded by Rarity - Minor**
+
+| Level/CR | Common | Uncommon | Rare | Very Rare | Legendary |
+|----------|--------|----------|------|-----------|-----------|
+| 1-4 | 6 | 2 | 1 | 0 | 0 |
+| 5-10 | 10 | 12 | 5 | 1 | 0 |
+| 11-16 | 3 | 6 | 9 | 5 | 1 |
+| 17+ | 0 | 0 | 4 | 9 | 6 |
+| Total | 19 | 20 | 19 | 15 | 7 |
+^magic-items-awarded-by-rarity-minor
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/magic-items-awarded-by-rarity-major-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Magic Items Awarded by Rarity - Major
+
+</div>
+
+
+
+# Magic Items Awarded by Rarity - Major
+*Source: Xanathar's Guide to Everything p. 135* 
+
+**Magic Items Awarded by Rarity - Major**
+
+| Level/CR | Uncommon | Rare | Very Rare | Legendary |
+|----------|----------|------|-----------|-----------|
+| 1-4 | 2 | 0 | 0 | 0 |
+| 5-10 | 5 | 1 | 0 | 0 |
+| 11-16 | 1 | 2 | 2 | 1 |
+| 17+ | 0 | 1 | 2 | 3 |
+| Total | 8 | 4 | 4 | 4 |
+^magic-items-awarded-by-rarity-major
+
+</div></div>
+
 
 #### Minor and Major Items
 

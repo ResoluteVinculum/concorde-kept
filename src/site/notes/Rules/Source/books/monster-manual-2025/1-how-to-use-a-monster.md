@@ -135,7 +135,34 @@ A monster's [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] are prese
 
 A monster's size typically determines the die used to calculate its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]], as shown in the Hit Dice by [[Rules/Source/variant-rules/size-xphb\|Size]] table.
 
-![Parts of a Stat Block; Hit Dice by Size](/Rules/Source/tables/parts-of-a-stat-block-hit-dice-by-size-xmm.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/parts-of-a-stat-block-hit-dice-by-size-xmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Parts of a Stat Block; Hit Dice by Size
+
+</div>
+
+
+
+# Parts of a Stat Block; Hit Dice by Size
+*Source: Monster Manual (2024) p. 6. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Hit Dice by Size**
+
+| Monster Size | Hit Die | Average HP per Die |
+|--------------|---------|--------------------|
+| Tiny | `d4` | 2½ |
+| Small | `d6` | 3½ |
+| Medium | `d8` | 4½ |
+| Large | `d10` | 5½ |
+| Huge | `d12` | 6½ |
+| Gargantuan | `d20` | 10½ |
+^hit-dice-by-size
+
+</div></div>
+
 
 A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]]. For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` [[Rules/Source/variant-rules/hit-points-xphb\|Hit Points]] (average 11).
 
@@ -211,13 +238,97 @@ The number of [[Rules/Source/variant-rules/experience-points-xphb\|Experience Po
 
 Unless a rule says otherwise, a monster summoned by a spell or another magical ability is worth the XP noted in its stat block.
 
-![Experience Points by Challenge Rating](/Rules/Source/tables/experience-points-by-challenge-rating-xmm.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/experience-points-by-challenge-rating-xmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Experience Points by Challenge Rating
+
+</div>
+
+
+
+# Experience Points by Challenge Rating
+*Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Experience Points by Challenge Rating**
+
+| CR | XP |
+|----|----|
+| 0 | 0 or 10 |
+| 1/8 | 25 |
+| 1/4 | 50 |
+| 1/2 | 100 |
+| 1 | 200 |
+| 2 | 450 |
+| 3 | 700 |
+| 4 | 1,100 |
+| 5 | 1,800 |
+| 6 | 2,300 |
+| 7 | 2,900 |
+| 8 | 3,900 |
+| 9 | 5,000 |
+| 10 | 5,900 |
+| 11 | 7,200 |
+| 12 | 8,400 |
+| 13 | 10,000 |
+| 14 | 11,500 |
+| 15 | 13,000 |
+| 16 | 15,000 |
+| 17 | 18,000 |
+| 18 | 20,000 |
+| 19 | 22,000 |
+| 20 | 25,000 |
+| 21 | 33,000 |
+| 22 | 41,000 |
+| 23 | 50,000 |
+| 24 | 62,000 |
+| 25 | 75,000 |
+| 26 | 90,000 |
+| 27 | 105,000 |
+| 28 | 120,000 |
+| 29 | 135,000 |
+| 30 | 155,000 |
+^experience-points-by-challenge-rating
+
+</div></div>
+
 
 #### Proficiency Bonus
 
 A monster's [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]] (PB) is determined by its CR, as shown in the [[Rules/Source/variant-rules/proficiency-xphb\|Proficiency Bonus]] by [[Rules/Source/variant-rules/challenge-rating-xphb\|Challenge Rating]] table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
 
-![Proficiency Bonus by Challenge Rating](/Rules/Source/tables/proficiency-bonus-by-challenge-rating-xmm.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/proficiency-bonus-by-challenge-rating-xmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Proficiency Bonus by Challenge Rating
+
+</div>
+
+
+
+# Proficiency Bonus by Challenge Rating
+*Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Proficiency Bonus by Challenge Rating**
+
+| CR | PB |
+|----|----|
+| 0–4 | +2 |
+| 5–8 | +3 |
+| 9–12 | +4 |
+| 13–16 | +5 |
+| 17–20 | +6 |
+| 21–24 | +7 |
+| 25–28 | +8 |
+| 29–30 | +9 |
+^proficiency-bonus-by-challenge-rating
+
+</div></div>
+
 
 ### Traits
 

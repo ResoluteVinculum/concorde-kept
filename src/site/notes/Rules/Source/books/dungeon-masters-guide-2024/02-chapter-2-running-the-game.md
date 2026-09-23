@@ -5,7 +5,7 @@
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 
 
-![The fiendish villain Venge...](/Rules/Source/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp#center "The fiendish villain Venger uses a Crystal Ball to scry on his nemesis, Tiamat")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp)
 
 Building on the basics laid out in chapter 1, this chapter goes into more depth on running a D&D game as Dungeon Master.
 
@@ -96,7 +96,7 @@ Engage players who like storytelling by...
 - Giving NPCs characteristics and connections that the adventurers can explore to uncover new adventure opportunities.  
 - Including plot elements that call back to decisions the adventurers made earlier.  
 
-![Different players enjoy di...](/Rules/Source/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp#center "Different players enjoy different aspects of playing D&D")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp)
 
 ## Group Size
 
@@ -110,7 +110,7 @@ You can also add party members, as described in the sections that follow.
 
 #### DM-Controlled Adventurer
 
-You can make an adventurer character of your own (sometimes called a "DM PC"—a "Dungeon Master player character") to accompany the party. This is a rewarding way for you to roleplay with your friends while they're exploring your world, but keep in mind that you'll have to run this NPC in combat.
+You can make an adventurer character of your own (sometimes called a) to accompany the party. This is a rewarding way for you to roleplay with your friends while they're exploring your world, but keep in mind that you'll have to run this NPC in combat.
 
 Be sure to keep the players' characters in the spotlight, and don't take away the players' agency by having your character make decisions for the group.
 
@@ -158,7 +158,7 @@ Display the Initiative order to your players so they each know when their charac
 
 Encourage players to roll the dice for their attack rolls and their damage at the same time. You can do the same.
 
-![Adventures requiring steal...](/Rules/Source/books/dungeon-masters-guide-2024/img/008-01-003-party-infiltration.webp#center "Adventures requiring stealth, like this infiltration, are ideal for some small parties of adventurers")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/008-01-003-party-infiltration.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/008-01-003-party-infiltration.webp)
 
 ### Absent Players
 
@@ -265,7 +265,7 @@ Sometimes, though, you'll want to give information to just one player. It might 
 - **Aside to Player.** Pull the player into another room, or have the other players leave the room. This approach is best if there's a whole scene that plays out with just one character involved. Try to keep these scenes brief so other players don't get bored or feel left out.  
 - **Secret Message.** If you just have a simple piece of information to convey, you can whisper to the player, pass a note to them, or send them a text or a direct message.  
 
-![A dungeon room offers plen...](/Rules/Source/books/dungeon-masters-guide-2024/img/010-01-005-old-office.webp#center "A dungeon room offers plenty of details for adventurers to explore")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/010-01-005-old-office.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/010-01-005-old-office.webp)
 
 ## Resolving Outcomes
 
@@ -280,7 +280,34 @@ When a situation comes up and you're not sure how to adjudicate it using the rul
 
 The sections that follow offer advice on how to use each kind of [[Rules/Source/variant-rules/d20-test-xphb\|D20 Test]], when to apply [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] and [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]], and how to decide what the consequences of success or failure might be.
 
-![Resolving Outcomes; Abilities, Ability Checks, and Saving Throws](/Rules/Source/tables/resolving-outcomes-abilities-ability-checks-and-saving-throws-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/resolving-outcomes-abilities-ability-checks-and-saving-throws-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
+
+</div>
+
+
+
+# Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
+*Source: Dungeon Master's Guide (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Abilities, Ability Checks, and Saving Throws**
+
+| Ability | Score Measures... | Make an Ability Check To... | Make a Saving Throw To... |
+|---------|-------------------|-----------------------------|---------------------------|
+| Strength | Physical might | Lift, push, pull, or break something | Physically resist direct force |
+| Dexterity | Agility, reflexes, balance | Move nimbly, quickly, or quietly | Dodge out of harm's way |
+| Constitution | Health and stamina | Push your body beyond normal limits | Endure a toxic hazard |
+| Intelligence | Reasoning and memory | Reason or remember | Recognize an illusion as fake |
+| Wisdom | Perceptiveness and mental fortitude | Notice things in the environment or in creatures' behavior | Resist a mental assault |
+| Charisma | Confidence, poise, and charm | Influence, entertain, or deceive | Assert your identity |
+^abilities-ability-checks-and-saving-throws
+
+</div></div>
+
 
 ### Ability Checks
 
@@ -332,7 +359,34 @@ In other situations that call for a saving throw, it's up to you to decide which
 
 You establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Choose a DC from the Typical DCs table based on the task's difficulty.
 
-![Difficulty Class; Typical DCs](/Rules/Source/tables/difficulty-class-typical-dcs-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/difficulty-class-typical-dcs-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Difficulty Class; Typical DCs
+
+</div>
+
+
+
+# Difficulty Class; Typical DCs
+*Source: Dungeon Master's Guide (2024) p. 29. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Typical DCs**
+
+| Task | DC |
+|------|----|
+| Very easy | 5 |
+| Easy | 10 |
+| Moderate | 15 |
+| Hard | 20 |
+| Very hard | 25 |
+| Nearly impossible | 30 |
+^typical-dcs
+
+</div></div>
+
 
 The task difficulties are explained below:
 
@@ -409,11 +463,63 @@ For attack rolls, the rules cover what happens on a natural 20 (it's a [[Rules/S
 
 The Improvising Damage table gives guidelines for determining damage on the fly.
 
-![Improvising Damage](/Rules/Source/tables/improvising-damage-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/improvising-damage-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Improvising Damage
+
+</div>
+
+
+
+# Improvising Damage
+*Source: Dungeon Master's Guide (2024) p. 30* 
+
+**Improvising Damage**
+
+| Damage | Examples |
+|--------|----------|
+| `1d10` | Burned by coals, hit by a falling bookcase, pricked by a poison needle |
+| `2d10` | Struck by lightning, stumbling into a firepit |
+| `4d10` | Hit by falling rubble in a collapsing tunnel, tumbling into a vat of acid |
+| `10d10` | Crushed by compacting walls, hit by whirling steel blades, wading through lava |
+| `18d10` | Submerged in lava, hit by a crashing flying fortress |
+| `24d10` | Tumbling into a vortex of fire on the Elemental Plane of Fire, crushed in the jaws of a godlike creature or a moon-size monster |
+^improvising-damage
+
+</div></div>
+
 
 The Damage Severity and Level table is a guide to how deadly these damage amounts are for characters of different levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![Improvising Damage; Damage Severity and Level](/Rules/Source/tables/improvising-damage-damage-severity-and-level-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/improvising-damage-damage-severity-and-level-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Improvising Damage; Damage Severity and Level
+
+</div>
+
+
+
+# Improvising Damage; Damage Severity and Level
+*Source: Dungeon Master's Guide (2024) p. 30* 
+
+**Damage Severity and Level**
+
+| Character Levels | Nuisance | Deadly |
+|------------------|----------|--------|
+| 1–4 | 5 (`1d10`) | 11 (`2d10`) |
+| 5–10 | 11 (`2d10`) | 22 (`4d10`) |
+| 11–16 | 22 (`4d10`) | 55 (`10d10`) |
+| 17–20 | 55 (`10d10`) | 99 (`18d10`) |
+^damage-severity-and-level
+
+</div></div>
+
 
 Nuisance damage rarely poses a risk of death to characters of the levels shown, but a severely weakened character might be laid low by this damage.
 
@@ -440,7 +546,7 @@ When you need to make up something on the spot—say, a mages' guild in a town w
 - Campaign Journal (described in chapter 5)  
 - Maps (see appendix B)  
 
-![When a flying fortress cra...](/Rules/Source/books/dungeon-masters-guide-2024/img/011-01-006-falling-fortress.webp#center "When a flying fortress crashes to the ground, unfortunate adventurers in its path might take `18d10` damage or more!")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/011-01-006-falling-fortress.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/011-01-006-falling-fortress.webp)
 
 ## Running Social Interaction
 
@@ -523,7 +629,7 @@ A map can help you or your players visualize a location or region that the chara
 
 Often a map is intended for the DM's eyes only. You can copy portions of a DM's map to share with your players as a visual aid while omitting details that should remain hidden from them. Virtual tabletops often use "fog of war" and similar effects to obscure areas and features on the map that you want to keep hidden from the players.
 
-![Exploration draws adventur...](/Rules/Source/books/dungeon-masters-guide-2024/img/012-01-007-exploring-party.webp#center "Exploration draws adventurers into all sorts of unusual environments")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/012-01-007-exploring-party.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/012-01-007-exploring-party.webp)
 
 Maps designed for use with miniatures (see "Miniatures" in this chapter) tend to be player facing, revealing nothing that would spoil the adventure.
 
@@ -567,7 +673,7 @@ Certain situations might call for a balance between ability checks and roleplayi
 
 ### Perception
 
-![In a courtyard full of mon...](/Rules/Source/books/dungeon-masters-guide-2024/img/013-01-008-monster-courtyard.webp#center "In a courtyard full of monsters, will characters even notice that the tree has eyes?")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/013-01-008-monster-courtyard.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/013-01-008-monster-courtyard.webp)
 
 As the DM, you're the interface between your players and the world of the game. You tell them what their characters perceive, so it's important to make sure you're telling them important information about their surroundings. The Perception skill and Wisdom checks made using it are key tools for you. This section offers guidance to help you use the [[Rules/Source/skills#Perception\|Perception]] rules in the "Player's Handbook".
 
@@ -595,7 +701,31 @@ Even if the hidden objects aren't essential to the adventure's success, plant hi
 
 If the characters encounter another group of creatures and neither side is being stealthy, the two groups automatically notice each other once they are within sight or hearing range of one another. The Audible Distance table can help you determine the hearing range, and the following sections address visibility. If one group tries to hide from the other, use the rules in the "Player's Handbook".
 
-![Perception and Encounters; Audible Distance](/Rules/Source/tables/perception-and-encounters-audible-distance-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/perception-and-encounters-audible-distance-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Perception and Encounters; Audible Distance
+
+</div>
+
+
+
+# Perception and Encounters; Audible Distance
+*Source: Dungeon Master's Guide (2024) p. 34* 
+
+**Audible Distance**
+
+| Noise | Distance |
+|-------|----------|
+| Trying to be quiet | `2d6 × 5` feet |
+| Normal noise level | `2d6 × 10` feet |
+| Very loud | `2d6 × 50` feet |
+^audible-distance
+
+</div></div>
+
 
 ##### Visibility Outdoors
 
@@ -611,7 +741,31 @@ From a ship's crow's nest, a lookout can see things up to 10 miles away, assumin
 
 Visibility underwater depends on water clarity and the available light. Use the Underwater Encounter Distance table to determine the encounter distances underwater.
 
-![Visibility Underwater; Underwater Encounter Distance](/Rules/Source/tables/visibility-underwater-underwater-encounter-distance-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/visibility-underwater-underwater-encounter-distance-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Visibility Underwater; Underwater Encounter Distance
+
+</div>
+
+
+
+# Visibility Underwater; Underwater Encounter Distance
+*Source: Dungeon Master's Guide (2024) p. 36* 
+
+**Underwater Encounter Distance**
+
+| Visibility | Encounter Distance |
+|------------|--------------------|
+| Clear water, [[Rules/Source/variant-rules/bright-light-xphb\|Bright Light]] | 60 feet |
+| Clear water, [[Rules/Source/variant-rules/dim-light-xphb\|Dim Light]] | 30 feet |
+| Murky water or [[Rules/Source/variant-rules/darkness-xphb\|Darkness]] | 10 feet |
+^underwater-encounter-distance
+
+</div></div>
+
 
 ### Travel
 
@@ -633,8 +787,8 @@ For each stage, note where it starts and ends, the distance covered, and the pre
 
 For each stage of the journey, follow these steps in order:
 
-- **Step 1: Set the Pace**. Have the players choose their group's travel pace for the stage: Slow, Normal, or Fast (see "Travel Pace"). Based on the length of the stage (in miles) and the group's pace, determine how long this stage takes to complete.  
-- **Step 2: Narrate the Travel**. Describe what happens as the characters complete this stage of their journey. Introduce and resolve any challenges (see "Journey Stage Challenges").  
+- **Step 1: Set the Pace**. Have the players choose their group's travel pace for the stage: Slow, Normal, or Fast (see). Based on the length of the stage (in miles) and the group's pace, determine how long this stage takes to complete.  
+- **Step 2: Narrate the Travel**. Describe what happens as the characters complete this stage of their journey. Introduce and resolve any challenges (see).  
 - **Step 3: Track Food and Water Consumption**. Each creature in the party expends the appropriate amount of food and water for the length of the stage. If the party lacks enough food or water, the characters risk [[Rules/Source/traps-hazards/dehydration-xphb\|dehydration]] and [[Rules/Source/traps-hazards/malnutrition-xphb\|malnutrition]].  
 - **Step 4: Track Progress**. Track the party's progress at the end of the stage. You might mark their position on a map of the region and note the elapsed time on the Travel Planner.  
 
@@ -642,7 +796,7 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 
 > [!note] Journeys without Destinations
 > 
-> Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called "hex crawling.")
+> Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called)
 > 
 > In this kind of wilderness exploration, you can take one of two approaches to travel challenges:
 > 
@@ -653,7 +807,7 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 
 
 
-![Download PDF](/Rules/Source/books/dungeon-masters-guide-2024/img/014-01-009-travel-planner-sheet.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/014-01-009-travel-planner-sheet.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/014-01-009-travel-planner-sheet.webp)
 
 #### Weather
 
@@ -661,7 +815,31 @@ During each stage of the characters' journey, you can determine what the weather
 
 Weather has no significant game effect most of the time, but see "Environmental Effects" in chapter 3 for the effects of extreme weather. Adding weather details to your descriptions of the characters' journey can make it more memorable.
 
-![Weather](/Rules/Source/tables/weather-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/weather-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Weather
+
+</div>
+
+
+
+# Weather
+*Source: Dungeon Master's Guide (2024) p. 38* 
+
+**Weather**
+
+| dice: 1d20 | Temperature | Wind | Precipitation |
+|------------|-------------|------|---------------|
+| 1–14 | Normal for the season | None | None |
+| 15–17 | `1d4 × 10` degrees Fahrenheit colder | Light | Light rain or light snowfall |
+| 18–20 | `1d4 × 10` degrees Fahrenheit hotter | Strong | Heavy rain or heavy snowfall |
+^weather
+
+</div></div>
+
 
 #### Travel Pace
 
@@ -695,13 +873,47 @@ If the characters are flying or their special movement allows them to ignore [[R
 
 ##### Vehicles
 
-Characters traveling in a vehicle use the vehicle's speed in miles per hour (as shown in "chapter 6" of the "Player's Handbook") to determine their rate of travel, and they don't choose a travel pace.
+Characters traveling in a vehicle use the vehicle's speed in miles per hour (as shown in) to determine their rate of travel, and they don't choose a travel pace.
 
-![Travel Terrain](/Rules/Source/tables/travel-terrain-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/travel-terrain-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Travel Terrain
+
+</div>
+
+
+
+# Travel Terrain
+*Source: Dungeon Master's Guide (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Travel Terrain**
+
+| Terrain | Maximum Pace | Encounter Distance | Foraging DC | Navigation DC | Search DC |
+|---------|--------------|--------------------|-------------|---------------|-----------|
+| Arctic | Fast* | `6d6 × 10` feet | 20 | 10 | 10 |
+| Coastal | Normal | `2d10 × 10` feet | 10 | 5 | 15 |
+| Desert | Normal | `6d6 × 10` feet | 20 | 10 | 10 |
+| Forest | Normal | `2d8 × 10` feet | 10 | 15 | 15 |
+| Grassland | Fast | `6d6 × 10` feet | 15 | 5 | 15 |
+| Hill | Normal | `2d10 × 10` feet | 15 | 10 | 15 |
+| Mountain | Slow | `4d10 × 10` feet | 20 | 15 | 20 |
+| Swamp | Slow | `2d8 × 10` feet | 10 | 15 | 20 |
+| Underdark | Normal | `2d6 × 10` feet | 20 | 10 | 20 |
+| Urban | Normal | `2d6 × 10` feet | 20 | 15 | 15 |
+| Waterborne | Special† | `6d6 × 10` feet | 15 | 10 | 15 |
+*Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
+
+†Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
+
+</div></div>
+
 
 #### Narration during Travel
 
-![Traveling through fantasti...](/Rules/Source/books/dungeon-masters-guide-2024/img/015-01-010-fantastical-landscapes.webp#center "Traveling through fantastical landscapes can be a fun and interesting part of any adventure")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/015-01-010-fantastical-landscapes.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/015-01-010-fantastical-landscapes.webp)
 
 Just as movies use travel montages to convey long and arduous journeys in a matter of seconds, you can use a few sentences of descriptive text to paint a picture of a journey in your players' minds before moving on. Describe the journey as vividly as you like, but keep momentum by focusing on the most notable details that reinforce the desired mood.
 
@@ -784,7 +996,7 @@ Use the Search DC column of the "Travel Terrain" table as a starting point for s
 
 On a failed check, the character loses the trail but can attempt to find it again by carefully searching the area. It takes 10 minutes to find a trail in a confined area, such as a series of caverns, or 1 hour outdoors.
 
-![A river presents an obstac...](/Rules/Source/books/dungeon-masters-guide-2024/img/016-01-011-river-party.webp#center "A river presents an obstacle to characters traveling through the wilderness")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/016-01-011-river-party.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/016-01-011-river-party.webp)
 
 ## Running Combat
 
@@ -855,7 +1067,7 @@ It helps to have a system to track damage for groups of monsters. If you aren't 
 
 If you use miniatures to represent monsters, one way to differentiate them is to give each one a unique miniature. If you use identical miniatures to represent multiple monsters, you can tag the miniatures with small stickers of different colors or stickers with different letters or numbers on them.
 
-![Three ogres block a narrow mountain pass](/Rules/Source/books/dungeon-masters-guide-2024/img/017-01-012-three-ogres.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/017-01-012-three-ogres.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/017-01-012-three-ogres.webp)
 
 For example, in a combat encounter with three ogres, you could use three identical ogre miniatures tagged with stickers marked A, B, and C, respectively. To track the ogres' Hit Points, you can sort them by letter, then subtract damage from their Hit Points as they take it. Your records might look something like this after a few rounds of combat:
 
@@ -899,15 +1111,42 @@ A creature's size determines how much space it occupies on squares or hexes, as 
 
 If the miniature you use for a monster takes up an amount of space different from what's in the table, that's fine, but treat the monster as its official size for all rules. For example, you might use a miniature that has a Large base to represent a Huge giant. That giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![Creature Size and Space](/Rules/Source/tables/creature-size-and-space-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/creature-size-and-space-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Creature Size and Space
+
+</div>
+
+
+
+# Creature Size and Space
+*Source: Dungeon Master's Guide (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Creature Size and Space**
+
+| Size | Space in Squares | Space in Hexes |
+|------|------------------|----------------|
+| Tiny | 4 per square | 4 per hex |
+| Small | 1 square | 1 hex |
+| Medium | 1 square | 1 hex |
+| Large | 4 squares (2 by 2) | 3 hexes |
+| Huge | 9 squares (3 by 3) | 7 hexes |
+| Gargantuan | 16 squares (4 by 4) or more | 12 hexes or more |
+^creature-size-and-space
+
+</div></div>
+
 
 #### Areas of Effect
 
 An area of effect must be translated onto squares or hexes to determine which potential targets are in the area. If the area has a point of origin, choose an intersection of squares or hexes to be the point of origin, then follow its rules as normal. If an area of effect covers at least half a square or hex, the entire square or hex is affected.
 
-![Creature Size on Squares and Hexes](/Rules/Source/books/dungeon-masters-guide-2024/img/018-01-013-creature-size-square-and-hex.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/018-01-013-creature-size-square-and-hex.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/018-01-013-creature-size-square-and-hex.webp)
 
-![Cover on Squares and Hexes](/Rules/Source/books/dungeon-masters-guide-2024/img/019-01-014-cover-on-squares-hexes.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/019-01-014-cover-on-squares-hexes.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/019-01-014-cover-on-squares-hexes.webp)
 
 #### Line of Sight
 
@@ -947,7 +1186,7 @@ As the characters fight monsters, you can reveal information to help the players
 
 
 
-![A dragon's arrival makes a...](/Rules/Source/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp#center "A dragon's arrival makes a simple fight against zombies much more interesting")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp)
 
 #### Loss of Hit Points
 
@@ -961,7 +1200,34 @@ Share information with the players about the characteristics of creatures they f
 
 When a monster takes an action in combat, the players need to have some idea what's going on both in the fictional reality of the game and in terms of the rules of the game. This means that when an enemy with a Crossbow takes the [[Rules/Source/actions#Ready\|Ready]] action to cover the area in front of a door, the players should have a pretty good idea that if their characters move in front of that door, the enemy will shoot them. A monster's description in the "Monster Manual" often explains what's happening in the world while the monster is using its special actions. The Describing Actions table has descriptions you can use to explain what's going on when a creature takes one of the common actions available to all creatures.
 
-![Actions in Combat; Describing Actions](/Rules/Source/tables/actions-in-combat-describing-actions-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/actions-in-combat-describing-actions-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Actions in Combat; Describing Actions
+
+</div>
+
+
+
+# Actions in Combat; Describing Actions
+*Source: Dungeon Master's Guide (2024) p. 46* 
+
+**Describing Actions**
+
+| Action | Description |
+|--------|-------------|
+| [[Rules/Source/actions#Dash\|Dash]] | "Dispensing with attacks, your foe hurries across the room." |
+| [[Rules/Source/actions#Disengage\|Disengage]] | "Careful not to drop its guard, your foe edges away from you." |
+| [[Rules/Source/actions#Dodge\|Dodge]] | "Your foe watches you closely and tries to parry your attacks." |
+| [[Rules/Source/actions#Help\|Help]] | "While its ally attacks, your foe darts around, causing a distraction." |
+| [[Rules/Source/actions#Magic\|Magic]] | "Your foe gestures in a deliberate manner and utters an invocation." |
+| [[Rules/Source/actions#Ready\|Ready]] | "Your foe seems to be waiting for something, ready to act." |
+^describing-actions
+
+</div></div>
+
 
 You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [[Rules/Source/actions#Dash\|Dash]] action."
 
@@ -1071,7 +1337,32 @@ If you choose this option, after earning enough Experience Points to attain a ne
 
 The training time required depends on the level to be gained, as shown on the Training to Gain Levels table. The training cost is for the total training time.
 
-![Variant: Training to Gain Levels; Training to Gain Levels](/Rules/Source/tables/variant-training-to-gain-levels-training-to-gain-levels-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/variant-training-to-gain-levels-training-to-gain-levels-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Variant: Training to Gain Levels; Training to Gain Levels
+
+</div>
+
+
+
+# Variant: Training to Gain Levels; Training to Gain Levels
+*Source: Dungeon Master's Guide (2024) p. 49* 
+
+**Training to Gain Levels**
+
+| Level Attained | Training Time | Training Cost |
+|----------------|---------------|---------------|
+| 2–4 | 10 days | 20 GP |
+| 5–10 | 20 days | 40 GP |
+| 11–16 | 30 days | 60 GP |
+| 17–20 | 40 days | 80 GP |
+^training-to-gain-levels
+
+</div></div>
+
 
 ### Level Advancement without XP
 

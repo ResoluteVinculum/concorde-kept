@@ -34,7 +34,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -67,7 +67,8 @@ Whenever you finish a long rest, you can touch a number of objects equal to the 
 | 3rd | 2 |
 | 7th | 3 |
 | 10th | 4 |
-| 15th | 5 |{ #runes-known}
+| 15th | 5 |{ #runes-known}
+
 
 
 The following runes are available to you when you learn a rune. If a rune has a level requirement, you must be at least that level in this class to learn the rune. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your Constitution modifier.
@@ -142,5 +143,27 @@ You learn how to amplify your rune-powered transformation. As a result, the extr
 ## Optional Features
 
 > [!example]- Optional Features: Rune Knight Rune
-> ![Rune Knight Rune](/Rules/Source/lists/list-optfeaturetype-rn.md#Rune%20Knight%20Rune)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/lists/list-optfeaturetype-rn/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Rune Knight Rune
+
+</div>
+
+
+
+# Rune Knight Rune
+*Source: Tasha's Cauldron of Everything* 
+
+- [[Rules/Source/optional-features/cloud-rune-tce\|Cloud Rune]]
+- [[Rules/Source/optional-features/fire-rune-tce\|Fire Rune]]
+- [[Rules/Source/optional-features/frost-rune-tce\|Frost Rune]]
+- [[Rules/Source/optional-features/hill-rune-tce\|Hill Rune]]
+- [[Rules/Source/optional-features/stone-rune-tce\|Stone Rune]]
+- [[Rules/Source/optional-features/storm-rune-tce\|Storm Rune]]
+
+</div></div>
+
 ^list-optfeature-rn

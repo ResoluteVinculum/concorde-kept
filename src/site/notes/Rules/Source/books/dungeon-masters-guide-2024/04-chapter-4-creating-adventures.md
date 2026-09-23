@@ -5,7 +5,7 @@
 # Chapter 4: Creating Adventures
 *Source: Dungeon Master's Guide (2024), p. 105* 
 
-![A mysterious carriage brin...](/Rules/Source/books/dungeon-masters-guide-2024/img/049-03-001-mysterious-carraige.webp#center "A mysterious carriage brings the vampire Strahd von Zarovich out from Castle Ravenloft")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/049-03-001-mysterious-carraige.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/049-03-001-mysterious-carraige.webp)
 
 Whether you're creating your own adventures or using published ones, this chapter helps you create fun and memorable experiences for your players.
 
@@ -72,27 +72,173 @@ Use the tables in this section to inspire adventure ideas for characters of diff
 
 The fate of a village might depend on the abilities of fledgling adventurers. These characters navigate dangerous terrain and explore haunted crypts, where they might fight ferocious wolves, giant spiders, evil cultists, flesh-eating ghouls, and ruthless brigands.
 
-![Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations](/Rules/Source/tables/levels-14-local-heroes-levels-14-adventure-situations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/levels-14-local-heroes-levels-14-adventure-situations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
+
+</div>
+
+
+
+# Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations
+*Source: Dungeon Master's Guide (2024) p. 106* 
+
+**Levels 1–4 Adventure Situations**
+
+| dice: 1d20 | Situation |
+|------------|-----------|
+| 1 | A dragon wyrmling has gathered a band of kobolds to help it amass a hoard. |
+| 2 | Wererats living in a city's sewers plot to take control of the governing council. |
+| 3 | Bandit activity signals efforts to revive an evil cult long ago driven from the region. |
+| 4 | A pack of gnolls is rampaging dangerously close to local farmlands. |
+| 5 | A rivalry between two merchant families escalates from mischief to mayhem. |
+| 6 | A new sinkhole has revealed a long-buried dungeon thought to hold treasure. |
+| 7 | Miners discovered an underground ruin and were captured by monsters living there. |
+| 8 | An innocent person is being framed for the crimes of a shape-shifting monster. |
+| 9 | Ghouls are venturing out of the catacombs at night. |
+| 10 | A notorious criminal hides from the law in an old ruin or abandoned mine. |
+| 11 | A contagion in a forest is causing spiders to grow massive and become aggressive. |
+| 12 | To take revenge against a village for an imagined slight, a necromancer has been animating the corpses in the village cemetery. |
+| 13 | An evil cult is spreading in a village. Those who oppose the cult are marked for sacrifice. |
+| 14 | An abandoned house on the edge of town is haunted by Undead because of a cursed item in the house. |
+| 15 | Creatures from the Feywild enter the world and cause mischief and misfortune among villagers and their livestock. |
+| 16 | A hag's curse is making animals unusually aggressive. |
+| 17 | Bullies have appointed themselves the village militia and are extorting money and food from villagers. |
+| 18 | After a local fisher pulls a grotesque statue from the sea, aquatic monsters start attacking the waterfront at night. |
+| 19 | The ruins on the hill near the village lie under a curse, so people don't go there—except a scholar who wants to study the ruins. |
+| 20 | A new captain has taken charge of a band of pirates or bandits and started raiding more frequently. |
+^levels-14-adventure-situations
+
+</div></div>
+
 
 #### Levels 5–10: Heroes of the Realm
 
 At this tier, characters undertake adventures that might determine the fate of a region. These adventurers venture into fearsome wilds and ancient ruins, where they confront giants, hydras, golems, devils, demons, and mind flayers. They might also face a young dragon that has just established a lair.
 
-![Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations](/Rules/Source/tables/levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
+
+</div>
+
+
+
+# Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
+*Source: Dungeon Master's Guide (2024) p. 106* 
+
+**Levels 5–10 Adventure Situations**
+
+| dice: 1d20 | Situation |
+|------------|-----------|
+| 1 | A group of cultists has summoned a demon to wreak havoc in the city. |
+| 2 | A rebel lures monsters to the cause with the promise of looting the king's treasury. |
+| 3 | An evil Artifact has transformed a forest into a dismal swamp full of horrific monsters. |
+| 4 | An Aberration living in the Underdark sends minions to capture people from the surface to turn those people into new minions. |
+| 5 | A monster (perhaps a devil, slaad, or hag) is impersonating a prominent noble to throw the realm into civil war. |
+| 6 | A master thief plans to steal royal regalia. |
+| 7 | A golem intended to serve as a protector has gone berserk and captured its creator. |
+| 8 | A conspiracy of spies, assassins, and necromancers schemes to overthrow a ruler. |
+| 9 | After establishing a lair, a young dragon is trying to earn the fear and respect of other creatures living nearby. |
+| 10 | The approach of a lone giant alarms the people of a town, but the giant is simply looking for a place to live in peace. |
+| 11 | An enormous monster on display in a menagerie breaks free and goes on a rampage. |
+| 12 | A coven of hags steals cherished memories from travelers. |
+| 13 | A villain seeks powerful magic in an ancient ruin, hoping to use it to conquer the region. |
+| 14 | A scheming aristocrat hosts a masquerade ball, which many guests see as an opportunity to advance their own agendas. At least one shape-shifting monster also attends. |
+| 15 | A ship carrying a valuable treasure or an evil Artifact sinks in a storm or monster attack. |
+| 16 | A natural disaster was actually caused by magic gone awry or a cult's villainous plans. |
+| 17 | A secretive cult uses spies to heighten tensions between two rival nations, hoping to provoke a war that will weaken both. |
+| 18 | Rebels or forces of an enemy nation have kidnapped an important noble. |
+| 19 | The descendants of a displaced people want to reclaim their ancestral city, which is now inhabited by monsters. |
+| 20 | A renowned group of adventurers never returned from an expedition to a famous ruin. |
+^levels-510-adventure-situations
+
+</div></div>
+
 
 #### Levels 11–16: Masters of the Realm
 
-![The death of an ancient dr...](/Rules/Source/books/dungeon-masters-guide-2024/img/050-03-002-death-of-a-dragon.webp#center "The death of an ancient dragon can shake the foundations of the world")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/050-03-002-death-of-a-dragon.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/050-03-002-death-of-a-dragon.webp)
 
 The fate of a nation or even the world depends on the characters at this tier. These adventurers explore uncharted regions and delve into forgotten dungeons, where the characters confront terrible schemers of the Lower Planes, cunning rakshasas and beholders, and hungry purple worms. They might encounter and even defeat a powerful adult dragon. At this tier, they broker peace between nations or lead them into war, and their formidable reputations attract the attention of powerful foes.
 
-![Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations](/Rules/Source/tables/levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
+
+</div>
+
+
+
+# Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
+*Source: Dungeon Master's Guide (2024) p. 106* 
+
+**Levels 11–16 Adventure Situations**
+
+| dice: 1d12 | Situation |
+|------------|-----------|
+| 1 | A portal to the Abyss opens in a cursed location and spews demons into the world. |
+| 2 | A band of hunting giants has driven its prey—enormous beasts—into pastureland. |
+| 3 | An adult dragon's lair is transforming an expanse into an environment inhospitable to the other creatures living there. |
+| 4 | A long-lost journal describes an incredible journey to a hidden subterranean realm full of magical wonders. |
+| 5 | Cultists hope to persuade a dragon to undergo the rite that will transform it into a dracolich. |
+| 6 | The ruler of the realm is sending an emissary to a hostile neighbor to negotiate a truce, and the emissary needs protection. |
+| 7 | A castle or city has been drawn into another plane of existence. |
+| 8 | A storm tears across the land, with a mysterious flying citadel in the eye of the storm. |
+| 9 | Two parts of a magic item are in the hands of bitter enemies; the third piece is lost. |
+| 10 | Evil cultists gather from around the world to summon a monstrous god or alien entity. |
+| 11 | A tyrannical ruler outlaws the use of magic without official sanction. A secret society of spellcasters seeks to oust the tyrant. |
+| 12 | During a drought, low water levels in a lake reveal previously unknown ancient ruins that contain a powerful evil. |
+^levels-1116-adventure-situations
+
+</div></div>
+
 
 #### Levels 17–20: Masters of the World
 
 At this tier, adventures have far-reaching consequences, possibly determining the fate of millions on the Material Plane and even places beyond. Characters traverse otherworldly realms and explore demiplanes and other extraplanar locales, where they fight terrible balor demons, titans, archdevils, liches, ancient dragons, and even manifestations of the gods.
 
-![Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations](/Rules/Source/tables/levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
+
+</div>
+
+
+
+# Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
+*Source: Dungeon Master's Guide (2024) p. 106* 
+
+**Levels 17–20 Adventure Situations**
+
+| dice: 1d10 | Situation |
+|------------|-----------|
+| 1 | An ancient dragon is scheming to destroy a god and take the god's place in the pantheon. The dragon's minions are searching for Artifacts that can summon and weaken this god. |
+| 2 | A band of giants drove away a metallic dragon and took over the dragon's lair, and the dragon wants to reclaim the lair. |
+| 3 | An ancient hero returns from the dead to prepare the world for the return of an equally ancient monster. |
+| 4 | An ancient Artifact has the power to defeat or imprison a rampaging titan. |
+| 5 | A god of agriculture is angry, causing rivers to dry up and crops to wither. |
+| 6 | An Artifact belonging to a god falls into mortal hands. |
+| 7 | A titan imprisoned in the Underdark begins to break free, causing terrible earthquakes that are only a hint of the destruction that the titan will cause if it is released. |
+| 8 | A lich tries to exterminate any spellcasters that approach the lich's level of power. |
+| 9 | A holy temple was built around a portal leading to one of the Lower Planes to prevent any evil from passing through in either direction. Now the temple has come under siege from both directions. |
+| 10 | Five ancient metallic dragons lair in the Pillars of Creation. If all these dragons are killed, the world will collapse into chaos. One has just been slain. |
+^levels-1720-adventure-situations
+
+</div></div>
+
 
 ### Adventure Setting
 
@@ -130,7 +276,7 @@ An inhabited adventure location has its own ecosystem. The creatures that live t
 
 For example, characters who find a pool of fresh water in a dungeon might infer that many of the creatures inhabiting the dungeon come to that spot to drink. The adventurers might set an ambush at the pool. Likewise, closed or locked doors can restrict the movement of some creatures. A dungeon infested with carrion crawlers or stirges would need open passages so that these creatures can move about to find food.
 
-![Common Map Symbols](/Rules/Source/books/dungeon-masters-guide-2024/img/051-03-003-common-map-symbols.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/051-03-003-common-map-symbols.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/051-03-003-common-map-symbols.webp)
 
 #### Adventure Inhabitants
 
@@ -169,21 +315,102 @@ Take the time to flesh out an NPC who serves as a patron. Once in a while, it ca
 
 The Patron Hooks table offers some suggestions for ways a patron can lead characters to an adventure situation. The "Campaign Start" section in chapter 5 offers some more suggestions for patrons.
 
-![Adventure Patrons; Patron Hooks](/Rules/Source/tables/adventure-patrons-patron-hooks-xdmg.md)
 
-![When rival factions inhabi...](/Rules/Source/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp#center "When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/adventure-patrons-patron-hooks-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Adventure Patrons; Patron Hooks
+
+</div>
+
+
+
+# Adventure Patrons; Patron Hooks
+*Source: Dungeon Master's Guide (2024) p. 110* 
+
+**Patron Hooks**
+
+| dice: 1d6 | Hook |
+|-----------|------|
+| 1 | A town crier announces that someone is hoping to hire adventurers. |
+| 2 | Someone the characters want to impress or need a favor from asks them to deal with the adventure situation. |
+| 3 | When the characters arrive in a new city, they find a job board where someone has posted in search of adventurers. |
+| 4 | A wealthy patron who is aware of the adventurers' accomplishments writes to them, offering to pay them for their talents. |
+| 5 | A citizen in need, who has learned of the adventurers' accomplishments and kindness, travels miles to find them and implore them for help. |
+| 6 | The adventurers are arrested (on valid or invented charges) and offered a chance to escape punishment by completing a quest. |
+^patron-hooks
+
+</div></div>
+
+
+![/Rules/Source/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp)
 
 ### Supernatural Hooks
 
 Celestial omens, vivid dreams, or other magical phenomena can point characters to the adventure situation and suggest a course of action. The Supernatural Hooks table offers some suggestions.
 
-![Supernatural Hooks](/Rules/Source/tables/supernatural-hooks-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supernatural-hooks-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supernatural Hooks
+
+</div>
+
+
+
+# Supernatural Hooks
+*Source: Dungeon Master's Guide (2024) p. 111* 
+
+**Supernatural Hooks**
+
+| dice: 1d6 | Hook |
+|-----------|------|
+| 1 | The characters all have a vivid dream that foreshadows elements of the adventure. |
+| 2 | While preparing spells, one character receives a quest from a god or patron. |
+| 3 | A fortune teller's reading for one of the characters points to a quest and offers hints about challenges that lie ahead. |
+| 4 | Flames, clouds, smoke, or huge flocks of birds take distinct shapes that portend the adventure situation. |
+| 5 | Animals or animated objects speak clearly to direct the adventurers toward the situation. |
+| 6 | Someone who died returns as a ghost and haunts the characters. The ghost prompts the characters to investigate the cause of the ghost's death and put it to rest. |
+^supernatural-hooks
+
+</div></div>
+
 
 ### Happenstance Hooks
 
 Sometimes, characters just happen on an adventure through sheer coincidence—or at least what appears to be coincidence (which might actually involve divine or other supernatural intervention). The Happenstance Hooks table provides some ideas.
 
-![Happenstance Hooks](/Rules/Source/tables/happenstance-hooks-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/happenstance-hooks-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Happenstance Hooks
+
+</div>
+
+
+
+# Happenstance Hooks
+*Source: Dungeon Master's Guide (2024) p. 111* 
+
+**Happenstance Hooks**
+
+| dice: 1d6 | Hook |
+|-----------|------|
+| 1 | The characters find a letter describing the adventure situation. |
+| 2 | The characters are on an unrelated quest, such as searching for a particular magic item, that leads them into the adventure situation. |
+| 3 | The adventure situation disrupts a festival or ceremony that the characters are attending. |
+| 4 | A magical mishap places the characters in the adventure situation. |
+| 5 | While traveling in a caravan or aboard a ship, the characters befriend an NPC who has news about the adventure situation. |
+| 6 | The characters are attacked after being mistaken for another group of adventurers. They learn about the adventure situation from a clue left behind by their attackers. |
+^happenstance-hooks
+
+</div></div>
+
 
 ## Plan Encounters
 
@@ -225,7 +452,7 @@ The plots of evil cult leaders, malevolent spellcasters, and Fiends often involv
 
 A villain the characters seek to defeat is surrounded by minions powerful enough to kill the adventurers. The characters can flee and hope to confront the villain another day, or they can try to fight their way through the minions. As a complication, the minions might be innocent creatures under the villain's control. Killing the villain means breaking that control, but the adventurers must endure the minions' attacks until the villain falls.
 
-![Goblin raiders prepare an ambush in a gorge](/Rules/Source/books/dungeon-masters-guide-2024/img/053-03-005-goblin-raiders.webp#center)
+![/Rules/Source/books/dungeon-masters-guide-2024/img/053-03-005-goblin-raiders.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/053-03-005-goblin-raiders.webp)
 
 ### Keeping the Adventure Moving
 
@@ -259,7 +486,7 @@ The "Running Exploration" section in chapter 2 can help you craft these encounte
 
 ### Combat Encounters
 
-![Otto's conversation with a...](/Rules/Source/books/dungeon-masters-guide-2024/img/054-03-006-magic-mirror.webp#center "Otto's conversation with a magic mirror is an exciting social interaction encounter")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/054-03-006-magic-mirror.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/054-03-006-magic-mirror.webp)
 
 The following features can make a combat encounter more interesting or challenging:
 
@@ -285,7 +512,48 @@ Three categories describe the range of encounter difficulty:
 
 Using the XP Budget per Character table, cross-reference the party's level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
 
-![Determine Your XP Budget; XP Budget per Character](/Rules/Source/tables/determine-your-xp-budget-xp-budget-per-character-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/determine-your-xp-budget-xp-budget-per-character-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Determine Your XP Budget; XP Budget per Character
+
+</div>
+
+
+
+# Determine Your XP Budget; XP Budget per Character
+*Source: Dungeon Master's Guide (2024) p. 114* 
+
+**XP Budget per Character**
+
+|    |    |    |    |
+|----|----|----|----|
+| 1 | 50 | 75 | 100 |
+| 2 | 100 | 150 | 200 |
+| 3 | 150 | 225 | 400 |
+| 4 | 250 | 375 | 500 |
+| 5 | 500 | 750 | 1,100 |
+| 6 | 600 | 1,000 | 1,400 |
+| 7 | 750 | 1,300 | 1,700 |
+| 8 | 1,000 | 1,700 | 2,100 |
+| 9 | 1,300 | 2,000 | 2,600 |
+| 10 | 1,600 | 2,300 | 3,100 |
+| 11 | 1,900 | 2,900 | 4,100 |
+| 12 | 2,200 | 3,700 | 4,700 |
+| 13 | 2,600 | 4,200 | 5,400 |
+| 14 | 2,900 | 4,900 | 6,200 |
+| 15 | 3,300 | 5,400 | 7,800 |
+| 16 | 3,800 | 6,100 | 9,800 |
+| 17 | 4,500 | 7,200 | 11,700 |
+| 18 | 5,000 | 8,700 | 14,200 |
+| 19 | 5,500 | 10,700 | 17,200 |
+| 20 | 6,400 | 13,200 | 22,000 |
+^xp-budget-per-character
+
+</div></div>
+
 
 ##### Step 3: Spend Your Budget
 
@@ -340,25 +608,105 @@ If a monster has a feature that lower-level characters can't easily overcome, co
 
 The attitudes, motivations, and behavior of the monsters in an encounter help determine how a social interaction plays out (and whether it might erupt into combat) and influence the course of combat.
 
-![Kobolds build a barricade ...](/Rules/Source/books/dungeon-masters-guide-2024/img/056-03-008-kobold-hold.webp#center "Kobolds build a barricade to keep adventurers at bay")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/056-03-008-kobold-hold.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/056-03-008-kobold-hold.webp)
 
 #### Initial Attitudes
 
 A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [[Rules/Source/variant-rules/friendly-attitude-xphb\|Friendly]], [[Rules/Source/variant-rules/indifferent-attitude-xphb\|Indifferent]], or [[Rules/Source/variant-rules/hostile-attitude-xphb\|Hostile]]. In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
 
-![Initial Attitudes; Initial Attitude](/Rules/Source/tables/initial-attitudes-initial-attitude-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/initial-attitudes-initial-attitude-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Initial Attitudes; Initial Attitude
+
+</div>
+
+
+
+# Initial Attitudes; Initial Attitude
+*Source: Dungeon Master's Guide (2024) p. 116* 
+
+**Initial Attitude**
+
+| 1d12* | Initial Attitude |
+|-------|------------------|
+| 1-4 | Hostile |
+| 5-8 | Indifferent |
+| 9-12 | Friendly |
+*Roll different dice to alter the range and likelihood of possible attitudes. For example, you could roll `1d6` for a predatory monster, `1d6 + 3` for ordinary travelers, or `1d6 + 6` for kindhearted individuals.
+
+</div></div>
+
 
 #### Monster Personality
 
 If an encounter involves a significant individual, use the guidance in the "Nonplayer Characters" section of chapter 3 to flesh out the details of that individual's personality and aims. For a group of nameless monsters, you can decide on a personality based on the monsters' entries in the "Monster Manual", or you can use the Monster Personality table to inform how you portray the monsters and their actions. It's simplest to assign the same personality traits to an entire group of monsters in an encounter. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-![Monster Personality](/Rules/Source/tables/monster-personality-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monster-personality-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monster Personality
+
+</div>
+
+
+
+# Monster Personality
+*Source: Dungeon Master's Guide (2024) p. 116* 
+
+**Monster Personality**
+
+| dice: 1d8 | Personality |
+|-----------|-------------|
+| 1 | Cowardly; surrenders easily |
+| 2 | Greedy; wants treasure |
+| 3 | Boastful; makes a show of bravery but runs from danger |
+| 4 | Disorderly; poorly trained and easily rattled |
+| 5 | Fanatical; ready to die fighting |
+| 6 | Brave; stands firm against danger |
+| 7 | Jocular; taunts enemies |
+| 8 | Orderly; difficult to rattle |
+^monster-personality
+
+</div></div>
+
 
 #### Monster Relationships
 
 Encounters with groups of monsters can be more interesting if rivalries, hatreds, or attachments exist among the monsters in the group. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might flee if its hunting companion is killed, or a mistreated toady might be eager to surrender and betray its boss in return for its life. You can use the Monster Relationships table to inspire such relationships within a monster group.
 
-![Monster Relationships](/Rules/Source/tables/monster-relationships-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/monster-relationships-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Monster Relationships
+
+</div>
+
+
+
+# Monster Relationships
+*Source: Dungeon Master's Guide (2024) p. 117* 
+
+**Monster Relationships**
+
+| dice: 1d6 | Relationship |
+|-----------|--------------|
+| 1 | Two monsters have a bitter rivalry; each wants the other to suffer. |
+| 2 | One monster, bullied by the others, hangs back and flees at the first opportunity. |
+| 3 | One monster is revered or even worshiped by the others, who will die for it. |
+| 4 | One monster is admired by the group; its allies try to impress or help it. |
+| 5 | One monster cares only for itself and not the rest of the group. |
+| 6 | One monster bullies the others; it forces them into danger, but they want it defeated. |
+^monster-relationships
+
+</div></div>
+
 
 #### Reactive Tactics
 
@@ -413,7 +761,7 @@ It is possible to dial up the urgency to the point that the players feel they do
 
 #### Random Encounters
 
-![Mysterious lights glimmer ...](/Rules/Source/books/dungeon-masters-guide-2024/img/057-03-009-glimmering-lake.webp#center "Mysterious lights glimmer in a remote mountain lake, drawing adventurers to explore")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/057-03-009-glimmering-lake.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/057-03-009-glimmering-lake.webp)
 
 Random encounters are randomly determined encounters that don't occur in a fixed location. The options are often presented in a table. When a random encounter occurs, you roll a die and consult the table to determine what the party encounters. Sample random encounter tables appear in the adventure examples later in this chapter. Similar tables appear in many published adventures and rulebooks, and you can easily create your own by following these examples.
 
@@ -449,7 +797,38 @@ The climactic ending of an adventure fulfills the promise of all that came befor
 
 Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![Bring It to an End; Adventure Climax](/Rules/Source/tables/bring-it-to-an-end-adventure-climax-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/bring-it-to-an-end-adventure-climax-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Bring It to an End; Adventure Climax
+
+</div>
+
+
+
+# Bring It to an End; Adventure Climax
+*Source: Dungeon Master's Guide (2024) p. 120* 
+
+**Adventure Climax**
+
+| dice: 1d10 | Climax |
+|------------|--------|
+| 1 | The adventurers confront a villain and a group of minions in a battle to the finish. |
+| 2 | The adventurers chase a villain while dodging obstacles designed to thwart them, leading to a final confrontation in the villain's refuge. |
+| 3 | The actions of the adventurers or a villain result in a cataclysmic event that the adventurers must escape. |
+| 4 | The adventurers race to the site where a villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed. |
+| 5 | A villain and two or three lieutenants perform separate rites in a large room. The adventurers must disrupt all the rites. |
+| 6 | An ally betrays the adventurers as they're about to achieve their goal. (Use this climax carefully, and don't overuse it.) |
+| 7 | A portal opens to another plane of existence. Creatures on the other side spill out, forcing the adventurers to close the portal while dealing with a villain at the same time. |
+| 8 | The dungeon begins to collapse while a villain attempts to escape in the chaos. |
+| 9 | The adventurers must choose whether to pursue a fleeing villain or save an NPC they care about or a group of innocents. |
+| 10 | Just when the characters think the main threat is defeated, it transforms into a different monster or a more powerful form. |
+^adventure-climax
+
+</div></div>
+
 
 ### Denouement
 
@@ -471,17 +850,67 @@ Characters might find small amounts of treasure in the pockets, pouches, or pers
 
 You can use the Random Individual Treasure table to determine how much treasure a single monster has based on its Challenge Rating (CR). The table includes the average total in parentheses, which you can use instead of rolling. To determine the total amount of treasure for a group of similar creatures, you can roll once and multiply the total by the number of creatures in the group.
 
-![Random Individual Treasure](/Rules/Source/tables/random-individual-treasure-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/random-individual-treasure-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Random Individual Treasure
+
+</div>
+
+
+
+# Random Individual Treasure
+*Source: Dungeon Master's Guide (2024) p. 120* 
+
+**Random Individual Treasure**
+
+| CR | Treasure |
+|----|----------|
+| 0–4 | `3d6` (10) GP |
+| 5–10 | `2d8 × 10` (90) GP |
+| 11–16 | `2d10 × 10` (110) PP |
+| 17+ | `2d8 × 100` (900) PP |
+^random-individual-treasure
+
+</div></div>
+
 
 ### Treasure Hoards
 
 Adventurers sometimes discover large caches of treasure, the accumulated wealth of a large group of creatures or the belongings of a single powerful creature that hoards valuables. The Random Treasure Hoard table can help you create such a cache. When determining the contents of a hoard belonging to one monster, use the row for that monster's Challenge Rating (CR). When the hoard belongs to a large group of monsters, use the CR of the monster that leads the group. Each row includes average results for monetary treasure, which you can use instead of rolling. To create a hoard for a monster that is particularly fond of amassing treasure (such as a dragon), you can roll twice on the table or roll once and double the total.
 
-As a rough benchmark, aim to roll on the Random Treasure Hoard table about once per game session. Use the guidelines in chapter 7 to determine which magic items are in the hoard (see "Awarding Magic Items" and "Random Magic Items").
+As a rough benchmark, aim to roll on the Random Treasure Hoard table about once per game session. Use the guidelines in chapter 7 to determine which magic items are in the hoard (see).
 
-![Treasure Hoards; Random Treasure Hoard](/Rules/Source/tables/treasure-hoards-random-treasure-hoard-xdmg.md)
 
-![A climactic battle at the ...](/Rules/Source/books/dungeon-masters-guide-2024/img/058-03-010-temple-of-elemental-evil.webp#center "A climactic battle at the Temple of Elemental Evil brings an adventure to a dramatic end")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/treasure-hoards-random-treasure-hoard-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Treasure Hoards; Random Treasure Hoard
+
+</div>
+
+
+
+# Treasure Hoards; Random Treasure Hoard
+*Source: Dungeon Master's Guide (2024) p. 120* 
+
+**Random Treasure Hoard**
+
+| CR | Monetary Treasure | Magic Items |
+|----|-------------------|-------------|
+| 0–4 | `2d4 × 100` (500) GP | `1d4-1` |
+| 5–10 | `8d10 × 100` (4,400) GP | `1d3` |
+| 11–16 | `8d8 × 1,000` (36,000) GP | `1d4` |
+| 17+ | `6d10 × 10,000` (330,000) GP | `1d6` |
+^random-treasure-hoard
+
+</div></div>
+
+
+![/Rules/Source/books/dungeon-masters-guide-2024/img/058-03-010-temple-of-elemental-evil.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/058-03-010-temple-of-elemental-evil.webp)
 
 ### Quest Rewards
 
@@ -565,7 +994,32 @@ The adventure consists of these encounters.
 
 Use the Mine map in Appendix B. In the weeks since the miners abandoned the place, pests have flourished in the tunnels. Each time the characters enter a distinct area of the mine, roll on the following table.
 
-![Exploring the Mine](/Rules/Source/tables/exploring-the-mine-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/exploring-the-mine-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Exploring the Mine
+
+</div>
+
+
+
+# Exploring the Mine
+*Source: Dungeon Master's Guide (2024) p. 123* 
+
+| dice: 1d6 | Encounter |
+|-----------|-----------|
+| 1 | Four [[Rules/Source/bestiary/plant/violet-fungus-xmm\|Violet Fungi]] and one [[Rules/Source/bestiary/monstrosity/rust-monster-xmm\|Rust Monster]] |
+| 2 | One [[Rules/Source/bestiary/beast/giant-spider-xmm\|Giant Spider]] and two [[Rules/Source/bestiary/beast/swarm-of-insects-xmm\|Swarms of Insects]] (spiders) |
+| 3 | One [[Rules/Source/bestiary/aberration/darkmantle-xmm\|Darkmantle]] and three [[Rules/Source/bestiary/aberration/piercer-xmm\|Piercers]] |
+| 4 | A patch of [[Rules/Source/traps-hazards/yellow-mold-xdmg\|yellow mold]] (see "Hazards" in chapter 3) on a miner's remains |
+| 5 | One [[Rules/Source/bestiary/ooze/gelatinous-cube-xmm\|Gelatinous Cube]] |
+| 6 | Sounds of Terror (see below) |
+^1-encounter
+
+</div></div>
+
 
 ##### Sounds of Terror
 
@@ -632,7 +1086,33 @@ Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to det
 
 Melchis leads the characters into the jungle, aiming for the shore of the lake. This stage covers about 180 miles through the dense forest. Each day of the journey, roll once on the following table to determine what the characters encounter on their journey, if anything.
 
-![Stage 2](/Rules/Source/tables/stage-2-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/stage-2-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Stage 2
+
+</div>
+
+
+
+# Stage 2
+*Source: Dungeon Master's Guide (2024) p. 124* 
+
+| dice: 1d20 | Encounter |
+|------------|-----------|
+| 1–14 | No encounter |
+| 15 | An [[Rules/Source/variant-rules/indifferent-attitude-xphb\|Indifferent]] [[Rules/Source/bestiary/beast/giant-ape-xmm\|Giant Ape]] protects its territory; its primary concern is getting the party to leave. |
+| 16 | A [[Rules/Source/variant-rules/hostile-attitude-xphb\|Hostile]] [[Rules/Source/bestiary/beast/tyrannosaurus-rex-xmm\|Tyrannosaurus Rex]] is on the hunt and tries to eat the characters. |
+| 17 | Three [[Rules/Source/bestiary/beast/allosaurus-xmm\|Allosauruses]] are hunting in the jungle; they are [[Rules/Source/variant-rules/hostile-attitude-xphb\|Hostile]] and treat the party as prey. |
+| 18 | Two [[Rules/Source/bestiary/beast/ankylosaurus-xmm\|Ankylosauruses]] tromp through the forest nearby. They are territorial and aggressive but [[Rules/Source/variant-rules/indifferent-attitude-xphb\|Indifferent]], and they won't pursue a fleeing party. |
+| 19 | A band of humans, including a [[Rules/Source/bestiary/humanoid/warrior-veteran-xmm\|Warrior Veteran]] and eight [[Rules/Source/bestiary/humanoid/warrior-infantry-xmm\|Warrior Infantry]], watch the party. They are [[Rules/Source/variant-rules/indifferent-attitude-xphb\|Indifferent]]; they live in the jungle and aren't used to seeing other people. |
+| 20 | Four [[Rules/Source/bestiary/monstrosity/minotaur-of-baphomet-xmm\|Minotaurs of Baphomet]] prowl the jungle looking for Humanoids they can capture and bring back to the temple. |
+^1-encounter
+
+</div></div>
+
 
 ##### Stage 3
 
@@ -654,7 +1134,7 @@ The Horns of the Beast can be destroyed only by dropping it in the River Oceanus
 
 *Adventure for Level 7 Characters*
 
-![Minsc, Boo, and Delina nav...](/Rules/Source/books/dungeon-masters-guide-2024/img/059-03-011-boreal-ball.webp#center "Minsc, Boo, and Delina navigate the intrigues of the Boreal Ball")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/059-03-011-boreal-ball.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/059-03-011-boreal-ball.webp)
 
 - **Situation.** The Baron of the Boreal Ball, a minor noble of the Feywild, holds an unending ball in his ice palace. Behind the revelry, the ball is the scene for schemes and intrigues.  
 - **Hook.** The adventurers receive a magical invitation to the Boreal Ball that teleports the group to the ball at the appointed time.  

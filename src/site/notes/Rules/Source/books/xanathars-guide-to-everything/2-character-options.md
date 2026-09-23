@@ -15,7 +15,59 @@ Following the subclasses, the section called "this is your life" presents a seri
 
 The chapter concludes with a selection of feats for the races in the player's handbook, offering ways to delve deeper into a character's racial identity.
 
-![Character Options; Subclasses](/Rules/Source/tables/character-options-subclasses-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/character-options-subclasses-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Character Options; Subclasses
+
+</div>
+
+
+
+# Character Options; Subclasses
+*Source: Xanathar's Guide to Everything p. 7* 
+
+**Subclasses**
+
+| Class | Subclass | Level Available | Description |
+|-------|----------|-----------------|-------------|
+| Barbarian | Path of the Ancestral Guardian | 3rd | Calls on the spirits of honored ancestors to protect others |
+| Barbarian | Path of the Storm Herald | 3rd | Filled with a rage that channels the primal magic of the storm |
+| Barbarian | [[Rules/Source/classes/barbarian-xphb-path-of-the-zealot-xphb\|Path of the Zealot]] | 3rd | Fueled by a religious zeal that visits destruction on foes |
+| Bard | [[Rules/Source/classes/bard-xphb-college-of-glamour-xphb\|College of Glamour]] | 3rd | Wields the beguiling, glorious magic of the Feywild |
+| Bard | College of Swords | 3rd | Entertains and slays with daring feats of weapon prowess |
+| Bard | College of Whispers | 3rd | Plants fear and doubt in the minds of others  |
+| Cleric | Forge Domain | 1st | Clad in heavy armor, serves a god of the forge or creation |
+| Cleric | Grave Domain | 1st | Opposes the blight of undeath |
+| Druid | Circle of Dreams | 2nd | Mends wounds, guards the weary, and strides through dreams |
+| Druid | Circle of the Shepherd | 2nd | Summons nature spirits to bolster friends and harry foes |
+| Fighter | Arcane Archer | 3rd | Imbues arrows with spectacular magical effects |
+| Fighter | Cavalier | 3rd | Defends allies and knocks down enemies, often on horseback |
+| Fighter | Samurai | 3rd | Combines resilience with courtly elegance and mighty strikes |
+| Monk | Way of the Drunken Master | 3rd | Confounds foes through a martial arts tradition inspired by the swaying of a drunkard |
+| Monk | Way of the Kensei | 3rd | Channels ki through a set of mastered weapons |
+| Monk | Way of the Sun Soul | 3rd | Transforms ki into bursts of fire and searing bolts of light |
+| Paladin | Oath of Conquest | 3rd | Strikes terror in enemies and crushes the forces of chaos |
+| Paladin | Oath of Redemption | 3rd | Offers redemption to the worthy and destruction to those who refuse mercy or righteousness |
+| Ranger | [[Rules/Source/classes/ranger-xphb-gloom-stalker-xphb\|Gloom Stalker]] | 3rd | Unafraid of the dark, relentlessly stalks and ambushes foes |
+| Ranger | Horizon Walker | 3rd | Finds portals to other worlds and channels planar magic |
+| Ranger | Monster Slayer | 3rd | Hunts down creatures of the night and wielders of grim magic |
+| Rogue | Inquisitive | 3rd | Roots out secrets, akin to a masterful detective |
+| Rogue | Mastermind | 3rd | A master tactician, manipulates others |
+| Rogue | Scout | 3rd | Combines stealth with a knack for survival |
+| Rogue | Swashbuckler | 3rd | Delivers deadly strikes with speed and panache  |
+| Sorcerer | Divine Soul | 1st | Harnesses magic bestowed by a god or other divine source |
+| Sorcerer | Shadow Magic | 1st | Wields the grim magic of the Shadowfell |
+| Sorcerer | Storm Sorcery | 1st | Crackles with the power of the storm |
+| Warlock | [[Rules/Source/classes/warlock-xphb-celestial-patron-xphb\|The Celestial]] | 1st | Forges a pact with a being from celestial realms |
+| Warlock | The Hexblade | 1st | Serves a shadowy entity that bestows dread curses |
+| Wizard | War Magic | 2nd | Mixes evocation and abjuration magic to dominate the battlefield |
+^subclasses
+
+</div></div>
+
 
 ## This is Your Life
 
@@ -74,19 +126,161 @@ You had parents, of course, even if they didn't raise you. To determine what you
 
 If your character is a half-elf, a half-orc, or a tiefling, you can use one of the tables below to determine the race of each of your parents. When you have a result, randomly determine which part of the result refers to your father and which to your mother.
 
-![Parents](/Rules/Source/tables/parents-xge.md)
 
-![Half-Elf Parents](/Rules/Source/tables/half-elf-parents-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/parents-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Half-Orc Parents](/Rules/Source/tables/half-orc-parents-xge.md)
+<div class="markdown-embed-title">
 
-![Tiefling Parents](/Rules/Source/tables/tiefling-parents-xge.md)
+# Parents
+
+</div>
+
+
+
+# Parents
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Parents**
+
+| dice: d100 | Parents |
+|------------|---------|
+| 1-95 | You know who your parents are or were. |
+| 96-100 | You do not know who your parents were. |
+^parents
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/half-elf-parents-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Half-Elf Parents
+
+</div>
+
+
+
+# Half-Elf Parents
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Half-Elf Parents**
+
+| dice: d8 | Parents |
+|----------|---------|
+| 1-5 | One parent was an elf and the other was a human. |
+| 6 | One parent was an elf and the other was a half-elf. |
+| 7 | One parent was a human and the other was a half-elf. |
+| 8 | Both parents were half-elves. |
+^half-elf-parents
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/half-orc-parents-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Half-Orc Parents
+
+</div>
+
+
+
+# Half-Orc Parents
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Half-Orc Parents**
+
+| dice: d8 | Parents |
+|----------|---------|
+| 1-3 | One parent was an orc and the other was a human. |
+| 4-5 | One parent was an orc and the other was a half-orc. |
+| 6-7 | One parent was a human and the other was a half-orc. |
+| 8 | Both parents were half-orcs. |
+^half-orc-parents
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/tiefling-parents-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Tiefling Parents
+
+</div>
+
+
+
+# Tiefling Parents
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Tiefling Parents**
+
+| dice: d8 | Parents |
+|----------|---------|
+| 1-4 | Both parents were humans, their infernal heritage dormant until you came along. |
+| 5-6 | One parent was a tiefling and the other was a human. |
+| 7 | One parent was a tiefling and the other was a devil. |
+| 8 | One parent was a human and the other was a devil. |
+^tiefling-parents
+
+</div></div>
+
 
 #### Birthplace
 
 After establishing your parentage, you can determine where you were born by using the Birthplace table. (Modify the result or roll again if you get a result that's inconsistent with what you know about your parents.) Once you have a result, roll percentile dice. On a roll of 00, a strange event coincided with your birth: the moon briefly turning red, all the milk within a mile spoiling, the water in the area freezing solid in midsummer, all the iron in the home rusting or turning to silver, or some other unusual event of your choice.
 
-![Birthplace](/Rules/Source/tables/birthplace-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/birthplace-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Birthplace
+
+</div>
+
+
+
+# Birthplace
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Birthplace**
+
+| dice: d100 | Location |
+|------------|----------|
+| 1-50 | Home |
+| 51-55 | Home of a family friend |
+| 56-63 | Home of a healer or midwife |
+| 64-65 | Carriage, cart, or wagon |
+| 66-68 | Barn, shed, or other outbuilding |
+| 69-70 | Cave |
+| 71-72 | Field |
+| 73-74 | Forest |
+| 75-77 | Temple |
+| 78 | Battlefield |
+| 79-80 | Alley or street |
+| 81-82 | Brothel, tavern, or inn |
+| 83-84 | Castle, keep, tower, or palace |
+| 85 | Sewer or rubbish heap |
+| 86-88 | Among people of a different race |
+| 89-91 | On board a boat or a ship |
+| 92-93 | In a prison or in the headquarters of a secret organization |
+| 94-95 | In a sage's laboratory |
+| 96 | In the Feywild |
+| 97 | In the Shadowfell |
+| 98 | On the Astral Plane or the Ethereal Plane |
+| 99 | On an Inner Plane of your choice |
+| 100 | On an Outer Plane of your choice |
+^birthplace
+
+</div></div>
+
 
 #### Siblings
 
@@ -112,9 +306,59 @@ You can roll on the Relationship supplemental table to determine how your siblin
 
 You can decide any other details you like about each sibling, including gender, personality, and place in the world.
 
-![Number of Siblings](/Rules/Source/tables/number-of-siblings-xge.md)
 
-![Other Details; Birth Order](/Rules/Source/tables/other-details-birth-order-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/number-of-siblings-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Number of Siblings
+
+</div>
+
+
+
+# Number of Siblings
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Number of Siblings**
+
+| dice: d10 | Siblings |
+|-----------|----------|
+| 1-2 | None |
+| 3-4 | `1d3` |
+| 5-6 | `1d4+1` |
+| 7-8 | `1d6+2` |
+| 9-10 | `1d8+3` |
+^number-of-siblings
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/other-details-birth-order-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Other Details; Birth Order
+
+</div>
+
+
+
+# Other Details; Birth Order
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Birth Order**
+
+| dice: 2d6 | Birth Order |
+|-----------|-------------|
+| 2 | Twin, triplet, or quadruplet |
+| 3-7 | Older |
+| 8-12 | Younger |
+^birth-order
+
+</div></div>
+
 
 #### Family and Friends
 
@@ -130,15 +374,158 @@ Next, refer to the Family Lifestyle table to determine the general circumstances
 
 You can roll on the Relationship table to determine how your family members or other important figures in your life feel about you. You can also use the Race, Occupation, and Alignment tables to learn more about the family members or guardians who raised you. **Developer's Note:** Below you will find a link to a **Story Template** which uses the tables in this and the sections below to randomly determine your back story. Instructions on how to use the template are given in the template itself.
 
-![Supplemental Tables; Family](/Rules/Source/tables/supplemental-tables-family-xge.md)
 
-![Supplemental Tables; Absent Parent](/Rules/Source/tables/supplemental-tables-absent-parent-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-family-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Supplemental Tables; Family Lifestyle](/Rules/Source/tables/supplemental-tables-family-lifestyle-xge.md)
+<div class="markdown-embed-title">
 
-![Supplemental Tables; Childhood Home](/Rules/Source/tables/supplemental-tables-childhood-home-xge.md)
+# Supplemental Tables; Family
 
-![Supplemental Tables; Childhood Memories](/Rules/Source/tables/supplemental-tables-childhood-memories-xge.md)
+</div>
+
+
+
+# Supplemental Tables; Family
+*Source: Xanathar's Guide to Everything p. 63* 
+
+**Family**
+
+| dice: d100 | Family |
+|------------|--------|
+| 1 | None |
+| 2 | Institution, such as an asylum |
+| 3 | Temple |
+| 4-5 | Orphanage |
+| 6-7 | Guardian |
+| 8-15 | Paternal or maternal aunt, uncle, or both |
+| 16-25 | Paternal or maternal grandparent(s) |
+| 26-35 | Adoptive family (same or different race) |
+| 36-55 | Single father or stepfather |
+| 56-75 | Single mother or stepmother |
+| 76-100 | Mother and father |
+^family
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-absent-parent-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Absent Parent
+
+</div>
+
+
+
+# Supplemental Tables; Absent Parent
+*Source: Xanathar's Guide to Everything p. 63* 
+
+**Absent Parent**
+
+| dice: d4 | Fate |
+|----------|------|
+| 1 | Your parent died (roll on the Cause of Death supplemental table). |
+| 2 | Your parent was imprisoned, enslaved, or otherwise taken away. |
+| 3 | Your parent abandoned you |
+| 4 | Your parent disappeared to an unknown fate. |
+^absent-parent
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-family-lifestyle-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Family Lifestyle
+
+</div>
+
+
+
+# Supplemental Tables; Family Lifestyle
+*Source: Xanathar's Guide to Everything p. 63* 
+
+**Family Lifestyle**
+
+| dice: 3d6 | Lifestyle* |
+|-----------|------------|
+| 3 | Wretched (-40) |
+| 4-5 | Squalid (-20) |
+| 6-8 | Poor (-10) |
+| 9-12 | Modest (+0) |
+| 13-15 | Comfortable (+10) |
+| 16-17 | Wealthy (+20) |
+| 18 | Aristocratic (+40) |
+* Use the number in this result as a modifier to your roll on the Childhood Home table.
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-childhood-home-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Childhood Home
+
+</div>
+
+
+
+# Supplemental Tables; Childhood Home
+*Source: Xanathar's Guide to Everything p. 63* 
+
+**Childhood Home**
+
+| d100 + <span>[Lifestyle Modifier]</span> | Home |
+|------------------------------------------|------|
+| 0 | On the streets |
+| 1-20 | Rundown shack |
+| 21-30 | No permanent residence |
+| 31-40 | Encampment or village in the wilderness |
+| 41-50 | Apartment in a rundown neighborhood |
+| 51-70 | Small house |
+| 71-90 | Large house |
+| 91-110 | Mansion |
+| 111-140 | Palace or castle |
+^childhood-home
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-childhood-memories-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Childhood Memories
+
+</div>
+
+
+
+# Supplemental Tables; Childhood Memories
+*Source: Xanathar's Guide to Everything p. 63* 
+
+**Childhood Memories**
+
+| 3d6 + <span>[Charisma Modifier]</span> | Memory |
+|----------------------------------------|--------|
+| 1-3 | I am still haunted by my childhood, when I was treated badly by my peers. |
+| 4-5 | I spent most of my childhood alone, with no close friends. |
+| 6-8 | Others saw me as being different or strange, and so I had few companions. |
+| 9-12 | I had a few close friends and lived an ordinary childhood. |
+| 13-15 | I had several friends, and my childhood was generally a happy one. |
+| 16-17 | I always found it easy to make friends, and I loved being around people. |
+| 18-25 | Everyone knew who I was, and I had friends everywhere I went. |
+^childhood-memories
+
+</div></div>
+
 
 ### Personal Decisions
 
@@ -497,31 +884,369 @@ The older a character is, the greater the chance for multiple life events, as sh
 
 After you know the number of life events your character has experienced, roll once on the Life Events table for each of them. Many of the results on that table direct you to one of the secondary tables that follow. Once you have determined all of your character's life events, you can arrange them in any chronological order you see fit.
 
-![Life Events by Age](/Rules/Source/tables/life-events-by-age-xge.md)
 
-![Life Events](/Rules/Source/tables/life-events-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/life-events-by-age-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Life Events by Age
+
+</div>
+
+
+
+# Life Events by Age
+*Source: Xanathar's Guide to Everything p. 69* 
+
+**Life Events by Age**
+
+| dice: d100 | Current Age | Life Events |
+|------------|-------------|-------------|
+| 1-20 | 20 years or younger | 1 |
+| 21-59 | 21-30 years | `1d4` |
+| 60-69 | 31-40 years | `1d6` |
+| 70-89 | 41-50 years | `1d8` |
+| 90-99 | 51-60 years | `1d10` |
+| 100 | 61 years or older | `1d12` |
+^life-events-by-age
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/life-events-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Life Events
+
+</div>
+
+
+
+# Life Events
+*Source: Xanathar's Guide to Everything p. 69* 
+
+**Life Events**
+
+| dice: d100 | Event |
+|------------|-------|
+| 1-10 | You suffered a tragedy. Roll on the Tragedies table. |
+| 11-20 | You gained a bit of good fortune. Roll on the Boons table. |
+| 21-30 | You fell in love or got married. If you get this result more than once, you can choose to have a child instead. Work with your DM to determine the identity of your love interest. |
+| 31-40 | You made an enemy of an adventurer. Roll a `d6`. An odd number indicates you are to blame for the rift, and an even number indicates you are blameless. Use the supplemental tables and work with your DM to determine this hostile character's identity and the danger this enemy poses to you. |
+| 41-50 | You made a friend of an adventurer. Use the supplemental tables and work with your DM to add more detail to this friendly character and establish how your friendship began. |
+| 51-70 | You spent time working in a job related to your background. Start the game with an extra `2d6` gp. |
+| 71-75 | You met someone important. Use the supplemental tables to determine this character's identity and how this individual feels about you. Work out additional details with your DM as needed to fit this character into your backstory. |
+| 76-80 | You went on an adventure. Roll on the Adventures table to see what happened to you. Work with your DM to determine the nature of the adventure and the creatures you encountered. |
+| 81-85 | You had a supernatural experience. Roll on the Supernatural Events table to find out what it was. |
+| 86-90 | You fought in a battle. Roll on the War table to learn what happened to you. Work with your DM to come up with the reason for the battle and the factions involved. It might have been a small conflict between your community and a band of orcs, or it could have been a major battle in a larger war. |
+| 91-95 | You committed a crime or were wrongly accused of doing so. Roll on the Crime table to determine the nature of the offense and on the Punishment table to see what became of you. |
+| 96-99 | You encountered something magical. Roll on the Arcane Matters table. |
+| 100 | Something truly strange happened to you. Roll on the Weird Stuff table. |
+^life-events
+
+</div></div>
+
 
 #### Secondary Tables
 
 These tables add detail to many of the results on the Life Events table. The tables are in alphabetical order.
 
-![Secondary Tables; Adventures](/Rules/Source/tables/secondary-tables-adventures-xge.md)
 
-![Secondary Tables; Arcane Matters](/Rules/Source/tables/secondary-tables-arcane-matters-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-adventures-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Secondary Tables; Boons](/Rules/Source/tables/secondary-tables-boons-xge.md)
+<div class="markdown-embed-title">
 
-![Secondary Tables; Crime](/Rules/Source/tables/secondary-tables-crime-xge.md)
+# Secondary Tables; Adventures
 
-![Secondary Tables; Punishment](/Rules/Source/tables/secondary-tables-punishment-xge.md)
+</div>
 
-![Secondary Tables; Supernatural Events](/Rules/Source/tables/secondary-tables-supernatural-events-xge.md)
 
-![Secondary Tables; Tragedies](/Rules/Source/tables/secondary-tables-tragedies-xge.md)
 
-![Secondary Tables; War](/Rules/Source/tables/secondary-tables-war-xge.md)
+# Secondary Tables; Adventures
+*Source: Xanathar's Guide to Everything p. 70* 
 
-![Secondary Tables; Weird Stuff](/Rules/Source/tables/secondary-tables-weird-stuff-xge.md)
+**Adventures**
+
+| dice: d100 | Outcome |
+|------------|---------|
+| 1-10 | You nearly died. You have nasty scars on your body, and you are missing an ear, `1d3` fingers, or `1d4` toes. |
+| 11-20 | You suffered a grievous injury. Although the wound healed, it still pains you from time to time. |
+| 21-30 | You were wounded, but in time you fully recovered. |
+| 31-40 | You contracted a disease while exploring a filthy warren. You recovered from the disease, but you have a persistent cough, pockmarks on your skin, or prematurely gray hair. |
+| 41-50 | You were poisoned by a trap or a monster. You recovered, but the next time you must make a saving throw against poison, you make the saving throw with disadvantage. |
+| 51-60 | You lost something of sentimental value to you during your adventure. Remove one trinket from your possessions. |
+| 61-70 | You were terribly frightened by something you encountered and ran away, abandoning your companions to their fate. |
+| 71-80 | You learned a great deal during your adventure. The next time you make an ability check or a saving throw, you have advantage on the roll. |
+| 81-90 | You found some treasure on your adventure. You have `2d6` gp left from your share of it. |
+| 91-99 | You found a considerable amount of treasure on your adventure. You have `+50` gp left from your share of it. |
+| 100 | You came across a common magic item (of the DM's choice). |
+^adventures
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-arcane-matters-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Arcane Matters
+
+</div>
+
+
+
+# Secondary Tables; Arcane Matters
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Arcane Matters**
+
+| dice: d10 | Magical Event |
+|-----------|---------------|
+| 1 | You were [[Rules/Source/conditions#Charmed\|charmed]] or [[Rules/Source/conditions#Frightened\|frightened]] by a spell. |
+| 2 | You were injured by the effect of a spell. |
+| 3 | You witnessed a powerful spell being cast by a cleric, a druid, a sorcerer, a warlock, or a wizard. |
+| 4 | You drank a potion (of the DM's choice). |
+| 5 | You found a spell scroll (of the DM's choice) and succeeded in casting the spell it contained. |
+| 6 | You were affected by teleportation magic. |
+| 7 | You turned [[Rules/Source/conditions#Invisible\|invisible]] for a time. |
+| 8 | You identified an illusion for what it was. |
+| 9 | You saw a creature being conjured by magic. |
+| 10 | Your fortune was read by a diviner. Roll twice on the Life Events table, but don't apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true). |
+^arcane-matters
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-boons-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Boons
+
+</div>
+
+
+
+# Secondary Tables; Boons
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Boons**
+
+| dice: d10 | Boon |
+|-----------|------|
+| 1 | A friendly wizard gave you a spell scroll containing one cantrip (of the DM's choice). |
+| 2 | You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM. |
+| 3 | You found a riding horse. |
+| 4 | You found some money. You have `1d20` gp in addition to your regular starting funds. |
+| 5 | A relative bequeathed you a simple weapon of your choice. |
+| 6 | You found something interesting. You gain one additional trinket. |
+| 7 | You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum. |
+| 8 | A friendly alchemist gifted you with a potion of healing or a flask of acid, as you choose. |
+| 9 | You found a treasure map. |
+| 10 | A distant relative left you a stipend that enables you to live at the comfortable lifestyle for `1d20` years. If you choose to live at a higher lifestyle, you reduce the price of the lifestyle by 2 gp during that time period. |
+^boons
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-crime-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Crime
+
+</div>
+
+
+
+# Secondary Tables; Crime
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Crime**
+
+| dice: d8 | Crime |
+|----------|-------|
+| 1 | Murder |
+| 2 | Theft |
+| 3 | Burglary |
+| 4 | Assault |
+| 5 | Smuggling |
+| 6 | Kidnapping |
+| 7 | Extortion |
+| 8 | Counterfeiting |
+^crime
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-punishment-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Punishment
+
+</div>
+
+
+
+# Secondary Tables; Punishment
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Punishment**
+
+| dice: d12 | Punishment |
+|-----------|------------|
+| 1-3 | You did not commit the crime and were exonerated after being accused. |
+| 4-6 | You committed the crime or helped do so, but nonetheless the authorities found you not guilty. |
+| 7-8 | You were nearly caught in the act. You had to flee and are wanted in the community where the crime occurred. |
+| 9-12 | You were caught and convicted. You spent time in jail, chained to an oar, or performing hard labor. You served a sentence of `1d4` years or succeeded in escaping after that much time. |
+^punishment
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-supernatural-events-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Supernatural Events
+
+</div>
+
+
+
+# Secondary Tables; Supernatural Events
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Supernatural Events**
+
+| dice: d100 | Event |
+|------------|-------|
+| 1-5 | You were ensorcelled by a fey and enslaved for `1d6` years before you escaped. |
+| 6-10 | You saw a demon and ran away before it could do anything to you. |
+| 11-15 | A devil tempted you. Make a DC 10 Wisdom saving throw. On a failed save, your alignment shifts one step toward evil (if it's not evil already), and you start the game with an additional `+50` gp. |
+| 16-20 | You woke up one morning miles from your home, with no idea how you got there. |
+| 21-30 | You visited a holy site and felt the presence of the divine there. |
+| 31-40 | You witnessed a falling red star, a face appearing in the frost, or some other bizarre happening. You are certain that it was an omen of some sort. |
+| 41-50 | You escaped certain death and believe it was the intervention of a god that saved you. |
+| 51-60 | You witnessed a minor miracle. |
+| 61-70 | You explored an empty house and found it to be haunted. |
+| 71-75 | You were briefly possessed. Roll a `d6` to determine what kind of creature possessed you: 1, celestial; 2, devil; 3, demon; 4, fey; 5, elemental; 6, undead. |
+| 76-80 | You saw a ghost. |
+| 81-85 | You saw a ghoul feeding on a corpse. |
+| 86-90 | A Celestial or Fiend visited you in your dreams to give a warning of dangers to come. |
+| 91-95 | You briefly visited the Feywild or Shadowfell. |
+| 96-100 | You saw a portal that you believe leads to another plane of existence. |
+^supernatural-events
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-tragedies-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Tragedies
+
+</div>
+
+
+
+# Secondary Tables; Tragedies
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Tragedies**
+
+| dice: d12 | Tragedy |
+|-----------|---------|
+| 1-2 | A family member or a close friend died. Roll on the Cause of Death supplemental table to find out how. |
+| 3 | A friendship ended bitterly, and the other person is now hostile to you. The cause might have been a misunderstanding or something you or the former friend did. |
+| 4 | You lost all your possessions in a disaster, and you had to rebuild your life. |
+| 5 | You were imprisoned for a crime you didn't commit and spent `1d6` years at hard labor, in jail, or shackled to an oar in a slave galley. |
+| 6 | War ravaged your home community, reducing everything to rubble and ruin. In the aftermath, you either helped your town rebuild or moved somewhere else. |
+| 7 | A lover disappeared without a trace. You have been looking for that person ever since. |
+| 8 | A terrible blight in your home community caused crops to fail, and many starved. You lost a sibling or some other family member. |
+| 9 | You did something that brought terrible shame to you in the eyes of your family. You might have been involved in a scandal, dabbled in dark magic, or offended someone important. The attitude of your family members toward you becomes indifferent at best, though they might eventually forgive you. |
+| 10 | For a reason you were never told, you were exiled from your community. You then either wandered in the wilderness for a time or promptly found a new place to live. |
+| 11 | A romantic relationship ended. Roll a `d6`. An odd number means it ended with bad feelings, while an even number means it ended amicably. |
+| 12 | A current or prospective romantic partner of yours died. Roll on the Cause of Death supplemental table to find out how. If the result is murder, roll a `d12`. On a 1, you were responsible, whether directly or indirectly. |
+^tragedies
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-war-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; War
+
+</div>
+
+
+
+# Secondary Tables; War
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**War**
+
+| dice: d12 | War Outcome |
+|-----------|-------------|
+| 1 | You were knocked out and left for dead. You woke up hours later with no recollection of the battle. |
+| 2-3 | You were badly injured in the fight, and you still bear the awful scars of those wounds. |
+| 4 | You ran away from the battle to save your life, but you still feel shame for your cowardice. |
+| 5-7 | You suffered only minor injuries, and the wounds all healed without leaving scars. |
+| 8-9 | You survived the battle, but you suffer from terrible nightmares in which you relive the experience. |
+| 10-11 | You escaped the battle unscathed, though many of your friends were injured or lost. |
+| 12 | You acquitted yourself well in battle and are remembered as a hero. You might have received a medal for your bravery. |
+^war
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/secondary-tables-weird-stuff-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Secondary Tables; Weird Stuff
+
+</div>
+
+
+
+# Secondary Tables; Weird Stuff
+*Source: Xanathar's Guide to Everything p. 70* 
+
+**Weird Stuff**
+
+| dice: d12 | What Happened |
+|-----------|---------------|
+| 1 | You were turned into a toad and remained in that form for `1d4` weeks. |
+| 2 | You were [[Rules/Source/conditions#Petrified\|petrified]] and remained a stone statue for a time until someone freed you. |
+| 3 | You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for `1d6` years. |
+| 4 | A dragon held you as a prisoner for `1d4` months until adventurers killed it. |
+| 5 | You were taken captive by a race of evil humanoids such as drow, kuo-toa, or quaggoths. You lived as a slave in the Underdark until you escaped. |
+| 6 | You served a powerful adventurer as a hireling. You have only recently left that service. Use the supplemental tables and work with your DM to determine the basic details about your former employer. |
+| 7 | You went insane for `1d6` years and recently regained your sanity. A tic or some other bit of odd behavior might linger. |
+| 8 | A lover of yours was secretly a silver dragon. |
+| 9 | You were captured by a cult and nearly sacrificed on an altar to the foul being the cultists served. You escaped, but you fear they will find you. |
+| 10 | You met a demigod, an archdevil, an archfey, a demon lord, or a titan, and you lived to tell the tale. |
+| 11 | You were swallowed by a giant fish and spent a month in its gullet before you escaped. |
+| 12 | A powerful being granted you a wish, but you squandered it on something frivolous. |
+^weird-stuff
+
+</div></div>
+
 
 ### Supplemental Tables
 
@@ -529,19 +1254,232 @@ The supplemental tables below give you a way to randomly determine characteristi
 
 ![/Rules/Source/books/xanathars-guide-to-everything/img/c1044.webp\|center wmed](/img/user/Rules/Source/books/xanathars-guide-to-everything/img/c1044.webp)
 
-![Supplemental Tables; Alignment](/Rules/Source/tables/supplemental-tables-alignment-xge.md)
 
-![Supplemental Tables; Cause of Death](/Rules/Source/tables/supplemental-tables-cause-of-death-xge.md)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-alignment-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-![Supplemental Tables; Class](/Rules/Source/tables/supplemental-tables-class-xge.md)
+<div class="markdown-embed-title">
 
-![Supplemental Tables; Occupation](/Rules/Source/tables/supplemental-tables-occupation-xge.md)
+# Supplemental Tables; Alignment
 
-![Supplemental Tables; Race](/Rules/Source/tables/supplemental-tables-race-xge.md)
+</div>
 
-![Supplemental Tables; Relationship](/Rules/Source/tables/supplemental-tables-relationship-xge.md)
 
-![Supplemental Tables; Status](/Rules/Source/tables/supplemental-tables-status-xge.md)
+
+# Supplemental Tables; Alignment
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Alignment**
+
+| dice: 3d6 | Alignment |
+|-----------|-----------|
+| 3 | Chaotic evil (50%) or chaotic neutral (50%) |
+| 4-5 | Lawful evil |
+| 6-8 | Neutral evil |
+| 9-12 | Neutral |
+| 13-15 | Neutral good |
+| 16-17 | Lawful good (50%) or lawful neutral (50%) |
+| 18 | Chaotic good (50%) or chaotic neutral (50%) |
+^alignment
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-cause-of-death-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Cause of Death
+
+</div>
+
+
+
+# Supplemental Tables; Cause of Death
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Cause of Death**
+
+| dice: d12 | Cause of Death |
+|-----------|----------------|
+| 1 | Unknown |
+| 2 | Murdered |
+| 3 | Killed in battle |
+| 4 | Accident related to class or occupation |
+| 5 | Accident unrelated to class or occupation |
+| 6-7 | Natural causes, such as disease or old age |
+| 8 | Apparent suicide |
+| 9 | Torn apart by an animal or a natural disaster |
+| 10 | Consumed by a monster |
+| 11 | Executed for a crime or tortured to death |
+| 12 | Bizarre event, such as being hit by a meteorite, struck down by an angry god, or killed by a hatching slaad egg |
+^cause-of-death
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-class-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Class
+
+</div>
+
+
+
+# Supplemental Tables; Class
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Class**
+
+| dice: d100 | Class |
+|------------|-------|
+| 1-7 | Barbarian |
+| 8-14 | Bard |
+| 15-29 | Cleric |
+| 30-36 | Druid |
+| 37-52 | Fighter |
+| 53-58 | Monk |
+| 59-64 | Paladin |
+| 65-70 | Ranger |
+| 71-84 | Rogue |
+| 85-89 | Sorcerer |
+| 90-94 | Warlock |
+| 95-100 | Wizard |
+^class
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-occupation-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Occupation
+
+</div>
+
+
+
+# Supplemental Tables; Occupation
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Occupation**
+
+| dice: d100 | Occupation |
+|------------|------------|
+| 1-5 | Academic |
+| 6-10 | Adventurer (roll on the Class table) |
+| 11 | Aristocrat |
+| 12-26 | Artisan or guild member |
+| 27-31 | Criminal |
+| 32-36 | Entertainer |
+| 37-38 | Exile, hermit, or refugee |
+| 39-43 | Explorer or wanderer |
+| 44-55 | Farmer or herder |
+| 56-60 | Hunter or trapper |
+| 61-75 | Laborer |
+| 76-80 | Merchant |
+| 81-85 | Politician or bureaucrat |
+| 86-90 | Priest |
+| 91-95 | Sailor |
+| 96-100 | Soldier |
+^occupation
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-race-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Race
+
+</div>
+
+
+
+# Supplemental Tables; Race
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Race**
+
+| dice: d100 | Race |
+|------------|------|
+| 1-40 | Human |
+| 41-50 | Dwarf |
+| 51-60 | Elf |
+| 61-70 | Halfling |
+| 71-75 | Dragonborn |
+| 76-80 | Gnome |
+| 81-85 | Half-elf |
+| 86-90 | Half-orc |
+| 91-95 | Tiefling |
+| 96-100 | DM's choice |
+^race
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-relationship-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Relationship
+
+</div>
+
+
+
+# Supplemental Tables; Relationship
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Relationship**
+
+| dice: 3d4 | Attitude |
+|-----------|----------|
+| 3-4 | Hostile |
+| 5-10 | Friendly |
+| 11-12 | Indifferent |
+^relationship
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/supplemental-tables-status-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Supplemental Tables; Status
+
+</div>
+
+
+
+# Supplemental Tables; Status
+*Source: Xanathar's Guide to Everything p. 72* 
+
+**Status**
+
+| dice: 3d6 | Status |
+|-----------|--------|
+| 3 | Dead (roll on the Cause of Death table) |
+| 4-5 | Missing or unknown |
+| 6-8 | Alive, but doing poorly due to injury, financial trouble, or relationship difficulties |
+| 9-12 | Alive and well |
+| 13-15 | Alive and quite successful |
+| 16-17 | Alive and infamous |
+| 18 | Alive and famous |
+^status
+
+</div></div>
+
 
 ### What's Next?
 
@@ -561,6 +1499,47 @@ This section introduces a collection of special feats that allow you to explore 
 
 The cause of a particular transformation is up to you and your DM. A transformational feat can symbolize a latent quality that has emerged as you age, or a transformation might be the result of an event in the campaign, such as exposure to powerful magic or visiting a place of ancient significance to your race. Transformations are a fundamental motif of fantasy literature and folklore. Figuring out why your character has changed can be a rich addition to your campaign's story.
 
-![Racial Feats](/Rules/Source/tables/racial-feats-xge.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/racial-feats-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Racial Feats
+
+</div>
+
+
+
+# Racial Feats
+*Source: Xanathar's Guide to Everything p. 73* 
+
+**Racial Feats**
+
+| Race | Feat |
+|------|------|
+| Dragonborn | [[Rules/Source/feats/dragon-fear-xge\|Dragon Fear]] |
+| Dragonborn | [[Rules/Source/feats/dragon-hide-xge\|Dragon Hide]] |
+| Dwarf | [[Rules/Source/feats/dwarven-fortitude-xge\|Dwarven Fortitude]] |
+| Dwarf | [[Rules/Source/feats/squat-nimbleness-xge\|Squat Nimbleness]] |
+| Elf | [[Rules/Source/feats/elven-accuracy-xge\|Elven Accuracy]] |
+| Elf (drow) | [[Rules/Source/feats/drow-high-magic-xge\|Drow High Magic]] |
+| Elf (high) | [[Rules/Source/feats/fey-teleportation-xge\|Fey Teleportation]] |
+| Elf (wood) | [[Rules/Source/feats/wood-elf-magic-xge\|Wood Elf Magic]] |
+| Gnome | [[Rules/Source/feats/fade-away-xge\|Fade Away]] |
+| Gnome | [[Rules/Source/feats/squat-nimbleness-xge\|Squat Nimbleness]] |
+| Half-elf | [[Rules/Source/feats/elven-accuracy-xge\|Elven Accuracy]] |
+| Half-elf | [[Rules/Source/feats/prodigy-xge\|Prodigy]] |
+| Half-orc | [[Rules/Source/feats/orcish-fury-xge\|Orcish Fury]] |
+| Half-orc | [[Rules/Source/feats/prodigy-xge\|Prodigy]] |
+| Halfling | [[Rules/Source/feats/bountiful-luck-xge\|Bountiful Luck]] |
+| Halfling | [[Rules/Source/feats/second-chance-xge\|Second Chance]] |
+| Halfling | [[Rules/Source/feats/squat-nimbleness-xge\|Squat Nimbleness]] |
+| Human | [[Rules/Source/feats/prodigy-xge\|Prodigy]] |
+| Tiefling | [[Rules/Source/feats/flames-of-phlegethos-xge\|Flames of Phlegethos]] |
+| Tiefling | [[Rules/Source/feats/infernal-constitution-xge\|Infernal Constitution]] |
+^racial-feats
+
+</div></div>
+
 
 ![/Rules/Source/books/xanathars-guide-to-everything/img/c1045.webp\|center wmed](/img/user/Rules/Source/books/xanathars-guide-to-everything/img/c1045.webp)

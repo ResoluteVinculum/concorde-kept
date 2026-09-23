@@ -5,7 +5,7 @@
 # Chapter 6: Cosmology
 *Source: Dungeon Master's Guide (2024), p. 173* 
 
-![The Lady of Pain appears w...](/Rules/Source/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp#center "The Lady of Pain appears without warning in the bustling streets of Sigil, and the city's residents get out of her way")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp)
 
 The worlds of D&D are part of an immense cosmos. Most campaigns and adventures play out on worlds on the Material Plane. The rest of the multiverse consists of different planes of existence defined in relation to the Material Plane.
 
@@ -66,7 +66,45 @@ When discussing anything to do with deities and their realms, the language used 
 
 The planes with an element of good in their nature are called the Upper Planes, while those with an element of evil are the Lower Planes. A plane's alignment (as shown in the Outer Planes table) is its essence, and a creature whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels uncomfortable.
 
-![Outer Planes](/Rules/Source/tables/outer-planes-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/outer-planes-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Outer Planes
+
+</div>
+
+
+
+# Outer Planes
+*Source: Dungeon Master's Guide (2024) p. 174* 
+
+**Outer Planes**
+
+| Outer Plane | Alignment |
+|-------------|-----------|
+| Abyss | Chaotic Evil |
+| Acheron | Lawful Evil, Lawful Neutral |
+| Arborea | Chaotic Good |
+| Arcadia | Lawful Good, Lawful Neutral |
+| Beastlands | Chaotic Good, Neutral Good |
+| Bytopia | Lawful Good, Neutral Good |
+| Carceri | Chaotic Evil, Neutral Evil |
+| Elysium | Neutral Good |
+| Gehenna | Lawful Evil, Neutral Evil |
+| Hades | Neutral Evil |
+| Limbo | Chaotic Neutral |
+| Mechanus | Lawful Neutral |
+| Mount Celestia | Lawful Good |
+| Nine Hells | Lawful Evil |
+| Outlands | Neutral |
+| Pandemonium | Chaotic Evil, Chaotic Neutral |
+| Ysgard | Chaotic Good, Chaotic Neutral |
+^outer-planes
+
+</div></div>
+
 
 The Upper Planes are the home of Celestials. The Lower Planes are the home of Fiends. The planes in between host their own unique denizens: for example, modrons are Constructs that inhabit Mechanus, and slaadi are Aberrations that thrive in Limbo.
 
@@ -163,7 +201,7 @@ Some legends describe a great tree, a seedling of Yggdrasil, that the god Corell
 
 Planar travelers can climb among the roots and branches of Yggdrasil to travel from plane to plane or world to world. Some creatures position themselves as expert guides to this vast cosmic network of branching pathways, constantly studying the ever-changing paths as the tree continues its eternal growth.
 
-![A portal to the Beastlands...](/Rules/Source/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp#center "A portal to the Beastlands opens amid the branches of the World Tree")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp)
 
 ## Planar Adventuring
 
@@ -185,7 +223,38 @@ Natives of the Upper Planes also have roles to play in the Blood War. While most
 
 You can use the Planar Adventure Situations table instead of the tables in the "Adventure Situations by Level" section in chapter 4 to inspire adventures that draw characters into the planes of existence. These adventure ideas are most appropriate for characters of level 11+.
 
-![Planar Adventure Situations](/Rules/Source/tables/planar-adventure-situations-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/planar-adventure-situations-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Planar Adventure Situations
+
+</div>
+
+
+
+# Planar Adventure Situations
+*Source: Dungeon Master's Guide (2024) p. 178* 
+
+**Planar Adventure Situations**
+
+| dice: 1d10 | Situation |
+|------------|-----------|
+| 1 | When magic fails to revive a dead person, the only solution is to venture to the Outer Planes to find the person's spirit and either release it from some prison or convince the person to return to life. |
+| 2 | People who venture into the woods keep accidentally wandering into the Feywild or the Shadowfell. They might never return, return with no sense of how much time has passed, or return dramatically changed. |
+| 3 | A long-dead oracle is the only one who knows how a terrible prophecy might be averted, but the cataclysmic fulfillment of the prophecy has already begun. |
+| 4 | A god has stopped answering prayers and won't respond to any [[Rules/Source/spells/commune-xphb\|Commune]] spell. |
+| 5 | A devil has tricked an angel into meddling in the Blood War, and the angel seeks mortal aid. |
+| 6 | A ancestor of one of the characters must be convinced to bless the character before the full power of the character's bloodline can be unleashed. |
+| 7 | A foolhardy knight carried a holy weapon on a doomed mission into the Nine Hells, and the powers of Mount Celestia want the weapon and the knight's remains retrieved. |
+| 8 | A titan is imprisoned on an Outer Plane. The characters might be trying to stop those who seek to release it, or they might want to release it to help defend the world from a greater threat. |
+| 9 | To prove themselves worthy of an even greater quest, the characters are sent to slay a horrible monster, win the favor of a powerful planar being, negotiate peace between two warring planar factions, or retrieve a long-lost item on another plane. |
+| 10 | An item of legend is being sold at auction in Sigil, the City of Brass, or some other planar metropolis. |
+^planar-adventure-situations
+
+</div></div>
+
 
 ## Tour of the Multiverse
 
@@ -201,7 +270,36 @@ Each layer of the Abyss boasts a horrific environment that is harsh and inhospit
 
 The layers of the Abyss are numbered based on the sequence of their discovery and cataloging by explorers from Sigil. Thus, the Plain of Infinite Portals is identified as the first layer, Azzagrat encompasses the 45th, 46th, and 47th layers; the Demonweb is the 66th layer; and so on. The Layers of the Abyss table presents several infamous layers; detailed descriptions of these layers follow the table.
 
-![Layers of the Abyss](/Rules/Source/tables/layers-of-the-abyss-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-the-abyss-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of the Abyss
+
+</div>
+
+
+
+# Layers of the Abyss
+*Source: Dungeon Master's Guide (2024) p. 180* 
+
+**Layers of the Abyss**
+
+| Layer | Description |
+|-------|-------------|
+| The Plain of Infinite Portals | On layer 1, corroded iron fortresses defend routes to lower layers. |
+| Azzagrat | Graz'zt's corrupt, decadent city is split across layers 45, 46, and 47. |
+| The Demonweb | On layer 66, Lolth's web snares all and hides portals to other planes. |
+| Gaping Maw | Layer 88 is a malevolent wilderness surrounding Demogorgon's ocean fortress. |
+| Thanatos | On layer 113, an endless graveyard hosts Orcus and the sleepless dead. |
+| The Slime Pits (Shedaklah) | Layer 222, a fetid realm of ooze and fungi, obeys the whims of Juiblex and Zuggtmoy. |
+| The Death Dells | Yeenoghu and his gnoll servants prowl layer 422—a cruel, desolate realm. |
+| The Endless Maze | Layer 600's endless labyrinth turns visitors into Baphomet's prey. |
+^layers-of-the-abyss
+
+</div></div>
+
 
 #### Layer 1: The Plain of Infinite Portals
 
@@ -259,7 +357,7 @@ The Abyss embodies the loathsome corruption of chaos and evil. A descent into th
 
 It's the nature of the Abyss to contaminate the other planes it touches. Opening a portal to the Abyss from any other plane allows the Abyss to create tiny pockets of Abyssal evil that can eventually become so corrupted that they're drawn into the Abyss. Thus, adventurers exploring a desecrated temple or fetid swamp on the Material Plane can unexpectedly find themselves in a demon-infested environment very much like the Abyss without ever leaving their home plane.
 
-![The detritus of the Planes...](/Rules/Source/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp#center "The detritus of the Planes is tangled in the Demonweb Pits")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp)
 
 ### Acheron
 
@@ -269,7 +367,32 @@ Acheron has four layers, with the largest blocks gravitating to the top layer. S
 
 The nature of Acheron instills [[Rules/Source/traps-hazards/planar-effects-xdmg\|bloodlust]] in those who visit the plane (see "Environmental Effects" in chapter 3).
 
-![Layers of Acheron](/Rules/Source/tables/layers-of-acheron-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-acheron-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Acheron
+
+</div>
+
+
+
+# Layers of Acheron
+*Source: Dungeon Master's Guide (2024) p. 182* 
+
+**Layers of Acheron**
+
+| Layer | Description |
+|-------|-------------|
+| Avalas | Spirit soldiers wage endless wars across debris-strewn battlefields. |
+| Thuldanin | Pitted, hollow cubes are filled with the cast-off machinery of war. |
+| Tintibulus | Jagged blocks tumble in darkness, holding frozen memories sapped by the River Styx and crystallized into fleeting images. |
+| Ocanthus | Maelstroms of razor-sharp debris swirl above a mire of black ice. |
+^layers-of-acheron
+
+</div></div>
+
 
 #### Acheron Adventures
 
@@ -285,7 +408,31 @@ Arborea is a plane of extremes: stupendously craggy mountains; unbelievably deep
 
 The air of Arborea seems charged with excitement. Sudden squalls brew up out of nowhere, beating the tree-lined paths with heavy winds. The storms pass within minutes and leave behind warm arcs of sunlight filtering through the forest canopy. Music always seems to be playing in the distance; sometimes it originates from groups of elf musicians, but just as often the faint tune is merely the wind curling through the boles of the great trees.
 
-![Layers of Arborea](/Rules/Source/tables/layers-of-arborea-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-arborea-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Arborea
+
+</div>
+
+
+
+# Layers of Arborea
+*Source: Dungeon Master's Guide (2024) p. 183* 
+
+**Layers of Arborea**
+
+| Layer | Description |
+|-------|-------------|
+| Arvandor | Towering trees, colorful wildflowers, abundant grain, and delicious fruit create a lush environment. |
+| Aquallor | An eternal ocean fed by the River Oceanus is home to teeming sea life and mighty storms. |
+| Mithardir | A desert of white sand is abandoned by whatever powers once lived there. |
+^layers-of-arborea
+
+</div></div>
+
 
 #### Arborea Adventures
 
@@ -309,7 +456,30 @@ The weather in Arcadia is governed by four allied demigods called the Storm King
 
 Arcadia is suffused with a vigorous life energy that bestows [[Rules/Source/traps-hazards/planar-effects-xdmg\|great vitality]] on visitors (see "Environmental Effects" in chapter 3).
 
-![Layers of Arcadia](/Rules/Source/tables/layers-of-arcadia-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-arcadia-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Arcadia
+
+</div>
+
+
+
+# Layers of Arcadia
+*Source: Dungeon Master's Guide (2024) p. 183* 
+
+**Layers of Arcadia**
+
+| Layer | Description |
+|-------|-------------|
+| Abellio | Everything in these fields of plenty is dedicated to the good of all. |
+| Buxenus | Military forces gather their strength, amid pleasant valleys and orchards, to reclaim the lost layer of Menausus—now part of Mechanus. |
+^layers-of-arcadia
+
+</div></div>
+
 
 #### Arcadia Adventures
 
@@ -339,7 +509,47 @@ The Astral Plane is where the petrified remains of dead gods end up—gods who w
 
 Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, `1d6 × 10` feet in diameter. ("Color," as with everything in the Astral Plane, is a matter of metaphor; since these portals are perceived by the Astral self and not by physical eyes, their colors are understood rather than seen.) Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways can be identified by color, as shown on the Astral Color Pools table.
 
-![Astral Color Pools](/Rules/Source/tables/astral-color-pools-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/astral-color-pools-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Astral Color Pools
+
+</div>
+
+
+
+# Astral Color Pools
+*Source: Dungeon Master's Guide (2024) p. 184* 
+
+**Astral Color Pools**
+
+| dice: 1d20 | Plane | Pool Color |
+|------------|-------|------------|
+| 1 | Abyss | Amethyst |
+| 2 | Acheron | Flame red |
+| 3 | Arborea | Sapphire blue |
+| 4 | Arcadia | Saffron |
+| 5 | Beastlands | Emerald green |
+| 6 | Bytopia | Amber |
+| 7 | Carceri | Olive |
+| 8 | Elysium | Orange |
+| 9 | Ethereal Plane | Spiraling white |
+| 10 | Gehenna | Russet |
+| 11 | Hades | Rust |
+| 12 | Limbo | Jet black |
+| 13–14 | Material Plane | Silver |
+| 15 | Mechanus | Diamond blue |
+| 16 | Mount Celestia | Gold |
+| 17 | Nine Hells | Ruby |
+| 18 | Outlands | Leather brown |
+| 19 | Pandemonium | Magenta |
+| 20 | Ysgard | Indigo |
+^astral-color-pools
+
+</div></div>
+
 
 #### Wildspace
 
@@ -349,7 +559,7 @@ As an Astral traveler approaches a Wildspace system, the silver fog of the Astra
 
 A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [[Rules/Source/spells/teleport-xphb\|Teleport]] to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See "Material Plane" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
 
-![A spelljamming wasp ship a...](/Rules/Source/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp#center "A spelljamming wasp ship approaches the githyanki city of Tu'Narath")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp)
 
 #### Psychic Wind
 
@@ -359,11 +569,61 @@ A psychic wind is first sensed as a rapid darkening of the silver-gray sky. Afte
 
 A group of travelers journeying together is subjected to one location effect, determined by consulting the Psychic Wind Locations Effects table.
 
-![Psychic Wind Location Effects](/Rules/Source/tables/psychic-wind-location-effects-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/psychic-wind-location-effects-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Psychic Wind Location Effects
+
+</div>
+
+
+
+# Psychic Wind Location Effects
+*Source: Dungeon Master's Guide (2024) p. 185* 
+
+**Psychic Wind Location Effects**
+
+| dice: 1d20 | Location Effect |
+|------------|-----------------|
+| 1–8 | Diverted; add `1d6` days to travel time |
+| 9–12 | Blown astray; add `3d10` days to travel time |
+| 13–16 | Lost; at the end of the travel time, the characters arrive at a location other than the intended destination |
+| 17–20 | Sent through a random color pool (roll on the "Astral Color Pools" table) |
+^psychic-wind-location-effects
+
+</div></div>
+
 
 Each traveler caught in a psychic wind makes a DC 15 Intelligence saving throw. On a failed save, the traveler suffers a random effect from the Psychic Wind Psychic Effects table as well.
 
-![Psychic Wind Psychic Effects](/Rules/Source/tables/psychic-wind-psychic-effects-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/psychic-wind-psychic-effects-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Psychic Wind Psychic Effects
+
+</div>
+
+
+
+# Psychic Wind Psychic Effects
+*Source: Dungeon Master's Guide (2024) p. 185* 
+
+**Psychic Wind Psychic Effects**
+
+| dice: 1d20 | Psychic Effect |
+|------------|----------------|
+| 1–8 | You have the [[Rules/Source/conditions#Stunned\|Stunned]] condition for 1 minute; you repeat the saving throw at the end of each of your turns, ending the effect on yourself on a success. |
+| 9–12 | You take 11 (`2d10`) Psychic damage. |
+| 13–17 | You take 22 (`4d10`) Psychic damage. |
+| 18–20 | You have the [[Rules/Source/conditions#Unconscious\|Unconscious]] condition for 5 (`1d10`) hours; the effect on you ends if you take damage or if another creature takes an action to shake you awake. |
+^psychic-wind-psychic-effects
+
+</div></div>
+
 
 #### Astral Plane Adventures
 
@@ -377,7 +637,31 @@ The Beastlands is a plane of nature unbound, of forests ranging from moss-hung m
 
 Whenever a visitor slays a Beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or shape-shift into the type of Beast that was slain. The creature's game statistics are replaced by the Beast's stat block, but the creature retains its alignment, personality, creature type, Intelligence score, and ability to speak. At the end of each Long Rest, the shape-shifted creature repeats the save. On a successful save, the creature returns to its true form. After three failed saves, the transformation can be undone only by a [[Rules/Source/spells/remove-curse-xphb\|Remove Curse]] spell or similar magic.
 
-![Layers of the Beastlands](/Rules/Source/tables/layers-of-the-beastlands-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-the-beastlands-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of the Beastlands
+
+</div>
+
+
+
+# Layers of the Beastlands
+*Source: Dungeon Master's Guide (2024) p. 186* 
+
+**Layers of the Beastlands**
+
+| Layer | Description |
+|-------|-------------|
+| Krigala | The River Oceanus is a strong torrent flowing through this wilderness of eternal summer noon. |
+| Brux | A red sun hovers forever on the horizon as mists and streams roil through the trees in eternal twilight. |
+| Karasuthra | A pale moon provides the only light in this wilderness of eternal night. |
+^layers-of-the-beastlands
+
+</div></div>
+
 
 #### Beastlands Adventures
 
@@ -389,7 +673,30 @@ Adventures in the Beastlands might explore the ways that good philosophies, whil
 
 The surfaces of Bytopia's two layers face each other like the covers of a closed book. Looking up from Dothion, the "top" layer of the plane, a traveler can see Shurrock, its other layer, about a mile overhead. Both layers are idealized worlds that reflect the plane's philosophy of personal achievement alongside social interdependence.
 
-![Layers of Bytopia](/Rules/Source/tables/layers-of-bytopia-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-bytopia-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Bytopia
+
+</div>
+
+
+
+# Layers of Bytopia
+*Source: Dungeon Master's Guide (2024) p. 186* 
+
+**Layers of Bytopia**
+
+| Layer | Description |
+|-------|-------------|
+| Dothion | Farms nestled among well-tamed woods are hubs of pastoral activity and individual industry. |
+| Shurrock | Small communities thrive around quarries and mills amid rough country and harsh weather. |
+^layers-of-bytopia
+
+</div></div>
+
 
 #### Bytopia Adventures
 
@@ -401,11 +708,38 @@ The two layers of Bytopia are often referred to as the "Twin Paradises," and it'
 
 The grim inspiration for all other prisons in existence, Carceri is a plane of desolation and despair. Its six layers hold vast bogs, fetid jungles, windswept deserts, jagged mountains, frigid oceans, and black ice. All form a miserable home for the traitors and backstabbers trapped on this prison plane.
 
-![Layers of Carceri](/Rules/Source/tables/layers-of-carceri-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-carceri-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Carceri
+
+</div>
+
+
+
+# Layers of Carceri
+*Source: Dungeon Master's Guide (2024) p. 187* 
+
+**Layers of Carceri**
+
+| Layer | Description |
+|-------|-------------|
+| Orthrys | The River Styx meanders through a layer of vast bogs and quicksand. |
+| Cathrys | The stench of decay hangs over fetid jungles and scarlet plains. |
+| Minethys | Stinging sand blows in unending storms, hiding the ruins of the ancient city Payratheon. |
+| Colothys | Deep chasms cut between cruel mountains make foot travel nearly impossible. |
+| Porphatys | Cold, acidic oceans are fed by constant black snow. |
+| Agathys | Black ice streaked with red covers this frigid realm. |
+^layers-of-carceri
+
+</div></div>
+
 
 #### Prison Plane
 
-![Unknown horrors are entrap...](/Rules/Source/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp#center "Unknown horrors are entrapped in the ice of Carceri")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp)
 
 No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [[Rules/Source/spells/wish-xphb\|Wish]] simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
 
@@ -427,7 +761,7 @@ Demiplanes are limited realities shaped according to the will of whoever created
 
 ### Elemental Plane of Air
 
-![Aarakocra scouts return ho...](/Rules/Source/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp#center "Aarakocra scouts return home to a city on the Plane of Air")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp)
 
 The Plane of Air is home to constant winds of varying strength. Here and there, chunks of earth drift in the openness, many covered with lush vegetation. These earth motes serve as homes for djinn and other natives of the plane. Other creatures live on cloud banks infused with magic to become solid surfaces, supporting towns and castles.
 
@@ -515,7 +849,7 @@ The cults of Elemental Evil represent fire at its worst: cruel and wantonly dest
 
 Adventurers frequently come to the City of Brass on quests for legendary magic. If it's possible to buy magic items in your campaign, the City of Brass is the most likely place to find any item for sale. The efreet are fond of trading in favors, especially when they have the upper hand in negotiations. Perhaps a magical contagion or poison can be cured only with something that must be purchased in the markets of the city.
 
-![The City of Brass is a hub...](/Rules/Source/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp#center "The City of Brass is a hub for trade from across the multiverse")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp)
 
 ### Elemental Plane of Water
 
@@ -565,7 +899,32 @@ Elysium is home to creatures of unfettered kindness and a refuge for planar trav
 
 The River Oceanus originates in the lowest layer of Elysium, Thalasia, and flows through the plane's layers before cascading onward to the Beastlands. Though illustrations of the plane's layers seem to show the river flowing "up" from each layer to the one "above" it, the experience of passing from one layer to another on the river is no more dramatic than weathering rapids on any ordinary river. Along its course, the great river splits into myriad smaller flows, recombines, and splits again.
 
-![Layers of Elysium](/Rules/Source/tables/layers-of-elysium-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-elysium-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Elysium
+
+</div>
+
+
+
+# Layers of Elysium
+*Source: Dungeon Master's Guide (2024) p. 191* 
+
+**Layers of Elysium**
+
+| Layer | Description |
+|-------|-------------|
+| Amoria | Small towns on the banks of the River Oceanus, surrounded by lush meadows, are among the most hospitable refuges on the Outer Planes. |
+| Eronia | Steep hills, craggy mountains, and white granite valleys offer a rugged home for hardy souls. |
+| Belierin | Lighthouses pierce the fog and form hubs for small communities amid sprawling marshlands. |
+| Thalasia | The Heroic Isles, rising from the headwaters of the River Oceanus, hold the best departed souls. |
+^layers-of-elysium
+
+</div></div>
+
 
 #### Elysium Adventures
 
@@ -591,9 +950,41 @@ Normally, creatures in the Border Ethereal can't attack creatures on the overlap
 
 To reach the Deep Ethereal, one typically needs a [[Rules/Source/spells/plane-shift-xphb\|Plane Shift]] spell, a [[Rules/Source/spells/gate-xphb\|Gate]] spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
 
-![The Radiant Citadel is a r...](/Rules/Source/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp#center "The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp)
 
-![Deep Ethereal; Ethereal Curtains](/Rules/Source/tables/deep-ethereal-ethereal-curtains-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/deep-ethereal-ethereal-curtains-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Deep Ethereal; Ethereal Curtains
+
+</div>
+
+
+
+# Deep Ethereal; Ethereal Curtains
+*Source: Dungeon Master's Guide (2024) p. 192* 
+
+**Ethereal Curtains**
+
+| dice: 1d12 | Plane | Curtain Color |
+|------------|-------|---------------|
+| 1–2 | Material Plane | Turquoise |
+| 3 | Shadowfell | Dusky gray |
+| 4 | Feywild | Opalescent |
+| 5 | Elemental Plane of Air | Pale blue |
+| 6 | Elemental Plane of Earth | Chestnut |
+| 7 | Elemental Plane of Fire | Orange |
+| 8 | Elemental Plane of Water | Green |
+| 9 | Para-elemental Plane of Ash | Dark gray |
+| 10 | Para-elemental Plane of Ice | Aquamarine |
+| 11 | Para-elemental Plane of Magma | Maroon |
+| 12 | Para-elemental Plane of Ooze | Chocolate |
+^ethereal-curtains
+
+</div></div>
+
 
 Traveling through the Deep Ethereal is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip through the Deep Ethereal takes `1d10 × 10` hours from one curtain to another, regardless of the origin and destination. In combat, creatures move at their normal speeds.
 
@@ -601,7 +992,31 @@ Traveling through the Deep Ethereal is unlike physical travel. Distance is meani
 
 An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [[Rules/Source/variant-rules/passive-perception-xphb\|Passive Perception]] score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `1d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
-![Ether Cyclones; Ether Cyclone](/Rules/Source/tables/ether-cyclones-ether-cyclone-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ether-cyclones-ether-cyclone-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ether Cyclones; Ether Cyclone
+
+</div>
+
+
+
+# Ether Cyclones; Ether Cyclone
+*Source: Dungeon Master's Guide (2024) p. 193* 
+
+**Ether Cyclone**
+
+| dice: 1d20 | Effect |
+|------------|--------|
+| 1–12 | Extended journey. Each character in a group traveling together makes a DC 15 Charisma saving throw. If at least half the group succeeds, travel is delayed by `1d10` hours. Otherwise, the journey's travel time is doubled. |
+| 13–19 | Blown to a location in the Border Ethereal overlapping a random plane (roll on the "Ethereal Curtains" table) |
+| 20 | Hurled to a random destination on the Astral Plane |
+^ether-cyclone
+
+</div></div>
+
 
 #### Radiant Citadel
 
@@ -623,7 +1038,7 @@ The Radiant Citadel can serve as a home base for any campaign built around the i
 
 ### Far Realm
 
-![When the Dragon's Tear com...](/Rules/Source/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp#center "When the Dragon's Tear comet appears above Firestorm Peak, the Vast Gate forms a bridge to the Far Realm")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp)
 
 The Far Realm is outside the known multiverse. In fact, it might be an entirely separate universe with its own physical and magical laws. Where stray energies from the Far Realm leak onto another plane, matter is warped into alien shapes that defy understandable geometry and biology. Aberrations such as mind flayers and beholders are either from this plane or shaped by its strange influence.
 
@@ -687,13 +1102,40 @@ While time seems to pass normally in the Feywild, characters might spend a day t
 
 Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [[Rules/Source/spells/wish-xphb\|Wish]] spell can be used to remove the effect on up to ten creatures. Some powerful Fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [[Rules/Source/spells/geas-xphb\|Geas]] spell and complete a quest after the *Wish* spell is cast.
 
-![Feywild Time Warp](/Rules/Source/tables/feywild-time-warp-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/feywild-time-warp-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Feywild Time Warp
+
+</div>
+
+
+
+# Feywild Time Warp
+*Source: Dungeon Master's Guide (2024) p. 196* 
+
+**Feywild Time Warp**
+
+| dice: 1d20 | Result |
+|------------|--------|
+| 1–2 | Days become minutes |
+| 3–6 | Days become hours |
+| 7–13 | No change |
+| 14–17 | Days become weeks |
+| 18–19 | Days become months |
+| 20 | Days become years |
+^feywild-time-warp
+
+</div></div>
+
 
 #### Feywild Adventures
 
 The Feywild gives physical expression to powerful emotion and excels at metaphor. When characters venture into the Feywild, they might find themselves robbed of a cherished memory or deep regret, then later find the stolen memories embodied in little figurines or lockets. A mischievous sprite might sneak up behind a character who is laughing loudly and steal their laughter, robbing the character of the ability to laugh until the sprite is found and the laughter—perhaps taking physical form as a bouquet of lovely flowers—reclaimed.
 
-![Fey revel in the Gloaming ...](/Rules/Source/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp#center "Fey revel in the Gloaming Court under the watchful eye of the Queen of Air and Darkness")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp)
 
 ### Gehenna
 
@@ -701,7 +1143,32 @@ A volcanic mountain dominates each of the four layers of Gehenna, and lesser vol
 
 Gehenna is the birthplace of yugoloths, greedy and selfish Fiends that dwell here in great numbers.
 
-![Layers of Gehenna](/Rules/Source/tables/layers-of-gehenna-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-gehenna-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Gehenna
+
+</div>
+
+
+
+# Layers of Gehenna
+*Source: Dungeon Master's Guide (2024) p. 197* 
+
+**Layers of Gehenna**
+
+| Layer | Description |
+|-------|-------------|
+| Khalas | Lava illuminates clouds of volcanic ash and steam from the River Styx. |
+| Chamada | Constant lava flows and eruptions make overland travel difficult. Iron zeppelins piloted by yugoloths drift through the constant gray ashfall. |
+| Mungoth | Acidic ash mingles with falling snow on this freezing layer. |
+| Krangath | The Dead Furnace is a great mountain suspended in silence and darkness, home to a coterie of liches. |
+^layers-of-gehenna
+
+</div></div>
+
 
 #### Gehenna Adventures
 
@@ -715,7 +1182,31 @@ Or characters could try to infiltrate the Tower Arcane in search of some great s
 
 The layers of Hades are called the Three Glooms—places without joy, hope, or passion. A gray land with an ashen sky, Hades is the destination of many souls that are unclaimed by gods or Fiends. These souls become larvae and spend eternity in this place, which lacks a sun, a moon, stars, or seasons. Leaching away color and emotion, the gloom on this plane is more than most visitors can stand.
 
-![Layers of Hades](/Rules/Source/tables/layers-of-hades-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-hades-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Hades
+
+</div>
+
+
+
+# Layers of Hades
+*Source: Dungeon Master's Guide (2024) p. 197* 
+
+**Layers of Hades**
+
+| Layer | Description |
+|-------|-------------|
+| Oinos | A land of dead-gray ash, stunted trees, and virulent disease is stalked by roving bands of Fiends looking for a fight or recruits for the Blood War. |
+| Niflheim | Gray pine trees blanket rolling hills and rocky bluffs, and thick mists coil around their trunks. |
+| Pluton | Shriveled willows, olive trees, and poplars contribute to the gloom of this concentration of the deepest despair in the multiverse. |
+^layers-of-hades
+
+</div></div>
+
 
 #### Plane of Gloom
 
@@ -763,7 +1254,7 @@ Some myths describe a great tree that grew on the First World at the dawn of tim
 
 The most widely known worlds are the ones that have been published as official campaign settings for the D&D game over the years, many of which are shown on the "D&D Settings table" in chapter 5. If your campaign takes place in one of these settings, your version of it can diverge wildly from what's in print.
 
-![With its magical marvels o...](/Rules/Source/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp#center "With its magical marvels of technology, Eberron is one of countless worlds on the Material Plane")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp)
 
 #### Traveling between Worlds
 
@@ -809,9 +1300,37 @@ The Seven Heavens of Mount Celestia rise like a mountain from a shining Silver S
 
 The pervasive goodness of Mount Celestia [[Rules/Source/traps-hazards/planar-effects-xdmg\|bestows blessings]] on creatures on the plane (see "Environmental Effects" in chapter 3).
 
-![The Seven Heavens of Mount...](/Rules/Source/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp#center "The Seven Heavens of Mount Celestia beckon virtuous souls toward ever-greater heights")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp)
 
-![Layers of Mount Celestia](/Rules/Source/tables/layers-of-mount-celestia-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-mount-celestia-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Mount Celestia
+
+</div>
+
+
+
+# Layers of Mount Celestia
+*Source: Dungeon Master's Guide (2024) p. 200* 
+
+**Layers of Mount Celestia**
+
+| Layer | Description |
+|-------|-------------|
+| Lunia | In the Silver Heaven, the holy water of the Silver Sea laps at the base of the celestial mountain under a starry sky. |
+| Mercuria | The Golden Heaven's tame slopes and lush valleys are bathed in golden light that evokes the hope of a new dawn. |
+| Venya | In the Pearly Heaven, terraced fields and tended woodlands dot the snowy slopes. |
+| Solania | In the Crystal Heaven, holy shrines glitter under a silvery sky amid luminescent fog. |
+| Mertion | On the sweeping plains of the Platinum Heaven, holy soldiers muster in grand citadels for battles across the planes. |
+| Jovar | The Glittering Heaven, strewn with beautiful rubies and garnets, is home to the seven-tiered Heavenly City. |
+| Chronias | The Illuminated Heaven is an ineffable mystery. |
+^layers-of-mount-celestia
+
+</div></div>
+
 
 #### Mount Celestia Adventures
 
@@ -843,11 +1362,41 @@ The Nine Hells has nine layers. The first eight are ruled by archdevils who answ
 
 The Layers of the Nine Hells table summarizes each layer; detailed descriptions of these layers follow the table.
 
-![Layers of the Nine Hells](/Rules/Source/tables/layers-of-the-nine-hells-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-the-nine-hells-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of the Nine Hells
+
+</div>
+
+
+
+# Layers of the Nine Hells
+*Source: Dungeon Master's Guide (2024) p. 202* 
+
+**Layers of the Nine Hells**
+
+| Layer | Description |
+|-------|-------------|
+| Avernus | The Blood War rages across battlefields littered with corpses and the wreckage of hellish war machines. |
+| Dis | Iron roads in deep canyons lead to the dreaded Iron City of Dis. |
+| Minauros | Acid falls like rain on putrid bogs and decaying cities. |
+| Phlegethos | Obsidian fortresses bask in the heat of raging volcanoes and magma rivers. |
+| Stygia | Levistus's prison is a frigid hellscape of jagged ice and cold fire. |
+| Malbolge | An ever-crumbling mountain threatens to bury visitors. |
+| Maladomini | Swarms of hungry flies plague dead cities surrounded by utter desolation. |
+| Cania | Ice-trapped cities provide shelter in a realm cold enough to freeze the soul. |
+| Nessus | Mighty fortresses stand watch over the deepest pits of the Nine Hells. |
+^layers-of-the-nine-hells
+
+</div></div>
+
 
 #### Avernus
 
-![The first of Nine Hells, A...](/Rules/Source/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp#center "The first of Nine Hells, Avernus, is an eternal battlefield in the Blood War")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp)
 
 By Asmodeus's orders, no planar portals connect directly to the lower layers of the Nine Hells. The first layer, Avernus, is the arrival point for visitors, a rocky wasteland with rivers of blood and clouds of biting flies. Fiery comets occasionally fall from the darkened sky and carve out fuming impact craters. Empty battlefields are littered with weapons and bones, showing where the legions of the Nine Hells prevailed against invading enemies.
 
@@ -911,7 +1460,7 @@ Malsheem resembles a gigantic hollowed-out stalagmite. The citadel is also a pri
 
 Asmodeus most often appears as a handsome, bearded man with four large horns, piercing red eyes, and flowing robes. He can also assume other forms and is seldom seen without his ruby-tipped scepter in hand. Asmodeus is the most cunning and well-mannered of archdevils. On the surface, he seems warm, pleasant, and lighthearted, doling out wisdom and small acts of kindness like a caring father. The ultimate evil he represents can be seen only when he wills it so, or if he forgets himself and flies into a rage.
 
-![Asmodeus, the Lord of the ...](/Rules/Source/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp#center "Asmodeus, the Lord of the Nine, maintains a veneer of pleasantry while inflicting agony on imprisoned souls")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp)
 
 #### Infernal Hierarchy
 
@@ -962,7 +1511,44 @@ The Outlands is a great disk. In fact, those who envision the Outer Planes as a 
 
 Evenly spaced around the outside edge of the circle are the gate-towns: sixteen settlements, each built around a portal leading to one of the Outer Planes. The Gate-Towns of the Outlands table lists all sixteen gate-towns and the Outer Planes they connect to. Each gate-town shares many of the characteristics of the plane where its gate leads. Planar emissaries often meet in these gate-towns, so it isn't unusual to see strange interactions, such as a Celestial and a Fiend arguing in a tavern while sharing a fine bottle of wine.
 
-![Gate-Towns of the Outlands](/Rules/Source/tables/gate-towns-of-the-outlands-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/gate-towns-of-the-outlands-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Gate-Towns of the Outlands
+
+</div>
+
+
+
+# Gate-Towns of the Outlands
+*Source: Dungeon Master's Guide (2024) p. 205* 
+
+**Gate-Towns of the Outlands**
+
+| Town | Gate Destination |
+|------|------------------|
+| Automata | Mechanus |
+| Bedlam | Pandemonium |
+| Curst | Carceri |
+| Ecstasy | Elysium |
+| Excelsior | Mount Celestia |
+| Faunel | Beastlands |
+| Fortitude | Arcadia |
+| Glorium | Ysgard |
+| Hopeless | Hades |
+| Plague-Mort | Abyss |
+| Ribcage | Nine Hells |
+| Rigus | Acheron |
+| Sylvania | Arborea |
+| Torch | Gehenna |
+| Tradegate | Bytopia |
+| Xaos | Limbo |
+^gate-towns-of-the-outlands
+
+</div></div>
+
 
 #### Outlands Adventures
 
@@ -980,7 +1566,32 @@ Pandemonium is a plane of overwhelming chaos, a great mass of rock riddled with 
 
 Most of the plane's inhabitants are creatures that were banished to the plane with no hope of escape. The incessant winds force them to take shelter in places where the howls of the winds sound like distant cries of torment.
 
-![Layers of Pandemonium](/Rules/Source/tables/layers-of-pandemonium-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-pandemonium-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Pandemonium
+
+</div>
+
+
+
+# Layers of Pandemonium
+*Source: Dungeon Master's Guide (2024) p. 206* 
+
+**Layers of Pandemonium**
+
+| Layer | Description |
+|-------|-------------|
+| Pandesmos | Howling winds, dark streams bound for the River Styx, and blowing snow pour through vast, desolate caverns. |
+| Cocytus | Winds blowing through narrower tunnels create a stronger force and louder wails, making this the so-called "Layer of Lamentation." |
+| Phlegethon | Tunnel walls absorb light while water creates intricate rock formations. |
+| Agathion | Sealed-off tunnels are largely inaccessible from elsewhere, making them ideal as vaults for ancient secrets. |
+^layers-of-pandemonium
+
+</div></div>
+
 
 #### Pandemonium Adventures
 
@@ -990,7 +1601,7 @@ An adventure in Pandemonium can be a way to explore what happens to characters o
 
 A jagged spike somewhere in Cocytus, called Howler's Crag, is rumored to have a unique magical property: anything yelled from the top of the crag is said to find the ears of its intended recipient—carried on a shrieking, frigid wind—no matter where in the multiverse that person might be.
 
-![Three adventurers brave th...](/Rules/Source/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp#center "Three adventurers brave the howling winds of Pandemonium in search of Howler's Crag")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp)
 
 ### Para-elemental Planes
 
@@ -1040,7 +1651,7 @@ The Shadowfell overlaps the Material Plane in much the same way as the Feywild. 
 
 Shadow dragons and Undead haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
 
-![The Shadowfell is a realm ...](/Rules/Source/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp#center "The Shadowfell is a realm of death, despair, and dread")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp)
 
 #### Shadow Crossings
 
@@ -1088,7 +1699,31 @@ A melancholic atmosphere pervades the Shadowfell, and extended forays to this pl
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not from the Shadowfell to make a DC 10 Wisdom saving throw. On a failed save, the character is affected by despair. Roll on the Shadowfell Despair table to determine the effects. You can substitute different despair effects of your own creation.
 
-![Shadowfell Despair](/Rules/Source/tables/shadowfell-despair-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/shadowfell-despair-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Shadowfell Despair
+
+</div>
+
+
+
+# Shadowfell Despair
+*Source: Dungeon Master's Guide (2024) p. 209* 
+
+**Shadowfell Despair**
+
+| dice: 1d6 | Effect |
+|-----------|--------|
+| 1–3 | Apathy. The character has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on [[Rules/Source/variant-rules/death-saving-throw-xphb\|Death Saving Throws]] and [[Rules/Source/variant-rules/initiative-xphb\|Initiative]] rolls. |
+| 4–5 | Dread. The character has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on all saving throws. |
+| 6 | Delusion. The character has [[Rules/Source/variant-rules/disadvantage-xphb\|Disadvantage]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
+^shadowfell-despair
+
+</div></div>
+
 
 If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a Long Rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character. A [[Rules/Source/spells/calm-emotions-xphb\|Calm Emotions]] spell or magic that removes curses cures the despair.
 
@@ -1102,7 +1737,7 @@ The city is the domain of the inscrutable Lady of Pain, a being whose purpose an
 
 "Planescape: Adventures in the Multiverse" includes extensive information on "Sigil".
 
-![In the cosmopolitan street...](/Rules/Source/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp#center "In the cosmopolitan streets of Sigil, creatures from across the multiverse coexist in uneasy peace")
+![/Rules/Source/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp\|center wmed](/img/user/Rules/Source/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp)
 
 ### Ysgard
 
@@ -1110,7 +1745,31 @@ Ysgard is a rugged realm of soaring mountains, deep fjords, and windswept battle
 
 Ysgard is the home of slain heroes who wage eternal battle on fields of glory. Any creature, other than a Construct or Undead, that is killed in combat while in Ysgard is restored to life at dawn the next day. The creature has all its Hit Points restored, and all conditions that affected it before its death are removed.
 
-![Layers of Ysgard](/Rules/Source/tables/layers-of-ysgard-xdmg.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/layers-of-ysgard-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Layers of Ysgard
+
+</div>
+
+
+
+# Layers of Ysgard
+*Source: Dungeon Master's Guide (2024) p. 210* 
+
+**Layers of Ysgard**
+
+| Layer | Description |
+|-------|-------------|
+| Ysgard | Immense rivers of floating earth grind together in eternal rumbling. |
+| Muspelheim | The ground smokes and burns beneath the earthbergs of the top layer. |
+| Nidavellir | Floating chunks of earth are closer together, giving the appearance of endless tunnels with rich mineral deposits. |
+^layers-of-ysgard
+
+</div></div>
+
 
 #### Ysgard Adventures
 

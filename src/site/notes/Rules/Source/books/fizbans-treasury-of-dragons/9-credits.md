@@ -39,8 +39,8 @@
 ![/Rules/Source/books/fizbans-treasury-of-dragons/img/credits.webp\|center wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/credits.webp)
 
 > [!gallery]
-> ![On the Cover: Fizban the F...](/Rules/Source/books/fizbans-treasury-of-dragons/img/credits2.webp#gallery "On the Cover: Fizban the Fabulous protects a group of innocents as a crystal dragon and a red dragon clash in the sky, in this painting by Chris Rahn.")
-> ![On the Alt-Cover: Battling...](/Rules/Source/books/fizbans-treasury-of-dragons/img/credits3.webp#gallery "On the Alt-Cover: Battling crystal and red dragons from Fizban's tales come to vivid life, revealing the underlying conflicts of the cosmos in this painting by Anato Finnstark.")
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/credits2.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/credits2.webp)
+> ![/Rules/Source/books/fizbans-treasury-of-dragons/img/credits3.webp\|gallery wmed](/img/user/Rules/Source/books/fizbans-treasury-of-dragons/img/credits3.webp)
 
 > [!note]
 > Disclaimer: No guarantee is made that this book was or was not removed from the hoard of a dragon. Be aware that items taken from a dragon's hoard might carry traces of the dragon's inherent magic even long after they are removed from said hoard. Exposure to another dragon's hoard can reawaken that magic, with unpredictable results.

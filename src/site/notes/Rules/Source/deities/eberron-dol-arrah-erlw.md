@@ -4,7 +4,7 @@
 
 # Dol Arrah
 *Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 34* 
-![The Sovereign Host](/Rules/Source/deities/img/erlw-the-sovereign-host.webp#symbol)
+![/Rules/Source/deities/img/erlw-the-sovereign-host.webp\|symbol wmed](/img/user/Rules/Source/deities/img/erlw-the-sovereign-host.webp)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

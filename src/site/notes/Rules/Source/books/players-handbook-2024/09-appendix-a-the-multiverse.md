@@ -43,4 +43,41 @@ Realms where ideas take form and spirits spend their afterlives, the Outer Plane
 - **Outlands.** Influences from the other Outer Planes converge in the Outlands, where portals lead to those planes. At the Outlands' center rises the Spire, a pillar atop which floats Sigil.  
 - **Other Outer Planes.** These planes are listed on the Outer Planes table. Some are paradises, some are nightmare realms, and some are more bizarre. Each is dominated by forces that embody one or more of the alignments described in chapter 2.  
 
-![The Outer Planes; Outer Planes](/Rules/Source/tables/the-outer-planes-outer-planes-xphb.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/the-outer-planes-outer-planes-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# The Outer Planes; Outer Planes
+
+</div>
+
+
+
+# The Outer Planes; Outer Planes
+*Source: Player's Handbook (2024) p. 344* 
+
+**Outer Planes**
+
+| Outer Plane | Alignment |
+|-------------|-----------|
+| Abyss | Chaotic Evil |
+| Acheron | Lawful Evil, Lawful Neutral |
+| Arborea | Chaotic Good |
+| Arcadia | Lawful Good, Lawful Neutral |
+| Beastlands | Chaotic Good, Neutral Good |
+| Bytopia | Lawful Good, Neutral Good |
+| Carceri | Chaotic Evil, Neutral Evil |
+| Elysium | Neutral Good |
+| Gehenna | Lawful Evil, Neutral Evil |
+| Hades | Neutral Evil |
+| Limbo | Chaotic Neutral |
+| Mechanus | Lawful Neutral |
+| Mount Celestia | Lawful Good |
+| Nine Hells | Lawful Evil |
+| Outlands | Neutral |
+| Pandemonium | Chaotic Evil, Chaotic Neutral |
+| Ysgard | Chaotic Good, Chaotic Neutral |
+^outer-planes
+
+</div></div>

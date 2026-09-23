@@ -9,7 +9,7 @@ Each adventuring group is bound together by the quests it embarks on and by the 
 
 During character creation, every player has the opportunity to weave connections between their character and the other members of their party. Rather than (or in addition to) creating a web of established relationships, players can work with the DM to choose a group patron. And if you're interested in being your own patron, see the "Being Your Own Patron" section at the end of the chapter.
 
-![A group of wizards pledges...](/Rules/Source/books/tashas-cauldron-of-everything/img/059-02-001.webp#center "A group of wizards pledges themselves to their patron, Tasha, the Witch Queen")
+![/Rules/Source/books/tashas-cauldron-of-everything/img/059-02-001.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/059-02-001.webp)
 
 ## How Patrons Work
 
@@ -60,9 +60,36 @@ Any assemblage of scholars and truth-seekers can function as an academy. General
 
 Roll or pick from the Academy Type table to determine the institution with which you're aligned.
 
-![Academy Type](/Rules/Source/tables/academy-type-tce.md)
 
-![Wizardly boyfriends relax ...](/Rules/Source/books/tashas-cauldron-of-everything/img/060-02-002.webp#center "Wizardly boyfriends relax while their classmates practice magic at an arcane enclave")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/academy-type-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Academy Type
+
+</div>
+
+
+
+# Academy Type
+*Source: Tasha's Cauldron of Everything p. 84* 
+
+**Academy Type**
+
+| dice: d6 | Academy Types |
+|----------|---------------|
+| 1 | **Boarding School**. Students and faculty enjoy a familial relationship on a self-contained campus. |
+| 2 | **Arcane Enclave**. Drawn together by cutting-edge magical scholarship, the enclave's residents are hungry for secrets, reagents, and subjects. |
+| 3 | **Secret Monastery**. Ageless secrets remain the focus of contemplation and rigorous training at this site. |
+| 4 | **Elite Institute**. This cutthroat college of science or the arts accepts only the crème de la crème of society and talent. |
+| 5 | **Vault of Secrets**. This conspiracy strives to keep or eradicate all knowledge of a specific truth. |
+| 6 | **Museum of Dreams**. Magical communication or shared dreamscapes connect a network of wide-ranging specialists. |
+^academy-type
+
+</div></div>
+
+
+![/Rules/Source/books/tashas-cauldron-of-everything/img/060-02-002.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/060-02-002.webp)
 
 #### Academy Perks
 
@@ -78,7 +105,7 @@ Each member of your group has identification denoting your affiliation with the 
 
 ##### Research
 
-Research is part of your group's job, but your patron also has abundant resources to facilitate such efforts. You can call in a favor to delegate the work of researching lore (a downtime activity described in the "Player's Handbook" and "Xanathar's Guide to Everything") to a colleague, contact, librarian, or research assistant. You're responsible for covering expenses incurred as part of this research, and the DM determines its success or failure.
+Research is part of your group's job, but your patron also has abundant resources to facilitate such efforts. You can call in a favor to delegate the work of researching lore (a downtime activity described in the) to a colleague, contact, librarian, or research assistant. You're responsible for covering expenses incurred as part of this research, and the DM determines its success or failure.
 
 ##### Resources
 
@@ -86,7 +113,7 @@ Academies host libraries, museums, record repositories, and training facilities,
 
 ##### Training
 
-Because you're associated with the academy, you receive a discount on any education you wish to pursue. When you undergo training as a downtime activity (as described in the "Player's Handbook" or "Xanathar's Guide to Everything"), you pay half the normal cost, assuming the academy teaches that subject. Training in languages, musical instruments, and other tools is also available, at the DM's discretion. In addition, you can gain proficiency in the [[Rules/Source/skills#Arcana\|Arcana]], [[Rules/Source/skills#History\|History]], [[Rules/Source/skills#Nature\|Nature]], or [[Rules/Source/skills#Religion\|Religion]] skills by this method, as if you were learning a language. A character can learn only one of these skills in this way.
+Because you're associated with the academy, you receive a discount on any education you wish to pursue. When you undergo training as a downtime activity (as described in the), you pay half the normal cost, assuming the academy teaches that subject. Training in languages, musical instruments, and other tools is also available, at the DM's discretion. In addition, you can gain proficiency in the [[Rules/Source/skills#Arcana\|Arcana]], [[Rules/Source/skills#History\|History]], [[Rules/Source/skills#Nature\|Nature]], or [[Rules/Source/skills#Religion\|Religion]] skills by this method, as if you were learning a language. A character can learn only one of these skills in this way.
 
 #### Academy Contact
 
@@ -94,7 +121,34 @@ How much autonomy you have in choosing your missions and how often you're expect
 
 Roll or pick from the Academy Contact table to determine who manages the relationship between you and the academy.
 
-![Academy Contact](/Rules/Source/tables/academy-contact-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/academy-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Academy Contact
+
+</div>
+
+
+
+# Academy Contact
+*Source: Tasha's Cauldron of Everything p. 85* 
+
+**Academy Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **Harried Functionary**. A disinterested secretary conveys written correspondence to you from an exceptionally busy or aloof senior faculty member. |
+| 2 | **Celebrated Instructor**. Despite their throngs of ambitious assistants, a celebrity researcher considers you their star pupil. |
+| 3 | **Wizened Fixture**. A fantastically old, believed-to-be-deceased librarian gives you assignments from the circulation desk they never leave. |
+| 4 | **Infatuated Tourist**. A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift. |
+| 5 | **Spectral Fragment**. A haunted piece of the academy's collection compels you to complete its secret research. |
+| 6 | **Distant Observer**. A mysterious sponsor encourages your research from afar to avoid alerting nefarious forces embedded within the academy's bureaucracy. |
+^academy-contact
+
+</div></div>
+
 
 #### Academy Factotums
 
@@ -102,7 +156,34 @@ If you have an academy as your patron, you are likely engaged in a scholarly pur
 
 The Academy Factotum Roles table provides suggestions for functions you perform within an academy and the backgrounds frequently associated with each role.
 
-![Academy Factotum Roles](/Rules/Source/tables/academy-factotum-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/academy-factotum-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Academy Factotum Roles
+
+</div>
+
+
+
+# Academy Factotum Roles
+*Source: Tasha's Cauldron of Everything p. 85* 
+
+**Academy Factotum Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Student | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Guild Artisan, [[Rules/Source/backgrounds/noble-xphb\|Noble]], Outlander, [[Rules/Source/backgrounds/sage-xphb\|Sage]], Urchin |
+| Groundskeeper | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], Outlander, [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Professor | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Folk Hero, [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Researcher | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], Guild Artisan, [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Financier | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], Urchin |
+| Expert Speaker | Any |
+^academy-factotum-roles
+
+</div></div>
+
 
 #### Academy Quests
 
@@ -110,7 +191,34 @@ The focus of your study and the academy's research defines the missions you unde
 
 The Academy Quests table presents a few of the sort of endeavors your work or studies lead you to undertake.
 
-![Academy Quests](/Rules/Source/tables/academy-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/academy-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Academy Quests
+
+</div>
+
+
+
+# Academy Quests
+*Source: Tasha's Cauldron of Everything p. 86* 
+
+**Academy Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Aberrant Zoology**. You undertake expeditions to document, capture, and explain beings antithetical to the natural order. |
+| 2 | **Arcanodynamics**. You investigate the ways magic underpins existence, exploring its flows and seeking ways to harness its nexuses. |
+| 3 | **Forbidden History**. You reveal the lost truths of the world's darkest ages, pursuing the history of purposefully hidden or taboo eras. |
+| 4 | **Cryptogeography**. You search for proof of a hidden land or that the world isn't structured as commonly assumed. |
+| 5 | **Restorative Antiquarianism**. You track clues leading to plundered artifacts and then restore them to their rightful owners. |
+| 6 | **Evolutionary Divinity**. You dare to explore what no mortal was meant to know: the origins of divinity. |
+^academy-quests
+
+</div></div>
+
 
 ### Ancient Being
 
@@ -126,13 +234,40 @@ From brooding dragons to unfathomable voices whispering from the dark, ancient b
 
 Roll or pick from the Ancient Being table to determine the being your group serves.
 
-![Ancient Being](/Rules/Source/tables/ancient-being-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ancient-being-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ancient Being
+
+</div>
+
+
+
+# Ancient Being
+*Source: Tasha's Cauldron of Everything p. 86* 
+
+**Ancient Being**
+
+| dice: d6 | Ancient Being |
+|----------|---------------|
+| 1 | **Elder Dragon**. An ancient dragon seeks knowledge or power. It wishes to gather greater wealth for its hoard, its ambitions expanding in its advancing years. |
+| 2 | **Lich**. An undead spellcaster of immense power employs your group. Its interests are strangely diverse and seemingly benign. Perhaps it's not as evil as conventional adventuring wisdom suggests? |
+| 3 | **Bound Fiend**. This fiend is bound to a location, either in its true form or as a possessing spirit. Whether trapped in an unbreakable circle of binding sigils or sealed as a spirit within a gigantic statue, the fiend's influence drives your group. |
+| 4 | **Guardian Celestial**. An angel or another powerful celestial takes an interest in a specific region of the Material Plane. It cultivates a network of mortal informants and agents to serve its agenda. |
+| 5 | **The Endless**. This person has lived many lifetimes because they can't die—at least not permanently. No matter the cause of their demise, they return. To all appearances, they are alive and mortal, but they control the amassed resources of an immortal. |
+| 6 | **Primal Manifestation**. Its existence defies mortal understanding; the being simply is. It could be a primordial force of nature awakened to self-awareness that now inhabits the landscape or an alien intellect that whispers through proxies, omens, and idols. |
+^ancient-being
+
+</div></div>
+
 
 #### Ancient Being Perks
 
 With the ancient being as your group's patron, you gain the following perks.
 
-![Azalin, the lich, spies on Castle Ravenloft](/Rules/Source/books/tashas-cauldron-of-everything/img/061-02-003.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/061-02-003.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/061-02-003.webp)
 
 ##### Equipment
 
@@ -156,7 +291,34 @@ Your patron grants your group a small measure of esoteric power. At 5th level, a
 
 The organizational contact who dispenses assignments or delivers the word of your patron runs the gamut from prosaic to otherworldly. Roll or pick from the Ancient Being Contact table to determine who or what conveys your patron's will.
 
-![Ancient Being Contact](/Rules/Source/tables/ancient-being-contact-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ancient-being-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ancient Being Contact
+
+</div>
+
+
+
+# Ancient Being Contact
+*Source: Tasha's Cauldron of Everything p. 87* 
+
+**Ancient Being Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **Employer**. An established member of local society acts as the interface between you and the patron and provides the cover of legitimate employment. They could be a bartender, shopkeeper, local official, or noble. |
+| 2 | **Back-Room Dealers**. An exclusive area in an otherwise-ordinary establishment requires a password or token to gain entry. There you meet and communicate with shadowy agents of your patron. |
+| 3 | **Magical Message Drop**. Magically recorded messages from your contact or your patron appear in odd places. You know to check a predetermined location, such as a crack in an ancient monolith or a specific grave, for instructions. |
+| 4 | **Visions**. Your patron doesn't use intermediaries, instead speaking to you in dreams, omens, or visions. The being appears in your mind as you sleep, taking control of your dreams to deliver instructions that become difficult to ignore. |
+| 5 | **Ephemeral Echo**. Your contact never physically reveals itself to you. Perhaps it is the ghost of a dead person, an entity that appears outside the flow of time, or a projected illusion of a being that never leaves your patron's hidden sanctum. |
+| 6 | **The Mouthpiece**. The ancient being's voice whispers through the lips of an ordinary person. You patron might posses the body of a stranger or a party member to converse with you. |
+^ancient-being-contact
+
+</div></div>
+
 
 #### Ancient Being Operatives
 
@@ -164,7 +326,34 @@ Consider the overarching goals of your group's ancient being patron when determi
 
 The Ancient Being Operative Roles table suggests a variety of parts you can play within an ancient being's schemes and the backgrounds frequently associated with each role.
 
-![Ancient Being Operative Roles](/Rules/Source/tables/ancient-being-operative-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ancient-being-operative-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ancient Being Operative Roles
+
+</div>
+
+
+
+# Ancient Being Operative Roles
+*Source: Tasha's Cauldron of Everything p. 88* 
+
+**Ancient Being Operative Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Devotee | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], Outlander, [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Infiltrator | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Mouthpiece | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Folk Hero, [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Pupil | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Folk Hero, Guild Artisan, [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Guardian | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Folk Hero, [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], Outlander, [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Offspring | Any |
+^ancient-being-operative-roles
+
+</div></div>
+
 
 #### Ancient Being Quests
 
@@ -172,7 +361,34 @@ Though their work remains mysterious, ancient beings send their agents to exact 
 
 The Ancient Being Quests table presents a few options for the sorts of work your patron expects from you.
 
-![Ancient Being Quests](/Rules/Source/tables/ancient-being-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/ancient-being-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Ancient Being Quests
+
+</div>
+
+
+
+# Ancient Being Quests
+*Source: Tasha's Cauldron of Everything p. 88* 
+
+**Ancient Being Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Rescue**. A wayward agent went missing while gathering information or materials. You must discover their fate and recover them and their findings. |
+| 2 | **Sabotage**. You must destroy an aspect of a rival's organization, either assassinating a key minion or destroying a critical object. |
+| 3 | **Artifice**. Your specialized skills are instrumental to assembling components for a powerful magic ritual or object. |
+| 4 | **Treachery**. A high-profile minion of another powerful figure is in a position to betray their master, to the benefit of your patron. You must convince them to defect to your organization or extract them from now-hostile territory. |
+| 5 | **Culling**. A respected agent of your patron (possibly an ally or a mentor for your group) has been compromised. Perhaps they are defecting to a rival, attempting to seize the ancient being's power. Whatever the case, you must catch them to end their threat. |
+| 6 | **Astral Heist**. A powerful rival of your patron stores their secrets in a mind vault on the Astral Plane. That means they can't be tricked or coerced into revealing anything, nor can their thoughts be read. You must find the vault and travel through the rival's deadly memories to find the knowledge your patron desires. |
+^ancient-being-quests
+
+</div></div>
+
 
 ### Aristocrat
 
@@ -188,13 +404,40 @@ From the heads of scheming merchant families to immortal sorcerer-queens, each m
 
 Roll or pick from the Aristocrat Types table to determine what kind of noble you serve.
 
-![Aristocrat Types](/Rules/Source/tables/aristocrat-types-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/aristocrat-types-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Aristocrat Types
+
+</div>
+
+
+
+# Aristocrat Types
+*Source: Tasha's Cauldron of Everything p. 89* 
+
+**Aristocrat Types**
+
+| dice: d6 | Aristocrats |
+|----------|-------------|
+| 1 | **Local Lord**. Convinced that power and prestige lie just around the corner, this minor lordling grasps for every opportunity to climb the ranks. |
+| 2 | **Merchant Mastermind**. Reputation, wealth, and power are one and the same for the head of a family with world-spanning business holdings. |
+| 3 | **Nomadic Princeling**. Nothing is more appealing to this princeling than treasure. Their sprawling merchant caravan trails behind their palanquin as far as the eye can see. |
+| 4 | **Double Dealer**. The leader of a noble family has turned against their nation, secretly opposing their liege for personal gain or ethical reasons. |
+| 5 | **Ambitious Entrepreneur**. The sole heir of a vast fortune, this entrepreneur seeks allies to expand their wealth in a new business on the international, global, or planar stage. |
+| 6 | **Future Ruler**. This young noble is destined to rule, but currently their whims are fickle and dangerous. |
+^aristocrat-types
+
+</div></div>
+
 
 #### Aristocrat Perks
 
 With an aristocrat as your group's patron, you gain the following perks.
 
-![A Wood Elf Aristocrat](/Rules/Source/books/tashas-cauldron-of-everything/img/062-02-004.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/062-02-004.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/062-02-004.webp)
 
 ##### Expenses
 
@@ -218,7 +461,34 @@ Aside from a few exceptions, aristocrats prefer to have someone else handle comm
 
 Roll or pick from the Aristocrat Contact table to determine who serves as your patron's proxy.
 
-![Aristocrat Contact](/Rules/Source/tables/aristocrat-contact-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/aristocrat-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Aristocrat Contact
+
+</div>
+
+
+
+# Aristocrat Contact
+*Source: Tasha's Cauldron of Everything p. 90* 
+
+**Aristocrat Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **Common Contact**. A servant with ambitions toward a title works as a go-between for your patron. |
+| 2 | **Professional**. A level-headed advisor or manager of your patron's business directs you in keeping their reckless employer safe. |
+| 3 | **Family Peacemaker**. A naive aristocrat appointed by your patron wants your assistance in keeping the peace between fractious family members, which isn't your patron's priority. |
+| 4 | **Intimate Connection**. A common-born confidant or lover of your patron guides you in creating circumstances to bolster the noble family's best interests. |
+| 5 | **Outside Insider**. An outcast noble favored by your patron works with you to uphold their family's interests despite their exile. |
+| 6 | **Outsider Inside**. A mysterious entity manipulates a noble family's fortunes. Through your patron, it employs you to help guide its chosen family along a centuries-long course. |
+^aristocrat-contact
+
+</div></div>
+
 
 #### Aristocrat Retainers
 
@@ -226,7 +496,34 @@ Aristocrats seek agents to pursue business, political, criminal, or personal age
 
 The Aristocrat Retainer Roles table suggests a variety of parts you might play in an aristocrat's agenda and the backgrounds frequently associated with each role.
 
-![Aristocrat Retainer Roles](/Rules/Source/tables/aristocrat-retainer-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/aristocrat-retainer-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Aristocrat Retainer Roles
+
+</div>
+
+
+
+# Aristocrat Retainer Roles
+*Source: Tasha's Cauldron of Everything p. 90* 
+
+**Aristocrat Retainer Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Advisor | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], Folk Hero, [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Bodyguard | [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Folk Hero, [[Rules/Source/backgrounds/noble-xphb\|Noble]], Outlander, [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Informant | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], Urchin |
+| House Staff | [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Guild Artisan, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Messenger | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Outlander, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], Urchin |
+| Family Scion | Any |
+^aristocrat-retainer-roles
+
+</div></div>
+
 
 #### Aristocrat Quests
 
@@ -234,7 +531,34 @@ A missive from your patron proffers a different kind of mission each time. For o
 
 The Aristocrat Quests table presents the sorts of work you might conduct at your highborn patron's request.
 
-![Aristocrat Quests](/Rules/Source/tables/aristocrat-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/aristocrat-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Aristocrat Quests
+
+</div>
+
+
+
+# Aristocrat Quests
+*Source: Tasha's Cauldron of Everything p. 90* 
+
+**Aristocrat Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Noble Union**. You work within multiple noble factions to unite rival families. |
+| 2 | **Business Breakthrough**. You track down and obtain a wonder your patron believes is the key to their financial fortunes. |
+| 3 | **Sabotage Rival**. You break into the business or estate of an enemy noble family and undermine their political or professional ventures. |
+| 4 | **Lost Lineage**. You seek evidence of a lost branch of a noble family or proof that individuals don't possess a noble pedigree. |
+| 5 | **Origin of Nobility**. You reveal the secret reason why certain individuals were elevated to noble status and how they will soon fulfill their purpose. |
+| 6 | **The New Nobility**. You recreate the remarkable event that granted today's noble families their special standing, enabling the rise of new nobles. |
+^aristocrat-quests
+
+</div></div>
+
 
 ### Criminal Syndicate
 
@@ -252,7 +576,34 @@ Conversely, the syndicate could be an underground organization of good-hearted p
 
 Roll or pick from the Syndicate Types table to determine what type of criminal organization you serve.
 
-![Types of Criminal Syndicates; Syndicate Types](/Rules/Source/tables/types-of-criminal-syndicates-syndicate-types-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/types-of-criminal-syndicates-syndicate-types-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Types of Criminal Syndicates; Syndicate Types
+
+</div>
+
+
+
+# Types of Criminal Syndicates; Syndicate Types
+*Source: Tasha's Cauldron of Everything p. 91* 
+
+**Syndicate Types**
+
+| dice: d6 | Syndicate |
+|----------|-----------|
+| 1 | **Thieves' Guild**. A disparate convocation of thieves, spies, smugglers, and other scoundrels controls criminal activity in a region of a city. |
+| 2 | **Assassin Society**. The network's livelihood is death. Members of the society hone their skills as cutthroats, poisoners, body-disposal specialists, and any other profession focused on ending lives. The society is motivated by profit or labors in service to a greater cause. |
+| 3 | **Magical Arms Dealer**. The syndicate has cornered the market on deadly magical devices. They offer their services and wares for a price and acquire staggering magical might for those who meet their demands. |
+| 4 | **Pirate Fleet**. This alliance of pirate captains is unified under a ruling captain or admiral and adheres to a strict code of honor. They converge only in response to an outside threat. |
+| 5 | **Body Snatchers**. The syndicate consists predominantly, if not entirely, of creatures that possess or impersonate other people. They seek to replace influential individuals throughout society with members of their ranks. |
+| 6 | **Thought Thieves**. These psychic criminals infiltrate their target's minds to steal secrets and disguise their existence. |
+^syndicate-types
+
+</div></div>
+
 
 #### Criminal Syndicate Perks
 
@@ -268,7 +619,7 @@ You have access to your syndicate's business in contraband, such as poisons or n
 
 ##### Fences
 
-Members or associates of your syndicate are skilled at disposing of stolen goods, and you have access to this service as well. Fences are useful for selling not just illicit goods but also expensive items such as works of art and magic items. In the case of magic items, this allows you to delegate the work of finding a buyer (a downtime activity described in the "Dungeon Master's Guide" and "Xanathar's Guide to Everything") to the fence. When using the syndicate's fences, you run no risk of a double-cross or other mishap in finding a buyer, but the syndicate takes 20 percent of the sale price as a finder's fee.
+Members or associates of your syndicate are skilled at disposing of stolen goods, and you have access to this service as well. Fences are useful for selling not just illicit goods but also expensive items such as works of art and magic items. In the case of magic items, this allows you to delegate the work of finding a buyer (a downtime activity described in the) to the fence. When using the syndicate's fences, you run no risk of a double-cross or other mishap in finding a buyer, but the syndicate takes 20 percent of the sale price as a finder's fee.
 
 ##### Safe Houses
 
@@ -284,9 +635,36 @@ Each member of the syndicate has a place in the organization. You report to a co
 
 Roll or pick from the Syndicate Contact table to determine your contact within a criminal organization.
 
-![Criminal Syndicate Contact; Syndicate Contact](/Rules/Source/tables/criminal-syndicate-contact-syndicate-contact-tce.md)
 
-![Ott Steeltoes holds aloft ...](/Rules/Source/books/tashas-cauldron-of-everything/img/063-02-005.webp#center "Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/criminal-syndicate-contact-syndicate-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Criminal Syndicate Contact; Syndicate Contact
+
+</div>
+
+
+
+# Criminal Syndicate Contact; Syndicate Contact
+*Source: Tasha's Cauldron of Everything p. 92* 
+
+**Syndicate Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **Personal Mentor**. This longtime member of the syndicate took you under their wing when you were young and became a parental figure. |
+| 2 | **Clever Urchin**. An innocuous person, perhaps a beggar or menial laborer, knows all the right people and shares their connections with you. |
+| 3 | **Former Law Enforcement**. Your contact used to be (or maybe still is) a member of local law enforcement. They have sharp insight into the law's workings in your area and a healthy dose of paranoia for that reason. |
+| 4 | **Bon Vivant**. The boss of a local den of vice—whether gambling, narcotics, or other pleasures—aids you when they're not distracted by their own debauchery. |
+| 5 | **Traitor**. You know your contact in the syndicate has betrayed it, but they have enough clout and leverage that you don't dare cross them—yet. |
+| 6 | **Criminal Royalty**. Unknown to most, your contact is a member of local nobility or royalty. Why they maintain relations with the syndicate is a troubling mystery. |
+^syndicate-contact
+
+</div></div>
+
+
+![/Rules/Source/books/tashas-cauldron-of-everything/img/063-02-005.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/063-02-005.webp)
 
 #### Criminal Syndicate Members
 
@@ -294,7 +672,34 @@ Whether you're a lifelong scoundrel or an ambitious upstart, you seek to gain we
 
 The Criminal Syndicate Member Roles suggests positions you might fill in the organization and the backgrounds frequently associated with each role.
 
-![Criminal Syndicate Member Roles](/Rules/Source/tables/criminal-syndicate-member-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/criminal-syndicate-member-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Criminal Syndicate Member Roles
+
+</div>
+
+
+
+# Criminal Syndicate Member Roles
+*Source: Tasha's Cauldron of Everything p. 92* 
+
+**Criminal Syndicate Member Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Burglar | [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Folk Hero, [[Rules/Source/backgrounds/noble-xphb\|Noble]], Outlander, Urchin |
+| Muscle | [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Outlander, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Con Artist | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], Urchin |
+| Cleaner | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], Guild Artisan, [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Mastermind | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Folk Hero, [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Mole | Any |
+^criminal-syndicate-member-roles
+
+</div></div>
+
 
 #### Criminal Syndicate Quests
 
@@ -302,7 +707,34 @@ Your work as a syndicate member involves more than simple street swindles or pic
 
 The Criminal Syndicate Quests table explores what kind of work you do for the organization.
 
-![Criminal Syndicate Quests](/Rules/Source/tables/criminal-syndicate-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/criminal-syndicate-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Criminal Syndicate Quests
+
+</div>
+
+
+
+# Criminal Syndicate Quests
+*Source: Tasha's Cauldron of Everything p. 93* 
+
+**Criminal Syndicate Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Acquisition and Retrieval**. You acquire assets for the syndicate. You steal important documents or clear out locations for use as hideouts. |
+| 2 | **Heists**. You plan and execute elaborate robberies that require the combined skills of your team. |
+| 3 | **Gang Warfare**. You ensure that no other crime syndicate gains a significant foothold in your territory. |
+| 4 | **Enforcement**. You keep the corrupt, headstrong, and avaricious members of your syndicate in line with the goals and rules of the organization. |
+| 5 | **Assassination**. You dispatch prominent people—the sort who have numerous bodyguards and elaborate security systems to circumvent. |
+| 6 | **Topple the Powerful**. Your syndicate is criminal and your methods illegal, but your goals are righteous. You help people who are powerless against exploitation by the powerful. |
+^criminal-syndicate-quests
+
+</div></div>
+
 
 ### Guild
 
@@ -318,9 +750,36 @@ The guild structure covers a swath of business ventures, differentiated by their
 
 Roll or pick from the Guild Types table to determine the general sort of organization you operate within.
 
-![Guild Types](/Rules/Source/tables/guild-types-tce.md)
 
-![A hero fights the bullywug...](/Rules/Source/books/tashas-cauldron-of-everything/img/064-02-006.webp#center "A hero fights the bullywug who guards the villainous master of the bakers' guild")
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/guild-types-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Guild Types
+
+</div>
+
+
+
+# Guild Types
+*Source: Tasha's Cauldron of Everything p. 93* 
+
+**Guild Types**
+
+| dice: d6 | Guild |
+|----------|-------|
+| 1 | **Crafters' Guild**. This conglomerate of artisans pools its resources and influence to ensure a steady exchange of gold for its crafts. |
+| 2 | **Merchant Consortium**. These entrepreneurs don't create the wares they peddle, instead specializing in linking products to prospective owners. If they don't have it, they find it. |
+| 3 | **Miracle Makers' Association**. The magically inclined crafters of this guild specialize in imbuing physical goods with magical effects. Rumor has it they can strip the magic from existing enchanted items and might be willing to buy or trade adventurers' spoils. |
+| 4 | **Moneychangers**. These merchants deal in all forms of currency, acting as bankers, loan agents, and crucial contacts for adventurers and other individuals who deal with large sums of wealth. They exchange coin for gemstones as readily as they find buyers for historical relics and recovered art. |
+| 5 | **Philosophical Faction**. These like-minded individuals follow specific teachings, spreading word of their expertise through their services and training. |
+| 6 | **Identity Traders**. These enigmatic dealers buy and sell documents, memories, and the trappings of thoroughly lived lives, selling them to those in need of the ultimate fresh start. |
+^guild-types
+
+</div></div>
+
+
+![/Rules/Source/books/tashas-cauldron-of-everything/img/064-02-006.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/064-02-006.webp)
 
 #### Guild Perks
 
@@ -336,11 +795,11 @@ You can requisition the use of specialized tools, laboratories, libraries, or ot
 
 ##### Resources
 
-You can leverage the guild's extensive contacts to locate exotic materials for crafting, spell components, or magic items, or buyers for them (a downtime activity in the "Dungeon Master's Guide" and "Xanathar's Guide to Everything"). You can locate or sell legal commodities using the guild's resources, and any prices tip in your favor by 10 percent.
+You can leverage the guild's extensive contacts to locate exotic materials for crafting, spell components, or magic items, or buyers for them (a downtime activity in the). You can locate or sell legal commodities using the guild's resources, and any prices tip in your favor by 10 percent.
 
 ##### Training
 
-The guild retains knowledgeable tutors in subjects pertinent to its interests. When you undertake the training downtime activity (as described in the "Player's Handbook" and "Xanathar's Guide to Everything"), the training takes half as long if you are studying a subject the guild specializes in. The DM decides if the guild has tutors available for a given subject.
+The guild retains knowledgeable tutors in subjects pertinent to its interests. When you undertake the training downtime activity (as described in the), the training takes half as long if you are studying a subject the guild specializes in. The DM decides if the guild has tutors available for a given subject.
 
 #### Guild Contact
 
@@ -348,7 +807,34 @@ Even as a member in good standing of the guild, you can't simply stroll up to th
 
 Roll or pick from the Guild Contact table to determine your immediate contact within the guild.
 
-![Guild Contact](/Rules/Source/tables/guild-contact-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/guild-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Guild Contact
+
+</div>
+
+
+
+# Guild Contact
+*Source: Tasha's Cauldron of Everything p. 94* 
+
+**Guild Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **The Perfectionist**. Your contact is a skilled but obsessive creator consumed with the quest to create something perfect that will define their life's work and secure their legacy. They lose sight of right and wrong in pursuit of the finest materials and exciting opportunities. |
+| 2 | **Attentive Overseer**. A guild representative takes personal interest in your group's tasks. They follow your exploits and know of your adventures before you return to report. Despite the unsettling depth of their knowledge, they seem genuinely eager to shepherd your work. |
+| 3 | **Hidden Benefactor**. Whoever your contact is, they don't communicate directly. They send messages via couriers or letters. No one in the guild knows who the contact is, or if they do, they aren't telling you. Regardless, the contact's information is good, and they pay on time. |
+| 4 | **Discerning Mentor**. No matter how well you perform, or how perfect your creations, nothing is ever good enough for this contact. They point out every flaw and missed opportunity. Are they bitter, lashing out at anyone around them, or do they recognize your potential and try to push you to greatness? |
+| 5 | **Golem Guide**. Your guild contact is the soul of a long-dead artisan preserved in a construct body. This golem is wise and knowledgeable, but it has difficulty grasping the passage of time and the state of the world compared to its original era. |
+| 6 | **Fallen Muse**. Your contact is a fallen celestial. Whether they regret their transgressions or hunger for vengeance, they provide divine inspiration and guidance to you and to the guild. Somehow your group and the guild inspire their hope for ascension. |
+^guild-contact
+
+</div></div>
+
 
 #### Guild Representatives
 
@@ -356,7 +842,34 @@ As a guild member, you might be a professional who works directly toward the gui
 
 The Guild Representative Roles table suggests positions you might fill in a guild and the backgrounds frequently associated with each role.
 
-![Guild Representative Roles](/Rules/Source/tables/guild-representative-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/guild-representative-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Guild Representative Roles
+
+</div>
+
+
+
+# Guild Representative Roles
+*Source: Tasha's Cauldron of Everything p. 95* 
+
+**Guild Representative Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Researcher | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Guild Artisan, [[Rules/Source/backgrounds/sage-xphb\|Sage]] |
+| Negotiator | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Guild Artisan, [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]] |
+| Saboteur | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Guild Artisan, [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Guard | [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Folk Hero, Outlander, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Explorer | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Folk Hero, Guild Artisan, Outlander, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]] |
+| Expert | Any |
+^guild-representative-roles
+
+</div></div>
+
 
 #### Guild Quests
 
@@ -364,7 +877,34 @@ As a member of the guild, you're called on to ply your skills in the organizatio
 
 The Guild Quests table presents a few options for the sorts of work the guild requires of you.
 
-![Guild Quests](/Rules/Source/tables/guild-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/guild-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Guild Quests
+
+</div>
+
+
+
+# Guild Quests
+*Source: Tasha's Cauldron of Everything p. 95* 
+
+**Guild Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Deliver Goods**. You need to deliver an order to an important customer or partner of the guild. The delivery must arrive by a critical deadline—regardless of who or what tries to stop you. |
+| 2 | **Acquire Materials**. Your guild requires materials that are rare and difficult to procure, either for a guild project or for a paying client. Your group must gather the missing components from a dangerous location or a recalcitrant owner while outpacing a rival to the prize. |
+| 3 | **Eliminate a Rival**. A competitor has humiliated the guild one too many times, and it's time for that to stop. Your group is charged with assuring the rival never darkens the guild's reputation again. Can you trick them into permanent disgrace, or must you resort to more direct methods? |
+| 4 | **The Masterpiece**. An exquisite work of art for an influential client, either created by your guild or acquired through agents, has gone missing. You must track down its whereabouts and secure it before time runs out and the guild suffers a penalty. |
+| 5 | **The Collector**. Your guild is tasked to create or acquire something wondrous for a wealthy but secretive client's collection. Guild members who previously failed to fulfill this assignment ended up missing. The collector promises to return your comrades if you provide what the collector seeks, but if you fail, you'll become part of the collection. |
+| 6 | **The Bill Comes Due**. Your guild master achieved their vaunted position by means of an otherworldly bargain. That price has come due, and they are desperate to avoid paying. You must defeat whatever's coming to collect the master's debt or find another acceptable payment. |
+^guild-quests
+
+</div></div>
+
 
 ### Military Force
 
@@ -380,13 +920,40 @@ Military forces represent a variety of organized bands of warriors. They can be 
 
 Roll or pick from the Military Force Types table to determine the general type of military patron you serve.
 
-![Military Force Types](/Rules/Source/tables/military-force-types-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/military-force-types-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Military Force Types
+
+</div>
+
+
+
+# Military Force Types
+*Source: Tasha's Cauldron of Everything p. 96* 
+
+**Military Force Types**
+
+| dice: d6 | Military Organization |
+|----------|-----------------------|
+| 1 | **Standing Army**. A standing army serves as the highly disciplined and structured guardian of a province or an entire nation. Strict tiers of command ensure coordination between branches of the force. |
+| 2 | **Mercenary Company**. Hard-bitten veterans of numerous conflicts, mercenaries serve an employer for coin rather than out of loyalty. |
+| 3 | **Expeditionary Force**. This military force is far from home, fighting behind enemy lines or striking into wild, unsettled lands. The force must be fast, self-sufficient, and either diplomatic or decisive to assure their survival. |
+| 4 | **Horde**. The horde is almost a force of nature, and what it lacks in discipline it makes up in ferocity. It doesn't have a rigid command structure, instead functioning like a pyramid of smaller armies. Horde commanders owe fealty to stronger leaders above them, all the way up to the warlord. |
+| 5 | **Planar Conscripts**. This military force battles for cosmic stakes on far-flung planes of the multiverse or fights against extraplanar invasion on the Material Plane. Warriors include conscripts pressed into service in the Blood War, fodder in the thrall of ruthless yugoloth mercenaries, or members of a glorious celestial host defending against fiendish incursion. |
+| 6 | **Sky Warriors**. This military force consists of winged creatures, employs magical flight, or sails airships as a sky navy. Traditional defenses are ineffective against attacks from the air, positioning the sky warriors as a fearsome nation or expensive and coveted mercenaries. |
+^military-force-types
+
+</div></div>
+
 
 #### Military Force Perks
 
 With a military force as your group's patron, you gain the following perks.
 
-![A Dragonborn Messenger of ...](/Rules/Source/books/tashas-cauldron-of-everything/img/065-02-007.webp#center "A Dragonborn Messenger of the Purple Dragon Knights")
+![/Rules/Source/books/tashas-cauldron-of-everything/img/065-02-007.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/065-02-007.webp)
 
 ##### Armory
 
@@ -414,7 +981,34 @@ Your primary contact within your hierarchy is your superior officer, the person 
 
 Roll or pick from the Military Force Contact table to determine who assigns you missions.
 
-![Military Force Contact; Commanding Officer](/Rules/Source/tables/military-force-contact-commanding-officer-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/military-force-contact-commanding-officer-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Military Force Contact; Commanding Officer
+
+</div>
+
+
+
+# Military Force Contact; Commanding Officer
+*Source: Tasha's Cauldron of Everything p. 97* 
+
+**Commanding Officer**
+
+| dice: d6 | Officer |
+|----------|---------|
+| 1 | **Tested Veteran**. Your commander is a battle-scarred officer who experienced horrors in combat. They rely on something to dull the pain of their memories or wounds, from a favorite writer's prose to a distracting vice. |
+| 2 | **Taskmaster**. This angry officer yells every order, reprimands you for the smallest mistake, and fully expects you to fail at every mission you undertake. This might be tough love or simple brutishness. |
+| 3 | **Protective Officer**. A kindly officer is hesitant to send you into danger and constantly reminds you to be careful. |
+| 4 | **Bitter Soldier**. Your commander carries deep grudges against your force's enemies. They leap at any chance to do those foes harm, even if it puts your group in terrible risk. |
+| 5 | **Hopeful Commander**. This optimistic officer knows that a new era of peace is just over the horizon. You just need to complete these last few missions, then it should all finally be over. |
+| 6 | **Devout Leader**. Your commander is a person of deep faith. They believe that your success or failure lies entirely in divine hands and you are the instruments of that will. |
+^commanding-officer
+
+</div></div>
+
 
 #### Military Force Envoys
 
@@ -422,7 +1016,34 @@ You might join a military force for a wide range of reasons, or the military has
 
 The Military Force Envoy Roles table suggests a variety of military roles you could fill and the backgrounds frequently associated with each role.
 
-![Military Force Envoy Roles](/Rules/Source/tables/military-force-envoy-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/military-force-envoy-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Military Force Envoy Roles
+
+</div>
+
+
+
+# Military Force Envoy Roles
+*Source: Tasha's Cauldron of Everything p. 97* 
+
+**Military Force Envoy Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Combatant | [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Folk Hero, Outlander, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Tactician | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Folk Hero, [[Rules/Source/backgrounds/noble-xphb\|Noble]], Outlander, [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Medic | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Folk Hero, [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Scout | [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], Outlander, [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Provocateur | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/noble-xphb\|Noble]] |
+| Spy | Any |
+^military-force-envoy-roles
+
+</div></div>
+
 
 #### Military Quests
 
@@ -430,7 +1051,34 @@ The wide-ranging work of a military unit calls for both power and subtlety. Your
 
 The Military Quests table provides possible missions you're tasked to accomplish.
 
-![Military Quests](/Rules/Source/tables/military-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/military-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Military Quests
+
+</div>
+
+
+
+# Military Quests
+*Source: Tasha's Cauldron of Everything p. 98* 
+
+**Military Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Strike Force**. You undertake a quick, strategic, and devastating attack against an enemy force. |
+| 2 | **Defensive Operations**. You must preserve the safety of an important location such as a civilian population center, a supply depot, or strategically critical bridge or seaport. |
+| 3 | **Special Forces**. You are assigned to a covert operation behind enemy lines. This is similar to the work of a spy or an assassin but with a broader scope. You engage in equipment sabotage or execute targeted strikes against high-value targets. |
+| 4 | **Reconnaissance**. You gather information on enemy troop numbers, placements, movement, or supply caches and routes. |
+| 5 | **Seek and Destroy**. You are responsible for hunting down specific high-value and dangerous targets, which include deserters, suspected enemy special forces, or magical war machines run amok. |
+| 6 | **Siege**. You are assigned to initiate a siege on an enemy stronghold or help break a siege in progress on an allied fortress. |
+^military-quests
+
+</div></div>
+
 
 ### Religious Order
 
@@ -446,9 +1094,36 @@ Not every religious order represents an alliance of worshipers devoted to godly 
 
 Roll or pick from the Religious Order Types table to determine the type of religious patron you serve.
 
-![Religious Order Types](/Rules/Source/tables/religious-order-types-tce.md)
 
-![Acolytes prepare for a couatl festival](/Rules/Source/books/tashas-cauldron-of-everything/img/066-02-008.webp#center)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-order-types-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Order Types
+
+</div>
+
+
+
+# Religious Order Types
+*Source: Tasha's Cauldron of Everything p. 98* 
+
+**Religious Order Types**
+
+| dice: d6 | Religious Order |
+|----------|-----------------|
+| 1 | **Undead Hunters**. This community of scholars and monster hunters laboriously researches the unquiet dead, tracking them to their lairs and permanently laying them to rest. |
+| 2 | **Devout Scholars**. This federation prizes knowledge and texts pertaining to their god. They collect rare holy books and record the life stories of miracle-working prophets. |
+| 3 | **Relic Collectors**. This order of archaeologist-monks seeks to fill their museum-like temple with storied holy relics. |
+| 4 | **Charitable Missionaries**. Adhering to the belief that religion empowers civilization, this order travels far to help the downtrodden, seeking to draw new believers by their virtuous example. |
+| 5 | **Militant Inquisitors**. This dogmatically rigid hierarchy seeks to stamp out all threats to their beliefs. |
+| 6 | **Doomsaying Evangelists**. This order believes the world is about to end. They're convinced that if they persuade everyone else of this fact they might stave off the impending doom. |
+^religious-order-types
+
+</div></div>
+
+
+![/Rules/Source/books/tashas-cauldron-of-everything/img/066-02-008.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/066-02-008.webp)
 
 #### Religious Order Perks
 
@@ -472,7 +1147,34 @@ Your established order enjoys a robust following. It might be a cloister of prie
 
 Roll or pick from the Religious Order Contact table to determine who relays messages to and from your order's deity.
 
-![Religious Order Contact](/Rules/Source/tables/religious-order-contact-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-order-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Order Contact
+
+</div>
+
+
+
+# Religious Order Contact
+*Source: Tasha's Cauldron of Everything p. 99* 
+
+**Religious Order Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **Shadow Tongue**. A mysterious speaker for your order advises your next steps but fears being discovered by a powerful rival faith. |
+| 2 | **Inspired Creator**. A gifted artisan conveys the will of the divine through prophetic song or artwork. |
+| 3 | **Mysterious Text**. The gradual translation of a secret holy text points you toward the next step of a divine destiny. |
+| 4 | **Fierce Inquisitor**. A severe hierarch directs you to cleanse wickedness from a region, from the order, or from within yourself. |
+| 5 | **Beloved Healer**. A famed healer guides you to where you'll be needed most, even if their reasons are unclear until you arrive. |
+| 6 | **Divinity's Voice**. Otherworldly messages direct you to undertake divine quests. |
+^religious-order-contact
+
+</div></div>
+
 
 #### Religious Order Member
 
@@ -480,7 +1182,34 @@ Your primary duty to a religious order is to further your god's reach. That obli
 
 The Religious Order Member Roles table suggests positions you might fill in an order and the backgrounds frequently associated with each role.
 
-![Religious Order Member Roles](/Rules/Source/tables/religious-order-member-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-order-member-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Order Member Roles
+
+</div>
+
+
+
+# Religious Order Member Roles
+*Source: Tasha's Cauldron of Everything p. 99* 
+
+**Religious Order Member Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Councilor | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Folk Hero, [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], Urchin |
+| Defender | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], Folk Hero, Outlander, [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Ascetic | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/hermit-xphb\|Hermit]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Inquisitor | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Emissary | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]] |
+| Chosen One | Any |
+^religious-order-member-roles
+
+</div></div>
+
 
 #### Religious Order Quests
 
@@ -488,7 +1217,34 @@ The services you provide your religious order vary depending on the deity you se
 
 The Religious Order Quests table presents a few examples of how you can honor and serve your deity.
 
-![Religious Order Quests](/Rules/Source/tables/religious-order-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-order-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Order Quests
+
+</div>
+
+
+
+# Religious Order Quests
+*Source: Tasha's Cauldron of Everything p. 100* 
+
+**Religious Order Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **Safe Escape**. A band of the faithful wandered into territory hostile to your order. You must find them and escort them to safety. |
+| 2 | **Relic Recovery**. You seek a lost symbol of the order discovered in a dangerous place or in the hands of an enemy. |
+| 3 | **Cult Hunt**. You hunt a cell of zealots dangerous to your order or mortals at large. |
+| 4 | **Desperate Pilgrimage**. You protect members of the order as they participate in a pilgrimage that takes them through dangerous lands. |
+| 5 | **Expunge Heresy**. You seek out the source of blasphemy that's taken root within the order. |
+| 6 | **Prevent Prophecy**. A rival order stands on the cusp of fulfilling a prophecy with deadly ramifications. You strive to undermine their blasphemous agenda. |
+^religious-order-quests
+
+</div></div>
+
 
 ### Sovereign
 
@@ -506,11 +1262,38 @@ Broadly defined, a sovereign ranges from the head of a government to the leader 
 
 Roll or pick from the Sovereign Types table to determine what sort of liege you serve.
 
-![Sovereign Types](/Rules/Source/tables/sovereign-types-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sovereign-types-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sovereign Types
+
+</div>
+
+
+
+# Sovereign Types
+*Source: Tasha's Cauldron of Everything p. 100* 
+
+**Sovereign Types**
+
+| dice: d6 | Sovereign |
+|----------|-----------|
+| 1 | **Village Elder**. The wizened leader of a community offers both civic and moral leadership. |
+| 2 | **Young Noble**. An ambitious noble eagerly seeks to reform society to align with a personal vision. |
+| 3 | **Shipwrecked Governor**. A desperate leader struggles to keep people alive in a wilderness they're not prepared to endure. |
+| 4 | **Ruler Returned**. A tribe's revered leader has returned from the dead and seeks to resurrect their past glories. |
+| 5 | **Hidden Power**. A mysterious figure manipulates the nation's puppet leader and guides the government's true agenda. |
+| 6 | **True Regent**. The rightful heir to the throne struggles to reclaim power from a perfect impostor. |
+^sovereign-types
+
+</div></div>
+
 
 #### Sovereign Perks
 
-![A Merfolk Sovereign](/Rules/Source/books/tashas-cauldron-of-everything/img/067-02-009.webp#center)
+![/Rules/Source/books/tashas-cauldron-of-everything/img/067-02-009.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/067-02-009.webp)
 
 With the sovereign as your group's patron, you gain the following perks.
 
@@ -536,7 +1319,34 @@ You might benefit from direct contact with your group patron. This includes audi
 
 Roll or pick from the Sovereign Contact table to determine who manages the relationship between you and the throne, if not the sovereign directly.
 
-![Sovereign Contact](/Rules/Source/tables/sovereign-contact-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sovereign-contact-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sovereign Contact
+
+</div>
+
+
+
+# Sovereign Contact
+*Source: Tasha's Cauldron of Everything p. 102* 
+
+**Sovereign Contact**
+
+| dice: d6 | Contact |
+|----------|---------|
+| 1 | **Intimate Confidant**. The sovereign's friend or lover seeks to aid their companion in any way possible. |
+| 2 | **Spymaster**. An intelligence operative attends to the nation's dirty work so the sovereign keeps their hands clean. |
+| 3 | **Administrator**. This severe bureaucrat disagrees with many of the sovereign's policies but takes loyal service seriously. |
+| 4 | **Executive Assistant**. The responsibilities of an exacting butler or other servant at the royal household far exceed their title. |
+| 5 | **Envoy**. A semi-retired, leisure-loving ambassador speaks in suggestion and innuendo. |
+| 6 | **Spectral Assembly**. A ghostly council of the nation's previous regents manifests to avert disasters. |
+^sovereign-contact
+
+</div></div>
+
 
 #### Sovereign Proxies
 
@@ -544,7 +1354,34 @@ You serve a sovereign out of national pride, out of tradition, or for your own p
 
 The Sovereign Proxy Roles table suggests ways you might serve a sovereign and the backgrounds frequently associated with each role.
 
-![Sovereign Proxy Roles](/Rules/Source/tables/sovereign-proxy-roles-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sovereign-proxy-roles-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sovereign Proxy Roles
+
+</div>
+
+
+
+# Sovereign Proxy Roles
+*Source: Tasha's Cauldron of Everything p. 102* 
+
+**Sovereign Proxy Roles**
+
+| Role | Backgrounds |
+|------|-------------|
+| Advisor | [[Rules/Source/backgrounds/acolyte-xphb\|Acolyte]], Folk Hero, [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sage-xphb\|Sage]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]] |
+| Ambassador | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], Folk Hero, Guild Artisan, [[Rules/Source/backgrounds/noble-xphb\|Noble]], [[Rules/Source/backgrounds/sailor-xphb\|Sailor]] |
+| Secret Agent | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Champion | [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/noble-xphb\|Noble]], Outlander, [[Rules/Source/backgrounds/soldier-xphb\|Soldier]], Urchin |
+| Jester | [[Rules/Source/backgrounds/charlatan-xphb\|Charlatan]], [[Rules/Source/backgrounds/criminal-xphb\|Criminal]], [[Rules/Source/backgrounds/entertainer-xphb\|Entertainer]], Outlander, Urchin |
+| Confidant | Any |
+^sovereign-proxy-roles
+
+</div></div>
+
 
 #### Sovereign Quests
 
@@ -552,16 +1389,43 @@ The services you provide a sovereign largely depend on the nature of your group 
 
 The Sovereign Quests table presents a few of the sorts of missions you undertake for your liege.
 
-![Sovereign Quests](/Rules/Source/tables/sovereign-quests-tce.md)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/sovereign-quests-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Sovereign Quests
+
+</div>
+
+
+
+# Sovereign Quests
+*Source: Tasha's Cauldron of Everything p. 102* 
+
+**Sovereign Quests**
+
+| dice: d6 | Quest |
+|----------|-------|
+| 1 | **International Espionage**. You attempt to steal intelligence, national symbols, or super weapons from an enemy power. |
+| 2 | **Undermine Rival**. You seek to weaken or remove a rival to the regent's rule—perhaps a general, an archdruid, or a noble with a claim to the throne. |
+| 3 | **Expel Corruption**. You help the sovereign reform their government, rooting out institutional vices. |
+| 4 | **Subvert Blame**. The sovereign is caught in an embarrassing affair. Make it disappear. |
+| 5 | **Test Heir**. You prepare the sovereign's heir for the challenge of taking the throne. |
+| 6 | **Desperate Diplomacy**. You seek to make peace with a force or entity that could wipe out your nation. |
+^sovereign-quests
+
+</div></div>
+
 
 ## Being Your Own Patron
 
-![In the city of Sigil, Guil...](/Rules/Source/books/tashas-cauldron-of-everything/img/068-02-010.webp#center "In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron")
+![/Rules/Source/books/tashas-cauldron-of-everything/img/068-02-010.webp\|center wmed](/img/user/Rules/Source/books/tashas-cauldron-of-everything/img/068-02-010.webp)
 
 For some players, the idea of running a crime syndicate, mercenary company, arcane scholars' collective, or other organization is far more exciting than working for someone else. Founding your own organization offers a greater degree of autonomy, though potentially at the cost of support and reliable work.
 
 When you're the boss, the perks of belonging to an organization become expenses you have to worry about; when you run your own mercenary company, for example, you need to stock your own armory, rather than drawing on an existing organization's stockpile. The organization brings in income, but you'll have to spend it to keep the organization running.
 
-When you run your own organization, use the <span title="Dungeon Master's Guide">Running a Business</span> downtime activity (described in the "Dungeon Master's Guide") to reflect your organization's ongoing activities. More than one character can take part in this activity at a time. When rolling to determine the business's performance, add the total days spent by the characters to the roll to determine the business's success (still observing the maximum of 30). If the business earns a profit, multiply that profit by 4 + the number of characters who took part in this downtime activity.
+When you run your own organization, use the <span title="Dungeon Master's Guide">Running a Business</span> downtime activity (described in the) to reflect your organization's ongoing activities. More than one character can take part in this activity at a time. When rolling to determine the business's performance, add the total days spent by the characters to the roll to determine the business's success (still observing the maximum of 30). If the business earns a profit, multiply that profit by 4 + the number of characters who took part in this downtime activity.
 
 Don't discount the value of adopting an NPC to serve as your contact within your own organization. A secretary, majordomo, or apprentice keeps up with your group's bureaucracy while you're conducting missions and passes along information that could lead to your next adventure!

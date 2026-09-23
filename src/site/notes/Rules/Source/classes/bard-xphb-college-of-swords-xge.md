@@ -34,7 +34,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -91,5 +91,23 @@ Starting at 14th level, whenever you use a Blade Flourish option, you can roll a
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Bard
-> ![Fighting Style, Bard](/Rules/Source/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/lists/list-optfeaturetype-fs-b/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Fighting Style, Bard
+
+</div>
+
+
+
+# Fighting Style, Bard
+*Source: Xanathar's Guide to Everything, Player's Handbook p. 72* 
+
+- [[Rules/Source/feats/dueling-xphb\|Dueling]]
+- [[Rules/Source/feats/two-weapon-fighting-xphb\|Two-Weapon Fighting]]
+
+</div></div>
+
 ^list-optfeature-fs-b

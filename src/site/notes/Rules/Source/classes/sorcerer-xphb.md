@@ -33,7 +33,7 @@
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">19</td><td class="value">6</td><td class="value">21</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Arcane Apotheosis (Level 20)' class='internal-link'>Arcane Apotheosis</a></td><td class="value">20</td><td class="value">6</td><td class="value">22</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">2</td><td class="spellSlot">1</td><td class="spellSlot">1</td></tr>
 > </tbody></table>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -115,7 +115,8 @@ Any spell slot you create with this feature vanishes when you finish a [[Rules/S
 | 2 | 3 | 3 |
 | 3 | 5 | 5 |
 | 4 | 6 | 7 |
-| 5 | 7 | 9 |{ #creating-spell-slots}
+| 5 | 7 | 9 |{ #creating-spell-slots}
+
 
 
 ### Metamagic (Level 2)
@@ -212,5 +213,31 @@ While your Innate Sorcery feature is active, you can use one Metamagic option on
 ## Optional Features
 
 > [!example]- Optional Features: Metamagic
-> ![Metamagic](/Rules/Source/lists/list-optfeaturetype-mm.md#Metamagic)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/lists/list-optfeaturetype-mm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Metamagic
+
+</div>
+
+
+
+# Metamagic
+*Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+
+- [[Rules/Source/optional-features/careful-spell-xphb\|Careful Spell]]
+- [[Rules/Source/optional-features/distant-spell-xphb\|Distant Spell]]
+- [[Rules/Source/optional-features/empowered-spell-xphb\|Empowered Spell]]
+- [[Rules/Source/optional-features/extended-spell-xphb\|Extended Spell]]
+- [[Rules/Source/optional-features/heightened-spell-xphb\|Heightened Spell]]
+- [[Rules/Source/optional-features/quickened-spell-xphb\|Quickened Spell]]
+- [[Rules/Source/optional-features/seeking-spell-xphb\|Seeking Spell]]
+- [[Rules/Source/optional-features/subtle-spell-xphb\|Subtle Spell]]
+- [[Rules/Source/optional-features/transmuted-spell-xphb\|Transmuted Spell]]
+- [[Rules/Source/optional-features/twinned-spell-xphb\|Twinned Spell]]
+
+</div></div>
+
 ^list-optfeature-mm

@@ -36,7 +36,7 @@
 > <section class="footnotes"><ul>
 > <li>‡1: Optional features from <a href="/Rules/Source/lists/list-optfeaturetype-ai.md">Artificer Infusion</a>; defined in Tasha's Cauldron of Everything</li>
 > </ul></section>
-{ #class-progression}
+{ #class-progression}
 
 
 
@@ -134,7 +134,8 @@ When creating an artificer, think about your character's relationship with the a
 
 > [!note] Artificers in Other Worlds
 > 
-> Eberron is the world most associated with artificers, yet the class can be found throughout the D&D multiverse. In the Forgotten Realms, for example, the island of Lantan is home to many artificers, and in the world of Dragonlance, tinker gnomes are often members of this class. The strange technologies in the Barrier Peaks of the World of Greyhawk have inspired some folk to walk the path of the artificer, and in Mystara, various nations employ artificers to keep airships and other wondrous devices operational. In the City of Sigil, artificers share discoveries from throughout the cosmos, and one in particular—the gnome inventor Vi—has run a multiverse-spanning business from there since leaving the world of her birth, Eberron. In the world-city Ravnica, the Izzet League trains numerous artificers, the destructiveness of whom is unparalleled in other worlds—except, perhaps, by the tinker gnomes of Krynn.{ #artificers-in-other-worlds}
+> Eberron is the world most associated with artificers, yet the class can be found throughout the D&D multiverse. In the Forgotten Realms, for example, the island of Lantan is home to many artificers, and in the world of Dragonlance, tinker gnomes are often members of this class. The strange technologies in the Barrier Peaks of the World of Greyhawk have inspired some folk to walk the path of the artificer, and in Mystara, various nations employ artificers to keep airships and other wondrous devices operational. In the City of Sigil, artificers share discoveries from throughout the cosmos, and one in particular—the gnome inventor Vi—has run a multiverse-spanning business from there since leaving the world of her birth, Eberron. In the world-city Ravnica, the Izzet League trains numerous artificers, the destructiveness of whom is unparalleled in other worlds—except, perhaps, by the tinker gnomes of Krynn.{ #artificers-in-other-worlds}
+
 
 
 #### Quick Build
@@ -199,7 +200,8 @@ After you gain the Infuse Item feature at 2nd level, you can also use any item b
 > 
 > The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace [[Rules/Source/spells/cure-wounds-xphb\|cure wounds]] with [[Rules/Source/spells/heat-metal-xphb\|heat metal]], you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.
 > 
-> Such details don't limit you in any way or provide you with any benefit beyond the spell's effects. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.{ #the-magic-of-artifice}
+> Such details don't limit you in any way or provide you with any benefit beyond the spell's effects. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.{ #the-magic-of-artifice}
+
 
 
 **Cantrips (0-Level Spells).** At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
@@ -242,10 +244,11 @@ Whenever you gain a level in this class, you can replace one of the artificer in
 > 
 > Some infusions specify a minimum artificer level. You can't learn such an infusion until you are at least that level.
 > 
-> Unless an infusion's description says otherwise, you can't learn an infusion more than once.{ #artificer-infusions}
+> Unless an infusion's description says otherwise, you can't learn an infusion more than once.{ #artificer-infusions}
 
 
-**Infusing an Item.** Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see ""Attunement"" in chapter 7 of the "Dungeon Master's Guide").
+
+**Infusing an Item.** Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see).
 
 Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.
 
@@ -381,5 +384,37 @@ You have developed a mystical connection to your magic items, which you can draw
 ## Optional Features
 
 > [!example]- Optional Features: Artificer Infusion
-> ![Artificer Infusion](/Rules/Source/lists/list-optfeaturetype-ai.md#Artificer%20Infusion)
+> 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/lists/list-optfeaturetype-ai/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Artificer Infusion
+
+</div>
+
+
+
+# Artificer Infusion
+*Source: Tasha's Cauldron of Everything* 
+
+- [[Rules/Source/optional-features/arcane-propulsion-armor-tce\|Arcane Propulsion Armor]]
+- [[Rules/Source/optional-features/armor-of-magical-strength-tce\|Armor of Magical Strength]]
+- [[Rules/Source/optional-features/boots-of-the-winding-path-tce\|Boots of the Winding Path]]
+- [[Rules/Source/optional-features/enhanced-arcane-focus-tce\|Enhanced Arcane Focus]]
+- [[Rules/Source/optional-features/enhanced-defense-tce\|Enhanced Defense]]
+- [[Rules/Source/optional-features/enhanced-weapon-tce\|Enhanced Weapon]]
+- [[Rules/Source/optional-features/helm-of-awareness-tce\|Helm of Awareness]]
+- [[Rules/Source/optional-features/homunculus-servant-tce\|Homunculus Servant]]
+- [[Rules/Source/optional-features/mind-sharpener-tce\|Mind Sharpener]]
+- [[Rules/Source/optional-features/radiant-weapon-tce\|Radiant Weapon]]
+- [[Rules/Source/optional-features/repeating-shot-tce\|Repeating Shot]]
+- [[Rules/Source/optional-features/replicate-magic-item-tce\|Replicate Magic Item]]
+- [[Rules/Source/optional-features/repulsion-shield-tce\|Repulsion Shield]]
+- [[Rules/Source/optional-features/resistant-armor-tce\|Resistant Armor]]
+- [[Rules/Source/optional-features/returning-weapon-tce\|Returning Weapon]]
+- [[Rules/Source/optional-features/spell-refueling-ring-tce\|Spell-Refueling Ring]]
+
+</div></div>
+
 ^list-optfeature-ai
