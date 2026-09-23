@@ -1,0 +1,94 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/classes/sorcerer-xphb-aberrant-sorcery-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/sorcerer/aberrant"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-class"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/subclass/sorcerer/aberrant"],"aliases":["Aberrant Sorcery"]}}
+---
+
+# Aberrant Sorcery
+*[[Rules/Source/classes/sorcerer-xphb\|Sorcerer]]: Sorcerer Subclass*  
+*Source: Player's Handbook (2024) p. 145*  
+
+> [!tldr] Class and Feature Progression
+> 
+> <table class="class-progression">
+> <thead>
+> <tr><th colspan='3'></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
+> </thead><tbody>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Aberrant Sorcery (Level 3)' class='internal-link'>Aberrant Sorcery</a></td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Psionic Sorcery (Level 6)' class='internal-link'>Psionic Sorcery</a>, <a href='#Psychic Defenses (Level 6)' class='internal-link'>Psychic Defenses</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Revelation in Flesh (Level 14)' class='internal-link'>Revelation in Flesh</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Warping Implosion (Level 18)' class='internal-link'>Warping Implosion</a></td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
+> </tbody></table>
+{ #class-progression}
+
+
+
+
+*Wield Unnatural Psionic Power*
+
+An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?
+
+Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm's warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole's psionic power is yours. However you acquired this power, your mind is aflame with it.
+
+## Subclass Features
+
+### Psionic Spells (Level 3)
+
+When you reach a Sorcerer level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.
+
+**Psionic Spells**
+
+| Sorcerer Level | Spells |
+|----------------|--------|
+| 3rd | [[Rules/Source/spells/arms-of-hadar-xphb\|Arms of Hadar]], [[Rules/Source/spells/calm-emotions-xphb\|Calm Emotions]], [[Rules/Source/spells/detect-thoughts-xphb\|Detect Thoughts]], [[Rules/Source/spells/dissonant-whispers-xphb\|Dissonant Whispers]], [[Rules/Source/spells/mind-sliver-xphb\|Mind Sliver]] |
+| 5th | [[Rules/Source/spells/hunger-of-hadar-xphb\|Hunger of Hadar]], [[Rules/Source/spells/sending-xphb\|Sending]] |
+| 7th | [[Rules/Source/spells/evards-black-tentacles-xphb\|Evard's Black Tentacles]], [[Rules/Source/spells/summon-aberration-xphb\|Summon Aberration]] |
+| 9th | [[Rules/Source/spells/rarys-telepathic-bond-xphb\|Rary's Telepathic Bond]], [[Rules/Source/spells/telekinesis-xphb\|Telekinesis]] |{ #psionic-spells}
+
+
+### Telepathic Speech (Level 3)
+
+You can form a telepathic connection between your mind and the mind of another. As a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
+
+The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature.
+
+### Psionic Sorcery (Level 6)
+
+When you cast any level 1+ spell from your Psionic Spells feature, you can cast it by expending a spell slot as normal or by spending a number of Sorcery Points equal to the spell's level. If you cast the spell using Sorcery Points, it requires no Verbal or Somatic components, and it requires no Material components unless they are consumed by the spell or have a cost specified in it.
+
+### Psychic Defenses (Level 6)
+
+You have [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] to Psychic damage, and you have [[Rules/Source/variant-rules/advantage-xphb\|Advantage]] on saving throws to avoid or end the [[Rules/Source/conditions#Charmed\|Charmed]] or [[Rules/Source/conditions#Frightened\|Frightened]] condition.
+
+### Revelation in Flesh (Level 14)
+
+You can unleash the aberrant truth hidden within yourself. As a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], you can spend 1 Sorcery Point or more to magically alter your body for 10 minutes. For each Sorcery Point you spend, you gain one of the following benefits of your choice, the effects of which last until the alteration ends.
+
+**Aquatic Adaptation.** You gain a [[Rules/Source/variant-rules/swim-speed-xphb\|Swim Speed]] equal to twice your [[Rules/Source/variant-rules/speed-xphb\|Speed]], and you can breathe underwater. Gills grow from your neck or flare behind your ears, and your fingers become webbed or you grow wriggling cilia.
+
+**Glistening Flight.** You gain a [[Rules/Source/variant-rules/fly-speed-xphb\|Fly Speed]] equal to your [[Rules/Source/variant-rules/speed-xphb\|Speed]], and you can hover. As you fly, your skin glistens with mucus or otherworldly light.
+
+**See the Invisible.** You can see any [[Rules/Source/conditions#Invisible\|Invisible]] creature within 60 feet of yourself that isn't behind [[Rules/Source/variant-rules/cover-xphb\|Total Cover]]. Your eyes also turn black or become writhing sensory tendrils.
+
+**Wormlike Movement.** Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the [[Rules/Source/conditions#Grappled\|Grappled]] condition.
+
+### Warping Implosion (Level 18)
+
+You can unleash a space-warping anomaly. As a [[Rules/Source/actions#Magic\|Magic]] action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes `3d10` Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
+
+Once you use this feature, you can't do so again until you finish a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
