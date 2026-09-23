@@ -20,3 +20,6 @@ body {
     background-color: inherit;
     background-color: color-mix(in oklch, var(--callout-color) 10%, transparent);
 }
+.callout.callout[data-callout~=caption] > .callout-content img {
+    border-radius: 8px;
+}
