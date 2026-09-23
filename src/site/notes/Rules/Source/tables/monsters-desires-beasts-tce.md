@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/tables/monsters-desires-beasts-tce/","tags":["ttrpg-cli/compendium/src/5e/tce"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/tce"],"aliases":["Monsters' Desires; Beasts"]}}
+---
+
+# Monsters' Desires; Beasts
+*Source: Tasha's Cauldron of Everything p. 148* 
+
+**Beasts**
+
+| dice: d4 | Desired Offering |
+|----------|------------------|
+| 1 | Fresh meat |
+| 2 | A soothing melody |
+| 3 | Brightly colored beads, cloth, feathers, or string |
+| 4 | An old stuffed animal or other soft trinket |
+^beasts

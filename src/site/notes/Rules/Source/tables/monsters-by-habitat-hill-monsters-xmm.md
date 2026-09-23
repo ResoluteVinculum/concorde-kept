@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/tables/monsters-by-habitat-hill-monsters-xmm/","tags":["ttrpg-cli/compendium/src/5e/xmm"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xmm"],"aliases":["Monsters by Habitat; Hill Monsters"]}}
+---
+
+# Monsters by Habitat; Hill Monsters
+*Source: Monster Manual (2024) p. 375* 
+
+**Hill Monsters**
+
+| CR | Monsters |
+|----|----------|
+| 0 | [[Rules/Source/bestiary/beast/baboon-xmm\|Baboon]], [[Rules/Source/bestiary/beast/eagle-xmm\|Eagle]], [[Rules/Source/bestiary/beast/goat-xmm\|Goat]], [[Rules/Source/bestiary/beast/hawk-xmm\|Hawk]], [[Rules/Source/bestiary/beast/hyena-xmm\|Hyena]], [[Rules/Source/bestiary/beast/owl-xmm\|Owl]], [[Rules/Source/bestiary/beast/raven-xmm\|Raven]], [[Rules/Source/bestiary/beast/vulture-xmm\|Vulture]], [[Rules/Source/bestiary/beast/weasel-xmm\|Weasel]] |
+| 1/8 | [[Rules/Source/bestiary/beast/blood-hawk-xmm\|Blood Hawk]], [[Rules/Source/bestiary/beast/giant-weasel-xmm\|Giant Weasel]], [[Rules/Source/bestiary/fey/goblin-minion-xmm\|Goblin Minion]], [[Rules/Source/bestiary/dragon/kobold-warrior-xmm\|Kobold Warrior]], [[Rules/Source/bestiary/beast/mastiff-xmm\|Mastiff]], [[Rules/Source/bestiary/beast/mule-xmm\|Mule]], [[Rules/Source/bestiary/monstrosity/stirge-xmm\|Stirge]], [[Rules/Source/bestiary/beast/venomous-snake-xmm\|Venomous Snake]] |
+| 1/4 | [[Rules/Source/bestiary/monstrosity/axe-beak-xmm\|Axe Beak]], [[Rules/Source/bestiary/beast/boar-xmm\|Boar]], [[Rules/Source/bestiary/beast/elk-xmm\|Elk]], [[Rules/Source/bestiary/celestial/giant-owl-xmm\|Giant Owl]], [[Rules/Source/bestiary/beast/giant-venomous-snake-xmm\|Giant Venomous Snake]], [[Rules/Source/bestiary/beast/giant-wolf-spider-xmm\|Giant Wolf Spider]], [[Rules/Source/bestiary/fey/goblin-warrior-xmm\|Goblin Warrior]], [[Rules/Source/bestiary/beast/panther-xmm\|Panther]], [[Rules/Source/bestiary/dragon/pseudodragon-xmm\|Pseudodragon]], [[Rules/Source/bestiary/beast/swarm-of-ravens-xmm\|Swarm of Ravens]], [[Rules/Source/bestiary/dragon/winged-kobold-xmm\|Winged Kobold]], [[Rules/Source/bestiary/beast/wolf-xmm\|Wolf]] |
+| 1/2 | [[Rules/Source/bestiary/beast/giant-goat-xmm\|Giant Goat]], [[Rules/Source/bestiary/fiend/gnoll-warrior-xmm\|Gnoll Warrior]], [[Rules/Source/bestiary/fey/hobgoblin-warrior-xmm\|Hobgoblin Warrior]], [[Rules/Source/bestiary/beast/swarm-of-insects-xmm\|Swarm of Insects]], [[Rules/Source/bestiary/fey/worg-xmm\|Worg]] |
+| 1 | [[Rules/Source/bestiary/beast/brown-bear-xmm\|Brown Bear]], [[Rules/Source/bestiary/dragon/copper-dragon-wyrmling-xmm\|Copper Dragon Wyrmling]], [[Rules/Source/bestiary/beast/dire-wolf-xmm\|Dire Wolf]], [[Rules/Source/bestiary/celestial/giant-eagle-xmm\|Giant Eagle]], [[Rules/Source/bestiary/beast/giant-hyena-xmm\|Giant Hyena]], [[Rules/Source/bestiary/monstrosity/giant-vulture-xmm\|Giant Vulture]], [[Rules/Source/bestiary/fey/goblin-boss-xmm\|Goblin Boss]], [[Rules/Source/bestiary/monstrosity/harpy-xmm\|Harpy]], [[Rules/Source/bestiary/monstrosity/hippogriff-xmm\|Hippogriff]], [[Rules/Source/bestiary/beast/lion-xmm\|Lion]], [[Rules/Source/bestiary/giant/ogrillon-ogre-xmm\|Ogrillon Ogre]] |
+| 2 | [[Rules/Source/bestiary/monstrosity/bulette-pup-xmm\|Bulette Pup]], [[Rules/Source/bestiary/beast/giant-boar-xmm\|Giant Boar]], [[Rules/Source/bestiary/celestial/giant-elk-xmm\|Giant Elk]], [[Rules/Source/bestiary/fiend/gnoll-pack-lord-xmm\|Gnoll Pack Lord]], [[Rules/Source/bestiary/monstrosity/griffon-xmm\|Griffon]], [[Rules/Source/bestiary/giant/ogre-xmm\|Ogre]], [[Rules/Source/bestiary/celestial/pegasus-xmm\|Pegasus]], [[Rules/Source/bestiary/monstrosity/peryton-xmm\|Peryton]], [[Rules/Source/bestiary/beast/saber-toothed-tiger-xmm\|Saber-Toothed Tiger]], [[Rules/Source/bestiary/monstrosity/swarm-of-stirges-xmm\|Swarm of Stirges]], [[Rules/Source/bestiary/beast/swarm-of-venomous-snakes-xmm\|Swarm of Venomous Snakes]] |
+| 3 | [[Rules/Source/bestiary/fey/goblin-hexer-xmm\|Goblin Hexer]], [[Rules/Source/bestiary/fey/green-hag-xmm\|Green Hag]], [[Rules/Source/bestiary/fey/hobgoblin-captain-xmm\|Hobgoblin Captain]], [[Rules/Source/bestiary/monstrosity/manticore-xmm\|Manticore]], [[Rules/Source/bestiary/monstrosity/phase-spider-xmm\|Phase Spider]], [[Rules/Source/bestiary/monstrosity/werewolf-xmm\|Werewolf]] |
+| 4 | [[Rules/Source/bestiary/giant/ettin-xmm\|Ettin]], [[Rules/Source/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm\|Gnoll Fang of Yeenoghu]], [[Rules/Source/bestiary/dragon/red-dragon-wyrmling-xmm\|Red Dragon Wyrmling]], [[Rules/Source/bestiary/monstrosity/wereboar-xmm\|Wereboar]] |
+| 5 | [[Rules/Source/bestiary/monstrosity/bulette-xmm\|Bulette]], [[Rules/Source/bestiary/monstrosity/giant-axe-beak-xmm\|Giant Axe Beak]], [[Rules/Source/bestiary/construct/gorgon-xmm\|Gorgon]], [[Rules/Source/bestiary/giant/hill-giant-xmm\|Hill Giant]], [[Rules/Source/bestiary/giant/troll-xmm\|Troll]], [[Rules/Source/bestiary/monstrosity/werebear-xmm\|Werebear]] |
+| 6 | [[Rules/Source/bestiary/monstrosity/chimera-xmm\|Chimera]], [[Rules/Source/bestiary/giant/cyclops-sentry-xmm\|Cyclops Sentry]], [[Rules/Source/bestiary/elemental/galeb-duhr-xmm\|Galeb Duhr]], [[Rules/Source/bestiary/fey/hobgoblin-warlord-xmm\|Hobgoblin Warlord]], [[Rules/Source/bestiary/dragon/wyvern-xmm\|Wyvern]] |
+| 7 | [[Rules/Source/bestiary/giant/stone-giant-xmm\|Stone Giant]], [[Rules/Source/bestiary/dragon/young-copper-dragon-xmm\|Young Copper Dragon]] |
+| 8 | [[Rules/Source/bestiary/fiend/gnoll-demoniac-xmm\|Gnoll Demoniac]] |
+| 9 | [[Rules/Source/bestiary/construct/brazen-gorgon-xmm\|Brazen Gorgon]] |
+| 10 | [[Rules/Source/bestiary/giant/cyclops-oracle-xmm\|Cyclops Oracle]], [[Rules/Source/bestiary/fey/dire-worg-xmm\|Dire Worg]], [[Rules/Source/bestiary/dragon/young-red-dragon-xmm\|Young Red Dragon]] |
+| 11 | [[Rules/Source/bestiary/monstrosity/roc-xmm\|Roc]] |
+| 14 | [[Rules/Source/bestiary/dragon/adult-copper-dragon-xmm\|Adult Copper Dragon]] |
+| 17 | [[Rules/Source/bestiary/dragon/adult-red-dragon-xmm\|Adult Red Dragon]] |
+| 21 | [[Rules/Source/bestiary/dragon/ancient-copper-dragon-xmm\|Ancient Copper Dragon]] |
+| 24 | [[Rules/Source/bestiary/dragon/ancient-red-dragon-xmm\|Ancient Red Dragon]] |
+^hill-monsters
