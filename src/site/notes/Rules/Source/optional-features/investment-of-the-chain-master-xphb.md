@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/optional-features/investment-of-the-chain-master-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-feat"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/optional-feature/ei"],"aliases":["Investment of the Chain Master"]}}
+---
+
+# Investment of the Chain Master
+*Source: Player's Handbook (2024) p. 156*  
+
+**Prerequisite**: Level 5, pact of the chain|xphb
+
+When you cast [[Rules/Source/spells/find-familiar-xphb\|Find Familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+
+## Aerial or Aquatic
+
+The familiar gains either a [[Rules/Source/variant-rules/fly-speed-xphb\|Fly Speed]] or a [[Rules/Source/variant-rules/swim-speed-xphb\|Swim Speed]] (your choice) of 40 feet.
+
+## Quick Attack
+
+As a [[Rules/Source/variant-rules/bonus-action-xphb\|Bonus Action]], you can command the familiar to take the [[Rules/Source/actions#Attack\|Attack]] action.
+
+## Necrotic or Radiant Damage
+
+Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+
+## Your Save DC
+
+If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+
+## Resistance
+
+When the familiar takes damage, you can take a [[Rules/Source/variant-rules/reaction-xphb\|Reaction]] to grant it [[Rules/Source/variant-rules/resistance-xphb\|Resistance]] against that damage.

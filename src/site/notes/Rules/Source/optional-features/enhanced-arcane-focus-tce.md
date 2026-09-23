@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/optional-features/enhanced-arcane-focus-tce/","tags":["ttrpg-cli/compendium/src/5e/tce","ttrpg-cli/optional-feature/ai"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-feat"],"tags":["ttrpg-cli/compendium/src/5e/tce","ttrpg-cli/optional-feature/ai"],"aliases":["Enhanced Arcane Focus"]}}
+---
+
+# Enhanced Arcane Focus
+*Source: Tasha's Cauldron of Everything p. 21*  
+
+**Prerequisite**: A rod, staff, or wand (requires attunement)
+
+While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
+
+The bonus increases to +2 when you reach 10th level in this class.
