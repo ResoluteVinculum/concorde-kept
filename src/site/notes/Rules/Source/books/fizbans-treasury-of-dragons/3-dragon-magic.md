@@ -911,7 +911,7 @@ You can use a more common draconic gift for an older dragon, but exercise cautio
 
 > [!embed-reward]- Draconic Familiar
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/draconic-familiar-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -937,7 +937,7 @@ Additionally, when you take the [[Rules/Source/actions#Attack\|Attack]] action o
 
 > [!embed-reward]- Draconic Rebirth
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/draconic-rebirth-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -959,7 +959,7 @@ You become a dragonborn. You replace the racial traits of your original race wit
 
 > [!embed-reward]- Draconic Senses
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/draconic-senses-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -989,7 +989,7 @@ You have advantage on Wisdom ([[Rules/Source/skills#Perception\|Perception]]) ch
 
 > [!embed-reward]- Echo of Dragonsight
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/echo-of-dragonsight-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1013,7 +1013,7 @@ You can cast [[Rules/Source/spells/contact-other-plane-xphb\|contact other plane
 
 > [!embed-reward]- Frightful Presence
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/frightful-presence-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1039,7 +1039,7 @@ Once you use this ability a number of times equal to your proficiency bonus, you
 
 > [!embed-reward]- Psionic Reach
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/psionic-reach-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1063,7 +1063,7 @@ In addition, you learn the [[Rules/Source/spells/telekinesis-xphb\|telekinesis]]
 
 > [!embed-reward]- Scaled Toughness
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/scaled-toughness-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1085,7 +1085,7 @@ Your skin toughens, making you resistant to certain types of physical harm. You 
 
 > [!embed-reward]- Tongue of the Dragon
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/tongue-of-the-dragon-ftd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

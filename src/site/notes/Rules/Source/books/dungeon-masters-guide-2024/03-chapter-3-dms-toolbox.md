@@ -3900,7 +3900,7 @@ You can easily create more Blessings by mimicking the properties of a Wondrous I
 
 > [!embed-reward]- Blessing of Health
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-health-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3921,7 +3921,7 @@ Your Constitution score increases by 2, up to a maximum of 22.
 
 > [!embed-reward]- Blessing of Magic Resistance
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-magic-resistance-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3942,7 +3942,7 @@ You have [Advantage](/Rules/Source/variant-rules/advantage-xphb.md) on saving th
 
 > [!embed-reward]- Blessing of Protection
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-protection-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3963,7 +3963,7 @@ You gain a +1 bonus to AC and saving throws.
 
 > [!embed-reward]- Blessing of Understanding
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-understanding-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3984,7 +3984,7 @@ Your Wisdom score increases by 2, up to a maximum of 22.
 
 > [!embed-reward]- Blessing of Valhalla
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-valhalla-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4005,7 +4005,7 @@ This Blessing grants you the power to summon spirit warriors, as if you are blow
 
 > [!embed-reward]- Blessing of Weapon Enhancement
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-weapon-enhancement-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4026,7 +4026,7 @@ One nonmagical weapon in your possession becomes a [+1 Weapon](/Rules/Source/ite
 
 > [!embed-reward]- Blessing of Wound Closure
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/blessing-of-wound-closure-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4065,7 +4065,7 @@ A typical Charm mimics the effects of a Potion or spell, so it is easy to create
 
 > [!embed-reward]- Charm of Animal Conjuring
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-animal-conjuring-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4086,7 +4086,7 @@ This Charm allows you to cast [Conjure Animals](/Rules/Source/spells/conjure-ani
 
 > [!embed-reward]- Charm of Darkvision
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-darkvision-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4107,7 +4107,7 @@ This Charm allows you to cast [Darkvision](/Rules/Source/spells/darkvision-xphb.
 
 > [!embed-reward]- Charm of Feather Falling
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-feather-falling-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4128,7 +4128,7 @@ This Charm grants you the benefits of a [Ring of Feather Falling](/Rules/Source/
 
 > [!embed-reward]- Charm of Heroism
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-heroism-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4149,7 +4149,7 @@ This Charm allows you to give yourself the benefit of a [Potion of Heroism](/Rul
 
 > [!embed-reward]- Charm of Restoration
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-restoration-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4170,7 +4170,7 @@ This Charm has 3 charges. You can expend some of its charges to cast one of the 
 
 > [!embed-reward]- Charm of the Slayer
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-the-slayer-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4191,7 +4191,7 @@ One weapon in your possession becomes a [Dragon Slayer](/Rules/Source/items/drag
 
 > [!embed-reward]- Charm of Vitality
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/rewards/charm-of-vitality-xdmg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
