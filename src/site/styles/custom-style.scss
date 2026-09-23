@@ -15,3 +15,8 @@ body {
 .callout-content {
     padding: var(--callout-content-padding);
 }
+
+.callout {
+    background-color: inherit;
+    background-color: color-mix(in oklch, var(--callout-color) 10%, transparent);
+}
