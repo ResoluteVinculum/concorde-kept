@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/tables/trade-bars-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xdmg"],"aliases":["Trade Bars"]}}
+---
+
+# Trade Bars
+*Source: Dungeon Master's Guide (2024) p. 213* 
+
+**Trade Bars**
+
+| Bar | Value | Dimensions |
+|-----|-------|------------|
+| [[Rules/Source/items/silver-bar-2-pound-xdmg\|2-pound silver bar]] | 10 GP | 5 in. long × 2 in. wide × 1/2 in. thick |
+| [[Rules/Source/items/silver-bar-5-pound-xdmg\|5-pound silver bar]] | 25 GP | 6 in. long × 2 in. wide × 1 in. thick |
+| [[Rules/Source/items/gold-bar-5-pound-xdmg\|5-pound gold bar]] | 250 GP | 5 in. long × 2 in. wide × 3/4 in. thick |
+^trade-bars

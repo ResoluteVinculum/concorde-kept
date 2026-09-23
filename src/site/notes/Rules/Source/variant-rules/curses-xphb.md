@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/variant-rules/curses-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xphb"],"aliases":["Curses"]}}
+---
+
+# Curses
+*Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the [[Rules/Source/spells/remove-curse-xphb\|Remove Curse]] and [[Rules/Source/spells/greater-restoration-xphb\|Greater Restoration]] spells or other magic that explicitly ends curses.
