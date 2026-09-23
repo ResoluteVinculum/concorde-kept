@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/befuddlement-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/8th-level","ttrpg-cli/spell/school/enchantment"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/warlock","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/8th-level","ttrpg-cli/spell/school/enchantment"],"classes":["Bard","Druid","Warlock","Wizard"],"aliases":["Befuddlement"]}}
+---
+
+# Befuddlement
+*8th-level, Enchantment*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a key ring with no keys)
+- **Duration:** Instantaneous
+
+You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
+
+On a failed save, the target takes `10d12` Psychic damage and can't cast spells or take the [[Rules/Source/actions#Magic\|Magic]] action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [[Rules/Source/spells/greater-restoration-xphb\|Greater Restoration]], [[Rules/Source/spells/heal-xphb\|Heal]], or [[Rules/Source/spells/wish-xphb\|Wish]] spell.
+
+On a successful save, the target takes half as much damage only.
+
+**Classes**: [[Rules/Source/lists/list-spells-classes-bard\|Bard]]; [[Rules/Source/lists/list-spells-classes-druid\|Druid]]; [[Rules/Source/lists/list-spells-classes-warlock\|Warlock]]; [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
