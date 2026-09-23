@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/characters/pc/benji-pickletoes/","noteIcon":"","dg-note-properties":{"aliases":"Benji Pickletoes","level":"3","modifier":"2","hp":"29","ac":"14","class":"[[Rules/Source/classes/barbarian-xphb|Barbarian]]","subclass":null,"background":"[[Rules/Source/backgrounds/soldier-xphb|Soldier]]","species":"[[Rules/Source/races/goliath-xphb|Goliath]]","Player":"Ben Collins","player-image":"[[Characters/assets/Benji Pickletoes.jpeg]]"}}
 ---
 
-![Benji Pickletoes.jpeg](/img/user/Characters/assets/Benji%20Pickletoes.jpeg)
+> [!caption|right]
+> ![Benji Pickletoes.jpeg](/img/user/Characters/assets/Benji%20Pickletoes.jpeg)
+> Benji Pickletoes
 
 
 # Moggy Debris
