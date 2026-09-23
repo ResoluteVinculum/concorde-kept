@@ -1,0 +1,86 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/variant-rules/downtime-activity-selling-a-magic-item-xge/","tags":["ttrpg-cli/compendium/src/5e/xge"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xge"],"aliases":["Downtime Activity: Selling a Magic Item"]}}
+---
+
+# Downtime Activity: Selling a Magic Item
+*Source: Xanathar's Guide to Everything p. 133* 
+
+Selling a magic item is by no means an easy task. Con artists and thieves are always looking out for an easy score, and there's no guarantee that a character will receive a good offer even if a legitimate buyer is found.
+
+## Resources
+
+A character can find a buyer for one magic item by spending one workweek and 25 gp, which is used to spread word of the desired sale. A character must pick one item at a time to sell.
+
+## Resolution
+
+A character who wants to sell an item must make a Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Magic Item Base Prices and Magic Item Offer tables to determine the sale price.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/selling-a-magic-item-magic-item-base-prices-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Selling a Magic Item; Magic Item Base Prices
+
+</div>
+
+
+
+# Selling a Magic Item; Magic Item Base Prices
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Magic Item Base Prices**
+
+| Rarity | Base Price* |
+|--------|-------------|
+| Common | 100 gp |
+| Uncommon | 400 gp |
+| Rare | 4,000 gp |
+| Very rare | 40,000 gp |
+| Legendary | 200,000 gp |
+*Halved for a consumable item like a potion or scroll
+
+</div></div>
+
+
+**Magic Item Offer**
+
+| Check Total | Offer |
+|-------------|-------|
+| 1–10 | 50% of base price |
+| 11–20 | 100% of base price |
+| 21+ | 150% of base price |{ #magic-item-offer}
+
+
+
+## Complications
+
+The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10 percent chance of a complication, examples of which are on the Magic Item Sale Complications table.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/magic-item-sale-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Magic Item Sale Complications
+
+</div>
+
+
+
+# Magic Item Sale Complications
+*Source: Xanathar's Guide to Everything p. 133* 
+
+**Magic Item Sale Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | Your enemy secretly arranges to buy the item to use it against you.* |
+| 2 | A thieves' guild, alerted to the sale, attempts to steal your item.* |
+| 3 | A foe circulates rumors that your item is a fake.* |
+| 4 | A sorcerer claims your item as a birthright and demands you hand it over. |
+| 5 | Your item's previous owner, or surviving allies of the owner, vow to retake the item by force. |
+| 6 | The buyer is murdered before the sale is finalized.* |
+*Might involve a rival
+
+</div></div>

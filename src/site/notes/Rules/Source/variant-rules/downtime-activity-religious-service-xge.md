@@ -1,0 +1,78 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/variant-rules/downtime-activity-religious-service-xge/","tags":["ttrpg-cli/compendium/src/5e/xge"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xge"],"aliases":["Downtime Activity: Religious Service"]}}
+---
+
+# Downtime Activity: Religious Service
+*Source: Xanathar's Guide to Everything p. 131* 
+
+Characters with a religious bent might want to spend downtime in service to a temple, either by attending rites or by proselytizing in the community. Someone who undertakes this activity has a chance of winning the favor of the temple's leaders.
+
+## Resources
+
+Performing religious service requires access to, and often attendance at, a temple whose beliefs and ethos align with the character's. If such a place is available, the activity takes one workweek of time but involves no gold piece expenditure.
+
+## Resolution
+
+At the end of the required time, the character chooses to make either an Intelligence ([[Rules/Source/skills#Religion\|Religion]]) check or a Charisma ([[Rules/Source/skills#Persuasion\|Persuasion]]) check. The total of the check determines the benefits of service, as shown on the Religious Service table.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-service-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Service
+
+</div>
+
+
+
+# Religious Service
+*Source: Xanathar's Guide to Everything p. 131* 
+
+**Religious Service**
+
+| Check Total | Result |
+|-------------|--------|
+| 1—10 | No effect. Your efforts fail to make a lasting impression. |
+| 11—20 | You earn one favor. |
+| 21+ | You earn two favors. |
+^religious-service
+
+</div></div>
+
+
+A favor, in broad terms, is a promise of future assistance from a representative of the temple. It can be expended to ask the temple for help in dealing with a specific problem, for general political or social support, or to reduce the cost of cleric spellcasting by 50 percent. A favor could also take the form of a deity's intervention, such as an omen, a vision, or a minor miracle provided at a key moment. This latter sort of favor is expended by the DM, who also determines its nature.
+
+Favors earned need not be expended immediately, but only a certain number can be stored up. A character can have a maximum number of unused favors equal to 1 + the character's Charisma modifier (minimum of one unused favor).
+
+## Complications
+
+Temples can be labyrinths of political and social scheming. Even the best-intentioned sect can fall prone to rivalries. A character who serves a temple risks becoming embroiled in such struggles. Every workweek spent in religious service brings a 10 percent chance of a complication, examples of which are on the Religious Service Complications table.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/tables/religious-service-complications-xge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Religious Service Complications
+
+</div>
+
+
+
+# Religious Service Complications
+*Source: Xanathar's Guide to Everything p. 132* 
+
+**Religious Service Complications**
+
+| dice: d6 | Complication |
+|----------|--------------|
+| 1 | You have offended a priest through your words or actions.* |
+| 2 | Blasphemy is still blasphemy, even if you did it by accident. |
+| 3 | A secret sect in the temple offers you membership. |
+| 4 | Another temple tries to recruit you as a spy.* |
+| 5 | The temple elders implore you to take up a holy quest. |
+| 6 | You accidentally discover that an important person in the temple is a fiend worshiper. |
+*Might involve a rival
+
+</div></div>
