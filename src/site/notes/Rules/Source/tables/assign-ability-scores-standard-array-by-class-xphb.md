@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/tables/assign-ability-scores-standard-array-by-class-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-note"],"tags":["ttrpg-cli/compendium/src/5e/xphb"],"aliases":["Assign Ability Scores; Standard Array by Class"]}}
+---
+
+# Assign Ability Scores; Standard Array by Class
+*Source: Player's Handbook (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Standard Array by Class**
+
+| Class | Str. | Dex. | Con. | Int. | Wis. | Cha. |
+|-------|------|------|------|------|------|------|
+| [[Rules/Source/classes/barbarian-xphb\|Barbarian]] | 15 | 13 | 14 | 10 | 12 | 8 |
+| [[Rules/Source/classes/bard-xphb\|Bard]] | 8 | 14 | 12 | 13 | 10 | 15 |
+| [[Rules/Source/classes/cleric-xphb\|Cleric]] | 14 | 8 | 13 | 10 | 15 | 12 |
+| [[Rules/Source/classes/druid-xphb\|Druid]] | 8 | 12 | 14 | 13 | 15 | 10 |
+| [[Rules/Source/classes/fighter-xphb\|Fighter]] | 15 | 14 | 13 | 8 | 10 | 12 |
+| [[Rules/Source/classes/monk-xphb\|Monk]] | 12 | 15 | 13 | 10 | 14 | 8 |
+| [[Rules/Source/classes/paladin-xphb\|Paladin]] | 15 | 10 | 13 | 8 | 12 | 14 |
+| [[Rules/Source/classes/ranger-xphb\|Ranger]] | 12 | 15 | 13 | 8 | 14 | 10 |
+| [[Rules/Source/classes/rogue-xphb\|Rogue]] | 12 | 15 | 13 | 14 | 10 | 8 |
+| [[Rules/Source/classes/sorcerer-xphb\|Sorcerer]] | 10 | 13 | 14 | 8 | 12 | 15 |
+| [[Rules/Source/classes/warlock-xphb\|Warlock]] | 8 | 14 | 13 | 12 | 10 | 15 |
+| [[Rules/Source/classes/wizard-xphb\|Wizard]] | 8 | 12 | 13 | 15 | 14 | 10 |
+^standard-array-by-class
