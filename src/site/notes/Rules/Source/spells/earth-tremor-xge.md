@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/earth-tremor-xge/","tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xge","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/sorcerer","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/feat/magic-initiate/wizard-spells","ttrpg-cli/spell/level/1st-level","ttrpg-cli/spell/school/evocation","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/college-of-lore","ttrpg-cli/spell/subclass/eldritch-knight","ttrpg-cli/spell/subclass/evoker"],"classes":["Bard","Bard (College of Lore)","Druid","Fighter (Eldritch Knight)","Rogue (Arcane Trickster)","Sorcerer","Wizard","Wizard (Evoker)"],"aliases":["Earth Tremor"]}}
+---
+
+# Earth Tremor
+*1st-level, Evocation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 10 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes `1d6` bludgeoning damage and is knocked [[Rules/Source/conditions#Prone\|prone]]. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
+
+**Classes**: [Bard (College of Lore)](/Rules/Source/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-bard\|Bard]]; [[Rules/Source/lists/list-spells-classes-druid\|Druid]]; [Fighter (Eldritch Knight)](/Rules/Source/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Rules/Source/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-sorcerer\|Sorcerer]]; [Wizard (Evoker)](/Rules/Source/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Xanathar's Guide to Everything p. 155*

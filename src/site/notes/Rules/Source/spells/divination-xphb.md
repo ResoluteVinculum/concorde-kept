@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/spells/divination-xphb/","tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/divination","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/divine-soul/good","ttrpg-cli/spell/subclass/diviner","ttrpg-cli/spell/subclass/eldritch-knight"],"noteIcon":"","dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-spell"],"tags":["ttrpg-cli/compendium/src/5e/xphb","ttrpg-cli/spell/class/bard","ttrpg-cli/spell/class/cleric","ttrpg-cli/spell/class/druid","ttrpg-cli/spell/class/wizard","ttrpg-cli/spell/level/4th-level","ttrpg-cli/spell/ritual","ttrpg-cli/spell/school/divination","ttrpg-cli/spell/subclass/arcane-trickster","ttrpg-cli/spell/subclass/divine-soul/good","ttrpg-cli/spell/subclass/diviner","ttrpg-cli/spell/subclass/eldritch-knight"],"classes":["Bard","Cleric","Druid","Fighter (Eldritch Knight)","Rogue (Arcane Trickster)","Sorcerer (Divine Soul, Good)","Wizard","Wizard (Diviner)"],"aliases":["Divination"]}}
+---
+
+# Divination
+*4th-level, Divination (ritual)*  
+
+
+- **Casting time:** 1 Action unless cast as a ritual
+- **Range:** Self
+- **Components:** V, S, M (incense worth 25+ GP, which the spell consumes)
+- **Duration:** Instantaneous
+
+This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn't account for circumstances that might change the answer, such as the casting of other spells.
+
+If you cast the spell more than once before finishing a [[Rules/Source/variant-rules/long-rest-xphb\|Long Rest]], there is a cumulative  chance for each casting after the first that you get no answer.
+
+**Classes**: [[Rules/Source/lists/list-spells-classes-bard\|Bard]]; [[Rules/Source/lists/list-spells-classes-cleric\|Cleric]]; [[Rules/Source/lists/list-spells-classes-druid\|Druid]]; [Fighter (Eldritch Knight)](/Rules/Source/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/Rules/Source/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Good)](/Rules/Source/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Diviner)](/Rules/Source/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[Rules/Source/lists/list-spells-classes-wizard\|Wizard]]
+
+*Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
