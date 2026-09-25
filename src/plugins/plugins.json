@@ -23,7 +23,15 @@
         "src/plugins/giscus-comments/README.md",
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
-      ]
+      ],
+      "settings": {
+        "repo": "ResoluteVinculum/concorde-kept",
+        "repoId": "R_kgDOUjXO9g",
+        "category": "General",
+        "categoryId": "DIC_kwDOUjXO9s4DGWDn",
+        "theme": "preferred_color_scheme",
+        "showByDefault": true
+      }
     }
   }
 }
